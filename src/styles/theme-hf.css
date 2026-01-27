@@ -1,0 +1,171 @@
+tr:nth-child(even) {
+  background-color: #61dcea;
+}
+
+tr:nth-child(odd) {
+  background-color: #ffb1e1;
+}
+
+.actionbuttons, .onlinebox, .cooldownbox, .historyselect, .notifybox, .voidboostbox {
+  background: linear-gradient(0deg, #61dcea , #ffb1e1, #ecffec, #ffb1e1, #61dcea);
+  border-radius: 10px;
+}
+
+.overlay {
+  background: linear-gradient(175deg, #61dceaab , #ffb1e1, #ecffec, #ffb1e1, #61dceaab);
+}
+
+.chatname {
+  background: linear-gradient(0deg, #61dcea , #ffb1e1, #ecffec, #ffb1e1, #61dcea);
+}
+.msg.info{
+  color: #ff91a6;
+}
+
+.window, .popup {
+  background: linear-gradient(1deg,#61dcea ,#ffb1e1,#ecffec,#fff9b1,#61dcea);
+}
+
+.actionbuttons:hover, .menu > div:hover, .channeldd, .contextmenu {
+  background: linear-gradient(160deg, #61dcea , #ffb1e1, #ecffec, #ffb1e1, #61dcea);
+}
+
+.chn, .chntype, .contextmenu > div {
+  background-color: #ebebeb80;
+}
+
+.chn-delete {
+  color: #666;
+}
+
+.chn-delete:hover {
+  color: #c44;
+}
+
+#chatbutton {
+  background: linear-gradient(135deg, orange , yellow, green, aqua, blue, violet);
+}
+
+#chatbutton:hover {
+  background: linear-gradient(45deg, orange , yellow, green, aqua, blue, violet);
+}
+
+.coorbox {
+  background: linear-gradient(45deg, orange , yellow, green, aqua, blue, violet);
+  border-radius: 10px;
+}
+
+.coorbox:hover {
+  background: linear-gradient(135deg, orange , yellow, green, aqua, blue, violet);
+}
+
+.win-content, .popup-modal {
+  background-image: url("../jew.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.popup-modal {
+  border-radius: 10px;
+}
+
+.Alert {
+  background: #f4edf0 none repeat scroll 0 0;
+  border-radius: 7px;
+}
+
+.timelapsemenu {
+  background: linear-gradient(0deg, #61dcea , #ffb1e1, #ecffec, #ffb1e1, #61dcea);
+  border-radius: 10px;
+}
+
+.donation-tier-card {
+  background: linear-gradient(135deg, #61dcea, #ffb1e1, #ecffec);
+  box-shadow: 0 4px 20px rgba(97, 220, 234, 0.3);
+  border-radius: 10px;
+}
+
+.donation-tier-card.vip.current {
+  box-shadow: 0 0 0 3px #f59e0b;
+}
+
+.donation-tier-card.premium.current {
+  box-shadow: 0 0 0 3px #8b5cf6;
+}
+
+.tier-body {
+  background: linear-gradient(180deg, #ecffec, #ffb1e1);
+}
+
+.donations-info {
+  background: linear-gradient(0deg, #61dcea, #ffb1e1, #ecffec);
+  border-radius: 10px;
+}
+
+.donation-modal {
+  background: linear-gradient(135deg, #61dcea, #ffb1e1, #ecffec, #fff9b1);
+  border-radius: 10px;
+}
+
+.modal-tier-info {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 8px;
+}
+
+.provider-btn {
+  background: linear-gradient(135deg, #ecffec, #ffb1e1);
+  color: #333;
+  border-radius: 8px;
+}
+
+.provider-btn.selected {
+  border: 2px solid #61dcea;
+}
+
+.donation-error {
+  background-color: rgba(255, 100, 100, 0.3);
+  color: #c44;
+  border-radius: 8px;
+}
+
+.template-estimate {
+  background: linear-gradient(0deg, #61dcea, #ffb1e1, #ecffec);
+  border-top-color: #ffb1e1;
+}
+
+.template-estimate.loading,
+.template-estimate.error {
+  color: #666;
+}
+
+.template-estimate.error {
+  color: #c44;
+}
+
+.template-estimate-time {
+  color: #333;
+}
+
+.template-estimate-progress {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.template-estimate-progress-bar {
+  background: linear-gradient(90deg, #61dcea, #ffb1e1, #ecffec);
+}
+
+.template-estimate-details {
+  color: #555;
+}
+
+.template-estimate-stat strong {
+  color: #333;
+}
+
+.template-estimate-refresh {
+  color: #666;
+}
+
+.template-estimate-refresh:hover {
+  color: #333;
+}

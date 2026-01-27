@@ -1,0 +1,182 @@
+.chat-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.chatbox div .chatarea {
+  height: 174px;
+}
+
+.chatarea {
+  padding: 4px 4px 0 4px;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.chat-new-messages {
+  position: absolute;
+  bottom: 28px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--color-primary);
+  color: var(--color-primary-text);
+  padding: 5px 12px;
+  border-radius: var(--radius-lg);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  cursor: pointer;
+  z-index: 5;
+  box-shadow: var(--shadow-sm);
+  transition: background-color var(--transition-fast);
+}
+
+.chat-new-messages:hover {
+  background-color: var(--color-primary-hover);
+}
+
+.chatinput {
+  height: 24px;
+  white-space: nowrap;
+  display: flex;
+}
+
+.chathead {
+  display: flex;
+}
+
+.chatflag {
+  vertical-align: middle;
+}
+
+.chatbadges {
+  margin-left: 3px;
+  vertical-align: middle;
+}
+
+.chatbadge {
+  height: 14px;
+  margin-left: 2px;
+  vertical-align: middle;
+}
+
+.chatname {
+  padding-left: 3px;
+  max-width: 100px;
+  background-color: var(--color-primary-light);
+  border-radius: 2px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: bottom;
+}
+
+.mention, .ping {
+  font-size: smaller;
+  max-width: 85px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: bottom;
+}
+
+.mention {
+  background-color: var(--color-warning-light);
+  border-radius: var(--radius-sm);
+}
+
+.ping {
+  background-color: var(--color-warning-light);
+  border: 1px solid var(--color-warning);
+  color: var(--color-text);
+  border-radius: var(--radius-sm);
+}
+
+.chatts {
+  color: var(--color-text-tertiary);
+  font-size: var(--font-size-xs);
+  flex-grow: 1;
+  text-align: right;
+}
+
+.chatmsg {
+  font-size: var(--font-size-sm);
+  user-select: text;
+  padding: 3px 0 3px 4px;
+  border-radius: 2px;
+  transition: background-color var(--transition-fast);
+}
+
+.chatmsg:hover {
+  background-color: var(--color-surface-hover);
+}
+
+.msgcont {
+  display: flex;
+}
+
+.msg {
+  color: var(--color-text);
+  overflow-y: clip;
+  overflow-x: hidden;
+}
+
+.msg.info {
+  color: var(--color-danger);
+}
+
+.msg.event {
+  color: var(--color-info);
+}
+
+.msg.greentext {
+  color: var(--color-success);
+}
+
+.msg.redtext {
+  color: var(--color-danger);
+}
+
+.ebex {
+  vertical-align: middle;
+  cursor: pointer;
+  color: var(--color-primary);
+}
+
+.ebcl {
+  vertical-align: middle;
+  cursor: pointer;
+  color: var(--color-danger);
+}
+
+.chatlink {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-secondary);
+  transition: font-size var(--transition-fast);
+}
+
+.chatlink > span {
+  cursor: pointer;
+}
+
+.chat-avatar {
+  width: 16px;
+  height: 16px;
+  border-radius: var(--radius-full);
+  object-fit: cover;
+  vertical-align: middle;
+  margin-right: 3px;
+}
+
+.chat-avatar.totw-winner {
+  box-shadow: 0 0 0 2px var(--color-warning);
+  border-radius: var(--radius-full);
+}

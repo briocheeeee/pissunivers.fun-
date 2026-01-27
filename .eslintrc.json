@@ -1,0 +1,51 @@
+{
+  "extends": [ "airbnb", "airbnb/hooks" ],
+  "parser":"@babel/eslint-parser",
+  "parserOptions": {
+    "babelOptions":{
+      "rootMode": "upward"
+    },
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "plugins": [
+      "react",
+      "react-hooks",
+      "jsx-a11y",
+      "import"
+  ],
+  "globals": {
+    "__DEV__": false
+  },
+  "env": {
+    "es2023": true,
+    "browser": true
+  },
+  "rules": {
+    "function-paren-newline": "off",
+    "function-call-argument-newline":"off",
+    "max-len": [1, 80, 2, {"ignoreComments": true}],
+    "import/extensions": ["error", "ignorePackages"],
+    "no-bitwise": "off",
+    "no-console": "off",
+    "object-curly-newline": "off",
+    "object-property-newline": "off",
+    "no-restricted-syntax": "off",
+    "no-plusplus" : "off",
+    "no-param-reassign": "off",
+    "no-mixed-operators":"off",
+    "react/prop-types": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-closing-tag-location": "off",
+    "react/jsx-key": "warn",
+    "react-hooks/rules-of-hooks": "warn",
+    "jsx-a11y/click-events-have-key-events":"off",
+    "jsx-a11y/no-static-element-interactions":"off",
+    "jsx-a11y/control-has-associated-label": "off",
+    "no-continue": "off",
+    "no-multiple-empty-lines": "off",
+    "react/function-component-definition": "off",
+    "lines-between-class-members":["warn", "always",{"exceptAfterSingleLine": true}]
+  }
+}

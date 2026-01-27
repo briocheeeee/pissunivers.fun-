@@ -1,0 +1,16 @@
+.actionbuttons:hover, .onlinebox:hover, .coorbox:hover {
+  background-color: #ff7f7f;
+}
+
+.actionbuttons, .coorbox, .onlinebox, .cooldownbox, .historyselect {
+  background-color: #ff9898;
+  color: black;
+}
+
+.menu > div {
+  background-color: #c3ddffd1;
+}
+
+.menu > div:hover {
+  background-color: #94c2ffd1;
+}

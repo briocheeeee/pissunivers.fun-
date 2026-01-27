@@ -1,0 +1,195 @@
+.profile-layout {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  margin: 16px 0;
+  padding: 10px;
+}
+
+.profile-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 150px;
+}
+
+.profile-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-left: 1px solid var(--color-border);
+  padding-left: 16px;
+}
+
+.profile-avatar-section {
+  margin-bottom: 10px;
+}
+
+.profile-avatar {
+  width: 76px;
+  height: 76px;
+  border-radius: var(--radius-full);
+  overflow: hidden;
+  cursor: pointer;
+  border: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-surface-hover);
+  transition: border-color var(--transition-fast);
+}
+
+.profile-avatar:hover {
+  border-color: var(--color-primary);
+}
+
+.profile-avatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.profile-avatar-placeholder {
+  font-size: 32px;
+  color: var(--color-text-tertiary);
+}
+
+.profile-id {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-tertiary);
+  margin: 3px 0;
+}
+
+.profile-username {
+  font-size: var(--font-size-base);
+  color: var(--color-text-tertiary);
+  margin: 3px 0;
+}
+
+.avatar-upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  padding: 14px;
+}
+
+.avatar-preview {
+  width: 110px;
+  height: 110px;
+  border-radius: var(--radius-full);
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-surface-hover);
+}
+
+.avatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.avatar-placeholder {
+  font-size: 48px;
+  color: var(--color-text-tertiary);
+}
+
+.avatar-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.usermessages {
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  line-height: var(--line-height-normal);
+}
+
+.stattext {
+  font-size: var(--font-size-xl);
+}
+
+.statvalue {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-primary);
+}
+
+.baninfo {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 10px;
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-normal);
+}
+
+.fishlist {
+  font-size: var(--font-size-lg);
+}
+
+.badgelist {
+  font-size: 32px;
+  margin: 14px;
+}
+
+.profilebadge-img {
+  height: 32px;
+  vertical-align: middle;
+}
+
+.profilefish, .profilebadge {
+  display: inline-block;
+  border-radius: var(--radius-full);
+  margin: 3px;
+  padding: 3px;
+  cursor: pointer;
+  transition: opacity var(--transition-fast);
+}
+
+.profilefish:hover, .profilebadge:hover {
+  opacity: 0.8;
+}
+
+.expandbtn {
+  background-color: var(--color-primary);
+  color: var(--color-primary-text);
+  cursor: pointer;
+  border-radius: var(--radius-sm);
+  padding: 5px 10px;
+  transition: background-color var(--transition-fast);
+}
+
+.expandbtn:hover {
+  opacity: 0.8;
+}
+
+.profilefish-img {
+  height: 1em;
+}
+
+.fishdisplay-title {
+  font-size: var(--font-size-2xl);
+  border-radius: var(--radius-full);
+  margin: 3px;
+  padding: 3px;
+}
+
+.display-img {
+  width: 100%;
+  max-width: 450px;
+}
+
+.c-last-hour {
+  color: var(--color-success);
+  font-size: smaller;
+}
+
+.c-num {
+  white-space: nowrap;
+}

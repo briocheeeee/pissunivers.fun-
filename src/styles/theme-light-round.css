@@ -1,0 +1,51 @@
+.channeldd, .contextmenu {
+  border-radius: 8px;
+}
+
+.window {
+  border-radius: 5px;
+}
+
+.chntop {
+  margin-top: 4px;
+}
+
+.actionbuttons, .coorbox, .onlinebox, .cooldownbox, .historyselect {
+  border-radius: 21px;
+}
+
+.modal, .popup-modal {
+  border-radius: 21px;
+}
+
+.popup-fsbtn {
+  border-radius: 0 21px 0 0;
+}
+
+.Alert {
+  border-radius: 12px;
+}
+
+.notifybox {
+  border-radius: 21px;
+}
+
+.timelapsemenu {
+  border-radius: 21px;
+}
+
+.tl-progress {
+  border-radius: 8px;
+}
+
+.notifybox, .voidboostbox {
+  border-radius: 21px;
+}
+
+.donation-tier-card {
+  border-radius: 16px;
+}
+
+.donation-modal {
+  border-radius: 16px;
+}

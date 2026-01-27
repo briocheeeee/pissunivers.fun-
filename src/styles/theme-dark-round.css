@@ -1,0 +1,352 @@
+a:link {
+  color: #91ffe0;
+}
+
+a:visited {
+  color: #b5d06d;
+}
+
+a:hover {
+  color: #d9f68a;
+}
+
+.modallink {
+  color: #91ffe0;
+}
+
+.modallink:hover {
+  color: #d9f68a;
+}
+
+.inarea {
+  border-color: #d5d5d5;
+}
+
+.deletelistitem.selected {
+  background-color: #8c5e5e;
+}
+
+.deletelistitem.unselected:hover {
+  background-color: #7d5f5f;
+}
+
+.tab-list-item {
+  color: #e2e2e2; 
+}
+.tab-list-item.active {
+  background-color: #7b7b7b;
+  color: white;
+}
+.tab-list-item:not(.active):hover {
+  background-color: #636363;
+}
+
+tr:nth-child(even) {
+  background-color: #505050;
+}
+
+.window {
+  background-color: rgba(59, 59, 59, 0.98);
+  color: #f4f4f4;
+}
+.window {
+  border-radius: 5px;
+}
+
+.win-title {
+  background-color: #c1c1c1;
+}
+
+.win-topbar, .modal-topbtn {
+  color: black;
+}
+
+.win-title:hover {
+  background-color: #dedede;
+}
+
+.win-topbtn, .modal-topbtn {
+  background-color: #a6a4a4;
+}
+
+.win-topbtn:hover, .modal-topbtn:hover {
+  background-color: #8b8b8b;
+}
+
+.channeldd, .contextmenu {
+  background-color: #535356;
+  color: #efefef;
+  border-radius: 8px;
+}
+
+.chntop {
+  margin-top: 4px;
+}
+
+.chn, .chntype, .contextmenu > div {
+  background-color: #5f5f5f;
+}
+
+.chn.selected, .chn:hover, .chntype.selected, .chntype:hover,
+.contextmenu > div:hover {
+  background-color: #404040;
+}
+
+.chn-delete {
+  color: #aaa;
+}
+
+.chn-delete:hover {
+  color: #ff6b6b;
+}
+
+.actionbuttons, .coorbox, .onlinebox, .cooldownbox, .historyselect {
+  background-color: rgba(59, 59, 59, 0.8);
+  color: #f4f4f4;
+  border-radius: 21px;
+}
+
+#pencilbutton.ppencil {
+  background-color: rgba(131, 147, 19, 0.8);
+}
+#pencilbutton.phistory {
+  background-color: rgba(31, 84, 111, 0.8);
+}
+#pencilbutton.poverlay {
+  background-color: rgba(117, 31, 31, 0.8);
+}
+
+.menu > div {
+  z-index: 1;
+  background-color: #15374fd1;
+}
+
+.modal, .Alert, .popup-modal {
+  background: #444242 none repeat scroll 0 0;;
+  color: #f4f4f4;
+}
+
+.modal, .popup-modal {
+  border-radius: 21px;
+}
+
+.popup-fsbtn {
+  color: #666363;
+  border-radius: 0 21px 0 0;
+  background: linear-gradient(45deg, transparent 0%, transparent 50%, #373636 60%);
+}
+.popup-fsbtn:hover {
+  color: #bfb9b9;
+}
+
+.Alert {
+  border-radius: 12px;
+}
+
+.modal-content, .win-content, .popup-content, .baninfo {
+  color: #f4f4f4;
+}
+
+h3, h4 {
+  color: #d7e5fb;
+}
+
+.modaldesc {
+  color: hsla(220, 100%, 95.3%, 0.6);
+}
+
+.modaldivider {
+  background-color: hsla(216, 4%, 74%, .3);
+}
+
+.modalinfo, .tmpitm-desc span {
+  color: #ddd;
+}
+
+.modalcvtext, .tmpitm-desc {
+  color: hsla(220, 100%, 95.3%, 0.6);
+}
+
+.overlay {
+  background-color: rgba(187, 187, 187, 0.75);
+}
+
+.chatname {
+  background-color: #434648;
+}
+.mention {
+  background-color: #484643;
+}
+.chatmsg:hover {
+  background-color: #2525252b;
+}
+.msg {
+  color: #f3f3f3;
+}
+.msg.info{
+  color: #ff91a6;
+}
+.msg.event{
+  color: #9dc8ff;
+}
+.msg.greentext{
+  color: #94ff94;
+}
+.ebex {
+  color: #fff4bd;
+}
+
+.chatlink {
+  color: #f9edde;
+}
+
+.statvalue {
+  color: #ecc9ff;
+}
+
+.actionbuttons:hover, .onlinebox:hover, .coorbox:hover, .menu > div:hover {
+  background-color: #363637;
+}
+
+.c-last-hour {
+  color: lime;
+}
+
+.profile-right {
+  border-left-color: #666;
+}
+
+.profile-avatar {
+  border-color: #666;
+  background-color: #3b3b3b;
+}
+
+.profile-avatar:hover {
+  border-color: #999;
+}
+
+.profile-avatar-placeholder {
+  color: #aaa;
+}
+
+.profile-id, .profile-username {
+  color: #bbb;
+}
+
+.avatar-preview {
+  border-color: #666;
+  background-color: #3b3b3b;
+}
+
+.avatar-placeholder {
+  color: #aaa;
+}
+
+.timelapsemenu {
+  background-color: rgba(59, 59, 59, 0.8);
+  color: #f4f4f4;
+  border-radius: 21px;
+}
+
+.tl-size {
+  color: #aaa;
+}
+
+.tl-progress {
+  background-color: #444;
+  border-radius: 8px;
+}
+
+.voidboostbox {
+  background-color: rgba(140, 90, 180, 0.8);
+  color: #f4f4f4;
+  border-radius: 21px;
+}
+
+.donation-tier-card {
+  background-color: #2d2d2d;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  border-radius: 16px;
+}
+
+.donation-tier-card.vip.current {
+  box-shadow: 0 0 0 3px #f59e0b;
+}
+
+.donation-tier-card.premium.current {
+  box-shadow: 0 0 0 3px #8b5cf6;
+}
+
+.tier-body {
+  background-color: #3b3b3b;
+}
+
+.donations-info {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.donation-modal {
+  background-color: #3b3b3b;
+  color: #f4f4f4;
+  border-radius: 16px;
+}
+
+.modal-close {
+  color: #f4f4f4;
+}
+
+.modal-tier-info {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.provider-btn {
+  background-color: #4a4a4a;
+  color: #f4f4f4;
+}
+
+.provider-btn.selected {
+  border-color: #91ffe0;
+}
+
+.donation-error {
+  background-color: #5c2a2a;
+  color: #f8d7da;
+}
+
+.template-estimate {
+  background: #3b3b3b;
+  border-top-color: #555;
+}
+
+.template-estimate.loading,
+.template-estimate.error {
+  color: #aaa;
+}
+
+.template-estimate.error {
+  color: #ff6b6b;
+}
+
+.template-estimate-time {
+  color: #f4f4f4;
+}
+
+.template-estimate-progress {
+  background: #555;
+}
+
+.template-estimate-details {
+  color: #aaa;
+}
+
+.template-estimate-stat strong {
+  color: #f4f4f4;
+}
+
+.template-estimate-refresh {
+  color: #888;
+}
+
+.template-estimate-refresh:hover {
+  color: #f4f4f4;
+}

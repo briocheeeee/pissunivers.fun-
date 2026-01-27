@@ -1,0 +1,6 @@
+apps:
+  - script     : ./server.js
+    name       : 'ppfun'
+    node_args  : --expose-gc
+    watch      : [ 'server.js' ]
+    watch_delay: 5000

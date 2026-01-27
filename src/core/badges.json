@@ -1,0 +1,100 @@
+{
+  "badges": [
+    {
+      "name": "Bug Hunter",
+      "description": "Helped solving a Bug",
+      "file": "bughunter.gif",
+      "thumb": "bughunter.webp"
+    },
+    {
+      "name": "Premium",
+      "description": "Premium Member",
+      "file": "premium.gif",
+      "thumb": "premium.webp"
+    },
+    {
+      "name": "VIP",
+      "description": "VIP Member",
+      "file": "vip.gif",
+      "thumb": "vip.webp"
+    },
+    {
+      "name": "First Pixel",
+      "description": "Placed your first pixel",
+      "file": "firstpixel.gif",
+      "thumb": "firstpixel.webp"
+    },
+    {
+      "name": "Pixel Master",
+      "description": "Placed 10,000 pixels in a day",
+      "file": "pixelmaster.gif",
+      "thumb": "pixelmaster.webp"
+    },
+    {
+      "name": "Weekly Warrior",
+      "description": "Placed 50,000 pixels in a week",
+      "file": "weeklywarrior.gif",
+      "thumb": "weeklywarrior.webp"
+    },
+    {
+      "name": "Chat Greeter",
+      "description": "Said hello in chat",
+      "file": "chatgreeter.gif",
+      "thumb": "chatgreeter.webp"
+    },
+    {
+      "name": "Faction Leader",
+      "description": "Owner of a faction",
+      "file": "factionleader.gif",
+      "thumb": "factionleader.webp"
+    },
+    {
+      "name": "TOTW Winner",
+      "description": "Team of the Week Winner",
+      "file": "totwwinner.gif",
+      "thumb": "totwwinner.webp"
+    },
+    {
+      "name": "TOTW Nominee",
+      "description": "Nominated for Team of the Week",
+      "file": "totwnominee.gif",
+      "thumb": "totwnominee.webp"
+    },
+    {
+      "name": "TOTW Most Improved",
+      "description": "Most Improved in Team of the Week",
+      "file": "totwmostimproved.gif",
+      "thumb": "totwmostimproved.webp"
+    },
+    {
+      "name": "TOTW Underdog",
+      "description": "Underdog award in Team of the Week",
+      "file": "totwunderdog.gif",
+      "thumb": "totwunderdog.webp"
+    },
+    {
+      "name": "TOTW Community Choice",
+      "description": "Community Choice in Team of the Week",
+      "file": "totwcommunitychoice.gif",
+      "thumb": "totwcommunitychoice.webp"
+    },
+    {
+      "name": "Veteran",
+      "description": "Account older than 1 year",
+      "file": "veteran.gif",
+      "thumb": "veteran.webp"
+    },
+    {
+      "name": "Template Master",
+      "description": "Completed 10 templates",
+      "file": "templatemaster.gif",
+      "thumb": "templatemaster.webp"
+    },
+    {
+      "name": "Social Butterfly",
+      "description": "Sent 1000 chat messages",
+      "file": "socialbutterfly.gif",
+      "thumb": "socialbutterfly.webp"
+    }
+  ]
+}

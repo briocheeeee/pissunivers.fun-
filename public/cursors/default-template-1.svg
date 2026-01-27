@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="pencil-template-1.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="27.375"
+     inkscape:cx="15.981735"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#6a2c3f;stop-opacity:1;"
+         offset="0.790932"
+         id="stop2" />
+      <stop
+         style="stop-color:#431f2a;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <filter
+       id="a"
+       width="1.2991006"
+       x="-0.14955032"
+       color-interpolation-filters="sRGB"
+       y="-0.10012435"
+       height="1.2002487">
+      <feGaussianBlur
+         stdDeviation=".812"
+         id="feGaussianBlur1" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3"
+       cx="12.355708"
+       cy="22.273516"
+       fx="12.355708"
+       fy="22.273516"
+       r="2.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.78118546,0,0,0.78118546,3.5185277e-4,-2.1914861e-4)" />
+  </defs>
+  <path
+     d="m 2.9508676,2.0308037 a 1,1 0 0 0 -0.96,1 l 0.002,15.2320003 a 1,1 0 0 0 0.715,0.957 l 7.4840004,2.233 a 1,1 0 0 0 1.178,-0.506 l 3.543,-6.959 a 1,1 0 0 0 -0.201,-1.178 L 3.6808676,2.3068037 a 1,1 0 0 0 -0.729,-0.275 z m 1.04,3.334 8.8030004,8.3800003 -2.8280004,5.552 -5.973,-1.78 z"
+     filter="url(#a)"
+     opacity="0.35"
+     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers"
+     id="path1"
+     transform="matrix(1.068852,0,0,1.0701415,-0.04335579,-0.08875711)" />
+  <path
+     fill="#fff"
+     d="M 3.1106851,1.2990064 A 1.068852,1.0701415 0 0 0 2.084587,2.369148 l 0.00214,16.300397 a 1.068852,1.0701415 0 0 0 0.7642292,1.024125 l 7.9992898,2.388556 a 1.068852,1.0701415 0 0 0 1.259107,-0.540421 l 3.786941,-7.448185 a 1.068852,1.0701415 0 0 0 -0.21484,-1.259557 L 3.8909471,1.5932954 A 1.068852,1.0701415 0 0 0 3.1117539,1.2979363 Z m 1.1116061,3.5678519 9.4091048,8.9667167 -3.022714,5.942496 -6.3842531,-1.904852 z"
+     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#ff9ef6;fill-opacity:1;stroke-width:1.06944;stroke-dasharray:none;paint-order:stroke fill markers"
+     id="path2" />
+  <path
+     fill="#2a2a2a"
+     d="m 3.1534392,2.369148 0.00214,16.300397 8.0003578,2.387486 3.788011,-7.448186 z"
+     style="stroke-width:1.0695;paint-order:stroke fill markers"
+     id="path3" />
+  <circle
+     style="fill:url(#radialGradient3);stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="path4"
+     cx="9.6524515"
+     cy="17.399527"
+     r="1.9529636" />
+</svg>

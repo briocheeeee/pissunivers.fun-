@@ -1,0 +1,52 @@
+import { t } from 'ttag';
+
+import Help from './Help.jsx';
+import Settings from './Settings.jsx';
+import UserArea from './UserArea.jsx';
+import CanvasSelect from './CanvasSelect.jsx';
+import Archive from './Archive.jsx';
+import Chat from './Chat.jsx';
+import Player from './Player.jsx';
+import FishDisplay from './FishDisplay.jsx';
+import BadgeDisplay from './BadgeDisplay.jsx';
+import OIDCConsent from './OIDCConsent.jsx';
+import Faction from './Faction.jsx';
+import FactionPublic from './FactionPublic.jsx';
+import FactionCreate from './FactionCreate.jsx';
+import Donations from './Donations.jsx';
+
+export default {
+  HELP: [Help, t`Help`],
+  SETTINGS: [Settings, t`Settings`],
+  USERAREA: [UserArea, t`User Area`],
+  CHAT: [Chat, t`Chat`],
+  CANVAS_SELECTION: [CanvasSelect, t`Canvas Selection`],
+  ARCHIVE: [Archive, t`Canvas Archive`],
+  PLAYER: [Player, t`Player`],
+  FISH_DISPLAY: [FishDisplay, t`Fish Display`],
+  BADGE_DISPLAY: [BadgeDisplay, t`Badge Display`],
+  FACTION: [Faction, t`My Faction`],
+  FACTION_PUBLIC: [FactionPublic, t`Faction`],
+  FACTION_CREATE: [FactionCreate, t`Create Faction`],
+  DONATIONS: [Donations, t`Support Us`],
+  /*
+   * OIDC Consent is a very special case, because it is only available as
+   * seperate popup, hoever, this is a single-page-applications, so we include
+   * it everywhere.
+   * Maybe some React.lazy to lazyload things would be good, but OIDC requests
+   * shouldn't be slow.
+   * It's also not in AVAILABLE_POPUPS, but rather gets served sepeartely by
+   * the /oidc route and it can not work without window.ssv.params.
+   *
+   * Maybe every single window should be lazy loaded and we additional set the
+   * current script in popupHtml?
+   */
+  OIDC: [OIDCConsent, t`OIDC LogIn`],
+  /* other windows */
+};
+
+/*
+ * NOTE:
+ * set windows that should be accessible via popup / url
+ * also in ../../core/constants.js
+ */
