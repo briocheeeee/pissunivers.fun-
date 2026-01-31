@@ -37,11 +37,7 @@ import startAllCanvasLoops from './core/tileserver.js';
 
 const isProduction = process.env.NODE_ENV === 'production';
 if (isProduction && !USE_XREALIP) {
-  console.warn('\n=== PRODUCTION WARNING ===');
-  console.warn('USE_XREALIP is disabled. In production, you should run behind a reverse proxy');
-  console.warn('(nginx, Cloudflare, etc.) and set USE_XREALIP=yes in config.ini.');
-  console.warn('Direct exposure to the internet without a reverse proxy is not recommended.');
-  console.warn('');
+  logger.warn('PRODUCTION WARNING: USE_XREALIP is disabled. In production, you should run behind a reverse proxy (nginx, Cloudflare, etc.) and set USE_XREALIP=yes in config.ini. Direct exposure to the internet without a reverse proxy is not recommended.');
 }
 
 /*

@@ -315,28 +315,25 @@ END`,
     delete functions.BIN_TO_UUID;
   }
 
-  const promises = [];
   for (const name of Object.keys(functions)) {
-    if (alter) {
-      if (functions[name].includes('PROCEDURE')) {
-        promises.push(migrationSequelize.query(`DROP PROCEDURE IF EXISTS ${name}`,
-          { raw: true },
-        ));
-      } else if (functions[name].includes('FUNCTION')) {
-        promises.push(migrationSequelize.query(`DROP FUNCTION IF EXISTS ${name}`,
-          { raw: true },
-        ));
+    try {
+      if (alter) {
+        if (functions[name].includes('PROCEDURE')) {
+          await migrationSequelize.query(`DROP PROCEDURE IF EXISTS ${name}`, { raw: true });
+        } else if (functions[name].includes('FUNCTION')) {
+          await migrationSequelize.query(`DROP FUNCTION IF EXISTS ${name}`, { raw: true });
+        }
+      }
+      await migrationSequelize.query(functions[name]);
+    } catch (err) {
+      if (err.message.includes('SUPER privilege') || err.message.includes('already exists')) {
+        console.warn(`SQL Function/Procedure ${name}: skipped (${err.message.includes('SUPER') ? 'requires SUPER privilege' : 'already exists'})`);
+      } else {
+        console.error(`Error creating SQL Function/Procedure ${name}: ${err.message}`);
       }
     }
-    promises.push(migrationSequelize.query(functions[name]));
   }
-  try {
-    await Promise.all(promises);
-  } catch (err) {
-    throw new Error(`Error on creating SQL Function: ${err.message}`);
-  } finally {
-    await migrationSequelize.close();
-  }
+  await migrationSequelize.close();
 };
 
 export default sequelize;

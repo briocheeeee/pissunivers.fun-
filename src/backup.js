@@ -108,8 +108,8 @@ function getDateFolder() {
     console.info(`Backup directory ${BACKUP_DIR} does not exist! Trying to create it`);
     try {
       fs.mkdirSync(dir);
-    } catch {
-      console.error('Couldn\'t create backup dir');
+    } catch (error) {
+      console.error(`Couldn't create backup dir: ${error.message}`);
       process.exit(1);
     }
   }

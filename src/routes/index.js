@@ -15,12 +15,14 @@ import resetPassword from './reset_password.js';
 import api from './api/index.js';
 import oidc from './oidc/index.js';
 import tp from './tp.js';
+import health from './health.js';
 
 import { getJWKS } from '../core/jwt.js';
 import { expressTTag } from '../middleware/ttag.js';
 import cors from '../middleware/cors.js';
 import { parseIP } from '../middleware/ip.js';
 import rateLimiter from '../middleware/ratelimit.js';
+import errorHandler from '../middleware/errorHandler.js';
 import generateGlobePage from '../ssr/Globe.jsx';
 import generatePopUpPage from '../ssr/PopUp.jsx';
 import generateMainPage from '../ssr/Main.jsx';
@@ -95,6 +97,11 @@ if (OIDC_URL) {
     res.json({ keys: await getJWKS() });
   });
 }
+
+/*
+ * health check endpoint (before IP parsing for minimal overhead)
+ */
+router.use('/health', health);
 
 /* ip */
 router.use(parseIP);
@@ -290,5 +297,10 @@ router.use((req, res, next) => {
  * public folder
  */
 router.use(expressStatic);
+
+/*
+ * global error handler
+ */
+router.use(errorHandler);
 
 export default basenameRouter;

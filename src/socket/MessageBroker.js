@@ -119,7 +119,8 @@ class MessageBroker extends SocketEvents {
     await new Promise((resolve) => {
       setTimeout(resolve, 25000);
     });
-    console.log('CLUSTER: Initialized message broker');
+    const logger = (await import('../core/logger.js')).default;
+    logger.info('CLUSTER: Initialized message broker');
   }
 
   announceExistence() {
@@ -153,7 +154,7 @@ class MessageBroker extends SocketEvents {
     this.thisShard = Math.random().toString(36).substring(2, 10);
     await this.connectShardChannel();
     this.announceExistence();
-    console.log(`CLUSTER: Renamed shard to: ${this.thisShard}`);
+    import('../core/logger.js').then((m) => m.default.info(`CLUSTER: Renamed shard to: ${this.thisShard}`));
   }
 
   /*
@@ -176,7 +177,7 @@ class MessageBroker extends SocketEvents {
       if (key === 'exists') {
         if (shardName === this.thisShard) {
           if (this.existenceId && val !== this.existenceId) {
-            console.error(`CLUSTER: Error CLASHING SHARD NAMES: ${val}`);
+            import('../core/logger.js').then((m) => m.default.error(`CLUSTER: Error CLASHING SHARD NAMES: ${val}`));
             this.rerollShardName();
             return;
           }
@@ -187,7 +188,7 @@ class MessageBroker extends SocketEvents {
             * other shards
             */
           if (!this.shards[shardName]) {
-            console.log(`CLUSTER: Shard ${shardName} connected`);
+            import('../core/logger.js').then((m) => m.default.info(`CLUSTER: Shard ${shardName} connected`));
             await this.subscriber.subscribe(
               shardName,
               (buffer) => this.onShardBinaryMessage(buffer, shardName),
@@ -217,7 +218,7 @@ class MessageBroker extends SocketEvents {
         */
       super.emit(key, ...val);
     } catch (err) {
-      console.error(`CLUSTER: Error on broadcast message: ${err.message}`);
+      import('../core/logger.js').then((m) => m.default.error(`CLUSTER: Error on broadcast message: ${err.message}`));
     }
   }
 
@@ -235,11 +236,11 @@ class MessageBroker extends SocketEvents {
       }
       const comma = message.indexOf(',');
       const key = message.slice(0, comma);
-      console.log(`CLUSTER shard listener got ${key}`);
+      import('../core/logger.js').then((m) => m.default.info(`CLUSTER shard listener got ${key}`));
       const val = JSON.parse(message.slice(comma + 1));
       super.emit(key, ...val);
     } catch (err) {
-      console.error(`CLUSTER: Error on listener message: ${err.message}`);
+      import('../core/logger.js').then((m) => m.default.error(`CLUSTER: Error on listener message: ${err.message}`));
     }
   }
 
@@ -281,13 +282,13 @@ class MessageBroker extends SocketEvents {
         amountOtherShards -= 1;
         ret = combineObjects(ret, retn);
         if (amountOtherShards <= 0) {
-          console.log(`CLUSTER res:${chan}:${type} finished`);
+          import('../core/logger.js').then((m) => m.default.info(`CLUSTER res:${chan}:${type} finished`));
           this.off(chankey, callback);
           clearTimeout(id);
           resolve(ret);
         } else {
           // eslint-disable-next-line
-          console.log(`CLUSTER got res:${chan}:${type} from shard, ${amountOtherShards} still left`);
+          import('../core/logger.js').then((m) => m.default.info(`CLUSTER got res:${chan}:${type} from shard, ${amountOtherShards} still left`));
         }
       };
       id = setTimeout(() => {
@@ -379,7 +380,7 @@ class MessageBroker extends SocketEvents {
       }
     } catch (err) {
       // eslint-disable-next-line max-len
-      console.error(`CLUSTER: Error on binary message of shard ${shard}: ${err.message}`);
+      import('../core/logger.js').then((m) => m.default.error(`CLUSTER: Error on binary message of shard ${shard}: ${err.message}`));
     }
   }
 
@@ -498,7 +499,7 @@ class MessageBroker extends SocketEvents {
       // remove disconnected shards
       for (const [shard, timeLastPing] of Object.entries(shards)) {
         if (timeLastPing < threshold) {
-          console.log(`CLUSTER: Shard ${shard} disconnected`);
+          import('../core/logger.js').then((m) => m.default.info(`CLUSTER: Shard ${shard} disconnected`));
           this.removeShardFromOnlineData(shard);
           // eslint-disable-next-line no-await-in-loop
           await this.subscriber.unsubscribe(shard);
@@ -513,15 +514,15 @@ class MessageBroker extends SocketEvents {
           await this.subscriber.unsubscribe(channel);
           delete pings[channel];
           if (channel === BROADCAST_CHAN) {
-            console.warn('CLUSTER: Broadcaset channel broken, reconnect');
+            import('../core/logger.js').then((m) => m.default.warn('CLUSTER: Broadcast channel broken, reconnect'));
             // eslint-disable-next-line no-await-in-loop
             await this.connectBCChannel();
           } else if (channel.startsWith(`${LISTEN_PREFIX}:`)) {
-            console.warn('CLUSTER: Shard text channel broken, reconnect');
+            import('../core/logger.js').then((m) => m.default.warn('CLUSTER: Shard text channel broken, reconnect'));
             // eslint-disable-next-line no-await-in-loop
             await this.connectShardChannel();
           } else {
-            console.warn(`CLUSTER: Binary channel to shard ${channel} broken`);
+            import('../core/logger.js').then((m) => m.default.warn(`CLUSTER: Binary channel to shard ${channel} broken`));
             // will connect again on next broadcast of shard
             this.removeShardFromOnlineData(channel);
             delete shards[channel];
@@ -529,7 +530,7 @@ class MessageBroker extends SocketEvents {
         }
       }
     } catch (err) {
-      console.error(`CLUSTER: Error on health check: ${err.message}`);
+      import('../core/logger.js').then((m) => m.default.error(`CLUSTER: Error on health check: ${err.message}`));
     }
     // send keep alive to others
     this.announceExistence();

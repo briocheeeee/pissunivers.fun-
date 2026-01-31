@@ -1,6 +1,7 @@
 import {
   DISCORD_BOT_TOKEN,
   DISCORD_GUILD_ID,
+  PORT,
 } from '../core/config.js';
 import {
   getUserByDiscordId,
@@ -12,30 +13,50 @@ import {
 } from '../data/sql/DiscordTemplate.js';
 import RedisCanvas from '../data/redis/RedisCanvas.js';
 import { TILE_SIZE } from '../core/constants.js';
+import logger from '../core/logger.js';
 
-let discordJs = null;
-let canvasModule = null;
+let Client = null;
+let Intents = null;
+let MessageAttachment = null;
+let REST = null;
+let Routes = null;
+let SlashCommandBuilder = null;
 let client = null;
 let canvasesData = null;
+let sharpModule = null;
+let dependenciesLoaded = false;
 
 async function loadDependencies() {
-  if (!discordJs) {
-    try {
-      discordJs = await import(/* webpackIgnore: true */ 'discord.js');
-    } catch (e) {
-      console.error('discord.js not installed, Discord bot disabled');
-      return null;
-    }
+  if (dependenciesLoaded) return true;
+  
+  try {
+    const discordJs = await import(/* webpackIgnore: true */ 'discord.js');
+    Client = discordJs.Client;
+    Intents = discordJs.Intents;
+    MessageAttachment = discordJs.MessageAttachment;
+    
+    const discordRest = await import(/* webpackIgnore: true */ '@discordjs/rest');
+    REST = discordRest.REST;
+    
+    const discordApiTypes = await import(/* webpackIgnore: true */ 'discord-api-types/v9');
+    Routes = discordApiTypes.Routes;
+    
+    const builders = await import(/* webpackIgnore: true */ '@discordjs/builders');
+    SlashCommandBuilder = builders.SlashCommandBuilder;
+    
+    dependenciesLoaded = true;
+  } catch (e) {
+    logger.error(`Discord.js dependencies not available: ${e.message}`);
+    return false;
   }
-  if (!canvasModule) {
-    try {
-      canvasModule = await import(/* webpackIgnore: true */ 'canvas');
-    } catch (e) {
-      console.error('canvas not installed, Discord bot disabled');
-      return null;
-    }
+  
+  try {
+    sharpModule = (await import(/* webpackIgnore: true */ 'sharp')).default;
+  } catch (e) {
+    logger.warn(`Sharp module not available: ${e.message}`);
   }
-  return { discordJs, canvasModule };
+  
+  return true;
 }
 
 const CANVAS_NAMES = {
@@ -68,10 +89,9 @@ function parseCoordinates(input) {
 }
 
 async function scanTemplate(template, canvases) {
-  const deps = await loadDependencies();
-  if (!deps) return { error: 'Dependencies not available' };
-  const { canvasModule } = deps;
-  const { createCanvas, loadImage } = canvasModule;
+  if (!sharpModule) {
+    return { error: 'Image processing not available' };
+  }
 
   const canvas = canvases[template.canvasId];
   if (!canvas) {
@@ -79,119 +99,115 @@ async function scanTemplate(template, canvases) {
   }
 
   const { colors, size: canvasSize } = canvas;
-  const templateImage = await loadImage(template.imageData);
+  const halfSize = canvasSize / 2;
   const templateWidth = template.width;
   const templateHeight = template.height;
 
-  const tempCanvas = createCanvas(templateWidth, templateHeight);
-  const tempCtx = tempCanvas.getContext('2d');
-  tempCtx.drawImage(templateImage, 0, 0);
-  const templatePixels = tempCtx.getImageData(0, 0, templateWidth, templateHeight).data;
-
-  const resultCanvas = createCanvas(templateWidth, templateHeight);
-  const resultCtx = resultCanvas.getContext('2d');
+  const { data: templatePixels } = await sharpModule(template.imageData)
+    .raw()
+    .ensureAlpha()
+    .toBuffer({ resolveWithObject: true });
 
   const startX = template.x;
   const startY = template.y;
 
-  const startChunkX = Math.floor(startX / TILE_SIZE);
-  const startChunkY = Math.floor(startY / TILE_SIZE);
-  const endChunkX = Math.floor((startX + templateWidth - 1) / TILE_SIZE);
-  const endChunkY = Math.floor((startY + templateHeight - 1) / TILE_SIZE);
+  const startAbsX = startX + halfSize;
+  const startAbsY = startY + halfSize;
+  const startChunkX = Math.floor(startAbsX / TILE_SIZE);
+  const startChunkY = Math.floor(startAbsY / TILE_SIZE);
+  const endChunkX = Math.floor((startAbsX + templateWidth - 1) / TILE_SIZE);
+  const endChunkY = Math.floor((startAbsY + templateHeight - 1) / TILE_SIZE);
 
   const chunks = new Map();
-
+  const chunkPromises = [];
   for (let cy = startChunkY; cy <= endChunkY; cy += 1) {
     for (let cx = startChunkX; cx <= endChunkX; cx += 1) {
-      const chunkKey = `${cx}:${cy}`;
-      const chunk = await RedisCanvas.getChunk(template.canvasId, cx, cy);
-      chunks.set(chunkKey, chunk);
+      chunkPromises.push(
+        RedisCanvas.getChunk(template.canvasId, cx, cy)
+          .then((chunk) => chunks.set(`${cx}:${cy}`, chunk)),
+      );
     }
   }
+  await Promise.all(chunkPromises);
 
+  const resultPixels = Buffer.alloc(templateWidth * templateHeight * 4);
   let placedPixels = 0;
   let totalPixels = 0;
 
   for (let py = 0; py < templateHeight; py += 1) {
     for (let px = 0; px < templateWidth; px += 1) {
-      const templateIdx = (py * templateWidth + px) * 4;
-      const alpha = templatePixels[templateIdx + 3];
+      const idx = (py * templateWidth + px) * 4;
+      const alpha = templatePixels[idx + 3];
 
       if (alpha <= 200) {
-        resultCtx.fillStyle = 'rgba(0,0,0,0)';
-        resultCtx.fillRect(px, py, 1, 1);
+        resultPixels[idx] = 0;
+        resultPixels[idx + 1] = 0;
+        resultPixels[idx + 2] = 0;
+        resultPixels[idx + 3] = 0;
         continue;
       }
 
       totalPixels += 1;
-
-      const templateR = templatePixels[templateIdx];
-      const templateG = templatePixels[templateIdx + 1];
-      const templateB = templatePixels[templateIdx + 2];
+      const templateR = templatePixels[idx];
+      const templateG = templatePixels[idx + 1];
+      const templateB = templatePixels[idx + 2];
 
       const canvasX = startX + px;
       const canvasY = startY + py;
+      const absX = canvasX + halfSize;
+      const absY = canvasY + halfSize;
 
-      if (canvasX < 0 || canvasX >= canvasSize || canvasY < 0 || canvasY >= canvasSize) {
-        resultCtx.fillStyle = `rgba(${Math.min(255, templateR + 100)}, ${Math.max(0, templateG - 50)}, ${Math.max(0, templateB - 50)}, 1)`;
-        resultCtx.fillRect(px, py, 1, 1);
-        continue;
+      let isPlaced = false;
+      if (canvasX >= -halfSize && canvasX < halfSize && canvasY >= -halfSize && canvasY < halfSize) {
+        const chunkX = Math.floor(absX / TILE_SIZE);
+        const chunkY = Math.floor(absY / TILE_SIZE);
+        const chunk = chunks.get(`${chunkX}:${chunkY}`);
+
+        if (chunk) {
+          const offsetX = absX % TILE_SIZE;
+          const offsetY = absY % TILE_SIZE;
+          const colorIndex = chunk[offsetY * TILE_SIZE + offsetX];
+
+          if (colorIndex !== undefined && colorIndex < colors.length) {
+            const canvasColor = colors[colorIndex];
+            if (canvasColor) {
+              const [canvasR, canvasG, canvasB] = canvasColor;
+              const dist = Math.sqrt(
+                (templateR - canvasR) ** 2 + (templateG - canvasG) ** 2 + (templateB - canvasB) ** 2,
+              );
+              if (dist < 30) {
+                isPlaced = true;
+                placedPixels += 1;
+                const gray = Math.round(0.299 * templateR + 0.587 * templateG + 0.114 * templateB);
+                resultPixels[idx] = gray;
+                resultPixels[idx + 1] = gray;
+                resultPixels[idx + 2] = gray;
+                resultPixels[idx + 3] = 255;
+              }
+            }
+          }
+        }
       }
 
-      const chunkX = Math.floor(canvasX / TILE_SIZE);
-      const chunkY = Math.floor(canvasY / TILE_SIZE);
-      const chunkKey = `${chunkX}:${chunkY}`;
-      const chunk = chunks.get(chunkKey);
-
-      if (!chunk) {
-        resultCtx.fillStyle = `rgba(${Math.min(255, templateR + 100)}, ${Math.max(0, templateG - 50)}, ${Math.max(0, templateB - 50)}, 1)`;
-        resultCtx.fillRect(px, py, 1, 1);
-        continue;
-      }
-
-      const offsetX = canvasX % TILE_SIZE;
-      const offsetY = canvasY % TILE_SIZE;
-      const chunkIdx = offsetY * TILE_SIZE + offsetX;
-
-      const colorIndex = chunk[chunkIdx];
-      if (colorIndex === undefined || colorIndex >= colors.length) {
-        resultCtx.fillStyle = `rgba(${Math.min(255, templateR + 100)}, ${Math.max(0, templateG - 50)}, ${Math.max(0, templateB - 50)}, 1)`;
-        resultCtx.fillRect(px, py, 1, 1);
-        continue;
-      }
-
-      const canvasColor = colors[colorIndex];
-      if (!canvasColor) {
-        resultCtx.fillStyle = `rgba(${Math.min(255, templateR + 100)}, ${Math.max(0, templateG - 50)}, ${Math.max(0, templateB - 50)}, 1)`;
-        resultCtx.fillRect(px, py, 1, 1);
-        continue;
-      }
-
-      const [canvasR, canvasG, canvasB] = canvasColor;
-      const distance = Math.sqrt(
-        (templateR - canvasR) ** 2 + (templateG - canvasG) ** 2 + (templateB - canvasB) ** 2,
-      );
-
-      if (distance < 30) {
-        placedPixels += 1;
-        const gray = Math.round(0.299 * templateR + 0.587 * templateG + 0.114 * templateB);
-        resultCtx.fillStyle = `rgb(${gray}, ${gray}, ${gray})`;
-        resultCtx.fillRect(px, py, 1, 1);
-      } else {
-        const redOverlay = Math.min(255, templateR + 80);
-        const greenReduced = Math.max(0, templateG - 40);
-        const blueReduced = Math.max(0, templateB - 40);
-        resultCtx.fillStyle = `rgb(${redOverlay}, ${greenReduced}, ${blueReduced})`;
-        resultCtx.fillRect(px, py, 1, 1);
+      if (!isPlaced) {
+        const blendAlpha = 0.7;
+        resultPixels[idx] = Math.round(255 * blendAlpha + templateR * (1 - blendAlpha));
+        resultPixels[idx + 1] = Math.round(0 * blendAlpha + templateG * (1 - blendAlpha));
+        resultPixels[idx + 2] = Math.round(0 * blendAlpha + templateB * (1 - blendAlpha));
+        resultPixels[idx + 3] = 255;
       }
     }
   }
 
   const progressPercent = totalPixels > 0 ? Math.round((placedPixels / totalPixels) * 100) : 0;
 
+  const imageBuffer = await sharpModule(resultPixels, {
+    raw: { width: templateWidth, height: templateHeight, channels: 4 },
+  }).png({ compressionLevel: 6 }).toBuffer();
+
   return {
     success: true,
-    imageBuffer: resultCanvas.toBuffer('image/png'),
+    imageBuffer,
     placedPixels,
     totalPixels,
     remainingPixels: totalPixels - placedPixels,
@@ -200,10 +216,10 @@ async function scanTemplate(template, canvases) {
 }
 
 async function registerCommands() {
-  const deps = await loadDependencies();
-  if (!deps) return;
-  const { discordJs } = deps;
-  const { SlashCommandBuilder, REST, Routes } = discordJs;
+  if (!SlashCommandBuilder || !REST || !Routes) {
+    logger.error('Discord command dependencies not loaded');
+    return;
+  }
 
   const commands = [
     new SlashCommandBuilder()
@@ -259,17 +275,17 @@ async function registerCommands() {
       .setDescription('List all your templates'),
   ];
 
-  const rest = new REST({ version: '10' }).setToken(DISCORD_BOT_TOKEN);
+  const rest = new REST({ version: '9' }).setToken(DISCORD_BOT_TOKEN);
 
   try {
-    console.log('Registering Discord slash commands...');
+    logger.info('Registering Discord slash commands...');
     await rest.put(
       Routes.applicationGuildCommands(client.user.id, DISCORD_GUILD_ID),
       { body: commands.map((c) => c.toJSON()) },
     );
-    console.log('Discord slash commands registered successfully');
+    logger.info('Discord slash commands registered successfully');
   } catch (error) {
-    console.error('Error registering Discord commands:', error);
+    logger.error(`Error registering Discord commands: ${error.message}`);
   }
 }
 
@@ -281,7 +297,7 @@ async function handleConnectAccount(interaction) {
   await interaction.deferReply({ ephemeral: true });
 
   try {
-    const response = await fetch(`http://localhost:${process.env.PORT || 8080}/api/auth/local`, {
+    const response = await fetch(`http://localhost:${PORT}/api/auth/local`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ nameoremail: username, password }),
@@ -290,20 +306,20 @@ async function handleConnectAccount(interaction) {
     const data = await response.json();
 
     if (!response.ok || data.errors) {
-      await interaction.editReply({ content: `❌ Authentication failed: ${data.errors?.[0] || 'Invalid credentials'}` });
+      await interaction.editReply({ content: `Authentication failed: ${data.errors?.[0] || 'Invalid credentials'}` });
       return;
     }
 
     const success = await linkDiscordAccount(data.me.id, discordUserId);
 
     if (success) {
-      await interaction.editReply({ content: `✅ Successfully linked your Discord account to **${data.me.name}**!` });
+      await interaction.editReply({ content: `Successfully linked your Discord account to **${data.me.name}**!` });
     } else {
-      await interaction.editReply({ content: '❌ Failed to link account. Please try again.' });
+      await interaction.editReply({ content: 'Failed to link account. Please try again.' });
     }
   } catch (error) {
-    console.error('Error in connect-account:', error);
-    await interaction.editReply({ content: '❌ An error occurred. Please try again later.' });
+    logger.error(`Error in connect-account: ${error.message}`);
+    await interaction.editReply({ content: 'An error occurred. Please try again later.' });
   }
 }
 
@@ -312,7 +328,7 @@ async function handleTemplateAdd(interaction) {
 
   const user = await getUserByDiscordId(discordUserId);
   if (!user) {
-    await interaction.reply({ content: '❌ You must link your account first using `/connect-account`', ephemeral: true });
+    await interaction.reply({ content: 'You must link your account first using `/connect-account`', ephemeral: true });
     return;
   }
 
@@ -325,18 +341,18 @@ async function handleTemplateAdd(interaction) {
 
   const coords = parseCoordinates(coordinatesStr);
   if (!coords) {
-    await interaction.editReply({ content: '❌ Invalid coordinates format. Use x_y (e.g., 100_200)' });
+    await interaction.editReply({ content: 'Invalid coordinates format. Use x_y (e.g., 100_200)' });
     return;
   }
 
   const canvasId = parseCanvasName(canvasStr);
   if (canvasId === null) {
-    await interaction.editReply({ content: '❌ Invalid canvas. Use: world map, minimap, or moon' });
+    await interaction.editReply({ content: 'Invalid canvas. Use: world map, minimap, or moon' });
     return;
   }
 
   if (!attachment.contentType?.startsWith('image/')) {
-    await interaction.editReply({ content: '❌ Please provide a valid image file' });
+    await interaction.editReply({ content: 'Please provide a valid image file' });
     return;
   }
 
@@ -344,20 +360,16 @@ async function handleTemplateAdd(interaction) {
     const imageResponse = await fetch(attachment.url);
     const imageBuffer = Buffer.from(await imageResponse.arrayBuffer());
 
-    const deps = await loadDependencies();
-    if (!deps) {
-      await interaction.editReply({ content: '❌ Image processing not available' });
+    if (!sharpModule) {
+      await interaction.editReply({ content: 'Image processing not available' });
       return;
     }
-    const { canvasModule } = deps;
-    const { loadImage } = canvasModule;
 
-    const image = await loadImage(imageBuffer);
-    const { width } = image;
-    const { height } = image;
+    const metadata = await sharpModule(imageBuffer).metadata();
+    const { width, height } = metadata;
 
-    if (width > 2048 || height > 2048) {
-      await interaction.editReply({ content: '❌ Image too large. Maximum size is 2048x2048 pixels.' });
+    if (width > 8192 || height > 8192) {
+      await interaction.editReply({ content: 'Image too large. Maximum size is 8192x8192 pixels.' });
       return;
     }
 
@@ -375,16 +387,16 @@ async function handleTemplateAdd(interaction) {
     );
 
     if (result.error) {
-      await interaction.editReply({ content: `❌ ${result.error}` });
+      await interaction.editReply({ content: result.error });
       return;
     }
 
     await interaction.editReply({
-      content: `✅ Template **${name}** added successfully!\n📍 Position: (${coords.x}, ${coords.y})\n📐 Size: ${width}x${height}\n🗺️ Canvas: ${canvasStr}`,
+      content: `Template **${name}** added successfully!\nPosition: (${coords.x}, ${coords.y})\nSize: ${width}x${height}\nCanvas: ${canvasStr}`,
     });
   } catch (error) {
-    console.error('Error in template-add:', error);
-    await interaction.editReply({ content: '❌ Failed to add template. Please try again.' });
+    logger.error(`Error in template-add: ${error.message}`);
+    await interaction.editReply({ content: 'Failed to add template. Please try again.' });
   }
 }
 
@@ -393,7 +405,7 @@ async function handleTemplateDelete(interaction) {
 
   const user = await getUserByDiscordId(discordUserId);
   if (!user) {
-    await interaction.reply({ content: '❌ You must link your account first using `/connect-account`', ephemeral: true });
+    await interaction.reply({ content: 'You must link your account first using `/connect-account`', ephemeral: true });
     return;
   }
 
@@ -402,11 +414,11 @@ async function handleTemplateDelete(interaction) {
   const result = await deleteDiscordTemplate(user.id, name);
 
   if (result.error) {
-    await interaction.reply({ content: `❌ ${result.error}`, ephemeral: true });
+    await interaction.reply({ content: result.error, ephemeral: true });
     return;
   }
 
-  await interaction.reply({ content: `✅ Template **${name}** deleted successfully!` });
+  await interaction.reply({ content: `Template **${name}** deleted successfully!` });
 }
 
 async function handleTemplateScan(interaction) {
@@ -414,7 +426,7 @@ async function handleTemplateScan(interaction) {
 
   const user = await getUserByDiscordId(discordUserId);
   if (!user) {
-    await interaction.reply({ content: '❌ You must link your account first using `/connect-account`', ephemeral: true });
+    await interaction.reply({ content: 'You must link your account first using `/connect-account`', ephemeral: true });
     return;
   }
 
@@ -424,7 +436,7 @@ async function handleTemplateScan(interaction) {
 
   const template = await getDiscordTemplate(user.id, name);
   if (!template) {
-    await interaction.editReply({ content: `❌ Template **${name}** not found` });
+    await interaction.editReply({ content: `Template **${name}** not found` });
     return;
   }
 
@@ -432,34 +444,26 @@ async function handleTemplateScan(interaction) {
     const result = await scanTemplate(template, canvasesData);
 
     if (result.error) {
-      await interaction.editReply({ content: `❌ ${result.error}` });
+      await interaction.editReply({ content: result.error });
       return;
     }
 
-    const deps = await loadDependencies();
-    if (!deps) {
-      await interaction.editReply({ content: '❌ Dependencies not available' });
-      return;
-    }
-    const { discordJs } = deps;
-    const { AttachmentBuilder } = discordJs;
+    const attachment = new MessageAttachment(result.imageBuffer, `${name}_scan.png`);
 
-    const attachment = new AttachmentBuilder(result.imageBuffer, { name: `${name}_scan.png` });
-
-    const progressBar = '█'.repeat(Math.floor(result.progressPercent / 10)) + '░'.repeat(10 - Math.floor(result.progressPercent / 10));
+    const progressBar = '|'.repeat(Math.floor(result.progressPercent / 10)) + '.'.repeat(10 - Math.floor(result.progressPercent / 10));
 
     await interaction.editReply({
-      content: `📊 **Template Scan: ${name}**\n\n`
+      content: `**Template Scan: ${name}**\n\n`
         + `Progress: [${progressBar}] **${result.progressPercent}%**\n`
-        + `✅ Placed: **${result.placedPixels.toLocaleString()}** pixels\n`
-        + `❌ Remaining: **${result.remainingPixels.toLocaleString()}** pixels\n`
-        + `📦 Total: **${result.totalPixels.toLocaleString()}** pixels\n\n`
-        + '🔴 Red = Not placed | ⚫ Gray = Placed',
+        + `Placed: **${result.placedPixels.toLocaleString()}** pixels\n`
+        + `Remaining: **${result.remainingPixels.toLocaleString()}** pixels\n`
+        + `Total: **${result.totalPixels.toLocaleString()}** pixels\n\n`
+        + 'Red = Not placed | Gray = Placed',
       files: [attachment],
     });
   } catch (error) {
-    console.error('Error in template-scan:', error);
-    await interaction.editReply({ content: '❌ Failed to scan template. Please try again.' });
+    logger.error(`Error in template-scan: ${error.message}`);
+    await interaction.editReply({ content: 'Failed to scan template. Please try again.' });
   }
 }
 
@@ -468,14 +472,14 @@ async function handleTemplateList(interaction) {
 
   const user = await getUserByDiscordId(discordUserId);
   if (!user) {
-    await interaction.reply({ content: '❌ You must link your account first using `/connect-account`', ephemeral: true });
+    await interaction.reply({ content: 'You must link your account first using `/connect-account`', ephemeral: true });
     return;
   }
 
   const templates = await getUserDiscordTemplates(user.id);
 
   if (templates.length === 0) {
-    await interaction.reply({ content: '📋 You have no templates. Use `/template-add` to create one!', ephemeral: true });
+    await interaction.reply({ content: 'You have no templates. Use `/template-add` to create one!', ephemeral: true });
     return;
   }
 
@@ -483,44 +487,47 @@ async function handleTemplateList(interaction) {
 
   const list = templates.map((t, i) => {
     const canvasName = canvasNames[t.canvasId] || `Canvas ${t.canvasId}`;
-    return `**${i + 1}. ${t.name}**\n   📍 (${t.x}, ${t.y}) | 📐 ${t.width}x${t.height} | 🗺️ ${canvasName}`;
+    return `**${i + 1}. ${t.name}**\n   Position: (${t.x}, ${t.y}) | Size: ${t.width}x${t.height} | Canvas: ${canvasName}`;
   }).join('\n\n');
 
   await interaction.reply({
-    content: `📋 **Your Templates (${templates.length})**\n\n${list}`,
+    content: `**Your Templates (${templates.length})**\n\n${list}`,
     ephemeral: true,
   });
 }
 
 export async function initDiscordBot(canvases) {
   if (!DISCORD_BOT_TOKEN) {
-    console.log('Discord bot token not configured, skipping bot initialization');
+    logger.info('Discord bot token not configured, skipping bot initialization');
     return;
   }
 
-  const deps = await loadDependencies();
-  if (!deps) {
-    console.log('Discord dependencies not available, skipping bot initialization');
+  if (!DISCORD_GUILD_ID) {
+    logger.error('DISCORD_GUILD_ID not configured, cannot initialize Discord bot');
     return;
   }
-  const { discordJs } = deps;
-  const { Client, GatewayIntentBits } = discordJs;
+
+  const loaded = await loadDependencies();
+  if (!loaded) {
+    logger.error('Failed to load Discord dependencies, skipping bot initialization');
+    return;
+  }
 
   canvasesData = canvases;
 
   client = new Client({
     intents: [
-      GatewayIntentBits.Guilds,
+      Intents.FLAGS.GUILDS,
     ],
   });
 
   client.once('ready', async () => {
-    console.log(`Discord bot logged in as ${client.user.tag}`);
+    logger.info(`Discord bot logged in as ${client.user.tag}`);
     await registerCommands();
   });
 
   client.on('interactionCreate', async (interaction) => {
-    if (!interaction.isChatInputCommand()) return;
+    if (!interaction.isCommand()) return;
 
     const { commandName } = interaction;
 
@@ -545,17 +552,25 @@ export async function initDiscordBot(canvases) {
           break;
       }
     } catch (error) {
-      console.error(`Error handling command ${commandName}:`, error);
-      const reply = { content: '❌ An error occurred while processing your command.', ephemeral: true };
+      logger.error(`Error handling command ${commandName}: ${error.message}`);
+      const reply = { content: 'An error occurred while processing your command.', ephemeral: true };
       if (interaction.deferred || interaction.replied) {
-        await interaction.editReply(reply);
+        await interaction.editReply(reply).catch(() => {});
       } else {
-        await interaction.reply(reply);
+        await interaction.reply(reply).catch(() => {});
       }
     }
   });
 
-  await client.login(DISCORD_BOT_TOKEN);
+  client.on('error', (error) => {
+    logger.error(`Discord client error: ${error.message}`);
+  });
+
+  try {
+    await client.login(DISCORD_BOT_TOKEN);
+  } catch (error) {
+    logger.error(`Failed to login Discord bot: ${error.message}`);
+  }
 }
 
 export function getDiscordClient() {

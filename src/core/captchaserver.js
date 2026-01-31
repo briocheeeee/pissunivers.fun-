@@ -89,8 +89,8 @@ worker.on('message', (msg) => {
     try {
       task[1](...msg);
       return;
-    } catch {
-      // continue
+    } catch (error) {
+      logger.error(`CAPTCHA worker callback error: ${error.message}`);
     }
   }
 });
@@ -107,8 +107,8 @@ function clearOldQueue() {
     captchaQueue.forEach((task) => {
       try {
         task[1]('TIMEOUT');
-      } catch {
-        // nothing
+      } catch (error) {
+        logger.error(`CAPTCHA timeout callback error: ${error.message}`);
       }
     });
     captchaQueue.length = 0;

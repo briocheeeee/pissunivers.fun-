@@ -52,41 +52,40 @@ export async function calculateWeeklyScores() {
     { type: QueryTypes.SELECT },
   );
 
-  const factionScores = [];
+  const eligibleFactions = factions.filter((f) => !recentWinners.has(f.id));
 
-  for (const faction of factions) {
-    if (recentWinners.has(faction.id)) {
-      continue;
-    }
+  const factionScores = await Promise.all(
+    eligibleFactions.map(async (faction) => {
+      const [ranks, previousWeekPixels, winRatio, defeatedLarger] = await Promise.all([
+        getFactionRanks(faction.id),
+        getPreviousWeekPixels(faction.id),
+        calculateWinRatio(faction.id),
+        checkDefeatedLargerFaction(faction.id, faction.memberCount),
+      ]);
 
-    const ranks = await getFactionRanks(faction.id);
-    const category = getFactionCategory(faction.memberCount);
+      const category = getFactionCategory(faction.memberCount);
+      const growthPercent = previousWeekPixels > 0
+        ? ((ranks.dailyPixels - previousWeekPixels) / previousWeekPixels) * 100
+        : (ranks.dailyPixels > 0 ? 100 : 0);
 
-    const previousWeekPixels = await getPreviousWeekPixels(faction.id);
-    const growthPercent = previousWeekPixels > 0
-      ? ((ranks.dailyPixels - previousWeekPixels) / previousWeekPixels) * 100
-      : (ranks.dailyPixels > 0 ? 100 : 0);
+      const compositeScore = calculateCompositeScore(ranks.dailyPixels);
 
-    const winRatio = await calculateWinRatio(faction.id);
-    const defeatedLarger = await checkDefeatedLargerFaction(faction.id, faction.memberCount);
-
-    const compositeScore = calculateCompositeScore(ranks.dailyPixels);
-
-    factionScores.push({
-      factionId: faction.id,
-      name: faction.name,
-      tag: faction.tag,
-      avatar: faction.avatar,
-      memberCount: faction.memberCount,
-      category,
-      pixelsCaptured: ranks.dailyPixels,
-      winRatio,
-      growthPercent,
-      compositeScore,
-      previousWeekPixels,
-      defeatedLargerFaction: defeatedLarger,
-    });
-  }
+      return {
+        factionId: faction.id,
+        name: faction.name,
+        tag: faction.tag,
+        avatar: faction.avatar,
+        memberCount: faction.memberCount,
+        category,
+        pixelsCaptured: ranks.dailyPixels,
+        winRatio,
+        growthPercent,
+        compositeScore,
+        previousWeekPixels,
+        defeatedLargerFaction: defeatedLarger,
+      };
+    }),
+  );
 
   return { week, factionScores };
 }

@@ -86,7 +86,7 @@
     },
     {
       "name": "Template Master",
-      "description": "Completed 10 templates",
+      "description": "Used 10 different templates in a week",
       "file": "templatemaster.gif",
       "thumb": "templatemaster.webp"
     },
@@ -95,6 +95,18 @@
       "description": "Sent 1000 chat messages",
       "file": "socialbutterfly.gif",
       "thumb": "socialbutterfly.webp"
+    },
+    {
+      "name": "Voxel Master",
+      "description": "Placed 10,000 voxels on 3D canvases in a week",
+      "file": "voxelmaster.gif",
+      "thumb": "voxelmaster.webp"
+    },
+    {
+      "name": "Rainbow Artist",
+      "description": "Used 20 different colors in a week",
+      "file": "rainbowartist.gif",
+      "thumb": "rainbowartist.webp"
     }
   ]
 }

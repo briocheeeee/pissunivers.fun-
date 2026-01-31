@@ -281,7 +281,8 @@ class SocketClient {
     let val;
     try {
       val = JSON.parse(message.slice(comma + 1));
-    } catch {
+    } catch (error) {
+      console.error(`SocketClient JSON parse error: ${error.message}`);
       return;
     }
     switch (key) {

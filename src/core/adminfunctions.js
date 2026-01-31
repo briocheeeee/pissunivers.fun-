@@ -530,7 +530,8 @@ export async function executeImageAction(
       200,
       `Successfully loaded image wth ${pxlCount}pxls to ${x}/${y}`,
     ];
-  } catch {
+  } catch (error) {
+    console.error(`ADMIN executeImageAction error: ${error.message}`);
     return [400, 'Can not read image file'];
   }
 }
@@ -551,8 +552,8 @@ socketEvents.onReq('watch', (action, ...args) => {
     } if (action === 'getPixelsFromArea') {
       return getPixelsFromArea(...args);
     }
-  } catch {
-    // silently fail when file couldn't be parsed
+  } catch (error) {
+    console.error(`ADMIN watch action error: ${error.message}`);
   }
   return null;
 });

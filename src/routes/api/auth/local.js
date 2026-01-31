@@ -4,6 +4,7 @@
 import logger from '../../../core/logger.js';
 import { getUsersByNameOrEmail, setPassword } from '../../../data/sql/User.js';
 import { compareToHash, needsRehash, rehashPassword } from '../../../utils/hash.js';
+import { validateAuthLocal } from '../../../utils/inputValidation.js';
 
 import socketEvents from '../../../socket/socketEvents.js';
 
@@ -11,6 +12,12 @@ import getMe from '../../../core/me.js';
 import { openSession } from '../../../middleware/session.js';
 
 export default async (req, res) => {
+  const validationError = validateAuthLocal(req.body);
+  if (validationError) {
+    res.status(400).json({ errors: [validationError] });
+    return;
+  }
+
   const { ttag: { t }, body: { nameoremail, password }, ip } = req;
 
   const users = await getUsersByNameOrEmail(nameoremail, null);

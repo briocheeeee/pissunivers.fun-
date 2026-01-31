@@ -16,6 +16,7 @@ import {
   validateUsername,
 } from '../../../utils/validation.js';
 import { checkCaptchaSolution } from '../../../data/redis/captcha.js';
+import { validateAuthRegister } from '../../../utils/inputValidation.js';
 
 async function validate(
   email, name, username, password, captcha, captchaid, t, gettext,
@@ -38,6 +39,12 @@ async function validate(
 }
 
 export default async (req, res) => {
+  const inputError = validateAuthRegister(req.body);
+  if (inputError) {
+    res.status(400).json({ errors: [inputError] });
+    return;
+  }
+
   const {
     email, name, password, captcha, captchaid, cs: challengeSolution,
   } = req.body;

@@ -167,28 +167,27 @@ const User = sequelize.define('User', {
   },
 });
 
-/*
- * Set default username to pp_[id],
- * since we allow third party login, we can not ensure to have good names
- * available.
- * We will allow the user to change it ONCE at a later point, if his name
- * starts with pp_.
- * NOTE: This trigger doesn't like bulk inserts!
- */
-User.afterSync(async () => {
-  await sequelize.query(
-    `CREATE TRIGGER IF NOT EXISTS set_username
-BEFORE INSERT ON Users FOR EACH ROW
-BEGIN
-  IF NEW.username IS NULL OR NEW.username = '=' THEN
-    SET NEW.username = CONCAT('pp_', (
-      SELECT AUTO_INCREMENT FROM INFORMATION_SCHEMA.TABLES
-      WHERE TABLE_NAME = 'Users' AND TABLE_SCHEMA = DATABASE()
-    ));
-  ELSE
-    SET NEW.username = REGEXP_REPLACE(NEW.username, '[^a-zA-Z0-9._-]', '');
-  END IF;
-END`);
+const sanitizeUsername = (username) => {
+  if (!username) return null;
+  return username.replace(/[^a-zA-Z0-9._-]/g, '');
+};
+
+User.beforeCreate(async (user) => {
+  if (!user.username || user.username === '=') {
+    const [[result]] = await sequelize.query(
+      `SELECT COALESCE(MAX(CAST(SUBSTRING(username, 4) AS UNSIGNED)), 0) + 1 AS nextNum
+       FROM Users WHERE username REGEXP '^pp_[0-9]+$'`,
+    );
+    user.username = `pp_${result?.nextNum || Date.now()}`;
+  } else {
+    user.username = sanitizeUsername(user.username);
+  }
+});
+
+User.beforeUpdate((user) => {
+  if (user.changed('username') && user.username && user.username !== '=') {
+    user.username = sanitizeUsername(user.username);
+  }
 });
 
 /**
@@ -279,8 +278,8 @@ export async function name2Id(name) {
     if (userq) {
       return userq.id;
     }
-  } catch {
-    // nothing
+  } catch (error) {
+    console.error(`SQL Error on name2Id: ${error.message}`);
   }
   return null;
 }
@@ -294,8 +293,8 @@ export async function id2Name(id) {
     if (user) {
       return user.name;
     }
-  } catch {
-    // nothing
+  } catch (error) {
+    console.error(`SQL Error on id2Name: ${error.message}`);
   }
   return null;
 }
@@ -335,8 +334,8 @@ export async function getNamesToIds(ids) {
     result.forEach((obj) => {
       idToNameMap.set(obj.id, obj.name);
     });
-  } catch {
-    // nothing
+  } catch (error) {
+    console.error(`SQL Error on getNamesToIds: ${error.message}`);
   }
   return idToNameMap;
 }
@@ -357,8 +356,8 @@ export async function getUserInfosToIds(ids) {
     result.forEach((obj) => {
       idToInfoMap.set(obj.id, { name: obj.name, username: obj.username });
     });
-  } catch {
-    // nothing
+  } catch (error) {
+    console.error(`SQL Error on getUserInfosToIds: ${error.message}`);
   }
   return idToInfoMap;
 }

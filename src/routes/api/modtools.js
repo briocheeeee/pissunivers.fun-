@@ -11,6 +11,12 @@ import { QueryTypes } from 'sequelize';
 import urlEncoded from '../../middleware/formData.js';
 import { requireOidc } from '../../middleware/oidc.js';
 import CanvasCleaner from '../../core/CanvasCleaner.js';
+import {
+  validateModtoolsProtAction,
+  validateModtoolsRollback,
+  validateModtoolsTextAction,
+  validateModtoolsIIDAction,
+} from '../../utils/inputValidation.js';
 import chatProvider from '../../core/ChatProvider.js';
 import { escapeMd } from '../../core/utils.js';
 import logger, { modtoolsLogger } from '../../core/logger.js';
@@ -126,6 +132,11 @@ router.post('/', async (req, res, next) => {
 
   try {
     if (req.body.protaction) {
+      const validationError = validateModtoolsProtAction(req.body);
+      if (validationError) {
+        res.status(400).send(validationError);
+        return;
+      }
       const {
         protaction, ulcoor, brcoor, canvasid,
       } = req.body;
@@ -143,6 +154,11 @@ router.post('/', async (req, res, next) => {
       return;
     }
     if (req.body.rollbackdate) {
+      const validationError = validateModtoolsRollback(req.body);
+      if (validationError) {
+        res.status(400).send(validationError);
+        return;
+      }
       // rollbackdate is date as YYYYMMdd
       // rollbacktime is time as hhmm
       const {

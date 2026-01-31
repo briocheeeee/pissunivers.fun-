@@ -5,6 +5,7 @@
 import logger from '../../../core/logger.js';
 import mailProvider from '../../../core/MailProvider.js';
 import { validateEMail } from '../../../utils/validation.js';
+import { validateRestorePassword } from '../../../utils/inputValidation.js';
 
 async function validate(email, gettext) {
   const errors = [];
@@ -15,6 +16,12 @@ async function validate(email, gettext) {
 }
 
 export default async (req, res) => {
+  const inputError = validateRestorePassword(req.body);
+  if (inputError) {
+    res.status(400).json({ errors: [inputError] });
+    return;
+  }
+
   const { ip: { ipString }, body: { email }, ttag: { gettext } } = req;
 
   const errors = validate(email, gettext);

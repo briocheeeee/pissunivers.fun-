@@ -67,11 +67,17 @@ export function validatePassword(password) {
   if (!password) {
     return t`No password given.`;
   }
-  if (password.length < 6) {
-    return t`Password must be at least 6 characters long.`;
+  if (password.length < 10) {
+    return t`Password must be at least 10 characters long.`;
   }
   if (password.length > 60) {
     return t`Password must be shorter than 60 characters.`;
+  }
+  if (!/[a-zA-Z]/.test(password)) {
+    return t`Password must contain at least one letter.`;
+  }
+  if (!/[0-9]/.test(password)) {
+    return t`Password must contain at least one number.`;
   }
   return false;
 }

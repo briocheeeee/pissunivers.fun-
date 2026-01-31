@@ -1,6 +1,7 @@
 import express from 'express';
 
 import { ensureLoggedIn } from '../../../middleware/session.js';
+import authRateLimit from '../../../middleware/authRateLimit.js';
 
 import register from './register.js';
 import verify from './verify.js';
@@ -37,11 +38,11 @@ const router = express.Router();
 
 router.get('/verify', verify);
 
-router.post('/restore_password', restore_password);
+router.post('/restore_password', authRateLimit, restore_password);
 
-router.post('/register', register);
+router.post('/register', authRateLimit, register);
 
-router.post('/local', local);
+router.post('/local', authRateLimit, local);
 
 router.use(ensureLoggedIn);
 
