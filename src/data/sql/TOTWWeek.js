@@ -73,12 +73,30 @@ const TOTWWeek = sequelize.define('TOTWWeek', {
   ],
 });
 
+function getISOWeekNumber(date) {
+  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7));
+  const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+  const weekNumber = Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+  const year = d.getUTCFullYear();
+  return { weekNumber, year };
+}
+
+function getISOWeekBounds(date) {
+  const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  const dayOfWeek = d.getUTCDay() || 7;
+  const startDate = new Date(d);
+  startDate.setUTCDate(d.getUTCDate() - dayOfWeek + 1);
+  startDate.setUTCHours(0, 0, 0, 0);
+  const endDate = new Date(startDate);
+  endDate.setUTCDate(startDate.getUTCDate() + 6);
+  endDate.setUTCHours(23, 59, 59, 999);
+  return { startDate, endDate };
+}
+
 export async function getCurrentWeek() {
   const now = new Date();
-  const startOfYear = new Date(now.getFullYear(), 0, 1);
-  const days = Math.floor((now - startOfYear) / (24 * 60 * 60 * 1000));
-  const weekNumber = Math.ceil((days + startOfYear.getDay() + 1) / 7);
-  const year = now.getFullYear();
+  const { weekNumber, year } = getISOWeekNumber(now);
 
   let week = await TOTWWeek.findOne({
     where: { weekNumber, year },
@@ -86,14 +104,7 @@ export async function getCurrentWeek() {
   });
 
   if (!week) {
-    const dayOfWeek = now.getDay();
-    const startDate = new Date(now);
-    startDate.setDate(now.getDate() - dayOfWeek + (dayOfWeek === 0 ? -6 : 1));
-    startDate.setHours(0, 0, 0, 0);
-
-    const endDate = new Date(startDate);
-    endDate.setDate(startDate.getDate() + 6);
-    endDate.setHours(23, 59, 59, 999);
+    const { startDate, endDate } = getISOWeekBounds(now);
 
     week = await TOTWWeek.create({
       weekNumber,
@@ -109,6 +120,8 @@ export async function getCurrentWeek() {
 
   return week;
 }
+
+export { getISOWeekNumber, getISOWeekBounds };
 
 export async function getWeekById(weekId) {
   return TOTWWeek.findByPk(weekId, { raw: true });

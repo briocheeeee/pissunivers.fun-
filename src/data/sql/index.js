@@ -48,6 +48,7 @@ import TOTWWeek from './TOTWWeek.js';
 import TOTWNominee from './TOTWNominee.js';
 import TOTWVote from './TOTWVote.js';
 import TOTWWinner from './TOTWWinner.js';
+import MessageReaction from './MessageReaction.js';
 import { HourlyCron } from '../../utils/cron.js';
 
 /*
@@ -718,6 +719,26 @@ TOTWNominee.hasOne(TOTWWinner, {
   foreignKey: 'nomineeId',
 });
 
+MessageReaction.belongsTo(Message, {
+  as: 'message',
+  foreignKey: 'messageId',
+  onDelete: 'CASCADE',
+});
+Message.hasMany(MessageReaction, {
+  as: 'reactions',
+  foreignKey: 'messageId',
+});
+
+MessageReaction.belongsTo(User, {
+  as: 'user',
+  foreignKey: 'oderId',
+  onDelete: 'CASCADE',
+});
+User.hasMany(MessageReaction, {
+  as: 'reactions',
+  foreignKey: 'oderId',
+});
+
 export {
   sync,
   sequelize,
@@ -743,6 +764,7 @@ export {
   TOTWNominee,
   TOTWVote,
   TOTWWinner,
+  MessageReaction,
   // constants
   USERLVL,
   THREEPID_PROVIDERS,

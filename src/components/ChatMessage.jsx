@@ -2,6 +2,7 @@ import React, { useRef } from 'react';
 import { useSelector } from 'react-redux';
 
 import MdParagraph from './markdown/MdParagraph.jsx';
+import MessageReactions from './MessageReactions.jsx';
 import {
   colorFromText,
   setBrightness,
@@ -17,6 +18,8 @@ function ChatMessage({
   country,
   msg,
   ts,
+  msgId,
+  channelId,
   openCm,
   faction,
   onFactionClick,
@@ -118,6 +121,9 @@ function ChatMessage({
             </span>
           )}
           <MdParagraph refEmbed={refEmbed} text={msg} />
+          {(!isInfo && !isEvent) && msgId && (
+            <MessageReactions messageId={msgId} channelId={channelId} />
+          )}
         </span>
         <span className="chatts">
           {getDateTimeString(ts)}

@@ -3,6 +3,7 @@ import sequelize from '../../../data/sql/sequelize.js';
 import { getFactionRankings } from '../../../data/redis/factionRanks.js';
 import { getCurrentWeek } from '../../../data/sql/TOTWWeek.js';
 import { getRecentWinners } from '../../../data/sql/TOTWNominee.js';
+import { getCachedLiveStandings, setCachedLiveStandings } from '../../../data/redis/totwCache.js';
 
 const ANTI_MONOPOLE_WEEKS = 3;
 const FACTION_SIZE_THRESHOLDS = {
@@ -27,6 +28,11 @@ export default async (req, res) => {
       });
     }
 
+    const cached = await getCachedLiveStandings();
+    if (cached) {
+      return res.json(cached);
+    }
+
     const recentWinners = await getRecentWinners(ANTI_MONOPOLE_WEEKS);
 
     const factions = await sequelize.query(
@@ -39,8 +45,8 @@ export default async (req, res) => {
 
     const rankings = await getFactionRankings(1, 1000, true);
     const rankMap = new Map();
-    if (rankings && rankings.rankings) {
-      rankings.rankings.forEach((r) => {
+    if (rankings && rankings.length) {
+      rankings.forEach((r) => {
         rankMap.set(r.id, r.dailyPixels || 0);
       });
     }
@@ -72,7 +78,7 @@ export default async (req, res) => {
       standings[category] = standings[category].slice(0, 5);
     }
 
-    return res.json({
+    const response = {
       available: true,
       week: {
         weekNumber: week.weekNumber,
@@ -80,7 +86,11 @@ export default async (req, res) => {
       },
       standings,
       updatedAt: Date.now(),
-    });
+    };
+
+    await setCachedLiveStandings(response);
+
+    return res.json(response);
   } catch (error) {
     console.error(`Error fetching live standings: ${error.message}`);
     return res.status(500).json({ errors: ['Internal server error'] });

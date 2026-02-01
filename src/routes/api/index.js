@@ -24,6 +24,8 @@ import banme from './banme.js';
 // import media from './media.js';
 import factions from './factions/index.js';
 import totw from './totw/index.js';
+import emojis from './emojis.js';
+import { addReactionHandler, removeReactionHandler } from './reactions.js';
 import avatar from './avatar.js';
 import botdetection from './botdetection.js';
 import templates from './templates.js';
@@ -85,6 +87,8 @@ router.use('/factions', factions);
 
 router.use('/totw', totw);
 
+router.get('/emojis', emojis);
+
 router.post('/lanme', banme);
 
 // router.use('/media', media);
@@ -132,6 +136,9 @@ router.post('/blockdm', blockdm);
 router.post('/privatize', privatize);
 
 router.post('/avatar', avatar);
+
+router.post('/reactions/add', addReactionHandler);
+router.post('/reactions/remove', removeReactionHandler);
 
 router.post('/adminmsg/read', async (req, res) => {
   const { messageId } = req.body;

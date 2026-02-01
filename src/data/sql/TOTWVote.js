@@ -71,7 +71,8 @@ export async function hasIPVoted(weekId, ipHash) {
   return !!vote;
 }
 
-export async function createVote(weekId, nomineeId, oderId, ipHash, userAgent) {
+export async function createVote(weekId, nomineeId, oderId, ipHash, userAgent, transaction = null) {
+  const options = { transaction };
   return TOTWVote.create({
     weekId,
     nomineeId,
@@ -79,7 +80,7 @@ export async function createVote(weekId, nomineeId, oderId, ipHash, userAgent) {
     ipHash,
     userAgent,
     votedAt: new Date(),
-  });
+  }, options);
 }
 
 export async function getVoteCountForNominee(nomineeId) {

@@ -1,0 +1,219 @@
+.badge-customization-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  margin: var(--space-4) 0;
+}
+
+.badge-customization-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3);
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  cursor: grab;
+  transition: all var(--transition-fast);
+}
+
+.badge-customization-item:hover {
+  background: var(--color-surface-active);
+}
+
+.badge-customization-item.hidden {
+  opacity: 0.5;
+}
+
+.badge-customization-item.featured {
+  border-color: var(--color-warning);
+  background: var(--color-warning-light);
+}
+
+.badge-customization-item.dragging {
+  opacity: 0.5;
+  cursor: grabbing;
+}
+
+.badge-customization-preview {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+
+.badge-customization-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.badge-customization-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.badge-customization-name {
+  display: block;
+  font-weight: var(--font-weight-semibold);
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+}
+
+.badge-customization-desc {
+  display: block;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-tertiary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.badge-customization-actions {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.badge-toggle-btn,
+.badge-featured-btn {
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  transition: all var(--transition-fast);
+}
+
+.badge-toggle-btn:hover,
+.badge-featured-btn:hover {
+  background: var(--color-surface-hover);
+}
+
+.badge-toggle-btn.active {
+  background: var(--color-success-light);
+  border-color: var(--color-success);
+}
+
+.badge-featured-btn.active {
+  background: var(--color-warning-light);
+  border-color: var(--color-warning);
+}
+
+.badge-customization-footer {
+  display: flex;
+  gap: var(--space-2);
+  margin-top: var(--space-4);
+}
+
+.admin-badge-manager {
+  text-align: left;
+  padding: var(--space-4) 0;
+}
+
+.admin-badge-manager h3 {
+  margin: 0 0 var(--space-4) 0;
+}
+
+.admin-badge-search {
+  display: flex;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+}
+
+.admin-badge-search input {
+  flex: 1;
+  padding: var(--space-2);
+}
+
+.admin-badge-user {
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  padding: var(--space-4);
+  border-radius: var(--radius-lg);
+}
+
+.admin-badge-user h4 {
+  margin: 0 0 var(--space-4) 0;
+}
+
+.admin-badge-user h5 {
+  margin: var(--space-4) 0 var(--space-2) 0;
+  font-size: var(--font-size-base);
+}
+
+.admin-badge-current {
+  margin-bottom: var(--space-4);
+}
+
+.admin-badge-empty {
+  color: var(--color-text-tertiary);
+  font-style: italic;
+}
+
+.admin-badge-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.admin-badge-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-2);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-light);
+  margin-bottom: var(--space-1);
+  border-radius: var(--radius-md);
+}
+
+.admin-badge-name {
+  font-weight: var(--font-weight-semibold);
+  min-width: 120px;
+}
+
+.admin-badge-desc {
+  flex: 1;
+  color: var(--color-text-tertiary);
+  font-size: var(--font-size-sm);
+}
+
+.admin-badge-note {
+  color: var(--color-text-tertiary);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+}
+
+.admin-badge-revoke {
+  padding: var(--space-1) var(--space-2);
+  font-size: var(--font-size-xs);
+  background: var(--color-danger);
+  color: var(--color-danger-text);
+  border: none;
+  cursor: pointer;
+  border-radius: var(--radius-sm);
+  transition: background-color var(--transition-fast);
+}
+
+.admin-badge-revoke:hover {
+  background: var(--color-danger-hover);
+}
+
+.admin-badge-form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.admin-badge-form select,
+.admin-badge-form input {
+  padding: var(--space-2);
+}
+
+.admin-badge-form button {
+  align-self: flex-start;
+}

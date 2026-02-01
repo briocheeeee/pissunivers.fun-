@@ -1,0 +1,253 @@
+.botdetection-container {
+  padding: var(--space-3);
+}
+
+.botdetection-stats {
+  display: flex;
+  gap: var(--space-5);
+  margin-bottom: var(--space-4);
+  padding: var(--space-3);
+  background: var(--color-surface-hover);
+  border-radius: var(--radius-md);
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stat-label {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-tertiary);
+}
+
+.stat-value {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+}
+
+.stat-value.pending {
+  color: var(--color-warning);
+}
+
+.stat-value.banned {
+  color: var(--color-danger);
+}
+
+.botdetection-filters {
+  display: flex;
+  gap: var(--space-4);
+  margin-bottom: var(--space-4);
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.botdetection-filters label {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--font-size-sm);
+}
+
+.botdetection-filters select {
+  padding: var(--space-1) var(--space-2);
+  font-size: var(--font-size-sm);
+}
+
+.botdetection-error {
+  background: var(--color-danger-light);
+  color: var(--color-danger);
+  padding: var(--space-3);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-4);
+}
+
+.botdetection-content {
+  display: flex;
+  gap: var(--space-5);
+}
+
+.botdetection-list {
+  flex: 1;
+  min-width: 0;
+  overflow-x: auto;
+}
+
+.botdetection-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--font-size-sm);
+}
+
+.botdetection-table th,
+.botdetection-table td {
+  padding: var(--space-2) var(--space-3);
+  text-align: left;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.botdetection-table th {
+  background: var(--color-surface-hover);
+  font-weight: var(--font-weight-semibold);
+}
+
+.botdetection-table tr:hover {
+  background: var(--color-surface-hover);
+}
+
+.botdetection-table tr.selected {
+  background: var(--color-primary-light);
+}
+
+.level-badge {
+  display: inline-block;
+  padding: 2px var(--space-2);
+  border-radius: var(--radius-sm);
+  color: white;
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  text-transform: uppercase;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 2px var(--space-2);
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+}
+
+.status-badge.pending {
+  background: var(--color-warning-light);
+  color: var(--color-warning);
+}
+
+.status-badge.dismissed {
+  background: var(--color-success-light);
+  color: var(--color-success);
+}
+
+.status-badge.banned {
+  background: var(--color-danger-light);
+  color: var(--color-danger);
+}
+
+.botdetection-detail-panel {
+  width: 400px;
+  flex-shrink: 0;
+  border-left: 1px solid var(--color-border);
+  padding-left: var(--space-5);
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+.botdetection-detail h3 {
+  margin: 0 0 var(--space-4) 0;
+  font-size: var(--font-size-lg);
+}
+
+.detail-section {
+  margin-bottom: var(--space-5);
+}
+
+.detail-section h4 {
+  margin: 0 0 var(--space-3) 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-tertiary);
+  border-bottom: 1px solid var(--color-border-light);
+  padding-bottom: var(--space-2);
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-2);
+}
+
+.detail-item {
+  font-size: var(--font-size-sm);
+}
+
+.detail-label {
+  color: var(--color-text-tertiary);
+}
+
+.detail-value {
+  font-weight: var(--font-weight-medium);
+}
+
+.flags-list {
+  margin: 0;
+  padding-left: var(--space-5);
+  font-size: var(--font-size-sm);
+}
+
+.flags-list li {
+  margin-bottom: var(--space-1);
+  font-family: var(--font-mono);
+}
+
+.recording-info {
+  font-size: var(--font-size-sm);
+}
+
+.recording-info p {
+  margin: var(--space-1) 0;
+}
+
+.detail-actions {
+  display: flex;
+  gap: var(--space-3);
+  margin-top: var(--space-5);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--color-border);
+}
+
+.btn-dismiss {
+  padding: var(--space-2) var(--space-4);
+  background: var(--color-secondary);
+  color: var(--color-secondary-text);
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+  transition: background-color var(--transition-fast);
+}
+
+.btn-dismiss:hover {
+  background: var(--color-secondary-hover);
+}
+
+.btn-ban {
+  padding: var(--space-2) var(--space-4);
+  background: var(--color-danger);
+  color: var(--color-danger-text);
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+  transition: background-color var(--transition-fast);
+}
+
+.btn-ban:hover {
+  background: var(--color-danger-hover);
+}
+
+.btn-dismiss:disabled,
+.btn-ban:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.detail-decision {
+  margin-top: var(--space-4);
+  padding: var(--space-3);
+  background: var(--color-surface-hover);
+  border-radius: var(--radius-md);
+  font-size: var(--font-size-sm);
+}
+
+.detail-decision p {
+  margin: var(--space-2) 0;
+}

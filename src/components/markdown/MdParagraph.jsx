@@ -6,6 +6,7 @@ import React from 'react';
 import MdLink from './MdLink.jsx';
 import MdMention from './MdMention.jsx';
 import MdLocalMedia from './MdLocalMedia.jsx';
+import MdTimestamp from './MdTimestamp.jsx';
 import { parseParagraph } from '../../utils/markdown/MarkdownParser.js';
 
 /**
@@ -35,6 +36,12 @@ const MdParagraph = ({ text, pArray, refEmbed }) => {
         return (<code>{part[1]}</code>);
       case '*':
         return (
+          <em>
+            <MdParagraph pArray={part[1]} />
+          </em>
+        );
+      case '**':
+        return (
           <strong>
             <MdParagraph pArray={part[1]} />
           </strong>
@@ -45,17 +52,34 @@ const MdParagraph = ({ text, pArray, refEmbed }) => {
             <MdParagraph pArray={part[1]} />
           </s>
         );
-      case '+':
+      case '_':
         return (
           <em>
             <MdParagraph pArray={part[1]} />
           </em>
         );
-      case '_':
+      case '__':
         return (
           <u>
             <MdParagraph pArray={part[1]} />
           </u>
+        );
+      case 't':
+        return (
+          <MdTimestamp timestamp={part[1]} format={part[2]} />
+        );
+      case 'emoji':
+        return (
+          <img
+            className="chat-emoji"
+            src={`/emojis/${part[1]}.gif`}
+            alt={`:${part[1]}:`}
+            title={`:${part[1]}:`}
+            onError={(e) => {
+              e.target.onerror = null;
+              e.target.src = `/emojis/${part[1]}.jpg`;
+            }}
+          />
         );
       case 'img': {
         const link = part[2];

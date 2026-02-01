@@ -486,3 +486,92 @@ tr:nth-child(odd) {
 .template-estimate-refresh:hover {
   color: #fffacd;
 }
+
+.emoji-picker {
+  background: #1a0f0f;
+  border-color: #cb4646;
+  box-shadow: 0 2px 8px rgba(203,70,70,0.3);
+}
+
+.emoji-picker-search {
+  background: #0f0808;
+  border-color: #cb4646;
+  color: #fffacd;
+}
+
+.emoji-picker-item:hover {
+  background: #2a1a1a;
+}
+
+.emoji-picker-loading,
+.emoji-picker-empty {
+  color: #ff6b6b;
+}
+
+.chat-emoji {
+  width: 18px;
+  height: 18px;
+}
+
+.message-reactions {
+  display: inline-flex;
+  margin-left: 4px;
+}
+
+.reaction-badge {
+  background: #2a1a1a;
+  border-color: transparent;
+  border-radius: 10px;
+  padding: 1px 4px;
+  gap: 2px;
+  font-size: 10px;
+  line-height: 1;
+}
+
+.reaction-badge:hover {
+  background: #3a2020;
+  transform: scale(1.05);
+}
+
+.reaction-badge.reacted {
+  border-color: #ff6b6b;
+  background: #3a1515;
+}
+
+.reaction-emoji {
+  width: 14px;
+  height: 14px;
+}
+
+.reaction-count {
+  color: #cb4646;
+  font-size: 10px;
+}
+
+.reaction-add-btn {
+  border-color: #cb4646;
+  color: #cb4646;
+  border-radius: 9px;
+  width: 18px;
+  height: 18px;
+  font-size: 12px;
+  opacity: 0.5;
+}
+
+.reaction-add-btn:hover {
+  border-color: #ff6b6b;
+  color: #fffacd;
+  background: #3a1515;
+  opacity: 1;
+}
+
+.md-timestamp {
+  background-color: #2a1a1a;
+  border: 1px solid #cb4646;
+  padding: 1px 4px;
+  font-size: 11px;
+}
+
+.md-timestamp:hover {
+  background-color: #3a2020;
+}

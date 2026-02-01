@@ -37,6 +37,8 @@ import {
   addChatChannel,
   removeChatChannel,
   receiveVoidBoost,
+  receiveTypingStart,
+  receiveReaction,
 } from '../store/actions/socket.js';
 import {
   pRefresh, fishAppears, catchedFish, pAlert, setCoolDownModifiers,
@@ -257,6 +259,12 @@ class SocketClient {
     );
   }
 
+  sendTypingStart(channelId) {
+    this.sendWhenReady(
+      `ts,${JSON.stringify([channelId])}`,
+    );
+  }
+
   onMessage({ data: message }) {
     try {
       if (typeof message === 'string') {
@@ -310,6 +318,12 @@ class SocketClient {
           val.message,
           'info',
         ));
+        break;
+      case 'ts':
+        this.store.dispatch(receiveTypingStart(...val));
+        break;
+      case 'rx':
+        this.store.dispatch(receiveReaction(...val));
         break;
       default:
         // nothing

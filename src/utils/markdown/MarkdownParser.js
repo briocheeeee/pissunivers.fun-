@@ -11,10 +11,32 @@ import MString from './MString.js';
 
 let parseMText = () => {};
 
+function parseMParagraphUntilDouble(text, opts, chr) {
+  const pArray = [];
+  let pStart = text.iter;
+  while (!text.done()) {
+    const curChr = text.getChar();
+    if (curChr === '\n') {
+      break;
+    }
+    if (curChr === chr && text.txt[text.iter + 1] === chr) {
+      if (pStart !== text.iter) {
+        pArray.push(text.slice(pStart));
+      }
+      return pArray;
+    }
+    text.moveForward();
+  }
+  if (pStart !== text.iter) {
+    pArray.push(text.slice(pStart));
+  }
+  return pArray;
+}
+
 /**
  * Parse Paragraph till next newline or breakChar (for recursion)
  */
-const paraElems = ['*', '~', '+', '_'];
+const paraElems = ['*', '~', '_'];
 function parseMParagraph(text, opts, breakChar) {
   const pArray = [];
   let pStart = text.iter;
@@ -52,11 +74,78 @@ function parseMParagraph(text, opts, breakChar) {
         pArray.push(['l', null, `${window.location.origin}/${coords}`]);
         pStart = text.iter;
       }
-    } else if (paraElems.includes(chr)) {
+    } else if (chr === ':') {
       /*
-       * bold, cursive, underline, etc.
+       * Custom emoji :emoji_name:
        */
       const oldPos = text.iter;
+      const emojiMatch = text.txt.slice(text.iter).match(/^:([a-zA-Z0-9_-]+):/);
+      if (emojiMatch) {
+        if (pStart !== oldPos) {
+          pArray.push(text.slice(pStart, oldPos));
+        }
+        const emojiName = emojiMatch[1];
+        pArray.push(['emoji', emojiName]);
+        text.move(emojiMatch[0].length);
+        pStart = text.iter;
+        continue;
+      }
+      /*
+       * pure link check (existing)
+       */
+      const link = text.checkIfLink();
+      if (link !== null) {
+        const startLink = text.iter - link.length;
+        if (pStart < startLink) {
+          pArray.push(text.slice(pStart, startLink));
+        }
+        pArray.push(['l', null, link]);
+        pStart = text.iter;
+        continue;
+      }
+    } else if (chr === '<' && text.txt.startsWith('<t:', text.iter)) {
+      /*
+       * Discord-style timestamp <t:1234567890:R>
+       */
+      const oldPos = text.iter;
+      const timestampMatch = text.txt.slice(text.iter).match(/^<t:(\d+)(?::([tTdDfFR]))?>/);
+      if (timestampMatch) {
+        if (pStart !== oldPos) {
+          pArray.push(text.slice(pStart, oldPos));
+        }
+        const timestamp = parseInt(timestampMatch[1], 10);
+        const format = timestampMatch[2] || 'f';
+        pArray.push(['t', timestamp, format]);
+        text.move(timestampMatch[0].length);
+        pStart = text.iter;
+        continue;
+      }
+    } else if (paraElems.includes(chr)) {
+      /*
+       * Discord-style formatting: *, **, _, __, ~
+       */
+      const oldPos = text.iter;
+      const nextChr = text.txt[text.iter + 1];
+      const isDouble = nextChr === chr;
+
+      if (isDouble) {
+        text.move(2);
+        const doubleChar = chr + chr;
+        const children = parseMParagraphUntilDouble(text, opts, chr);
+        if (text.txt[text.iter] === chr && text.txt[text.iter + 1] === chr) {
+          if (pStart !== oldPos) {
+            pArray.push(text.slice(pStart, oldPos));
+          }
+          pArray.push([doubleChar, children]);
+          text.move(2);
+          pStart = text.iter;
+          continue;
+        } else {
+          text.setIter(oldPos);
+        }
+      }
+
+      text.setIter(oldPos);
       text.moveForward();
       const children = parseMParagraph(text, opts, chr);
       if (text.getChar() === chr) {
@@ -80,20 +169,6 @@ function parseMParagraph(text, opts, breakChar) {
         }
         pArray.push(['c', text.slice(oldPos + 1)]);
         pStart = text.iter + 1;
-      }
-    } else if (chr === ':') {
-      /*
-       * pure link
-       */
-      const link = text.checkIfLink();
-      if (link !== null) {
-        const startLink = text.iter - link.length;
-        if (pStart < startLink) {
-          pArray.push(text.slice(pStart, startLink));
-        }
-        pArray.push(['l', null, link]);
-        pStart = text.iter;
-        continue;
       }
     } else if (chr === '[') {
       /*

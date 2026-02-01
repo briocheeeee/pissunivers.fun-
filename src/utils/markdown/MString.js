@@ -186,13 +186,14 @@ export default class MString {
     return [y, z];
   }
 
-  /*
-   * Convoluted way to check if the current ':' is part of a link
-   * we do not check for a 'http' because we might support application links
-   * like tg://... or discord://..
-   * returns the link or false if there is none
-   * moves iter forward to after the link, if there's one
-   */
+  static ALLOWED_PROTOCOLS = ['http://', 'https://'];
+
+  static isSafeUrl(url) {
+    if (!url || typeof url !== 'string') return false;
+    const lowerUrl = url.toLowerCase().trim();
+    return MString.ALLOWED_PROTOCOLS.some((proto) => lowerUrl.startsWith(proto));
+  }
+
   checkIfLink(enclosure = false) {
     let cIter = this.iter;
     if (!this.txt.startsWith('://', cIter) || cIter < 3) {
@@ -214,14 +215,15 @@ export default class MString {
       return null;
     }
 
-    /* special case where someone pasted a http link after a text
-     * without space in between
-     */
     let link = this.txt.slice(linkStart, cIter);
     const httpOc = link.indexOf('http');
     if (httpOc !== -1 && httpOc !== 0) {
       linkStart += httpOc;
       link = this.txt.slice(linkStart, cIter);
+    }
+
+    if (!MString.isSafeUrl(link)) {
+      return null;
     }
 
     this.iter = cIter;

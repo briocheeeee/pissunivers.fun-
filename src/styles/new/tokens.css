@@ -1,0 +1,211 @@
+:root {
+  --font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+
+  --font-size-xs: 10px;
+  --font-size-sm: 12px;
+  --font-size-base: 14px;
+  --font-size-md: 15px;
+  --font-size-lg: 17px;
+  --font-size-xl: 19px;
+  --font-size-2xl: 22px;
+  --font-size-3xl: 26px;
+  --font-size-4xl: 32px;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.2;
+  --line-height-normal: 1.45;
+  --line-height-relaxed: 1.6;
+
+  --radius-none: 0;
+  --radius-sm: 3px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --radius-xl: 14px;
+  --radius-2xl: 20px;
+  --radius-full: 9999px;
+
+  --space-0: 0;
+  --space-1: 3px;
+  --space-2: 7px;
+  --space-3: 11px;
+  --space-4: 15px;
+  --space-5: 18px;
+  --space-6: 22px;
+  --space-8: 30px;
+  --space-10: 38px;
+  --space-12: 46px;
+  --space-16: 60px;
+
+  --transition-fast: 100ms ease;
+  --transition-normal: 160ms ease;
+  --transition-slow: 240ms ease-in-out;
+
+  --z-dropdown: 100;
+  --z-modal: 200;
+  --z-overlay: 150;
+  --z-tooltip: 300;
+  --z-toast: 400;
+
+  --cursor-default: default;
+  --cursor-move: move;
+  --cursor-default-color: url(/cursors/default-color-1.png), default;
+  --cursor-default-template: url(/cursors/default-template-1.png), default;
+  --cursor-default-history: url(/cursors/default-history-1.png), default;
+  --cursor-default-color-on: url(/cursors/default-color-on-1.png), default;
+  --cursor-default-template-on: url(/cursors/default-template-on-1.png), default;
+  --cursor-default-history-on: url(/cursors/default-history-on-1.png), default;
+  --cursor-move-color: url(/cursors/move-color-1.png), move;
+  --cursor-move-template: url(/cursors/move-template-1.png), move;
+  --cursor-move-history: url(/cursors/move-history-1.png), move;
+}
+
+[data-theme="light"] {
+  --color-bg: #f5f5f3;
+  --color-bg-alt: #fafaf8;
+  --color-surface: #fefefe;
+  --color-surface-hover: #f0eeec;
+  --color-surface-active: #e6e4e1;
+  --color-surface-elevated: #ffffff;
+  --color-surface-overlay: rgba(254, 254, 254, 0.94);
+
+  --color-text: #222220;
+  --color-text-secondary: #58564f;
+  --color-text-tertiary: #7a786f;
+  --color-text-disabled: #a09e95;
+  --color-text-inverse: #fefefe;
+
+  --color-border: #d8d6d0;
+  --color-border-light: #eae8e4;
+  --color-border-focus: #3d7dd8;
+
+  --color-primary: #3d7dd8;
+  --color-primary-hover: #2c5fa8;
+  --color-primary-active: #244d8a;
+  --color-primary-light: #e6eff9;
+  --color-primary-text: #fefefe;
+
+  --color-secondary: #58564f;
+  --color-secondary-hover: #45433d;
+  --color-secondary-active: #36342f;
+  --color-secondary-light: #f0eeec;
+  --color-secondary-text: #fefefe;
+
+  --color-success: #2a8a7e;
+  --color-success-hover: #1f7268;
+  --color-success-light: #daf3ef;
+  --color-success-text: #fefefe;
+
+  --color-warning: #d4880a;
+  --color-warning-hover: #b37208;
+  --color-warning-light: #fdf4dc;
+  --color-warning-text: #222220;
+
+  --color-danger: #c43c3c;
+  --color-danger-hover: #a32e2e;
+  --color-danger-light: #fce6e6;
+  --color-danger-text: #fefefe;
+
+  --color-info: #2878b0;
+  --color-info-hover: #1e6090;
+  --color-info-light: #e4f1fa;
+  --color-info-text: #fefefe;
+
+  --color-link: #3d7dd8;
+  --color-link-hover: #2c5fa8;
+  --color-link-visited: #6b4a9e;
+
+  --shadow-sm: 0 1px 2px rgba(34, 34, 32, 0.06);
+  --shadow-md: 0 3px 8px -2px rgba(34, 34, 32, 0.1), 0 1px 3px rgba(34, 34, 32, 0.06);
+  --shadow-lg: 0 8px 20px -4px rgba(34, 34, 32, 0.12), 0 3px 8px -2px rgba(34, 34, 32, 0.06);
+  --shadow-xl: 0 16px 32px -6px rgba(34, 34, 32, 0.14), 0 6px 12px -3px rgba(34, 34, 32, 0.08);
+
+  --overlay-bg: rgba(34, 34, 32, 0.35);
+
+  --input-bg: #fefefe;
+  --input-border: #d8d6d0;
+  --input-border-hover: #b8b6b0;
+  --input-border-focus: #3d7dd8;
+  --input-placeholder: #a09e95;
+
+  --scrollbar-track: #f0eeec;
+  --scrollbar-thumb: #d8d6d0;
+  --scrollbar-thumb-hover: #b8b6b0;
+}
+
+[data-theme="dark"] {
+  --color-bg: #121210;
+  --color-bg-alt: #1a1918;
+  --color-surface: #201f1d;
+  --color-surface-hover: #2c2a28;
+  --color-surface-active: #383634;
+  --color-surface-elevated: #282624;
+  --color-surface-overlay: rgba(32, 31, 29, 0.96);
+
+  --color-text: #e4e2de;
+  --color-text-secondary: #a8a6a0;
+  --color-text-tertiary: #7e7c76;
+  --color-text-disabled: #5a5854;
+  --color-text-inverse: #201f1d;
+
+  --color-border: #3e3c38;
+  --color-border-light: #2e2c2a;
+  --color-border-focus: #7aade8;
+
+  --color-primary: #7aade8;
+  --color-primary-hover: #9cc2f0;
+  --color-primary-active: #b8d4f6;
+  --color-primary-light: rgba(122, 173, 232, 0.14);
+  --color-primary-text: #201f1d;
+
+  --color-secondary: #a8a6a0;
+  --color-secondary-hover: #c4c2bc;
+  --color-secondary-active: #dcdad4;
+  --color-secondary-light: rgba(168, 166, 160, 0.12);
+  --color-secondary-text: #201f1d;
+
+  --color-success: #4cc9a0;
+  --color-success-hover: #72d8b6;
+  --color-success-light: rgba(76, 201, 160, 0.14);
+  --color-success-text: #201f1d;
+
+  --color-warning: #e8b44a;
+  --color-warning-hover: #f0c870;
+  --color-warning-light: rgba(232, 180, 74, 0.14);
+  --color-warning-text: #201f1d;
+
+  --color-danger: #e87a7a;
+  --color-danger-hover: #f09a9a;
+  --color-danger-light: rgba(232, 122, 122, 0.14);
+  --color-danger-text: #201f1d;
+
+  --color-info: #5ab8e8;
+  --color-info-hover: #80caf0;
+  --color-info-light: rgba(90, 184, 232, 0.14);
+  --color-info-text: #201f1d;
+
+  --color-link: #7aade8;
+  --color-link-hover: #9cc2f0;
+  --color-link-visited: #b898e8;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.35);
+  --shadow-md: 0 3px 10px -2px rgba(0, 0, 0, 0.45), 0 2px 4px rgba(0, 0, 0, 0.25);
+  --shadow-lg: 0 8px 24px -4px rgba(0, 0, 0, 0.55), 0 4px 10px -2px rgba(0, 0, 0, 0.3);
+  --shadow-xl: 0 18px 40px -8px rgba(0, 0, 0, 0.6), 0 8px 16px -4px rgba(0, 0, 0, 0.35);
+
+  --overlay-bg: rgba(0, 0, 0, 0.55);
+
+  --input-bg: #2c2a28;
+  --input-border: #3e3c38;
+  --input-border-hover: #5a5854;
+  --input-border-focus: #7aade8;
+  --input-placeholder: #5a5854;
+
+  --scrollbar-track: #201f1d;
+  --scrollbar-thumb: #3e3c38;
+  --scrollbar-thumb-hover: #5a5854;
+}

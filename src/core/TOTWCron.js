@@ -1,5 +1,6 @@
 import { DailyCron } from '../utils/cron.js';
 import logger from './logger.js';
+import socketEvents from '../socket/socketEvents.js';
 import {
   getCurrentWeek,
   updateWeekStatus,
@@ -28,6 +29,9 @@ async function processTOTWWeekly() {
       logger.info('TOTW: Generating nominees and opening voting');
       await generateNominees();
       await updateWeekStatus(week.id, { votingOpen: true });
+      socketEvents.broadcastAnnouncement(
+        '🏆 **Team of the Week voting is now open!** Vote for your favorite faction before Sunday 23:00 UTC.',
+      );
       logger.info('TOTW: Voting is now open');
     }
 
@@ -37,6 +41,10 @@ async function processTOTWWeekly() {
       if (result.error) {
         logger.error(`TOTW: Error finalizing week: ${result.error}`);
       } else {
+        const winnerNames = result.winners.map((w) => w.factionName).slice(0, 3).join(', ');
+        socketEvents.broadcastAnnouncement(
+          `🎉 **Team of the Week winners announced!** Congratulations to ${winnerNames}${result.winners.length > 3 ? ' and more' : ''}!`,
+        );
         logger.info(`TOTW: Week finalized with ${result.winners.length} winners`);
       }
     }

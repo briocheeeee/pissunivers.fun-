@@ -215,6 +215,18 @@ class SocketEvents extends EventEmitter {
     );
   }
 
+  broadcastTypingStart(channelId, userId, userName) {
+    this.emit('typingStart', channelId, userId, userName);
+  }
+
+  recvTypingStart(channelId, userId, userName) {
+    this.emit('recvTypingStart', channelId, userId, userName);
+  }
+
+  broadcastReaction(channelId, messageId, oderId, emoji, action) {
+    this.emit('reaction', channelId, messageId, oderId, emoji, action);
+  }
+
   /**
    * send an announcmeent to all players
    * @param text can be markdown text

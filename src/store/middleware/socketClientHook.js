@@ -43,6 +43,12 @@ export default (store) => (next) => (action) => {
       break;
     }
 
+    case 's/REQ_TYPING_START': {
+      const { channel } = action;
+      SocketClient.sendTypingStart(channel);
+      break;
+    }
+
     case 'RELOAD_URL':
     case 's/SELECT_CANVAS':
     case 's/REC_CANVASES': {

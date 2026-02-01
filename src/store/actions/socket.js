@@ -103,3 +103,23 @@ export function receivePlacePixels(args) {
   args.type = 'REC_SET_PXLS';
   return args;
 }
+
+export function receiveTypingStart(channelId, userId, userName) {
+  return {
+    type: 's/REC_TYPING_START',
+    channelId,
+    userId,
+    userName,
+  };
+}
+
+export function receiveReaction(channelId, messageId, oderId, emoji, action) {
+  return {
+    type: 's/REC_REACTION',
+    channelId,
+    messageId,
+    oderId,
+    emoji,
+    action,
+  };
+}

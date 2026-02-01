@@ -192,6 +192,29 @@ class SocketServer {
       });
     });
 
+    socketEvents.on('typingStart', (channelId, oderId, userName) => {
+      const text = `ts,${JSON.stringify([channelId, oderId, userName])}`;
+      const clientArray = [];
+      this.wss.clients.forEach((ws) => {
+        if (ws.user?.id !== oderId
+          && chatProvider.userHasChannelAccess(ws.user, ws.lang, channelId)) {
+          clientArray.push(ws);
+        }
+      });
+      SocketServer.broadcastSelected(clientArray, text);
+    });
+
+    socketEvents.on('reaction', (channelId, messageId, oderId, emoji, action) => {
+      const text = `rx,${JSON.stringify([channelId, messageId, oderId, emoji, action])}`;
+      const clientArray = [];
+      this.wss.clients.forEach((ws) => {
+        if (chatProvider.userHasChannelAccess(ws.user, ws.lang, channelId)) {
+          clientArray.push(ws);
+        }
+      });
+      SocketServer.broadcastSelected(clientArray, text);
+    });
+
     socketEvents.on('rateLimitTrigger', (ip, blockTime) => {
       rateLimiter.forceTrigger(ip, blockTime);
       const amount = this.killAllWsByUerIp(ip);
@@ -516,6 +539,15 @@ class SocketServer {
           socketEvents.recvChatMessage(
             user, ws.ip, message, val[1], ws.lang, ws.ttag,
           );
+          break;
+        }
+        case 'ts': {
+          // typing start
+          if (!user || !user.id) {
+            return;
+          }
+          const channelId = val[0];
+          socketEvents.recvTypingStart(channelId, user.id, user.name);
           break;
         }
         case 'cs': {

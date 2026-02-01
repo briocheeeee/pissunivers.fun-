@@ -3,7 +3,7 @@
  * Also provides previews
  * Links are assumed to start with protocol (http:// etc.)
  */
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { createPortal } from 'react-dom';
 import { HiArrowsExpand, HiStop } from 'react-icons/hi';
 import { HiWindow } from 'react-icons/hi2';
@@ -14,6 +14,14 @@ import EMBEDS from '../embeds/index.js';
 import { isPopUp } from '../windows/popUpAvailable.js';
 import useLink from '../hooks/link.js';
 import { cdn, u } from '../../utils/utag.js';
+
+const ALLOWED_PROTOCOLS = ['http://', 'https://'];
+
+function isSafeUrl(url) {
+  if (!url || typeof url !== 'string') return false;
+  const lowerUrl = url.toLowerCase().trim();
+  return ALLOWED_PROTOCOLS.some((proto) => lowerUrl.startsWith(proto));
+}
 
 const titleAllowed = [
   'odysee',
@@ -32,13 +40,21 @@ const titleAllowed = [
 const MdLink = ({ href, title, refEmbed }) => {
   const [showEmbed, setShowEmbed] = useState(false);
 
-  const desc = getLinkDesc(href);
-
   const link = useLink();
 
-  // treat pixuniverse links separately
-  if (desc === window.location.host && href.includes('/#')) {
-    const coords = href.substring(href.indexOf('/#') + 1);
+  const safeHref = useMemo(() => {
+    if (!isSafeUrl(href)) return null;
+    return href;
+  }, [href]);
+
+  if (!safeHref) {
+    return <span className="unsafe-link">{title || href}</span>;
+  }
+
+  const desc = getLinkDesc(safeHref);
+
+  if (desc === window.location.host && safeHref.includes('/#')) {
+    const coords = safeHref.substring(safeHref.indexOf('/#') + 1);
     if (isPopUp() && window.opener && !window.opener.closed) {
       return (
         <a href={u`/${coords}`} target="main">{title || coords}</a>
@@ -50,7 +66,7 @@ const MdLink = ({ href, title, refEmbed }) => {
   }
 
   const embedObj = EMBEDS[desc];
-  const embedAvailable = embedObj && embedObj[1](href);
+  const embedAvailable = embedObj && embedObj[1](safeHref);
   const Embed = embedObj && embedObj[0];
 
 
@@ -58,15 +74,15 @@ const MdLink = ({ href, title, refEmbed }) => {
   if (title && titleAllowed.includes(desc)) {
     parsedTitle = title;
   } else if (embedAvailable && embedObj[2]) {
-    parsedTitle = embedObj[2](href);
+    parsedTitle = embedObj[2](safeHref);
   } else {
-    parsedTitle = href;
+    parsedTitle = safeHref;
   }
 
   return (
     <>
       <a
-        href={href}
+        href={safeHref}
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -93,7 +109,7 @@ const MdLink = ({ href, title, refEmbed }) => {
               link('PLAYER', {
                 reuse: true,
                 target: 'blank',
-                args: { uri: href },
+                args: { uri: safeHref },
               });
             }}
             title={t`Open in PopUp`}
@@ -122,10 +138,10 @@ const MdLink = ({ href, title, refEmbed }) => {
       {showEmbed && embedAvailable && (
         (refEmbed && refEmbed.current)
           ? createPortal(
-            <Embed url={href} maxHeight={300} />,
+            <Embed url={safeHref} maxHeight={300} />,
             refEmbed.current,
           ) : (
-            <Embed url={href} />
+            <Embed url={safeHref} />
           )
       )}
     </>

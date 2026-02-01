@@ -377,6 +377,13 @@ export function sendChatMessage(
   };
 }
 
+export function sendTypingStart(channel) {
+  return {
+    type: 's/REQ_TYPING_START',
+    channel,
+  };
+}
+
 export function logoutUser(
 ) {
   return {

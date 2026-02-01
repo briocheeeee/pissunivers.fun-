@@ -1,0 +1,141 @@
+.repmsg {
+  user-select: text;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.pressed {
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.25);
+}
+
+.grecaptcha-badge {
+  visibility: hidden;
+}
+
+#mvmctrls {
+  transition: opacity 0.25s ease;
+  opacity: 0;
+}
+
+#mvmctrls.show {
+  opacity: 1;
+}
+
+#templatemvmctrls {
+  transition: opacity 0.25s ease;
+  opacity: 0;
+}
+
+#templatemvmctrls.show {
+  opacity: 1;
+}
+
+.tmpmvmbtn {
+  z-index: 5;
+}
+
+.tmpmvmbtn-done {
+  background-color: var(--color-success-light);
+  border-color: var(--color-success);
+}
+
+@keyframes sway {
+  0%, 100% { transform: rotate(var(--current-angle)) rotate(-14deg); }
+  50% { transform: rotate(var(--current-angle)) rotate(14deg); }
+}
+
+@keyframes glowing {
+  0% { box-shadow: 0 0 4px var(--color-text-disabled); }
+  50% { box-shadow: 0 0 14px var(--color-text-tertiary); }
+  100% { box-shadow: 0 0 4px var(--color-text-secondary); }
+}
+
+@media (max-width: 604px) {
+  .Alert {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: none;
+    max-width: none;
+    max-height: none;
+    outline: none;
+    border: none;
+    border-radius: 0 !important;
+  }
+
+  .overlay {
+    display: none;
+  }
+
+  .win-topbar {
+    height: 40px;
+  }
+
+  .win-topbtn {
+    height: 32px;
+    min-width: 32px;
+    line-height: 32px;
+    font-size: var(--font-size-xl);
+  }
+
+  .win-content {
+    height: calc(100% - 44px);
+  }
+}
+
+.fs > .popup-fsbtn-wrapper > .popup-fsbtn {
+  opacity: 0;
+  visibility: hidden;
+  border-radius: 0;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.fs > .popup-fsbtn-wrapper:hover > .popup-fsbtn {
+  opacity: 1;
+  visibility: visible;
+}
+
+.popup-modal.fs {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transform: none;
+  max-width: none;
+  max-height: none;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  outline: none;
+  border: none;
+  border-radius: 0 !important;
+}
+
+@media (max-width: 750px) {
+  .popup-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: none;
+    max-width: none;
+    max-height: none;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    outline: none;
+    border: none;
+    border-radius: 0 !important;
+  }
+
+  .popup-fsbtn {
+    display: none;
+  }
+}

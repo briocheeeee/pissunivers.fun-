@@ -89,6 +89,14 @@ export class ChatProvider {
         );
       }
     });
+
+    socketEvents.on('recvTypingStart', (channelId, userId, userName) => {
+      this.broadcastTypingStart(channelId, userId, userName);
+    });
+  }
+
+  broadcastTypingStart(channelId, userId, userName) {
+    socketEvents.broadcastTypingStart(channelId, userId, userName);
   }
 
   async initialize() {

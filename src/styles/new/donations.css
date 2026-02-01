@@ -1,0 +1,87 @@
+.donation-tier-card {
+  background-color: var(--color-surface);
+  box-shadow: var(--shadow-lg);
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  transition: all var(--transition-fast);
+}
+
+.donation-tier-card:hover {
+  box-shadow: var(--shadow-xl);
+}
+
+.donation-tier-card.vip.current {
+  box-shadow: 0 0 0 3px var(--color-warning);
+}
+
+.donation-tier-card.premium.current {
+  box-shadow: 0 0 0 3px #8b5cf6;
+}
+
+.tier-body {
+  background-color: var(--color-surface-hover);
+  padding: var(--space-4);
+}
+
+.donations-info {
+  background-color: var(--color-surface-hover);
+  padding: var(--space-3);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-4);
+}
+
+.donation-modal {
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  border-radius: var(--radius-xl);
+  padding: var(--space-5);
+  box-shadow: var(--shadow-xl);
+}
+
+.modal-close {
+  color: var(--color-text);
+  background: none;
+  border: none;
+  font-size: var(--font-size-xl);
+  cursor: pointer;
+  transition: opacity var(--transition-fast);
+}
+
+.modal-close:hover {
+  opacity: 0.7;
+}
+
+.modal-tier-info {
+  background-color: var(--color-surface-hover);
+  padding: var(--space-3);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-4);
+}
+
+.provider-btn {
+  background-color: var(--color-surface-hover);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-3);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.provider-btn:hover {
+  background-color: var(--color-surface-active);
+}
+
+.provider-btn.selected {
+  border-color: var(--color-primary);
+  background-color: var(--color-primary-light);
+}
+
+.donation-error {
+  background-color: var(--color-danger-light);
+  color: var(--color-danger);
+  padding: var(--space-3);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-4);
+}

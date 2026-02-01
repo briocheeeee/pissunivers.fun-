@@ -109,8 +109,14 @@ export function getFactionCategory(memberCount) {
   return TOTW_CATEGORY.LARGE;
 }
 
-export function calculateCompositeScore(pixelsCaptured) {
-  return pixelsCaptured;
+export function calculateCompositeScore(pixelsCaptured, memberCount = 1, growthPercent = 0) {
+  const safeMembers = Math.max(memberCount, 1);
+  const pixelsPerMember = pixelsCaptured / safeMembers;
+  const normalizedPixels = pixelsCaptured > 0 ? Math.log10(pixelsCaptured + 1) * 100 : 0;
+  const efficiencyBonus = Math.log10(pixelsPerMember + 1) * 20;
+  const cappedGrowth = Math.min(Math.max(growthPercent, 0), 200);
+  const growthBonus = cappedGrowth * 0.3;
+  return Math.round((normalizedPixels + efficiencyBonus + growthBonus) * 100) / 100;
 }
 
 export async function getNomineesForWeek(weekId, category = null, awardType = null) {

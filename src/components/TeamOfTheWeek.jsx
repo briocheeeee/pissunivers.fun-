@@ -52,11 +52,29 @@ const NomineeCard = ({ nominee, onVote, canVote, userVote, rank }) => {
     link('FACTION_PUBLIC', { target: 'blank', args: { factionId: nominee.factionId } });
   };
 
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      handleClick();
+    }
+  };
+
   return (
-    <div className={`totw-card ${isWinner ? 'winner' : ''} ${voted ? 'voted' : ''}`}>
+    <div
+      className={`totw-card ${isWinner ? 'winner' : ''} ${voted ? 'voted' : ''}`}
+      role="article"
+      aria-label={`${nominee.factionName} - ${nominee.pixelsCaptured} pixels`}
+    >
       {isWinner && <div className="totw-card-badge">{t`Winner`}</div>}
       <div className="totw-card-rank">#{rank}</div>
-      <div className="totw-card-header" onClick={handleClick}>
+      <div
+        className="totw-card-header"
+        onClick={handleClick}
+        onKeyDown={handleKeyDown}
+        role="button"
+        tabIndex={0}
+        aria-label={t`View faction ${nominee.factionName}`}
+      >
         {nominee.factionAvatar ? (
           <img className="totw-card-avatar" src={nominee.factionAvatar} alt="" />
         ) : (

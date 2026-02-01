@@ -68,7 +68,11 @@ export async function calculateWeeklyScores() {
         ? ((ranks.dailyPixels - previousWeekPixels) / previousWeekPixels) * 100
         : (ranks.dailyPixels > 0 ? 100 : 0);
 
-      const compositeScore = calculateCompositeScore(ranks.dailyPixels);
+      const compositeScore = calculateCompositeScore(
+        ranks.dailyPixels,
+        faction.memberCount,
+        growthPercent,
+      );
 
       return {
         factionId: faction.id,
@@ -150,7 +154,7 @@ export async function generateNominees() {
         pixelsCaptured: faction.pixelsCaptured,
         winRatio: faction.winRatio,
         growthPercent: faction.growthPercent,
-        compositeScore: faction.pixelsCaptured,
+        compositeScore: faction.compositeScore,
         memberCount: faction.memberCount,
         previousWeekPixels: faction.previousWeekPixels,
         defeatedLargerFaction: faction.defeatedLargerFaction,

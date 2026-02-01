@@ -22,6 +22,10 @@ const initialState = {
   blocked: [],
   // { cid: [message1,message2,message3,...]}
   messages: {},
+  // { cid: { oderId: { name, timestamp } } }
+  typing: {},
+  // { messageId: { emoji: [oderId1, oderId2, ...] } }
+  reactions: {},
 };
 
 // used to give every message a unique incrementing key
@@ -190,6 +194,69 @@ export default function chat(
         messages: {
           ...state.messages,
           [cid]: history,
+        },
+      };
+    }
+
+    case 's/REC_TYPING_START': {
+      const { channelId, userId: oderId, userName } = action;
+      if (!state.channels[channelId]) {
+        return state;
+      }
+      const channelTyping = { ...(state.typing[channelId] || {}) };
+      channelTyping[oderId] = {
+        name: userName,
+        timestamp: Date.now(),
+      };
+      return {
+        ...state,
+        typing: {
+          ...state.typing,
+          [channelId]: channelTyping,
+        },
+      };
+    }
+
+    case 's/CLEAR_TYPING': {
+      const { channelId, oderId } = action;
+      if (!state.typing[channelId] || !state.typing[channelId][oderId]) {
+        return state;
+      }
+      const channelTyping = { ...state.typing[channelId] };
+      delete channelTyping[oderId];
+      return {
+        ...state,
+        typing: {
+          ...state.typing,
+          [channelId]: channelTyping,
+        },
+      };
+    }
+
+    case 's/REC_REACTION': {
+      const { messageId, oderId, emoji, action: reactionAction } = action;
+      const msgReactions = { ...(state.reactions[messageId] || {}) };
+
+      if (reactionAction === 'add') {
+        const emojiUsers = [...(msgReactions[emoji] || [])];
+        if (!emojiUsers.includes(oderId)) {
+          emojiUsers.push(oderId);
+        }
+        msgReactions[emoji] = emojiUsers;
+      } else if (reactionAction === 'remove') {
+        const emojiUsers = (msgReactions[emoji] || []).filter((id) => id !== oderId);
+        if (emojiUsers.length === 0) {
+          delete msgReactions[emoji];
+        } else {
+          msgReactions[emoji] = emojiUsers;
+        }
+      }
+
+      return {
+        ...state,
+        reactions: {
+          ...state.reactions,
+          [messageId]: msgReactions,
         },
       };
     }

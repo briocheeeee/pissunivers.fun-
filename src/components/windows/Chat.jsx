@@ -14,12 +14,15 @@ import useLink from '../hooks/link.js';
 import ContextMenu from '../contextmenus/index.jsx';
 import ChatMessage from '../ChatMessage.jsx';
 import ChannelDropDown from '../contextmenus/ChannelDropDown.jsx';
+import TypingIndicator from '../TypingIndicator.jsx';
+import EmojiPicker from '../EmojiPicker.jsx';
 
 import { CHANNEL_TYPES } from '../../core/constants.js';
 
 import {
   markChannelAsRead,
   sendChatMessage,
+  sendTypingStart,
 } from '../../store/actions/index.js';
 import {
   fetchChatMessages,
@@ -36,7 +39,9 @@ const Chat = () => {
   const [cmArgs, setCmArgs] = useState({});
   const [unreadCount, setUnreadCount] = useState(0);
   const [isScrolledUp, setIsScrolledUp] = useState(false);
+  const [showEmojiPicker, setShowEmojiPicker] = useState(false);
   const lastMessageCountRef = useRef(0);
+  const lastTypingSentRef = useRef(0);
 
   const dispatch = useDispatch();
 
@@ -158,13 +163,34 @@ const Chat = () => {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [blocked.length]);
 
+  const handleTyping = useCallback(() => {
+    const now = Date.now();
+    if (now - lastTypingSentRef.current > 3000) {
+      lastTypingSentRef.current = now;
+      dispatch(sendTypingStart(chatChannel));
+    }
+  }, [dispatch, chatChannel]);
+
+  const handleEmojiSelect = useCallback((emoji) => {
+    const inputElem = inputRef.current;
+    if (!inputElem) return;
+    const emojiCode = `:${emoji.name}:`;
+    const cursorPos = inputElem.selectionStart;
+    const textBefore = inputElem.value.substring(0, cursorPos);
+    const textAfter = inputElem.value.substring(cursorPos);
+    inputElem.value = textBefore + emojiCode + textAfter;
+    inputElem.focus();
+    inputElem.setSelectionRange(cursorPos + emojiCode.length, cursorPos + emojiCode.length);
+    setShowEmojiPicker(false);
+  }, []);
+
   function handleSubmit(evt) {
     evt.preventDefault();
     const inptMsg = inputRef.current.value.trim();
     if (!inptMsg) return;
-    // send message via websocket
     dispatch(sendChatMessage(inptMsg, chatChannel));
     inputRef.current.value = '';
+    setShowEmojiPicker(false);
   }
 
   /*
@@ -235,6 +261,8 @@ const Chat = () => {
                 uid={message[3]}
                 ts={message[4]}
                 key={message[5]}
+                msgId={message[5]}
+                channelId={chatChannel}
                 faction={message[6]}
                 avatar={message[7]}
                 badges={message[8]}
@@ -246,6 +274,7 @@ const Chat = () => {
             )))
         }
       </ul>
+      <TypingIndicator channelId={chatChannel} />
       <form
         className="chatinput"
         onSubmit={(e) => handleSubmit(e)}
@@ -255,6 +284,15 @@ const Chat = () => {
       >
         {(ownName) ? (
           <React.Fragment key="chtipt">
+            <button
+              type="button"
+              className="emoji-btn"
+              onClick={() => setShowEmojiPicker(!showEmojiPicker)}
+              title={t`Emojis`}
+              aria-label={t`Open emoji picker`}
+            >
+              ☺
+            </button>
             <input
               style={{
                 flexGrow: 1,
@@ -266,6 +304,7 @@ const Chat = () => {
               type="text"
               className="chtipt"
               placeholder={t`Chat here`}
+              onInput={handleTyping}
             />
             <button
               id="sendbtn"
@@ -336,6 +375,12 @@ const Chat = () => {
         >
           ↓ {unreadCount} {t`new messages`}
         </div>
+      )}
+      {showEmojiPicker && (
+        <EmojiPicker
+          onSelect={handleEmojiSelect}
+          onClose={() => setShowEmojiPicker(false)}
+        />
       )}
     </div>
   );
