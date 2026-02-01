@@ -1,0 +1,1776 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-29 11:08+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Kurdish (Central) <https://hosted.weblate.org/projects/"
+"pixuniverse/client/ckb/>\n"
+"Language: ckb\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.2\n"
+
+msgid " which is in "
+msgstr " کە لە "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } دوگمەی چەپی ماوسەکە ڕابگرە و ماوسەکە ڕابکێشە بۆ سوڕانەوە"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } کلیکی چەپ بکە یان ${ touchSymbol } پەنجە بنێ بۆ دانانی "
+"پێکسڵێک"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "${ mouseSymbol } کلیکی ڕاست بکە و ماوسەکە بکێشە بۆ پان"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } کلیکی ڕاست بکە یان ${ touchSymbol } دووجار لێبدە بۆ لابردنی "
+"پێکسڵێک"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } چەرخی ماوسەکە بچۆ یان دوگمەی ناوەڕاستی ماوسەکەی $"
+"{ mouseSymbol } ڕابگرە و ڕایبکێشە بۆ گەورەکردن"
+
+msgid "(0 = infinite)"
+msgstr "(٠ = بێکۆتایی)"
+
+msgid "+last hour"
+msgstr "+کاتژمێری کۆتایی"
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "پۆستێکی نوێی پشتڕاستکردنەوەت بۆ دەنێردرێت."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "زیادکردنی تۆڕ (ئەگەر پێویستت بە قاڵبی ١:١ هەیە، هەڵبژاردنەکە هەڵبگرە)"
+
+msgid "Add Template"
+msgstr "زیادکردنی قاڵب"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "هەموو کاریگەرییە دەنگییەکان لەکاردەخرێن."
+
+msgid "Always show Movement Controls"
+msgstr "هەمیشە کۆنتڕۆڵەکانی جوڵە پیشان بدە"
+
+msgid "Always show movement control buttons"
+msgstr "هەمیشە دوگمەکانی کۆنترۆڵکردنی جوڵە پیشان بدە"
+
+msgid "Anti Aliasing"
+msgstr "دژە ناڕێکی"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr ""
+"فلتەرێک بەکاربهێنە بۆ پاککردنەوەی زبڵ و خاشاک لە شوێنە گەورەکانی کانڤاس."
+
+msgid "Archive"
+msgstr "ئەرشیف"
+
+msgid "Assign new Mod"
+msgstr "مۆدی نوێ دیاری بکە"
+
+msgid "Auto Zoom In"
+msgstr "زوومی ئۆتۆماتیکی"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "قەدەغە کراوە"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "قەدەغە کراوە؟ وەک پرۆکسی دۆزراوەتەوە؟"
+
+msgid "Block"
+msgstr "بلۆک"
+
+msgid "Block DMs"
+msgstr "بلۆککردنی نامە ڕاستەوخۆکان"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "گۆشەی خوارەوە-ڕاست"
+
+msgid "Build image and set it to protected."
+msgstr "وێنە دروست بکە و لەسەر پارێزراوە دابنێ."
+
+msgid "Build image on canvas."
+msgstr "دروستکردنی وێنە لەسەر کانڤاس."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "وێنە دروست بکە، بەڵام کوڵداون ڕێست بکە بۆ پێکسڵی دانەنراو سیدی."
+
+msgid "By Mod"
+msgstr "لەلایەن مۆد"
+
+msgid "Calculate like GIMP"
+msgstr "وەک گیمپ حیساب بکە"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "ناتوانرێت لە ٢٠ زیاتر هەناردە بکرێت یان هیچ قاڵبێک نییە!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "ناتوانرێت لە ٢٠ زیاتر هاوردە بکرێت یان هیچ قاڵبێک نییە!"
+
+msgid "Can't read? Reload:"
+msgstr "ناتوانێ بخوێنیتەوە؟ دووبارە بارکردنەوە:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "ناتوانرێت کانڤاسی سێ ڕەهەندی ڕەندەر بکرێت، ئایا WebGL2ت لەکارکەوتووە؟"
+
+msgid "Cancel"
+msgstr "ڕەتکردنەوە"
+
+msgid "Cancel adding Template"
+msgstr "هەڵوەشاندنەوەی زیادکردنی قاڵب"
+
+msgid "Canvas"
+msgstr "کانڤاس"
+
+msgid "Canvas Archive"
+msgstr "ئەرشیفی کانڤاس"
+
+msgid "Canvas Cleaner"
+msgstr "پاککەرەوەی کانڤاس"
+
+msgid "Canvas Error"
+msgstr "کانڤاس هەڵەیە"
+
+msgid "Canvas Selection"
+msgstr "هەڵبژاردنی کانڤاس"
+
+msgid "Captcha"
+msgstr "کاپچا"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "ناوی بەکارهێنەر بگۆڕە"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "گۆڕینی ووشەی نهێنی"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "ڕێکخستنەکانی کەناڵ"
+
+msgid "Charts"
+msgstr "هێڵکارییەکان"
+
+msgid "Chat"
+msgstr "چات"
+
+msgid "Chat here"
+msgstr "لێرە چات بکە"
+
+msgid "Check out past versions of the canvas."
+msgstr "وەشانی ڕابردووی کانڤاسەکە ببینە."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "بزانە کێ لە ناوچەیەکدا داناوە"
+
+msgid "Choose Canvas"
+msgstr "کانڤاس هەڵبژێرە"
+
+msgid "Choose Color Mode"
+msgstr "دۆخی ڕەنگ هەڵبژێرە"
+
+msgid "Choose Strategy"
+msgstr "ستراتیژی هەڵبژێرە"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"‏ پاککردنەوەی پێکسڵە یەدەگەکان کە بە تاکە ڕەنگێکی تر دەورە دراون یان پێکسڵی "
+"دانەنراو (زۆر شەڕانگێزن لەسەر ئەو کانڤاسانەی کە ڕێگە بە پێکسڵە نەگۆڕەکان "
+"دەدەن (کە دوو کوڵداون هەیە)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "پاککردنەوەی ئەو پێکسڵە یەدەگانەی کە بە پێکسڵی دانەنراو دەورە دراون"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"پاککردنەوەی ئەو پێکسڵە یەدەگانەی کە بە پێکسڵی دانەنراو دەورە دراون و تا ١ "
+"پێکسڵی دانراوی تر"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"کلیک لە ${ mouseSymbol } دوگمەی ناوەڕاستی ماوس بکە یان ${ touchSymbol } درێژ "
+"پەنجە بنێ بۆ هەڵبژاردنی ڕەنگی ئێستای هەڵگەڕاوە"
+
+msgid "Click a color in palette to select it"
+msgstr "بۆ هەڵبژاردنی ڕەنگێک لە پالێتدا کلیک بکە"
+
+msgid "Click here to request a new verification mail."
+msgstr "بۆ داوای پۆستێکی نوێی پشتڕاستکردنەوە کلیک لێرە بکە."
+
+msgid "Click to Load Captcha"
+msgstr "بۆ بارکردنی کاپچا کلیک بکە"
+
+msgid "Clone"
+msgstr "کلۆن"
+
+msgid "Close"
+msgstr "داخستن"
+
+msgid "Close Chat"
+msgstr "داخستنی چات"
+
+msgid "Close Menu"
+msgstr "مێنۆ دابخە"
+
+msgid "Close Palette"
+msgstr "داخستنی پالێت"
+
+msgid "Compact Palette"
+msgstr "پالێتی کۆمپاکت"
+
+msgid "Confirm New Password"
+msgstr "دووبارە کردنەوە ووشەى نهێنى نوێ"
+
+msgid "Confirm Password"
+msgstr "ووشەی نھێنی دووبارە بكەوە"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "پەیوەندی هەڵەیە ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "کۆنتڕۆڵەکان"
+
+msgid "Convert an image to canvas colors"
+msgstr "گۆڕینی وێنەیەک بۆ ڕەنگی کانڤاس"
+
+msgid "Converter"
+msgstr "گۆڕێنەر"
+
+msgid "Cooldown"
+msgstr "ساردبوونەوە"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+"بەزۆری ساردبوونەوە بە شێوەیەکی ئۆتۆماتیکی دەگۆڕدرێت بۆ وڵاتێک کە باڵادەستە. "
+"بۆ نموونە لە حاڵەتی هێرشی ستریمەر."
+
+msgid "Coordinates"
+msgstr "کۆئۆردینیات دەکات"
+
+msgid "Coordinates:"
+msgstr "کۆئۆردینیاتەکان:"
+
+msgid "Copied"
+msgstr "کۆپی کراوە"
+
+msgid "Copy"
+msgstr "کۆپی"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "کۆپی بکە بۆ کلیپبۆرد"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "نەتوانرا پەیوەندی بە سێرڤەرەوە بکرێت، تکایە دواتر هەوڵبدەرەوە :("
+
+msgid "Could not load captcha"
+msgstr "نەتوانرا کاپچا باربکات"
+
+msgid "Couldn't set Pixel"
+msgstr "نەتوانرا پێکسڵ دابنێت"
+
+msgid "Countries Today"
+msgstr "وڵاتانی ئەمڕۆ"
+
+msgid "Country"
+msgstr "وڵات"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "کریدت بۆ پالێتی کانڤاسی ٢بیت دەچێتە سەر ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "کریدت بۆ پالێتی مانگ دەچێتە ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "کریدت بۆ پالێتی کانڤاسی ١٠ڕێزبەندی دەچێتە سەر ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr "گۆڕانکارییەکانی ئێستای ساردبوونەوە بۆ هەر وڵاتێک"
+
+msgid "Custom Cursor"
+msgstr "ئاماژەدەری تایبەتمەند"
+
+msgid "DM"
+msgstr "نامەى ڕاستەوخۆ"
+
+msgid "Daily Pixels per Country"
+msgstr "پێکسڵی ڕۆژانە بۆ هەر وڵاتێک"
+
+msgid "Daily Pixels per Player"
+msgstr "پێکسڵی ڕۆژانە بۆ هەر یاریزانێک"
+
+msgid "Daily Rank"
+msgstr "ڕیزبەندی ڕۆژانە"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "سڕینەوە"
+
+msgid "Delete Account"
+msgstr "سڕینەوەی هەژمار"
+
+msgid "Deny"
+msgstr ""
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"وەڵامی لە پێکسڵ پلانێت وەرنەگرت. هەوڵبدە نوێبکەیتەوە ئەگەر ئەم کێشەیە "
+"بەردەوام بوو."
+
+msgid "Dimensions"
+msgstr "ڕەهەندەکان"
+
+msgid "Disable Game Sounds"
+msgstr "دەنگەکانی یاری لەکاربخە"
+
+msgid "Disable History Pencil"
+msgstr "قەڵەمی مێژوو لەکاربخە"
+
+msgid "Disable Overlay Pencil"
+msgstr "قەڵەمی سەرپۆش لەکاربخە"
+
+msgid "Disable Pencil"
+msgstr "قەڵەم لەکاربخە"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "پیشاندانی پالێت بە شێوەیەکی بچووک کە شوێنی شاشەی کەمتر دەگرێت."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "شتەکان بە ئایپی ئەنجام بدە (یەک ئایپی بۆ هەر هێڵێک)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "لە ئاماری جیهانیدا نیشانم مەدە"
+
+msgid "Download Template"
+msgstr "داگرتنی قاڵب"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr "بۆ جوڵاندن ${ mouseSymbol } ماوس یان ${ touchSymbol } تاوە بۆ جوڵە"
+
+msgid "Duration"
+msgstr "ماوە"
+
+msgid "Easter Egg OFF"
+msgstr "هێلکەی ئیستەر ناچالاکە"
+
+msgid "Easter Egg ON"
+msgstr "هێلکەی ئیستەر چالاکە"
+
+msgid "Edit"
+msgstr "دەستکاری"
+
+msgid "Email"
+msgstr "ئیمەیڵ"
+
+msgid "Email can't be empty."
+msgstr "ئیمەیڵ ناتوانێت بەتاڵ بێت."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "ئیمەیڵ ناتوانێت لە ٤٠ پیت زیاتر بێت."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "ئیمەیڵ بەلایەنی کەم دەبێت خاڵێکی تێدابێت"
+
+msgid "Email should be at least 5 characters long."
+msgstr "ئیمەیڵ بەلایەنی کەمەوە ٥ پیت بێت."
+
+msgid "Email should contain a @"
+msgstr "ئیمەیڵەکە پێویستی بە @ هەیە"
+
+msgid "Enable Overlay"
+msgstr "ئۆڤەرلای چالاک بکە"
+
+msgid "Enable Pencil"
+msgstr "قەڵەم چالاک بکە"
+
+msgid "Enable chat notifications"
+msgstr "ئاگادارکردنەوەکانی چات چالاک بکە"
+
+msgid "Enter Characters"
+msgstr "پیتەکان بنووسە"
+
+msgid "Enter Reason"
+msgstr "هۆکار بنووسە"
+
+msgid "Enter UserName of new Mod"
+msgstr "ناوی بەکارهێنەری مۆدی نوێ دابنێ"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "ناونیشانی پۆستەکەت بنووسە و وشەی نهێنی نوێت بۆ دەنێرین:"
+
+msgid "Error"
+msgstr "هەڵەیە"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "هەڵەیە ${ retCode }"
+
+msgid "Error :("
+msgstr "هەڵەیە :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "هەناردەکردنی قاڵبی چالاککراو"
+
+msgid "Factor"
+msgstr "فاکتەر"
+
+msgid "File"
+msgstr "فایل"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "بۆ کاتێک یاری لەسەر پەتاتە دەکەیت."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr "لە مێژووەوە"
+
+msgid "From Template"
+msgstr "لە قاڵبەوە"
+
+msgid "Get IID"
+msgstr "IID بەدەست بهێنە"
+
+msgid "Get Pixels"
+msgstr "پێکسڵەکان بەدەست بهێنە"
+
+msgid "Get Users"
+msgstr "بەکارهێنەران بەدەست بهێنە"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "دیمەنی گۆی زەوی"
+
+msgid "Go to"
+msgstr "بڕۆ بۆ"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "تۆڕەکە ناچالاکە"
+
+msgid "Grid ON"
+msgstr "تۆڕەکە چالاکە"
+
+msgid "Have fun!"
+msgstr "بەهیوای کاتێکی خۆش!"
+
+msgid "Height"
+msgstr "بەرزی"
+
+msgid "Help"
+msgstr "یارمەتیدان"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"لێرەدا کانڤاسە لابراوەکان کۆدەکەینەوە بۆ ئەوەی بە باشی ئەرشیفیان بکەین. کە "
+"لە ئێستادا تەنها یەکێکە."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"ئاستی زوومکردنی بەرزتر کاتێکی دەوێت بۆ نوێکردنەوە، گڵۆپی سێ ڕەهەندی لانیکەم "
+"ڕۆژانە جارێک نوێ دەکرێتەوە."
+
+msgid "Historical View"
+msgstr "ڕوانگەی مێژوویی"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr "چەپ ${ bindShift } بۆ قەڵەم ڕابگرە (بۆ دانانی لەکاتی جوڵاندنی ماوس)"
+
+msgid "How pixuniverse should look like."
+msgstr "پیکسڵپلانێت دەبێت چۆن بێت."
+
+msgid "I forgot my Password."
+msgstr "وشه‌ نهێنیه‌که‌م له‌بیر کردووه‌."
+
+msgid "IID (optional)"
+msgstr "IID (ئیختیاری)"
+
+msgid "IID Actions"
+msgstr "کردارەکانی IID"
+
+msgid "IP Actions"
+msgstr "کردارەکانی ئایپی"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "گۆڕینی وێنە"
+
+msgid "Image Upload"
+msgstr "بارکردنی وێنە"
+
+msgid "Import templates"
+msgstr "هاوردەکردنی قاڵبەکان"
+
+msgid "Interval"
+msgstr "ئینتەرڤاڵ"
+
+msgid "Interval is invalid"
+msgstr "ئینتەرڤاڵ نادروستە"
+
+msgid "Invalid Canvas"
+msgstr "کانڤاسێکی نادروست"
+
+msgid "Invalid Coordinates"
+msgstr "کۆئۆردینیاتی نادروست"
+
+msgid "Invalid color selected"
+msgstr "ڕەنگی نادروست هەڵبژێردراوە"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "تەنها بۆ بەکارهێنەرانی تۆمارکراو"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "تەنها ١٠ڕێزبەندی دوێنێ دەتوانێت لێرە جێگیر بێت"
+
+msgid "Keep Ratio"
+msgstr "ڕێژە بهێڵەرەوە"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "تۆڕی ڕووناکی"
+
+msgid "Load Captcha"
+msgstr "بارکردنی کاپچا"
+
+msgid "Loading"
+msgstr "بارکردن"
+
+msgid "Loading..."
+msgstr "بارکردن..."
+
+msgid "Log out"
+msgstr "چوونە دەرەوە"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "چونه‌ ژووره‌وه‌"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "چوونەژوورەوە بۆ دەستگەیشتن بە تایبەتمەندی و ئاماری زیاتر."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "چوونەژوورەوە بە ناو یان پۆست:"
+
+msgid "Make Screenshot"
+msgstr "دروستکردنی سکرین شۆت"
+
+msgid "Manage Moderators"
+msgstr "بەڕێوەبردنی بەڕێوەبەران"
+
+msgid "Map Data"
+msgstr "داتاکانی نەخشە"
+
+msgid "Maximize"
+msgstr "زۆرترین"
+
+msgid "Minimum Color Distance"
+msgstr "کەمترین مەودای ڕەنگ"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "مۆدتۆڵز"
+
+msgid "Move"
+msgstr "جووڵە"
+
+msgid "Mute"
+msgstr "بێدەنگ"
+
+msgid "Muted Sound"
+msgstr "دەنگی بێدەنگ"
+
+msgid "Name"
+msgstr "ناو"
+
+msgid "Name can't be empty."
+msgstr "ناو ناتوانێت بەتاڵ بێت."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "ناو پیتێکی نادروستی تێدایە وەک @، /، \\ یان #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "ناوەکە دەبێت بەلایەنی کەمەوە ٢ پیت بێت"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "ناوەکە دەبێت لە ٢٦ پیت کورتتر بێت"
+
+msgid "Name or Email"
+msgstr "ناو یان ئیمەیڵ"
+
+msgid "New Mail"
+msgstr "پۆستی نوێ"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "تێپەڕەوشەی نوێ"
+
+msgid "New Username"
+msgstr "ناوی بەکارهێنەری نوێ"
+
+msgid "No"
+msgstr "نەخێر"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "هیچ کاپچا ئایدێک نەدراوە"
+
+msgid "No or invalid captcha text"
+msgstr "نەخێر یان دەقی کاپچا نادروست"
+
+msgid "No password given."
+msgstr "هیچ وشەی نهێنی نەدراوە."
+
+msgid "Not allowed"
+msgstr "ڕێگەپێنەدراوە"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "باشە"
+
+msgid "Offset"
+msgstr "ئۆفسێت"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "ووشەی نهێنی کۆن"
+
+msgid "Online Users"
+msgstr "بەکارهێنەرانی ئۆنلاین"
+
+msgid "Online Users on Canvas"
+msgstr "بەکارهێنەرانی ئۆنلاین لەسەر کانڤاس"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "ناڕوونی ئۆڤەرلای بە ڕێژەی لەسەدا."
+
+msgid "Open Chat"
+msgstr "چات بکەرەوە"
+
+msgid "Open Menu"
+msgstr "مێنۆ بکەرەوە"
+
+msgid "Open Palette"
+msgstr "پالێت بکەرەوە"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"کانڤاسی سەرەکیمان نەخشەیەکی جیهانی گەورەیە، دەتوانیت لە هەر شوێنێک کە حەزت "
+"لێیە دایبنێیت، بەڵام دەبێت چاوەڕێی کوولداونێکی دیاریکراو بکەیت لە نێوان "
+"پێکسڵەکاندا. دەتوانیت لە مینیوی هەڵبژاردنی کانڤاسدا کوڵداون و پێداویستییەکان "
+"ببینیت (دوگمەی گڵۆب لە سەرەوە). هەندێک لە کانڤاسەکان کوڵداونێکی جیاوازیان "
+"هەیە بۆ گۆڕینی پێکسڵەکانی بەکارهێنەر کە داناوە لە چاو دانانی لەسەر پێکسڵێکی "
+"دانەنراو. واتە ٤س/٧س بە واتای ٤س لەسەر پێکسڵە تازەکان و ٧س لەسەر پێکسڵە "
+"پێشتر دانراوەکان."
+
+msgid "Overlay OFF"
+msgstr "ئۆڤەرلای ناچالاکە"
+
+msgid "Overlay ON"
+msgstr "ئۆڤەرلای چالاکە"
+
+msgid "Overlay Opacity"
+msgstr "ئۆڤەرلای ناڕوونی"
+
+msgid "Palette Download"
+msgstr "داگرتنی پالێت"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "پالێت بۆ ${ gimpLink }"
+
+msgid "Password"
+msgstr "ووشەی نهێنی"
+
+msgid "Password must be at least 6 characters long."
+msgstr "وشەی نهێنی بە لایەنی کەمەوە پێویستە ٦ پیت بێت."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "وشەی نهێنی دەبێت لە ٦٠ پیت کورتتر بێت."
+
+msgid "Password successfully changed."
+msgstr "وشەی نهێنی بە سەرکەوتوویی گۆڕا."
+
+msgid "Passwords do not match."
+msgstr "وشەی نهێنی هاوشێوە نین."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "دۆخی قەڵەم بۆ ${ canvasName } کانڤاس"
+
+msgid "Pencil picks: "
+msgstr "هەڵبژاردەکانی قەڵەم: "
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "پینگ"
+
+msgid "Pixel Notify OFF"
+msgstr "پێکسڵ ئاگادارکردنەوە ناچالاکە"
+
+msgid "Pixel Notify ON"
+msgstr "پێکسڵ ئاگادارکردنەوە چالاکە"
+
+msgid "Pixel Protection"
+msgstr "پاراستنی پێکسڵ"
+
+msgid "Pixel protected"
+msgstr "پێکسڵ پارێزراوە"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"پێکسڵی ڕەنگاوڕەنگ لەسەر کانڤاسێکی گەورە لەگەڵ یاریزانەکانی تر بە شێوەی "
+"ئۆنلاین دابنێ!"
+
+msgid "Placed Pixels"
+msgstr "پێکسڵەکانی دانراو"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "کاتێک نامەی چاتی نوێ دێت دەنگێک لێبدە"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "یاریزان و پێکسڵ لە کاتژمێرێکدا"
+
+msgid "Please prove that you are human"
+msgstr "تکایە بیسەلمێنە کە مرۆڤیت"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "کانڤاسی کۆمپاسی سیاسی"
+
+msgid "Potato Mode"
+msgstr "دۆخی پەتاتە"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"بۆ جوڵە ${ bindAUp }، ${ bindALeft }، ${ bindADown }، ${ bindARight } داگرە"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "بۆ گۆڕینی تۆڕەکە ${ bindG } بکە"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "بۆ گۆڕینی دیمەنی مێژوویی ${ bindH } داگرە"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "بۆ ئەوەی بەرەو سەرەوە و خوارەوە بفڕیت ${ bindQ } و ${ bindE } بکە"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "بۆ گەورەکردن ${ bindQ } یان ${ bindE } داگرە"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "بۆ کۆپیکردنی کۆئۆردینیاتەکان ${ bindR } بکە"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "بۆ جوڵە ${ bindS }، ${ bindA }، ${ bindW }، ${ bindD } داگرە"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "بۆ گۆڕینی پیشاندانی چالاکیی پێکسڵەکان ${ bindX } بکە"
+
+msgid "Private"
+msgstr "تایبەت"
+
+msgid "Profile"
+msgstr "پرۆفایل"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "مەودا قەدەغە کراوە"
+
+msgid "Ranked"
+msgstr "ڕیزبەندی"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"نوێکردنەوەی ڕیزبەندی هەر 5 خولەک جارێک. ڕیزبەندی ڕۆژانە لە نیوەی شەو ڕێست "
+"دەکرێتەوە."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "هۆکار"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "تۆمارکردن"
+
+msgid "Register new account here"
+msgstr "لێرە هەژماری نوێ تۆمار بکە"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "دووبارە بارکردنەوە"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "بەڕێوبەران لاببە"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "پێداویستیەکان"
+
+msgid "Reset"
+msgstr "‎ ڕێستکردنەوە"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "گۆڕینی قەبارە"
+
+msgid "Restore"
+msgstr "گەڕاندنەوە"
+
+msgid "Retired Canvases (history only)"
+msgstr "کانڤاس خانەنشینەکان (تەنها مێژوو)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+#, fuzzy
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "ڕووبەرێکی کانڤاسەکە بگەڕێنێتەوە بۆ بەروارێکی دیاریکراو (٠٠:٠٠ UTC)"
+
+msgid "Rollback to Date"
+msgstr "گەڕانەوە بۆ ڕێکەوت"
+
+msgid "Save"
+msgstr "هەڵگرتن"
+
+msgid "Scale Image"
+msgstr "وێنەی پێوەر"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"بۆ گەورەکردن، ${ mouseSymbol } چەرخی ماوس یان ${ touchSymbol } چەقۆ بکە بۆ "
+"زوومکردن"
+
+msgid "Select Date above"
+msgstr "لە سەرەوە ڕێکەوت هەڵبژێرە"
+
+msgid "Select File"
+msgstr "فایل هەڵبژێرە"
+
+msgid "Select Language"
+msgstr "زمان هەڵبژێرە"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"ئەو کانڤاسە هەڵبژێرە کە دەتەوێت بەکاری بهێنیت.\n"
+"هەموو کانڤاسێک ناوازەیە و پالێت و کوڵداون و پێداویستی جیاوازی هەیە.\n"
+"دەتوانرێت لێرەدا دەستت بگات بە کانڤاسەکانی ئەرشیفکراو:"
+
+msgid "Selected Color"
+msgstr "ڕەنگی هەڵبژێردراو"
+
+msgid "Send"
+msgstr "ناردن"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"ئیمەیڵێکی بۆ ناردیت کە ڕێنماییەکانی بۆ ڕێستکردنی وشەی نهێنیەکەت تێدابوو."
+
+msgid "Serpentine"
+msgstr "سێرپێنتین"
+
+msgid "Server answered with gibberish :("
+msgstr "سێرڤەر بە قسەی بێمانا وەڵامی دایەوە :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"سێرڤەر بەهۆی پێکسڵەکانتەوە سەری لێ شێوا. ئایا لەسەر چەند ئامێرێک یاری دەکەیت؟"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"پاراستنی ناوچەکان دابنێ (ئەگەر پێویستت بە کۆنترۆڵی دانەوێڵەیی وردترە، "
+"پاراستن بەکاربهێنە لەگەڵ بارکردنی وێنە و چینەکانی ئەلفا)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "ڕێکخستنەکان"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "تۆڕ پیشان بدە"
+
+msgid "Show Grid in white instead of black."
+msgstr "دۆخ بە سپی پیشان بدە لەبری ڕەش."
+
+msgid "Show Pixel Activity"
+msgstr "چالاکیی پێکسڵ پیشان بدە"
+
+msgid "Show circles where pixels are placed."
+msgstr "ئەو بازنانە پیشان بدە کە پێکسڵەکان تێیدا دانراون."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr "سەرپۆش وەک پێکسڵی تاکەکەسی بچووک لەسەر ئاستی زوومکردن پیشان بدە."
+
+msgid "Show templates as overlays ingame."
+msgstr "قاڵبەکان وەکو سەرپۆشەکان. لەناو یاری پیشان بدە."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "پێکسڵی بچووک کاتێک زووم دەکرێت"
+
+msgid "Social Settings"
+msgstr "ڕێکخستنە کۆمەڵایەتییەکان"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "کۆکردنەوە تا"
+
+msgid "Start chatting here"
+msgstr "لێرە دەست بە چات بکە"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "ئامار"
+
+msgid "Status: Not running"
+msgstr "دۆخ: کارناکات"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "وەستاندنی پاککەرەوە"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "پێشکەشکردن"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "گۆڕدرا بۆ ${ canvasName }"
+
+msgid "Template Name"
+msgstr "ناوی قاڵب"
+
+msgid "Templates"
+msgstr "قاڵبەکان"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"داتاکانی نەخشەی ڕووت کە ئێمە بەکاری دەهێنین، لەگەڵ کاشیەکانی OpenStreetMap "
+"گۆڕدراو بۆ ئاراستەکردن، دەتوانرێت لێرە لە mega.nz دابەزێنرێت: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "تەوەرەکان"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "ئەم کانڤاسە بوونی نییە"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"ئەم کانڤاسە لە سەردەمی ململانێ سیاسییەکان لەسەر کانڤاسی سەرەکی زەوی داوای "
+"کرا. نوێنەرایەتییەکی ١٠٢٤x١٠٢٤ بوو بۆ کۆمپاسە سیاسییەکە بە کوڵداونی ٥س و "
+"ستاککردنی ٦٠س. لە١١ی ئایار دەستیپێکرد و بۆ چەند مانگێک چالاک بوو تا لە ٣٠ی "
+"تشرینی دووەمدا داخراوە."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "کات تەواوبوو"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "ئامۆژگاری: هەستیاری بە گەورە و بچووک نییە؛ I و I وەک یەکن"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"بێزار بوویت لە هەمیشە سپامکردنی یەک ڕەنگ؟ دەتەوێت لەبری ئەوە هونەر دروست "
+"بکەیت، بەڵام دەبێت پێکسڵەکان لە هەندێک وێنەی ترەوە بژمێریت؟ قاڵبەکان دەتوانن "
+"یارمەتیت بدەن لەو کارەدا! قاڵبەکان دەتوانن وەکو سەرپۆش پیشان بدەن و دەتوانیت "
+"لەسەریان بکێشیت. یەک پێکسڵ لەسەر قاڵبەکە، دەبێت یەک پێکسڵ بێت لەسەر "
+"کانڤاسەکە."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "ئەمڕۆ"
+
+msgid "Today Placed Pixels"
+msgstr "ئەمڕۆ پێکسڵەکانی دانراون"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "١٠ وڵاتی سەرەکی [پێکسڵەکان / رۆژانە]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "١٠ باشترین ڕیزبەندی ڕۆژانە"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "١٠ یاریزانی سەرەکی [پێکسڵەکان / رۆژانە]"
+
+msgid "Top 10 Players from Yesterday"
+msgstr "١٠ باشترین یاریزانی دوێنێ"
+
+msgid "Top-left corner"
+msgstr "گۆشەی سەرەوە-چەپ"
+
+msgid "Total"
+msgstr "کۆی گشتی"
+
+msgid "Total Online Users"
+msgstr "کۆی گشتی بەکارهێنەرانی ئۆنلاین"
+
+msgid "Total Pixels per Player"
+msgstr "کۆی گشتی پێکسڵ بۆ هەر یاریزانێک"
+
+msgid "Total Pixels placed per day"
+msgstr "کۆی گشتی پێکسڵەکانی دانراو لە ڕۆژێکدا"
+
+msgid "Total Rank"
+msgstr "کۆی گشتی پلە"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"هەموو پێکسڵێک لە ڕووبەرەکەدا بگۆڕە بۆ ٠ (بەڕاستی نابێت ئەوە بکەیت لەسەر هیچ "
+"ناوچەیەک کە پێشتر زۆربەی کات ٠ نییە)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "بۆ تیشک خستنە سەر سنوورەکانی پێکسڵ، تۆڕەکە دابگیرسێنە."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "لەم وێنەیەی خوارەوە پیتەکان بنووسە:"
+
+msgid "Unblock Users"
+msgstr "لادانی بلۆکی بەکارهێنەران"
+
+msgid "Unknown Captcha Error"
+msgstr "هەڵەی کاپچای نەناسراو"
+
+msgid "Unknown Error"
+msgstr "هەلەیەکی نەناسراوە"
+
+msgid "Unmuted Sound"
+msgstr "دەنگی نابێدەنگ"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "وێنەکان باربکە بۆ کانڤاس"
+
+msgid "Use our custom cursor"
+msgstr "ئاماژەدەری تایبەتمەندمان بەکاربهێنە"
+
+msgid "User"
+msgstr "بەکارهێنەر"
+
+msgid "User Account"
+msgstr "هه‌ژماری به‌كارهێنه‌ر"
+
+msgid "User Area"
+msgstr "ناوچەی بەکارهێنەر"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "ناوی بەکارهێنەر"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"بڕیارماندا وەکو تایملاپسەوە بە ئینکۆدەری بێ زیان وێبم ئەرشیفی بکەین. "
+"وەرگرتنی وێنەی شاشە لە تایملاپسەوە ئەنجامەکەی نوێنەرایەتییەکی تەواو ١:١ "
+"دەبێت کە کانڤاسەکە لەو کاتەدا چۆن بووە."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"سوپاسی ئەم هونەرمەندانەی خوارەوە دەکەین، کە پالێتەکانیان خستە بەردەستی خەڵک "
+"لە"
+
+msgid "Weird"
+msgstr "سەیر"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr "ئەوەی پێویستە قەڵەم لەسەر کانڤاسی ئێستا بکێشێت."
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"لە کاتێکدا ئێمە مەیلی ئەوەمان هەیە کە کانڤاسەکان نەسڕینەوە، هەندێک لە "
+"کانڤاسەکان بۆ خۆشی یان وەک داواکارییەک لەلایەن بەکارهێنەرانەوە دەستپێدەکرێن "
+"کە حەزیان لە میمێکی بەناوبانگی ئێستایە. ئەو کانڤاسانە دوای ماوەیەک دەتوانن "
+"مات و ناچالاک بن، لەو کاتەدا هیچ هۆکارێک نییە بۆ ئەوەی بیانهێڵینەوە و ڕەنگە "
+"بڕیار بدەین لایانببەین."
+
+msgid "Why?"
+msgstr "بۆچی؟"
+
+msgid "Width"
+msgstr "پانی"
+
+msgid "Wrong Color"
+msgstr "ڕەنگی هەڵە"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "بەڵێ"
+
+msgid "Yes, Delete My Account!"
+msgstr "بەڵێ، ئەکاونتەکەم بسڕەوە!"
+
+msgid "Yesterday"
+msgstr "دوێنێ"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "تۆ پرۆکسی بەکاردەهێنیت."
+
+msgid "You are weird"
+msgstr "تۆ سەیر و سەمەرەیت"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr "هێشتا ناتوانیت دەستت بگات بەم کانڤاسە، چونکە نمرەی پێکسڵەکانت زۆر نزمە"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "ئێستا دەتوانن زیاتر لە pixunivers.fun دابنێن :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "تۆ شکستت هێنا لە کاپچاکەت"
+
+msgid "You have new messages in chat"
+msgstr "لە چاتدا نامەی نوێت هەیە"
+
+msgid "You have no users blocked"
+msgstr "هیچ بەکارهێنەرێکت بلۆک نەکردووە"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "دەبێت بچیتە ژوورەوە بۆ ئەوەی لەسەر ئەم کانڤاسە دابنێیت"
+
+msgid "You made too many requests"
+msgstr "داواکاری زۆرت کرد"
+
+msgid "You must be logged in to chat"
+msgstr "بۆ چات پێویستە بچیتە ژوورەوە"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "پێویستە ماوەیەک دابنێیت"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "پێویستە IID داخڵ بکەیت"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "زۆر کاتت برد، دووبارە هەوڵبدەرەوە."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"وێبگەڕەکەت ڕێگەمان پێنادات AudioContext بەکاربهێنین بۆ لێدانی دەنگەکان. ئایا "
+"هەندێک تایبەتمەندی نهێنیتان هەیە کە ڕێگریمان لێدەکات؟"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "دابینکەری ئینتەرنێتەکەت لەم یارییەدا قەدەغە کراوە"
+
+msgid "Your ban expires at "
+msgstr "قەدەغەکردنەکەت تەواو دەبێت لە کاتژمێر "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "پێکسڵەکانی داهاتووتان ئامادەن"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"زووم بکە لەبری دانانی پێکسڵ کاتێک پەنجە دەخەیتە سەر کانڤاسەکە و زوومەکەت "
+"بچووکە."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "و ${ canvas.req } پێکسڵەکان دانراون"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "باسی تۆی کردووە"
+
+msgid "or login with:"
+msgstr "یان بەم شێوەیە بچیتە ژوورەوە:"
+
+msgid "or register here:"
+msgstr "یان لێرە ناوت تۆمار بکە:"
+
+msgid "recommended"
+msgstr "پێشنیارکراوە"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "دووبارە هەوڵبدەرەوە دوای ${ ti }خولەک"
+
+msgid "x out of bounds"
+msgstr "x لە دەرەوەی سنوور"
+
+msgid "y out of bounds"
+msgstr "y لە دەرەوەی سنوور"
+
+msgid "z out of bounds"
+msgstr "z لە دەرەوەی سنوور"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "B"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "پۆپ ئەپ"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "تۆ قەدەغەکراویت. تۆ پێت وایە ناڕەوایە؟ سەیری "
+
+#~ msgid "Registration"
+#~ msgstr "ناو تۆمارکردن"
+
+#~ msgid "Forgot Password"
+#~ msgstr "وشەی نهێنی لەبیر کردووە"
+
+#~ msgid " on how to appeal."
+#~ msgstr " لەسەر چۆنیەتی تانەدان."
+
+#~ msgid "Unbanned"
+#~ msgstr "قەدەغە نەکراوە"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "ئێستا کە ئەم پەیامەت بینی ئیتر قەدەغە نەکراویت."
+
+#~ msgid "Source on "
+#~ msgstr "سەرچاوە لە "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "ئەگەر وەک پرۆکسی دۆزرایەوە، بەڵام هیچ نیت، یان پێت وایە کە بە هەڵە قەدەغە "
+#~ "کرایت، تکایە بچۆ بۆ ${ guildedLink } یان ئیمەیڵێکمان بۆ بنێرە بۆ $"
+#~ "{ mailLink } و ئەم IID یەی خوارەوە بخەرە ناوی:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "بیرلەوە بکەرەوە کە بەشداریمان بکەیت لە Guilded:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "ناوت: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "ناوی بەکارهێنەر بگۆڕە"
+
+#~ msgid "Change Mail"
+#~ msgstr "گۆڕینی پۆست"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "تکایە ناونیشانی پۆستەکەت پشتڕاست بکەرەوە یان ئەکاونتەکەت دوای چەند ڕۆژێک "
+#~ "بسڕدرێتەوە."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "بە سەرکەوتوویی مەیڵت گۆڕی. ئێمە پۆستی پشتڕاستکردنەوەمان بۆ "
+#~ "ناردیت،             تکایە ناونیشانی پۆستە نوێیەکەت پشتڕاست بکەرەوە."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "هەموو پەیامە تایبەتەکان بلۆک بکە"
+
+#~ msgid "There are no mods"
+#~ msgstr "هیچ مۆدێک نییە"

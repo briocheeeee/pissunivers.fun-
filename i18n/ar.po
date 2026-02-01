@@ -1,0 +1,1795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid " which is in "
+msgstr " الذي هو في "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } اضغط باستمرار على زر الماوس الأيسر واسحب الماوس للتدوير"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr "${ mouseSymbol } نقر الايسر او ${ touchSymbol } انقر لوضع بكسل"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "${ mouseSymbol } انقر بزر الماوس الأيمن واسحبه للتحريك"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } انقر بزر الماوس الايمن او ${ touchSymbol } انقر نقرًا مزدوجًا "
+"لإزالة بكسل"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } قم بالتمرير بعجلة الماوس أو اضغط باستمرار ${ mouseSymbol } "
+"زر الماوس الأوسط واسحب للتكبير"
+
+msgid "(0 = infinite)"
+msgstr "(0 = لانهائي)"
+
+msgid "+last hour"
+msgstr ""
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "يتم إرسال بريد تحقق جديد إليك."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "إضافة شبكة (قم بإلغاء التحديد إذا كنت بحاجة إلى قالب 1:1)"
+
+msgid "Add Template"
+msgstr "إضافة قالب"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "سيتم تعطيل جميع المؤثرات الصوتية."
+
+msgid "Always show Movement Controls"
+msgstr "إظهار عناصر التحكم في الحركة دائمًا"
+
+msgid "Always show movement control buttons"
+msgstr "إظهار أزرار التحكم في الحركة دائمًا"
+
+msgid "Anti Aliasing"
+msgstr "مانع التشويش"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "ضع فلتر لتنظيف القمامة في مناطق اللوحة الكبيرة."
+
+msgid "Archive"
+msgstr "ارشيف"
+
+msgid "Assign new Mod"
+msgstr "تعيين مشرف جديد"
+
+msgid "Auto Zoom In"
+msgstr "تكبير تلقائي"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "محظور"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "محظور؟ تم اكتشافك كبروكسي؟"
+
+msgid "Block"
+msgstr "حظر"
+
+msgid "Block DMs"
+msgstr "حظر الرسائل المباشرة"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "الزاوية السفلية اليمنى"
+
+msgid "Build image and set it to protected."
+msgstr "إنشاء الصورة وتعيينها على محمي."
+
+msgid "Build image on canvas."
+msgstr "بناء الصورة على اللوحة."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "أنشئ الصورة، ولكن أعد ضبط التهدئة إلى cd غير مضبوط بكسل."
+
+msgid "By Mod"
+msgstr "عن طريق الادمن"
+
+msgid "Calculate like GIMP"
+msgstr "الحساب مثل GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "لا يمكن تصدير أكثر من 20 قالبًا أو عدم تصدير أي قالب!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "لا يمكن استيراد أكثر من 20 قالبًا أو عدم استيراد أي قالب!"
+
+msgid "Can't read? Reload:"
+msgstr "لا تستطيع القراءة؟ أعد تحميل:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "لا يمكنك عرض لوحة ثلاثي الأبعاد، هل تم تعطيل WebGL2 لديك؟"
+
+msgid "Cancel"
+msgstr "ألغاء"
+
+msgid "Cancel adding Template"
+msgstr "إلغاء إضافة القالب"
+
+msgid "Canvas"
+msgstr "اللوحة"
+
+msgid "Canvas Archive"
+msgstr "ارشيف اللوحات"
+
+msgid "Canvas Cleaner"
+msgstr "منظف اللوحة"
+
+msgid "Canvas Error"
+msgstr "خطأ في اللوحة"
+
+msgid "Canvas Selection"
+msgstr "اختيار اللوحة"
+
+msgid "Captcha"
+msgstr "الكابتشا"
+
+msgid "Caught by"
+msgstr ""
+
+msgid "Change Happened"
+msgstr ""
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "تغير كلمة السر"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "إعدادات القناة"
+
+msgid "Charts"
+msgstr "مخططات"
+
+msgid "Chat"
+msgstr "الدردشة"
+
+msgid "Chat here"
+msgstr "تحدث هنا"
+
+msgid "Check out past versions of the canvas."
+msgstr "اطلع على الإصدارات السابقة من اللوحة."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "التحقق من الأشخاص الذين وضعوا في منطقة ما"
+
+msgid "Choose Canvas"
+msgstr "اختيار اللوحة"
+
+msgid "Choose Color Mode"
+msgstr "اختر وضع اللون"
+
+msgid "Choose Strategy"
+msgstr "استعمال الاستراتيجية"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"تنظيف البكسلات الاحتياطية النظيفة المحاطة بلون واحد آخر أو بكسلات غير محددة "
+"(هذا الأمر شديد الأهمية على اللوحات التي تسمح بالبيكسلات غير المحددة (حيث "
+"يوجد تباطؤان)!"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "تنظيف البكسلات الاحتياطية النظيفة المحاطة ببكسلات غير مضبوطة"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"نظف وحدات البكسل الاحتياطية المحاطة بوحدات بكسلات غير محددة وما يصل إلى 1 "
+"بكسلات محددة أخرى"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"انقر ${ mouseSymbol } زر الماوس الاوسط او ${ touchSymbol } اضغط لفترة طويلة "
+"لتحديد اللون الحالي الذي يتم تحريك المؤشر عليه"
+
+msgid "Click a color in palette to select it"
+msgstr "انقر فوق لون في اللوحة لتحديده"
+
+msgid "Click here to request a new verification mail."
+msgstr "انقر هنا لطلب بريد إلكتروني تحقق جديد."
+
+msgid "Click to Load Captcha"
+msgstr "انقر لتحميل الكابتشا"
+
+msgid "Clone"
+msgstr "نسخ"
+
+msgid "Close"
+msgstr "اغلاق"
+
+msgid "Close Chat"
+msgstr "اغلاق الدردشة"
+
+msgid "Close Menu"
+msgstr "اغلاق القائمة"
+
+msgid "Close Palette"
+msgstr "إغلاق لوحة الألوان"
+
+msgid "Compact Palette"
+msgstr "لوحة ألوان مدمجة"
+
+msgid "Confirm New Password"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+msgid "Confirm Password"
+msgstr "تاكيد كلمة السر"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "خطأ في الاتصال ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "عناصر التحكم"
+
+msgid "Convert an image to canvas colors"
+msgstr "حول الصور الى لون اللوحة"
+
+msgid "Converter"
+msgstr "المحول"
+
+msgid "Cooldown"
+msgstr "فترة التهدئة"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+msgid "Coordinates"
+msgstr "الاحداثيات"
+
+msgid "Coordinates:"
+msgstr "الاحداثيات:"
+
+msgid "Copied"
+msgstr "تم النسخ"
+
+msgid "Copy"
+msgstr "نسخ"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "نسخ إلى الحافظة"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "لم نتمكن من الاتصال بالخادم، يرجى المحاولة مرة أخرى لاحقًا :("
+
+msgid "Could not load captcha"
+msgstr "لم يتم تحميل الكابتشا"
+
+msgid "Couldn't set Pixel"
+msgstr "لم يتم وضع البكسل"
+
+msgid "Countries Today"
+msgstr "الدول اليوم"
+
+msgid "Country"
+msgstr "دولة"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "يعود الفضل في لوحة الألوان القماشية ذات الـ 2 بت إلى ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "يعود الفضل في لوحة القمر إلى ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "يعود الفضل في لوحة الألوان العشرة الأولى إلى ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr ""
+
+msgid "DM"
+msgstr "ارسال رسالة خاصه"
+
+msgid "Daily Pixels per Country"
+msgstr ""
+
+msgid "Daily Pixels per Player"
+msgstr ""
+
+msgid "Daily Rank"
+msgstr "الترتيب اليومي"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Delete Account"
+msgstr "حذف الحساب"
+
+msgid "Deny"
+msgstr ""
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr "لم أتلق إجابة من pixuniverse. حاول التحديث إذا استمرت المشكلة."
+
+msgid "Dimensions"
+msgstr "الابعاد"
+
+msgid "Disable Game Sounds"
+msgstr "تعطيل أصوات اللعبة"
+
+msgid "Disable History Pencil"
+msgstr "تعطيل قلم التاريخ"
+
+msgid "Disable Overlay Pencil"
+msgstr "تعطيل قلم التراكب"
+
+msgid "Disable Pencil"
+msgstr "تعطيل القلم"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "لوحة العرض بشكل مضغوط يأخذ مساحة أقل على الشاشة."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "القيام بأشياء مع عناوين IP (عنوان IP واحد لكل سطر)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "لا تظهرني بالاحصائيات العامة"
+
+msgid "Download Template"
+msgstr "تحمبل القالب"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"اسحب ${ mouseSymbol } الماوس او ${ touchSymbol } اسحب و حرك اصبعك للحركة"
+
+msgid "Duration"
+msgstr "المدة"
+
+msgid "Easter Egg OFF"
+msgstr "إيقاف السر"
+
+msgid "Easter Egg ON"
+msgstr "تشغيل السر"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Email"
+msgstr "البريد"
+
+msgid "Email can't be empty."
+msgstr "لا يمكن أن يكون البريد الإلكتروني فارغًا."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "لا يمكن أن يتجاوز البريد الإلكتروني 40 حرفًا."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "يجب أن يحتوي البريد الإلكتروني على نقطة على الأقل"
+
+msgid "Email should be at least 5 characters long."
+msgstr "يجب أن يكون البريد الإلكتروني بطول 5 أحرف على الأقل."
+
+msgid "Email should contain a @"
+msgstr "يجب أن يحتوي البريد الإلكتروني على @"
+
+msgid "Enable Overlay"
+msgstr "تمكين التراكب"
+
+msgid "Enable Pencil"
+msgstr "تمكين القلم"
+
+msgid "Enable chat notifications"
+msgstr "تمكين إشعارات الدردشة"
+
+msgid "Enter Characters"
+msgstr "أدخل الأحرف"
+
+msgid "Enter Reason"
+msgstr "ادخل سبب"
+
+msgid "Enter UserName of new Mod"
+msgstr "أدخل اسم المستخدم للمشرف الجديد"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "أدخل عنوان بريدك الإلكتروني وسنرسل لك كلمة مرور جديدة:"
+
+msgid "Error"
+msgstr "خطأ"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "خطأ ${ retCode }"
+
+msgid "Error :("
+msgstr "خطأ"
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "تصدير القوالب الممكّنة"
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr "الملف"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "عندما تلعب على بطاطس."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr ""
+
+msgid "From Template"
+msgstr ""
+
+msgid "Get IID"
+msgstr "احصل على IID"
+
+msgid "Get Pixels"
+msgstr "احصل على بكسلات"
+
+msgid "Get Users"
+msgstr "احصل على مستخدمين"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "منظر الكرة الأرضية"
+
+msgid "Go to"
+msgstr "الذهاب الى"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "إيقاف تشغيل الشبكة"
+
+msgid "Grid ON"
+msgstr "تشغيل الشبكة"
+
+msgid "Have fun!"
+msgstr "استمتع!"
+
+msgid "Height"
+msgstr "ارتفاع"
+
+msgid "Help"
+msgstr "مساعدة"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"هنا نجمع اللوحات المحذوفة لأرشفتها بشكل صحيح. يوجد حاليًا لوحة واحدة فقط."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"تستغرق مستويات التكبير الأعلى بعض الوقت للتحديث، ويتم تحديث الكرة الأرضية "
+"ثلاثية الأبعاد مرة واحدة على الأقل يوميًا."
+
+msgid "Historical View"
+msgstr "العرض التاريخي"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+
+msgid "How pixuniverse should look like."
+msgstr "كيف ينبغي أن يبدو شكل pixuniverse."
+
+msgid "I forgot my Password."
+msgstr "لقد نسيت كلمة المرور الخاصة بي."
+
+msgid "IID (optional)"
+msgstr "IID (اختياري)"
+
+msgid "IID Actions"
+msgstr "إجراءات IID"
+
+msgid "IP Actions"
+msgstr "خيارات ال IP"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "محول الصور"
+
+msgid "Image Upload"
+msgstr "رفع الصور"
+
+msgid "Import templates"
+msgstr "استيراد القوالب"
+
+msgid "Interval"
+msgstr "فاصلة"
+
+msgid "Interval is invalid"
+msgstr "الفاصل الزمني غير صالح"
+
+msgid "Invalid Canvas"
+msgstr "لوحة غير صحيحة"
+
+msgid "Invalid Coordinates"
+msgstr "إحداثيات غير صالحة"
+
+msgid "Invalid color selected"
+msgstr "تم تحديد لون غير صالح"
+
+msgid "Invited to Chat"
+msgstr "مدعو للدردشة"
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "للمستخدمين المسجلين فقط"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "فقط اصحاب الافضل 10 من البارحة يستطيعون ان يضعون هنا"
+
+msgid "Keep Ratio"
+msgstr "نسبة الاحتفاظ"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "شبكة الضوء"
+
+msgid "Load Captcha"
+msgstr "تحميل الكابتشا"
+
+msgid "Loading"
+msgstr "تحميل"
+
+msgid "Loading..."
+msgstr "تحميل..."
+
+msgid "Log out"
+msgstr "تسجيل خروج"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "تسجيل الدخول"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "قم بتسجيل الدخول للوصول إلى المزيد من الميزات والإحصائيات."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "تسجيل الدخول باستخدام الاسم أو البريد الإلكتروني:"
+
+msgid "Make Screenshot"
+msgstr "التقاط لقطة شاشة"
+
+msgid "Manage Moderators"
+msgstr "إدارة المشرفين"
+
+msgid "Map Data"
+msgstr "بيانات الخريطة"
+
+msgid "Maximize"
+msgstr "تكبير"
+
+msgid "Minimum Color Distance"
+msgstr "الحد الأدنى لمسافة اللون"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "ادوات الادمن"
+
+msgid "Move"
+msgstr "تحريك"
+
+msgid "Mute"
+msgstr "ميوت"
+
+msgid "Muted Sound"
+msgstr "صوت صامت"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Name can't be empty."
+msgstr "لا يمكن أن يكون الإسم فارغًا."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "يحتوي الاسم على حرف غير صالح مثل @ أو / أو \\ أو #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "يجب أن يتكون الاسم من حرفين على الأقل"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "يجب أن يكون الاسم أقل من 26 حرفًا"
+
+msgid "Name or Email"
+msgstr "اسم او البريد"
+
+msgid "New Mail"
+msgstr "بريد جديد"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "كلمة مرور جديدة"
+
+msgid "New Username"
+msgstr "اسم المستخدم الجديد"
+
+msgid "No"
+msgstr "لا"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "لم يتم تقديم معرف الكابتشا"
+
+msgid "No or invalid captcha text"
+msgstr "لا يوجد نص الكابتشا أو نص الكابتشا غير صالح"
+
+msgid "No password given."
+msgstr "لم يتم اعطاء كلمة المرور."
+
+msgid "Not allowed"
+msgstr "غير مسموح"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "اوكي"
+
+msgid "Offset"
+msgstr "الإزاحة"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "كلمة المرور القديمة"
+
+msgid "Online Users"
+msgstr "المستخدمين المتواجدين"
+
+msgid "Online Users on Canvas"
+msgstr "المستخدمون المتصلون بالإنترنت على اللوحة"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "عتامة التراكب كنسبة مئوية."
+
+msgid "Open Chat"
+msgstr "فتح الدردشة"
+
+msgid "Open Menu"
+msgstr "فتح القائمة"
+
+msgid "Open Palette"
+msgstr "فتح لوحة الألوان"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"لوحتنا الرئيسية عبارة عن خريطة عالمية ضخمة، يمكنك وضع أينما تشاء، ولكن "
+"سيتعين عليك انتظار فترة تهدئة محددة بين كل بكسل وآخر. يمكنك الاطلاع على فترة "
+"التهدئة والمتطلبات في قائمة \"اختيار اللوحة\" (زر الكرة الأرضية في الأعلى). "
+"تختلف فترة التهدئة لبعض اللوحات عند استبدال بكسلات مُعيّنة من قِبل المستخدم عن "
+"فترة التهدئة عند وضعها على بكسل غير مُعيّن. على سبيل المثال، 4 ثوانٍ/7 ثوانٍ "
+"تعني 4 ثوانٍ على البكسلات الجديدة و7 ثوانٍ على البكسلات المُعيّنة مُسبقًا."
+
+msgid "Overlay OFF"
+msgstr "إيقاف تشغيل التراكب"
+
+msgid "Overlay ON"
+msgstr "تشغيل التراكب"
+
+msgid "Overlay Opacity"
+msgstr "تعتيم التراكب"
+
+msgid "Palette Download"
+msgstr "تحميل لوحة الألوان"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "لوحة الألوان ل ${ gimpLink }"
+
+msgid "Password"
+msgstr "كلمة السر"
+
+msgid "Password must be at least 6 characters long."
+msgstr "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "يجب أن تكون كلمة المرور أقل من 60 حرفًا."
+
+msgid "Password successfully changed."
+msgstr "تم تغيير كلمة المرور بنجاح."
+
+msgid "Passwords do not match."
+msgstr "كلمات المرور غير متطابقة."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr ""
+
+msgid "Pencil picks: "
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "اشارة"
+
+msgid "Pixel Notify OFF"
+msgstr "إيقاف تشغيل إشعار البكسل"
+
+msgid "Pixel Notify ON"
+msgstr "تشغيل إشعار البكسل"
+
+msgid "Pixel Protection"
+msgstr "حماية البكسلات"
+
+msgid "Pixel protected"
+msgstr "البكسلات محمية"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr "ضع وحدات البكسل الملونة على لوحة كبيرة مع لاعبين آخرين عبر الإنترنت!"
+
+msgid "Placed Pixels"
+msgstr "البكسلات الموضوعة"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "تشغيل صوت عند وصول رسائل دردشة جديدة"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "عدد اللاعبين والبكسلات في الساعة"
+
+msgid "Please prove that you are human"
+msgstr "ارجوك اثبت انك بشري"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "لوحة البوصلة السياسية"
+
+msgid "Potato Mode"
+msgstr "وضع البطاطس"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"اضغط ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } للحركة"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "اضغط على ${ bindG } لتفعيل الشبكة"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "اضغط على ${ bindH } لتفعيل العرض التاريخي"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "اضغط ${ bindQ } و ${ bindE } للتحليق فوق و أسفل"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "اضغط على ${ bindQ } أو ${ bindE } للتكبير"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "اضغط على ${ bindR } لنسخ الإحداثيات"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "اضغط ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } للحركة"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "اضغط على ${ bindX } لتفعيل عرض نشاط البكسل"
+
+msgid "Private"
+msgstr "خاص"
+
+msgid "Profile"
+msgstr "الملف"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "النطاق محظور"
+
+msgid "Ranked"
+msgstr "مصنف"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"يتم تحديث الترتيب كل 5 دقائق. تتم إعادة تعيين التصنيفات اليومية في منتصف "
+"الليل بالتوقيت العالمي المنسق."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "السبب"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "سجل"
+
+msgid "Register new account here"
+msgstr "سجل حساب جديد هنا"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "إعادة التحميل"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "إزالة المشرف"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "المتطلبات"
+
+msgid "Reset"
+msgstr "اعادة تعيين"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "تغيير الحجم"
+
+msgid "Restore"
+msgstr "ارجاع"
+
+msgid "Retired Canvases (history only)"
+msgstr "لوحات متقاعدة (تاريخية فقط)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr ""
+
+msgid "Rollback to Date"
+msgstr "العودة إلى التاريخ"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Scale Image"
+msgstr "صورة بالمقياس"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr "التمرير ${ mouseSymbol } بعجلة الماوس او ${ touchSymbol } قرص للتكبير"
+
+msgid "Select Date above"
+msgstr "حدد التاريخ أعلاه"
+
+msgid "Select File"
+msgstr "اختيار الملف"
+
+msgid "Select Language"
+msgstr "اختيار اللغة"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"اختر اللوحة التي تريد استخدامها.\n"
+"\n"
+"كل لوحة فريدة من نوعها، ولها لوحات ألوان مختلفة، وفترة تهدئة، ومتطلبات "
+"مختلفة.\n"
+"\n"
+"يمكنك الوصول إلى اللوحات المؤرشفة هنا:"
+
+msgid "Selected Color"
+msgstr ""
+
+msgid "Send"
+msgstr "أرسال"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"لقد أرسلنا لك بريدًا إلكترونيًا يحتوي على تعليمات لإعادة تعيين كلمة المرور "
+"الخاصة بك."
+
+msgid "Serpentine"
+msgstr "أفعواني"
+
+msgid "Server answered with gibberish :("
+msgstr "أجاب الخادم بكلام غير مفهوم :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr "الخادم استغرب من بكسلاتك, هل انت تلعب باكثر من جهاز؟"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"تعيين حماية المناطق (إذا كنت بحاجة إلى تحكم أدق، استخدم الحماية مع تحميل "
+"الصور وطبقات ألفا)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "الاعدادات"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "إظهار الشبكة"
+
+msgid "Show Grid in white instead of black."
+msgstr "إظهار الشبكة باللون الأبيض بدلاً من الأسود."
+
+msgid "Show Pixel Activity"
+msgstr "إظهار نشاط البكسل"
+
+msgid "Show circles where pixels are placed."
+msgstr "إظهار الدوائر حيث يتم وضع البكسل."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr "إظهار التراكب على هيئة بكسلات فردية صغيرة على مستويات تكبير عالية."
+
+msgid "Show templates as overlays ingame."
+msgstr "إظهار القوالب كتراكبات داخل اللعبة."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "بكسلات صغيرة عند التكبير"
+
+msgid "Social Settings"
+msgstr "اعدادات الاجنماعية"
+
+msgid "Source for pixuniverse on "
+msgstr "المصدر لـ pixuniverse على "
+
+msgid "Stacking till"
+msgstr "تكديس حتى"
+
+msgid "Start chatting here"
+msgstr "ابدأ الدردشة هنا"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "الاحصائيات"
+
+msgid "Status: Not running"
+msgstr "الحالة: غير قيد التشغيل"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "ايقاف المنظف"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "تم التبديل إلى ${ canvasName }"
+
+msgid "Template Name"
+msgstr "اسم القالب"
+
+msgid "Templates"
+msgstr "القوالب"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"يمكن تنزيل بيانات الخريطة التي نستخدمها، إلى جانب مربعات OpenStreetMap "
+"المحولة للتوجيه، من mega.nz هنا: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "السمات"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "اللوحة غير موجودة"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"طُلبت هذه اللوحة خلال فترة صراعات سياسية على لوحة الأرض الرئيسية. كانت تمثل "
+"البوصلة السياسية بدقة 1024×1024، مع فترة تهدئة 5 ثوانٍ وتراكم 60 ثانية. أُطلقت "
+"في 11 مايو وظلت نشطة لأشهر حتى تم إيقافها في 30 نوفمبر."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "نفذ الوقت"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "نصيحة: غير حساس لحالة الأحرف؛ I وl هما نفس الشيء"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"هل سئمت من كثرة استخدام لون واحد؟ هل ترغب بإنشاء عمل فني، ولكنك تحتاج إلى عدّ "
+"وحدات البكسل من صورة أخرى؟ ستساعدك القوالب في ذلك! يمكن عرض القوالب كطبقة "
+"علوية، ويمكنك الرسم فوقها. كل بكسل في القالب يساوي بكسلًا واحدًا على اللوحة."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "اليوم"
+
+msgid "Today Placed Pixels"
+msgstr "البكسلات الموضوعة اليوم"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "أفضل 10 دول [بكسل / يوم]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "أفضل 10 تصنيفات يومية"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "أفضل 10 لاعبين [بكسل / يوم]"
+
+msgid "Top 10 Players from Yesterday"
+msgstr ""
+
+msgid "Top-left corner"
+msgstr "الزاوية العلوية اليسرى"
+
+msgid "Total"
+msgstr "اجمالي"
+
+msgid "Total Online Users"
+msgstr "إجمالي المستخدمين المتواجدين"
+
+msgid "Total Pixels per Player"
+msgstr ""
+
+msgid "Total Pixels placed per day"
+msgstr "إجمالي البكسل الموضوعة في اليوم"
+
+msgid "Total Rank"
+msgstr "الترتيب الاجمالي"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"قم بتحويل كل بكسل في المنطقة إلى 0 (لا ينبغي لك حقًا القيام بذلك في أي منطقة "
+"ليست في الغالب 0)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "قم بتشغيل الشبكة لتسليط الضوء على حدود البكسل."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "اكتب الأحرف من الصورة التالية:"
+
+msgid "Unblock Users"
+msgstr "إلغاء حظر المستخدمين"
+
+msgid "Unknown Captcha Error"
+msgstr "خطأ غير معروف في الكابتشا"
+
+msgid "Unknown Error"
+msgstr "خطأ غير معروف"
+
+msgid "Unmuted Sound"
+msgstr "صوت غير صامت"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "رفع الصور الى اللوحة"
+
+msgid "Use our custom cursor"
+msgstr ""
+
+msgid "User"
+msgstr "مستخدم"
+
+msgid "User Account"
+msgstr "حساب مستخدم"
+
+msgid "User Area"
+msgstr "منطقة المستخدم"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "مستخدم"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"قررنا أرشفتها كتصوير فاصل زمني بتشفير WebM بدون فقدان للبيانات. يؤدي التقاط "
+"لقطة شاشة من التصوير الفاصل الزمني إلى تمثيل مثالي بنسبة 1:1 لحالة اللوحة "
+"القماشية في ذلك الوقت."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr "نشكر الفنانين التاليين، الذين جعلوا لوحاتهم متاحة للجمهور على"
+
+msgid "Weird"
+msgstr "غريب"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr ""
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"مع أننا نميل إلى عدم حذف اللوحات، إلا أن بعضها يُنشَأ للتسلية أو بناءً على طلب "
+"مستخدمين يُعجبهم ميم شائع حاليًا. قد تصبح هذه اللوحات باهتة وغير نشطة بعد "
+"فترة، وعندها لا يبقى هناك سبب للاحتفاظ بها، وقد نقرر إزالتها."
+
+msgid "Why?"
+msgstr "لماذا؟"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid "Wrong Color"
+msgstr "لون خاطئ"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "Yes, Delete My Account!"
+msgstr "نعم، قم بحذف حسابي!"
+
+msgid "Yesterday"
+msgstr "البارحة"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "انت تستعمل بروكسي."
+
+msgid "You are weird"
+msgstr "انت غريب"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"لا يمكنك الدخول الى هذه اللوحة حتى الان, لان رقم البكسلات الخاص بك قليل"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "يمكنك الآن وضع المزيد على pixunivers.fun :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "لقد فشلت في اختبار الكابتشا الخاص بك"
+
+msgid "You have new messages in chat"
+msgstr "لديك رسائل جديدة في الدردشة"
+
+msgid "You have no users blocked"
+msgstr "ليس لديك أي مستخدمين محظورين"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "يجب أن تكون مسجلاً للدخول لتضع على هذه اللوحة"
+
+msgid "You made too many requests"
+msgstr "لقد قمت بالكثير من الطلبات"
+
+msgid "You must be logged in to chat"
+msgstr "يجب عليك تسجيل الدخول للدردشة"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "يجب عليك إدخال مدة"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "يجب عليك إدخال IID"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "لقد استغرقت وقتًا طويلاً، حاول مرة أخرى."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"لا يسمح لنا متصفحك باستخدام AudioContext لتشغيل الأصوات. هل لديك بعض ميزات "
+"الخصوصية التي تحظرنا؟"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "تم حظر مزود الإنترنت الخاص بك من هذه اللعبة"
+
+msgid "Your ban expires at "
+msgstr "ينتهي حظرك في "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "البكسلات التالية جاهزة"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr "قم بالتكبير بدلًا من وضع بكسل عند النقر على اللوحة وكان التكبير صغيرًا."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "و ${ canvas.req } وضع بكسلات"
+
+msgid "check compliance here"
+msgstr "التحقق من الامتثال هنا"
+
+msgid "mentioned you"
+msgstr "ذكرك"
+
+msgid "or login with:"
+msgstr "أو تسجيل الدخول باستخدام:"
+
+msgid "or register here:"
+msgstr "أو سجل هنا:"
+
+msgid "recommended"
+msgstr "موصى به"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "حاول مرة اخرى بعد ${ ti }دقيقة"
+
+msgid "x out of bounds"
+msgstr "مستوى x خارج الحدود"
+
+msgid "y out of bounds"
+msgstr "مستوى y خارج الحدود"
+
+msgid "z out of bounds"
+msgstr "مستوى z خارج الحدود"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "نافذة"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "أنت محظور. هل تعتقد أن هذا غير مبرر؟ تحقق من "
+
+#~ msgid "Pixels placed"
+#~ msgstr "البكسلات الوضعت"
+
+#~ msgid "History Pencil ON"
+#~ msgstr "قلم التاريخ قيد التشغيل"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "قلم التراكب قيد التشغيل"
+
+#~ msgid "Registration"
+#~ msgstr "تسجيل"
+
+#~ msgid "Forgot Password"
+#~ msgstr "هل نسيت كلمة السر"
+
+#~ msgid " on how to appeal."
+#~ msgstr " حول كيفية الاستئناف."
+
+#~ msgid "Unbanned"
+#~ msgstr "غير محظور"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "الآن بعد أن رأيت هذه الرسالة، لم يعد حسابك محظورًا."
+
+#~ msgid "We are Libre Software, "
+#~ msgstr "نحن شركة ليبري سوفتوير، "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "إذا تم اكتشافك كبروكسي، ولكنك لست بروكسي، أو تعتقد أنه تم حظرك بشكل غير "
+#~ "صحيح، فيرجى الانتقال إلى ${ guildedLink } أو إرسال بريد إلكتروني إلينا "
+#~ "إلى ${ mailLink } وإدراج معرف IID التالي:"
+
+#, javascript-format
+#~ msgid "Hold left ${ bindShift } for placing while moving mouse"
+#~ msgstr "ابقى ضاغط على زر الايسر ${ bindShift } للوضع أثناء تحريك الماوس"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "ابقى ضاغط على زر الايمن ${ bindShift } للوضع أثناء تحريك الماوس مع طور "
+#~ "التاريخي"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "فكر في الانضمام إلينا على Guilded:"
+
+#~ msgid "Right-Shift Auto-Color"
+#~ msgstr "زر الشفت الايمن للون تلقائي"
+
+#~ msgid "Place pixels from overlay on right-shift, instead of history."
+#~ msgstr ""
+#~ "ضع وحدات البكسل من التراكب عند التحول إلى الشفت اليمين، بدلاً من طور "
+#~ "التاريخي."
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "اسمك هو: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "تغير اسم المستخدم"
+
+#~ msgid "Change Mail"
+#~ msgstr "تغير البريد"
+
+#~ msgid "Rollback an area of the canvas to a set date (00:00 UTC)"
+#~ msgstr ""
+#~ "استرجاع منطقة من اللوحة إلى تاريخ محدد (00:00 بالتوقيت العالمي المنسق)"
+
+#~ msgid "There are no mods"
+#~ msgstr "لا يوجد مشرفين"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "يرجى التحقق من عنوان بريدك الإلكتروني أو قد يتم حذف حسابك بعد بضعة أيام."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "تم تغيير البريد بنجاح. أرسلنا لك رسالة تحقق,             يرجى التحقق من "
+#~ "عنوان بريدك الإلكتروني الجديد."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "حظر جميع الرسائل الخاصة"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "دول بكسل اليوم"

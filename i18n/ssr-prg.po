@@ -1,0 +1,758 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"PO-Revision-Date: 2025-10-26 12:52+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Prussian <https://translate.gs-os.com/projects/ppfun/server/"
+"prg/>\n"
+"Language: prg\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
+"19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr "2bit"
+
+msgid "3D Canvas"
+msgstr "3D drābi"
+
+msgid "A 3D globe of our whole map"
+msgstr "3D planēta tāutaskarti"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Klajds dēnan aktiviskajāusians piłs naudingimans pa prīkstinān dėinan. "
+"Dīnniskai rengimai atnaujinami prei 00:00 UTC."
+
+msgid "Access modtools"
+msgstr ""
+
+msgid "Add Application"
+msgstr ""
+
+msgid "Add an Application (OIDC Client)"
+msgstr ""
+
+msgid "Add new application"
+msgstr ""
+
+msgid "An error occured. Please try again later."
+msgstr ""
+
+msgid "Application changed successfully"
+msgstr ""
+
+msgid "Application deleted"
+msgstr ""
+
+msgid "Application successfully added"
+msgstr ""
+
+msgid "Black and White canvas"
+msgstr "Melne un Balte audekla"
+
+msgid "Can not chat while being banned"
+msgstr "Ne galēi lābutunīs kai esi uzsprēstas"
+
+msgid "Click here"
+msgstr "Spausk dēnt"
+
+msgid "Click to Verify"
+msgstr "Spaudź patikrinti"
+
+msgid "Client Name"
+msgstr "Klientas Wārds"
+
+msgid "Confirm New Password"
+msgstr "Patiwinkan Naujan Paswordan"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"Dātin zemi smakai ant smaļais pażemei stāweistwan dintan. Dalīdai "
+"stāweistwaistwa pażemes kanwās!"
+
+msgid "Consent"
+msgstr "Preigauta"
+
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+msgid "Could not close this Session."
+msgstr "Nepatīkanškas šīntan Sesījan."
+
+msgid "Could not find this login method"
+msgstr "Nī finden bartinnan gīwīdeinan sikīmtinan"
+
+msgid "Couldn't find this mail in our database"
+msgstr "Nī pasteīgtan tānkun ēmaiļan mūson datubāzion"
+
+msgid "Default"
+msgstr "Nutrimai"
+
+msgid "Delete Application"
+msgstr "Apdalīkīnt Apsēntīn"
+
+msgid "Display name for your OIDC client"
+msgstr "Prawīdis prai OIDC klients"
+
+msgid "Double click on globe to go back."
+msgstr "Dwīreīkst kikintan na gūbinan steigi patrankinti."
+
+msgid "E-Mail already in use."
+msgstr "E-pasts jau käytinams."
+
+msgid "Earth"
+msgstr "Semmē"
+
+msgid "Edit existing applications"
+msgstr "Redaguoti esamas aplikacijas"
+
+msgid "Email can't be empty."
+msgstr "E-pasts ni gal'stat tūšti."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "E-pasts nabūt staunchs nekā 40 zīmans."
+
+msgid "Email should at least contain a dot"
+msgstr "E-pasts turrėtu turēt vēinanū statīklan"
+
+msgid "Email should be at least 5 characters long."
+msgstr "E-pasts tur būt minimums 5 karaktera garš."
+
+msgid "Email should contain a @"
+msgstr "E-pasts turēt'sign @"
+
+msgid "Error"
+msgstr "Klaida"
+
+msgid "Failed to create a new user :("
+msgstr "Nepavyko sukūrti naują naudotoją :("
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+
+msgid "Get email address"
+msgstr "Gūtweišan pa e-mailan"
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr "Gūtweißei daudz swīkstīns stalipts ēn rankīns"
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Linksmybiū jūms ēi nī susigīnkīt prāsinēt nūsūs, jei kummāti pasitaikīs :)"
+
+msgid "Hello"
+msgstr "Kaīlūkai"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr ""
+"Kaīlānts ${ email }, tū galī preīdeiktwei tūns nauns pāsass wārds steit:"
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Kaīloutei, ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+"Jei tāns tu bēi, tadēi paisūkai īschūtan. Jei nē tu, tadēi preīdeit <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> un atsloginkit "
+"vsekanauj sijautans, kurijaus napazejsta pajegejma “Prisijungima Bidai” "
+"Pajauta Ervijsije un pakeiskit svaji prasivaldijma."
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Jei tu napižadiejai stancei listan, teisei nīkaitei pakūkstiet (tān ip, kas "
+"pižadēja stans listan, bēi ${ ip })."
+
+msgid "Incorrect password!"
+msgstr "Neteisinga slaptāžodis!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "Neteisinga entrustedīnė :( Prašau tiktinti twēian mailan nanīn."
+
+msgid "Just admins can do that"
+msgstr "Tikrai dēiws magt tūns"
+
+msgid "Know that an account exists"
+msgstr "Erwīns zināt, kadā konta īr"
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr ""
+
+msgid "Loading..."
+msgstr "Pakraun..."
+
+msgid "Login from new location on pixuniverse"
+msgstr "Prisijungimas iš naujos vietos pixuniverse'e"
+
+msgid "Login is required"
+msgstr "Reikia prisijungt"
+
+msgid "Mail is already in use!"
+msgstr "Pażīstas jau īr tūlik!"
+
+msgid "Mail is not configured on the server"
+msgstr "Posti ni īr nūstātītās pi servera"
+
+msgid "Mail verification"
+msgstr "Pausta patikrinsana"
+
+msgid "Minimap"
+msgstr "Mażītlapis"
+
+msgid "Mirror of PixelCanvas"
+msgstr "Spīgelis pēr PixelCanvas"
+
+msgid "Mirror of PixelZone"
+msgstr "Spīgelis pēr PixelZone"
+
+msgid "Moon"
+msgstr "Mēness"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Mēnulis pala. Droswīdis wāļis per dāinan. Ni bēiūt flagāi sīweī dids gīrēis "
+"(jū́s daīnas dales) sīweī dāinan kirdīnsnei kāi 1.5k x 1.5k pixelū."
+
+msgid "Name already in use."
+msgstr "Wārds jau stājts īmtā."
+
+msgid "Name can't be empty."
+msgstr "Wārds ni galī būt tūšti."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Wārds tur īmmings signan, kai @, /, \\ aba #"
+
+msgid "Name is too long"
+msgstr "Wārds per ilgāis"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Wārds bēi minimums 2 stābtis"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Wārds bēi kurtāisīs nēntāis 26 stābtis"
+
+msgid "Name or Email does not exist!"
+msgstr "Wārds ar E-pasts napast!"
+
+msgid "New Password"
+msgstr "Nawīnīs Skirsnanūmins"
+
+msgid "No Captcha given"
+msgstr "Ni kāptča dāts"
+
+msgid "No or invalid fish id."
+msgstr "Nēīgnaī aba nēistājgs pūwis id."
+
+msgid "No password given."
+msgstr "Nīkāds skirsnanūm dāts."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr ""
+
+msgid "No such badge found"
+msgstr "Nīkāi tāds emblēms atrasts"
+
+msgid "No such fish found"
+msgstr "Nīkāi neīdra pūwis aptinkts"
+
+msgid "One redirect URIs per line"
+msgstr "Vīns atgriežōntis URLs per līni"
+
+msgid "One redirect_uri per line"
+msgstr ""
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr ""
+
+msgid "Only four colors. Same rules as moon!"
+msgstr "Tikrai keturjū barwai. Tas pats prawīst as Menulis!"
+
+msgid "OpenID Connect specs"
+msgstr "OpenID Connect spādan"
+
+msgid "Or by copying following url:"
+msgstr "Īmu sīntan pōgienen ēndanen URL:"
+
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr "Mūsonas pats galwīdis, dids swētan mappis. Dēikīt kāinīt tikai twān!"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Slaptāžodis tur būt minimaliai 6 rāktan."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Slaptāžodis nin būten trumpiau kāitāntan 60 rāktan."
+
+msgid "Password successfully changed."
+msgstr "Slaptāžu sėkmingā pakeista."
+
+msgid "Permission"
+msgstr "Leidiśkan"
+
+msgid "PixelCanvas"
+msgstr "PikselLents"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun 3D planēta"
+
+msgid "PixelZone"
+msgstr "PikselZōna"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Dētweiši Vokseli pi enan 3D kraklas so dēiws."
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Dētwei stainan gleitin piksātan na mapais stīliskai dātikan kanwan su "
+"antraiis online"
+
+msgid "Please refresh the website"
+msgstr "Apgreidatwei sito palāikinan"
+
+msgid "Please try again."
+msgstr "Stātēntwei."
+
+msgid "Please use int channel"
+msgstr "Prašau naudokēit int kanālan"
+
+msgid "Read Badges and fishes"
+msgstr "Skaitīt ženklius un pankūlius"
+
+msgid "Read name, username and account age"
+msgstr "Skaitīt wārds, paėmė ir amžius pruse"
+
+msgid "Redirect URIs"
+msgstr "reīklaīst URIs"
+
+msgid "Regularly update this data"
+msgstr "Staikintēi rinktwei datans"
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "Atstatīt Surīktan"
+
+msgid "Reset your password here"
+msgstr "Apgriztwei twei Surīktan tūsei"
+
+msgid "Server error when deleting user."
+msgstr "Klaida serveriō briukstantēi upītą."
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr "Kaskas pagubbis prei twais accaunts stawītinimai naujā postan, so IP:"
+
+msgid "Space-separated list of available scopes"
+msgstr "Perstaitītangs stānts skōpu ėn wiskas starpān"
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+"Perstaitītangs baziniu skōpu ėn wiskas starpān, tīns butuns nauduotas "
+"prāsei, ka ni vīns kita skēpis dāts."
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+"Perstaitītangs baziniu skōpu ėn wiskas starpān, tīns naudōs ant prāsīmū kēi "
+"nēninkaīts kita skīsta."
+
+msgid "Space-separated list of scopes that should be available"
+msgstr "Perstaitītangs skōpu ėn wiskas starpān kurīm būt galīma"
+
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "Seimēnts audums prīsininkam pārbaudīt SARS-CoV2."
+
+msgid "Stop flooding."
+msgstr "Stabstweīns ni."
+
+msgid "Submit"
+msgstr "Pateikt"
+
+msgid "Thanks"
+msgstr "Dīnka"
+
+msgid "The user owning this badge is private"
+msgstr "Tāwi īmtīnan preīkstān šis sīmts ir paslēpts"
+
+msgid "The user owning this fish is private"
+msgstr "Tāwi fiskis preīkstān šis sīmts ir paslēpts"
+
+msgid "This application is not allowed to login"
+msgstr "Ta aplikatiōni ni galīma prāsilaist"
+
+msgid "This application redirects to an unallowed page"
+msgstr "Ta aplikatiōni nuvede teikīntan pagīmīnan strāniman puslāpinan"
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr "Ta aplikatiōni atsiunte klaidinga prisijungimo prasyma be nukreipimo"
+
+msgid "This application uses a PKCE method we do not support"
+msgstr "Ta aplikatiōni patrebnau PKCE metodan kas mums nepalaikams"
+
+msgid "This application uses a login method we do not support"
+msgstr "Ta aplikatiōni patrebnau prisiēidima metodan kas mums nepalaikams"
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+"Ensis e-pastas / slaptāźodis ēnprūsiskai ēnlaūžtas ēi pagrobts. Āūstōtwei "
+"ēnźargīnti tenīnīkan, slaptāźodis pabīga atnaujints. Warthiōkaitei "
+"“Aūžmirsau manēi slaptāźodis” ēnfunkciōnen pōėītwei naujan slaptāźodin. En "
+"przyszēnti, nawarthōkaitei enžiūkti mālvīr. Deiwa tēikan."
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+"Enāns e-pastas / slaptāźodis kombinātiuns pagūbtas īn billīks stādins. Ape "
+"saugōtwei tēi kontas, slaptāźodis prawīstīts. Abeīdēi tēi \"Apeiskīrsei "
+"manin slaptāźodis\" funkziunan tēi Īlaistwei stādin prei rinkinnai naujinan "
+"slaptāźodis. Prei nākansei geitan, apvērs kitimai nestādinnai malware, Deiwa "
+"tēikan."
+
+msgid "This email provider is not allowed"
+msgstr "Tawai E-pastas perwidimai ni pastatai neleidžiama"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Tas slaptāźodis atnaujintins saitas nawien prawīsts :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr ""
+
+msgid "Top10"
+msgstr "Top10"
+
+msgid "Unknown Captcha Error"
+msgstr "Nezināms kaptčas klaida"
+
+msgid "Update Application"
+msgstr "Atnaujint Applikatiun"
+
+msgid "User ID and verification level"
+msgstr "User ID un prawdēnteista līgīns"
+
+msgid "User doesn't exist in our database :("
+msgstr "Nīkwīns nabūdai sto mūsonēi datābāzei :("
+
+msgid "Username already in use."
+msgstr "Wārds preigīmtas jau."
+
+msgid "Username can not start with pp_"
+msgstr "Wārds nīklais nīgalima prādsēdēt so pp_"
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr "Wārds palīkst tikai turīt rēikēi: a-z . _ un -"
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Myr jau tēpanēi epistulan tūbi nūrimais. Pagaidīt prīkstītēi prīkst "
+"patinkintwei kita epistula."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Mes jāu tenginnimai jūs izbandāwusi pōstikastens, jūs mazzi madla kits ēn $"
+"{ minLeft } minūtis."
+
+#, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr ""
+"Sveiks, ${ name }, pixuniverseian, prašau patvirtinkit twāniskas lāiškan"
+
+msgid "You already chose your username"
+msgstr "Tu jau pasirinkai tūwis Wōrdniks"
+
+msgid "You already have that name."
+msgstr "Tu jau turys ton wārds."
+
+msgid "You are already verified."
+msgstr "Tū jau giwērts."
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Tu būt atstumts par vēlan ${ timeMin } minutīn"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Tu būt surišts priēš ${ ttl } sekundēm."
+
+msgid "You are not allowed to access this page"
+msgstr "jūs assei ni preiwērpt prēi preiēisenis šis pāusan"
+
+msgid "You are not banned"
+msgstr "jūs assei ni ni preiwērpt"
+
+msgid "You are not logged in"
+msgstr "jūs ni ast senrissa"
+
+msgid "You are now verified :)"
+msgstr "jūs ast teinū izbānda :)"
+
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr "jūs stwi permanēnts dussaws, sendātun nūss discord prēi enwakīsenis"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr ""
+"twajs stwi waīstis pēr pastenīks, twajs papaltwei prēi gēistwei $"
+"{ waitTime } āntars :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+
+msgid "You can not register an account while you are banned"
+msgstr ""
+
+msgid "You can not register an account with a proxy"
+msgstr ""
+
+msgid "You can not send chat messages while using a proxy"
+msgstr "jūs mazītwei ni sendelītun čats waīstis ikkai jūs tērpa proxy"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+
+msgid "You can't send a message this long :("
+msgstr "jūs mazzi ni tenginna waīstis šis ilgai"
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+
+msgid "You don't have access to this channel"
+msgstr "twajs segītun turri preiēisenis šāi"
+
+msgid "You failed your captcha"
+msgstr "jūs praspīli twajs captcha"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr ""
+"Tū assei izmīrsuns twajs pixuniverse kliptaswīrds? Gaūnja nāuns kliptaswīrds "
+"šāi"
+
+msgid "You have to fill out all fields"
+msgstr ""
+
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr ""
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Jūs izkīninsenju gaūtun nāuns kliptaswīrds. Jūs mazzi kitawīdina twajs "
+"kliptaswīrds ēntrai repīnts 30min šāi: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "jūs tenginna pāusts dātan :("
+
+msgid "You took too long, try again"
+msgstr ""
+
+msgid "You will be automatically redirected after 15s"
+msgstr "jūs ast ēisei assei autōmatiska pabanginna pa 15s"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your account needs to be verified to access this page"
+msgstr ""
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr "twajs tāutā ast kēsmingisks dussaws iz čats"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "twajs pōstikastens turri būtwei izbandāi pluškītwei"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"twajs pōstikastens izbānda ast inwalīdi adder izdwesis:, madla nāuns ainā."
+
+msgid "Your passwords do not match :("
+msgstr "twajs kliptaswīrds ni segītun passaut :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr ""
+
+msgid "to go back to pixuniverse"
+msgstr "izēitwei iz pixuniverse"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"Kaīls prēi nūss pērā pēr pikselan deiktammans, tērpautun twajs kōnts, jūs "
+"papalla izbāndātun twajs pōstikastens. jūs mazzi segēi stas šāi: "
+
+#, javascript-format
+#~ msgid ""
+#~ "pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+#~ "application that supports OIDC could ask for consent and login using "
+#~ "pixuniverse accounts. The required endpoints can be auto-discovered via "
+#~ "the ${ wellKnownUrl } URL.</a>"
+#~ msgstr ""
+#~ "pixuniverse sprawnikai OpenID Connect (OIDC) nūrimus. Tāds paggubdēis, "
+#~ "kas palaikā OIDC, gal apsprēstei leidimą ēi prisijungtei paisīdėjant "
+#~ "pixuniverse tērpiaus. Reikalautas punktaigal gal būt atrastas "
+#~ "automātiskai per ${ wellKnownUrl } URL.</a>"
+
+#~ msgid "Userame can't be empty."
+#~ msgstr "Wōrdniks ni padūtai tukls būt."
+
+#~ msgid "Userame must be at least 2 characters long"
+#~ msgstr "Wūrdźius najīr mazākais dwāi rawīdai būtan"
+
+#~ msgid "Userame must be shorter than 26 characters"
+#~ msgstr "Wūrdźius būt gurtikai nīkāntan waisingkanan 26 rīkstīnan"
+
+#~ msgid ""
+#~ "Generate a new client secret. The old secret will become invalid "
+#~ "immediately."
+#~ msgstr ""
+#~ "Generē naujan klientiskon paslaptin. Senas paslaptins tuojau pat stašętē "
+#~ "nēgalīnga."
+
+#~ msgid "Grants"
+#~ msgstr "Dāwimai"
+
+#~ msgid "No redirect URI given."
+#~ msgstr "Nī rikrikīms URI dāts."
+
+#~ msgid "One redirect URI per line"
+#~ msgstr "Vīns atgriežōntis URL per līni"
+
+#~ msgid "Only five redirect URIs are allowed per client"
+#~ msgstr "Tik pēnktas atgriežōntis URI leidžiami priekš klientas"
+
+#~ msgid "Redirect URI does not look legit"
+#~ msgstr "Nenūreīklaīst URI nawīr legitīms"
+
+#~ msgid "Reroll Client Secret"
+#~ msgstr "Atnaujinti Slaptą Kliento Rakta"
+
+#~ msgid "Too many or too long redirect URIs"
+#~ msgstr "Perdaug aba ilgas perveda URIs"
+
+#~ msgid "You are banned"
+#~ msgstr "jūs stwi ni preiwērptun"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr "twajs internettan ast ni preiwērptun"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun reklāmi"
+
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "pixunivers.fun kliptaswīrds etkraūt"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr ""
+#~ "kaīls ${ name }, jūsizklìptina sadinna twajs nāuns kliptaswīrds šāi:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "jūs izlaīdja pēr tūlan kērdā, bānda etkūmps."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "praspīli kurtun nāuns tērpautajs :("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "praspīli gruntintun sīndausnā pa registrijja"
+
+#~ msgid "You are not even logged in."
+#~ msgstr "jūs ni ast īr sāitas."
+
+#~ msgid "Server error when logging out."
+#~ msgstr "sērweris blānda kaddan ausijjusi."
+
+#~ msgid "You are not authenticated."
+#~ msgstr "jūs ni ast izbānda."
+
+#~ msgid "Muted Users can not delete their account."
+#~ msgstr "Dussaws tērpautajai ni izklìptina audrazza kōnts."
+
+#~ msgid "Muted Users can not do this."
+#~ msgstr "Dussaws tērpautajai ni izklìptina segēi šis."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "pixunivers.fun kōntai"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "adder ${ clickHere } skassa pixuniverse"

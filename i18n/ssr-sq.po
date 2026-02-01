@@ -1,0 +1,709 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-11-13 16:39+0000\n"
+"Last-Translator: Extreme Motorsex <em@noreply.pixunivers.fun>\n"
+"Language-Team: Albanian <https://translate.gs-os.com/projects/ppfun/server/"
+"sq/>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr "2bit"
+
+msgid "3D Canvas"
+msgstr "Kanavacë 3D"
+
+msgid "A 3D globe of our whole map"
+msgstr "Një glob 3D i të gjithë hartës sonë"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Një kanavacë për lojtarët më aktivë nga dita e mëparshme. Renditja ditore "
+"përditësohet në 00:00 UTC."
+
+msgid "Access modtools"
+msgstr "Akseso veglat e moderatorit"
+
+msgid "Add Application"
+msgstr "Shto aplikacion"
+
+msgid "Add an Application (OIDC Client)"
+msgstr "Shto aplikacion (OIDC Client)"
+
+msgid "Add new application"
+msgstr "Shto aplikacion të ri"
+
+msgid "An error occured. Please try again later."
+msgstr "Ndodhi një gabim. Ju lutemi provoni përsëri më vonë."
+
+msgid "Application changed successfully"
+msgstr "Aplikacioni u ndryshua me sukses"
+
+msgid "Application deleted"
+msgstr "Aplikacioni u fshi"
+
+msgid "Application successfully added"
+msgstr "Aplikacioni u shtua me sukses"
+
+msgid "Black and White canvas"
+msgstr "Kanavacë Bardhë e Zi"
+
+msgid "Can not chat while being banned"
+msgstr "Nuk mund të bisedoni ndërkohë që jeni të përjashtuar"
+
+msgid "Click here"
+msgstr "Kliko këtu"
+
+msgid "Click to Verify"
+msgstr "Kliko për të Verifikuar"
+
+msgid "Client Name"
+msgstr "Emri i klientit"
+
+msgid "Confirm New Password"
+msgstr "Konfirmo Fjalëkalimin e Ri"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"Pushtoni tokë në një tokë më të vogël me oqean të mbrojtur. Ndan kohën e "
+"pritjes me kanavacën e tokës!"
+
+msgid "Consent"
+msgstr "Autorizimi"
+
+msgid "Coronavirus"
+msgstr "Koronavirusi"
+
+msgid "Could not close this Session."
+msgstr "Nuk munda të mbyll këtë Seancë."
+
+msgid "Could not find this login method"
+msgstr "Nuk u gjet kjo mënyrë hyrjeje"
+
+msgid "Couldn't find this mail in our database"
+msgstr "Kjo adresë nuk u gjet në bazën tonë të të dhënave"
+
+msgid "Default"
+msgstr "E paracaktuar"
+
+msgid "Delete Application"
+msgstr "Fshi aplikacionin"
+
+msgid "Display name for your OIDC client"
+msgstr "Emri që do të shfaqet për klientin tuaj OIDC"
+
+msgid "Double click on globe to go back."
+msgstr "Klikoni dy herë mbi glob për t'u kthyer përsëri."
+
+msgid "E-Mail already in use."
+msgstr "E-Mail është në përdorim."
+
+msgid "Earth"
+msgstr "Toka"
+
+msgid "Edit existing applications"
+msgstr "Modifiko aplikacionet ekzistuese"
+
+msgid "Email can't be empty."
+msgstr "Email nuk mund të jetë bosh."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Email nuk mund të jetë më i gjatë se 40 karaktere."
+
+msgid "Email should at least contain a dot"
+msgstr "Email duhet të përmbajë të paktën një pikë"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Email duhet të jetë të paktën 5 karaktere i gjatë."
+
+msgid "Email should contain a @"
+msgstr "Email duhet të përmbajë një @"
+
+msgid "Error"
+msgstr "Gabim"
+
+msgid "Failed to create a new user :("
+msgstr "Dështoi krijimi i një përdoruesi të ri :("
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+"Gjeneroni një client_secret të ri. Sekreti i vjetër do të bëhet menjëherë i "
+"pavlefshëm."
+
+msgid "Get email address"
+msgstr "Merr adresën email"
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr "Të marrë sasinë e Pikselëve të vendosur dhe renditjen"
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Argëtohuni dhe mos hezitoni të na kontaktoni nëse hasni në ndonjë problem :)"
+
+msgid "Hello"
+msgstr "Përshëndetje"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr ""
+"Përshëndetje ${ email }, mund të vendosni fjalëkalimin tuaj të ri këtu:"
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Përshëndetje ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+"Nëse ishit ju, ju lutem injorojeni këtë email. Nëse nuk ishit ju, ju lutem "
+"shkoni në <a href=\"https://pixunivers.fun\">pixunivers.fun</a> dhe "
+"mbyllni çdo seancë për të cilën nuk keni dijeni nën \"Metodat e Hyrjes\" në "
+"Zonën e Përdoruesit dhe ndryshoni fjalëkalimin tuaj."
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Nëse nuk e keni kërkuar këtë email, thjesht injorojeni (ip-ja që e kërkoi "
+"këtë email ishte ${ ip })."
+
+msgid "Incorrect password!"
+msgstr "Fjalëkalim i gabuar!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "Url e pavlefshme :( Ju lutemi kontrolloni përsëri email-in tuaj."
+
+msgid "Just admins can do that"
+msgstr "Vetëm administratorët mund ta bëjnë këtë"
+
+msgid "Know that an account exists"
+msgstr "Të dijë që një llogari ekziston"
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr "Lista e scopes të disponueshme"
+
+msgid "Loading..."
+msgstr "Duke ngarkuar…"
+
+msgid "Login from new location on pixuniverse"
+msgstr "Hyrje nga një vendndodhje e re në pixuniverse"
+
+msgid "Login is required"
+msgstr "Duhet të hyni"
+
+msgid "Mail is already in use!"
+msgstr "Email-i është në përdorim!"
+
+msgid "Mail is not configured on the server"
+msgstr "Email-i nuk është i konfiguruar në server"
+
+msgid "Mail verification"
+msgstr "Verifikim me email"
+
+msgid "Minimap"
+msgstr "Miniharta"
+
+msgid "Mirror of PixelCanvas"
+msgstr "Pasqyra e PixelCanvas"
+
+msgid "Mirror of PixelZone"
+msgstr "Pasqyra e PixelZone"
+
+msgid "Moon"
+msgstr "Hëna"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Kanavaca e Hënës. Hapësirë e sigurt për art. Nuk lejohen flamujt ose tekste "
+"të mëdha (nëse nuk është pjesë e artit) ose art më të madh se 1.5k x 1.5k "
+"piksel."
+
+msgid "Name already in use."
+msgstr "Emri është në përdorim."
+
+msgid "Name can't be empty."
+msgstr "Emri nuk mund të jetë bosh."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Emri përmban karaktere të pavlefshme si @, /, \\ ose #"
+
+msgid "Name is too long"
+msgstr "Emri është shumë i gjatë"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Emri duhet të jetë të paktën 2 karaktere i gjatë"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Emri duhet të jetë më i shkurtër se 26 karaktere"
+
+msgid "Name or Email does not exist!"
+msgstr "Emri ose Email-i nuk ekziston!"
+
+msgid "New Password"
+msgstr "Fjalëkalimi i Ri"
+
+msgid "No Captcha given"
+msgstr "Nuk është dhënë asnjë Captcha"
+
+msgid "No or invalid fish id."
+msgstr "Asnjë ID ose ID e pavlefshme peshku."
+
+msgid "No password given."
+msgstr "Nuk është dhënë asnjë fjalëkalim."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr "Nuk janë dhënë redirect_uris."
+
+msgid "No such badge found"
+msgstr "Nuk ka asnjë stemë të tillë"
+
+msgid "No such fish found"
+msgstr "Nuk u gjet peshk i tillë"
+
+msgid "One redirect URIs per line"
+msgstr "Një URI ridrejtimi për rresht"
+
+msgid "One redirect_uri per line"
+msgstr "Një redirect_uri për rresht"
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr "Vetëm pesë redirect_uris janë të lejuara për klient"
+
+msgid "Only four colors. Same rules as moon!"
+msgstr "Vetëm katër ngjyra. Të njëjtat rregulla si hëna!"
+
+msgid "OpenID Connect specs"
+msgstr "Specifikimet OpenID Connect"
+
+msgid "Or by copying following url:"
+msgstr "Ose duke kopjuar URL-në e mëposhtme:"
+
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"Kanavaca jonë kryesore, një hartë e madhe e botës. Vendosni kudo që ju "
+"pëlqen!"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Fjalëkalimi duhet të jetë të paktën 6 karaktere i gjatë."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Fjalëkalimi duhet të jetë më i shkurtër se 60 karaktere."
+
+msgid "Password successfully changed."
+msgstr "Fjalëkalimi u ndryshua me sukses."
+
+msgid "Permission"
+msgstr "Leje"
+
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "Globi 3D pixunivers.fun"
+
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+"pixuniverse përmbush specifikimet OpenID Connect (OIDC). Kështu, një "
+"aplikacion që mbështet hyrjen me OIDC mund të kërkojë autorizim dhe të kyçet "
+"duke përdorur një llogari pixuniverse. Pikat e kërkuara të hyrjes mund të "
+"zbulohen automatikisht nëpërmjet URL-së ${ wellKnownUrl } ."
+
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Vendosni Voxels në një kanavacë 3D me të tjerët."
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Vendosni piksele me ngjyra në një kanavacë të stiluar me hartë me lojtarë të "
+"tjerë në internet"
+
+msgid "Please refresh the website"
+msgstr "Ju lutemi rifreskoni faqen ueb"
+
+msgid "Please try again."
+msgstr "Ju lutemi provoni përsëri."
+
+msgid "Please use int channel"
+msgstr "Ju lutemi përdorni kanalin int"
+
+msgid "Read Badges and fishes"
+msgstr "Lexo Stemat dhe peshqit"
+
+msgid "Read name, username and account age"
+msgstr "Lexo emrin, emrin e përdoruesit dhe moshën e llogarisë"
+
+msgid "Redirect URIs"
+msgstr "URI-të e ridrejtimit"
+
+msgid "Regularly update this data"
+msgstr "Përditëso këto të dhëna rregullisht"
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr "Rrotulloni client_secret"
+
+msgid "Reset Password"
+msgstr "Rivendos fjalëkalimin"
+
+msgid "Reset your password here"
+msgstr "Rivendosni fjalëkalimin tuaj këtu"
+
+msgid "Server error when deleting user."
+msgstr "Gabim i serverit gjatë fshirjes së përdoruesit."
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr "Dikush hyri në llogarinë tuaj nga një vendndodhje e re, me IP:"
+
+msgid "Space-separated list of available scopes"
+msgstr "Listë e ndarë me hapësira të scopes të disponueshme"
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+"Listë e ndarë me hapësira të scopes të paracaktuara, do të përdoren në "
+"kërkesa nëse nuk është dhënë scope tjetër."
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+"Listë e ndarë me hapësira të scopes të paracaktuara. Do të përdoren në "
+"kërkesa aty ku nuk është dhënë scope tjetër."
+
+msgid "Space-separated list of scopes that should be available"
+msgstr "Listë e ndarë me hapësira të scopes që duhet të jenë të disponueshme"
+
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr ""
+"Kanavacë e veçantë për të përhapur ndërgjegjësimin për SARS-CoV2 (merrni "
+"vaksinën)."
+
+msgid "Stop flooding."
+msgstr "Ndaloni përmbytjen."
+
+msgid "Submit"
+msgstr "Paraqisni"
+
+msgid "Thanks"
+msgstr "Faleminderit"
+
+msgid "The user owning this badge is private"
+msgstr "Përdoruesi i cili zotëron këtë stemë është privat"
+
+msgid "The user owning this fish is private"
+msgstr "Përdoruesi që e ka këtë peshk është privat"
+
+msgid "This application is not allowed to login"
+msgstr "Ky aplikacion nuk është i lejuar të kyçet"
+
+msgid "This application redirects to an unallowed page"
+msgstr "Ky aplikacion ridrejton në një faqe të palejuar"
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr "Ky aplikacion dërgoi një kërkesë të pasaktë për hyrje pa ridrejtim"
+
+msgid "This application uses a PKCE method we do not support"
+msgstr "Ky aplikacion përdor një metodë PKCE të cilën nuk e mbështesim"
+
+msgid "This application uses a login method we do not support"
+msgstr "Ky aplikacion përdor një metodë hyrjeje të cilën nuk e mbështesim"
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+"Ky kombinim emaili/fjalëkalimi u hackua dhe rrodhi. Për të mbrojtur këtë "
+"llogari, fjalëkalimi është rivendosur. Ju lutem përdorni funksionin "
+"\"Harrova fjalëkalimin tim\" më poshtë për të vendosur një fjalëkalim të ri. "
+"Në të ardhmen, konsideroni të mos instaloni malware. Faleminderit."
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+"Ky kombinim emaili/fjalëkalimi u hackua dhe rrodhi. Për të mbrojtur këtë "
+"llogari, fjalëkalimi është rivendosur. Ju lutem përdorni funksionin "
+"\"Harrova fjalëkalimin tim\" në faqen e hyrjes për të vendosur një "
+"fjalëkalim të ri. Në të ardhmen, konsideroni të mos instaloni malware. "
+"Faleminderit."
+
+msgid "This email provider is not allowed"
+msgstr "Ky ofrues i emailit nuk lejohet"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Kjo lidhje e rivendosjes së fjalëkalimit nuk është më e vlefshme :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr "Shumë redirect_uris ose redirect_uris tepër të gjata"
+
+msgid "Top10"
+msgstr "Top10"
+
+msgid "Unknown Captcha Error"
+msgstr "Gabim i Panjohur Captcha"
+
+msgid "Update Application"
+msgstr "Përditëso aplikacionin"
+
+msgid "User ID and verification level"
+msgstr "User ID dhe niveli i verifikimit"
+
+msgid "User doesn't exist in our database :("
+msgstr "Përdoruesi nuk ekziston në bazën tonë të të dhënave :("
+
+msgid "Username already in use."
+msgstr "Emri i përdoruesit është në përdorim."
+
+msgid "Username can not start with pp_"
+msgstr "Emri i përdoruesit nuk mund të fillojë me pp_"
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr "Emri i përdoruesit mund të përmbajë vetëm karakteret: a-z . _ dhe -"
+
+msgid "Username can't be empty."
+msgstr "Emri i përdoruesit nuk mund të jetë bosh."
+
+msgid "Username must be at least 2 characters long"
+msgstr "Emri i përdoruesit duhet të jetë të paktën 2 karaktere i gjatë"
+
+msgid "Username must be shorter than 26 characters"
+msgstr "Emri i përdoruesit duhet të jetë më i shkurtër se 26 karaktere"
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Ne ju kemi dërguar një email me udhëzime. Ju lutemi prisni para se të "
+"kërkoni një email tjetër."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Ne ju kemi dërguar një email verifikimi, ju mund të kërkoni një tjetër pas $"
+"{ minLeft } minutash."
+
+#, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr ""
+"Mirë se vini ${ name } në pixuniverse, ju lutemi verifikoni emailin tuaj"
+
+msgid "You already chose your username"
+msgstr "Ju tashmë keni zgjedhur emrin tuaj të përdoruesit"
+
+msgid "You already have that name."
+msgstr "Tashmë e keni këtë emër."
+
+msgid "You are already verified."
+msgstr "Ju tashmë jeni verifikuar."
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Ju jeni të heshtur për ${ timeMin } minuta të tjera"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Ju jeni të heshtur për ${ ttl } sekonda të tjera"
+
+msgid "You are not allowed to access this page"
+msgstr "Ju nuk lejohet të hyni në këtë faqe"
+
+msgid "You are not banned"
+msgstr "Ju nuk jeni të dënuar"
+
+msgid "You are not logged in"
+msgstr "Ju nuk jeni të regjistruar"
+
+msgid "You are now verified :)"
+msgstr "Ju jeni verifikuar tani :)"
+
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Ju jeni të heshtur përgjithmonë, bashkohuni në komunitetin tonë për të "
+"apeluar heshtjen"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr ""
+"Ju po dërgoni mesazhe shumë shpejt, duhet të prisni ${ waitTime } sekonda :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+"Ju nuk mund të fshini këtë metodë hyrjeje, sepse nuk keni asgjë tjetër."
+
+msgid "You can not register an account while you are banned"
+msgstr "Ju nuk mund të regjistroni një llogari ndërkohë që jeni të dënuar"
+
+msgid "You can not register an account with a proxy"
+msgstr "Ju nuk mund të regjistroni një llogari me një proxy"
+
+msgid "You can not send chat messages while using a proxy"
+msgstr ""
+"Ju nuk mund të dërgoni mesazhe bisede ndërkohë që jeni duke përdorur një "
+"proxy"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+"Ju mund të regjistroni aplikacionin tuaj këtu për të marrë client_id dhe "
+"client_secret që nevojiten për të përdorur këtë."
+
+msgid "You can't send a message this long :("
+msgstr "Nuk mund të dërgoni mesazh kaq të gjatë :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+"Ju nuk keni asnjë adresë emaili të caktuar. Ju lutemi shtoni një nën "
+"\"Metodat e hyrjes\"."
+
+msgid "You don't have access to this channel"
+msgstr "Ju nuk keni qasje në këtë kanal"
+
+msgid "You failed your captcha"
+msgstr "Ju keni dështuar captcha-n tuaj"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr "Keni harruar fjalëkalimin tuaj për pixuniverse? Merrni një të ri këtu"
+
+msgid "You have to fill out all fields"
+msgstr "Ju duhet të plotësoni të gjitha fushat"
+
+msgid "You must be logged in to access this page"
+msgstr "Ju duhet të jeni të kyçur për të aksesuar këtë faqe"
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr "Ju duhet të përcaktoni një scope të vlefshëm"
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+"Ju duhet ta aksesoni këtë faqe në shfletuesin tuaj në mënyrë direkte :("
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Ju keni kërkuar të merrni një fjalëkalim të ri. Ju mund të ndryshoni "
+"fjalëkalimin tuaj brenda 30 minutave të ardhshme këtu: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "Ju keni dërguar një fjalëkalim bosh ose të dhëna të pavlefshme :("
+
+msgid "You took too long, try again"
+msgstr "Zgjatët shumë kohë, provoni përsëri"
+
+msgid "You will be automatically redirected after 15s"
+msgstr "Ju do të ridrejtoheni automatikisht pas 15 sekondash"
+
+msgid "Your Browser looks shady"
+msgstr "Shfletuesi juaj duket i dyshimtë"
+
+msgid "Your account needs to be verified to access this page"
+msgstr "Llogaria juaj duhet të jetë e verifikuar për të aksesuar këtë faqe"
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Shteti juaj është i heshtur përkohësisht nga ky kanal bisede"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "Emaili juaj duhet të jetë i verifikuar në mënyrë që të bisedoni"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Kodi juaj i verifikimit të emailit është i pavlefshëm ose ka skaduar :(, ju "
+"lutemi kërkoni një të ri."
+
+msgid "Your passwords do not match :("
+msgstr "Fjalëkalimet tuaja nuk përputhen :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr "redirect_uris nuk duken legjitime"
+
+msgid "to go back to pixuniverse"
+msgstr "për t'u kthyer në pixuniverse"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"mirësevini në komunitetin tonë të vogël të pixelplacers, për të përdorur "
+"llogarinë tuaj, duhet të verifikoni emailin tuaj. Këtë mund ta bëni këtu: "
+
+#~ msgid "Userame can't be empty."
+#~ msgstr "Emri i përdoruesit nuk mund të jetë bosh."
+
+#~ msgid "Userame must be at least 2 characters long"
+#~ msgstr "Emri i përdoruesit duhet të jetë së paku 2 karaktere i gjatë"
+
+#~ msgid "Userame must be shorter than 26 characters"
+#~ msgstr "Emri i përdoruesit duhet të jetë më i shkurtër se 26 karaktere"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "Rivendosja e fjalëkalimit pixunivers.fun"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr ""
+#~ "Përshën ${ name } detje, mund të vendosni fjalëkalimin tuaj të ri këtu:"
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "Llogaritë pixunivers.fun"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "Ose ${ clickHere } për t'u kthyer në pixuniverse"
+
+#~ msgid "pixuniverse"
+#~ msgstr "pixuniverse"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun Popup"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"

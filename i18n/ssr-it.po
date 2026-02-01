@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-12 10:12+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Italian <https://hosted.weblate.org/projects/pixuniverse/"
+"server/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6-dev\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr ""
+
+msgid "3D Canvas"
+msgstr "3D Canvas"
+
+msgid "A 3D globe of our whole map"
+msgstr "Un Globo 3D di tutta la nostra mappa"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Canvas per i player più attivi del giorno precedente (leggi autistici). Le "
+"classifiche giornaliere riniziano a 00:00 UTC"
+
+msgid "Access modtools"
+msgstr ""
+
+msgid "Add Application"
+msgstr ""
+
+msgid "Add an Application (OIDC Client)"
+msgstr ""
+
+msgid "Add new application"
+msgstr ""
+
+msgid "An error occured. Please try again later."
+msgstr ""
+
+msgid "Application changed successfully"
+msgstr ""
+
+msgid "Application deleted"
+msgstr ""
+
+msgid "Application successfully added"
+msgstr ""
+
+msgid "Black and White canvas"
+msgstr "Canvas in bianco e nero"
+
+msgid "Can not chat while being banned"
+msgstr ""
+
+msgid "Click here"
+msgstr "Clicca qui"
+
+msgid "Click to Verify"
+msgstr "Clicca per verificare"
+
+msgid "Client Name"
+msgstr ""
+
+msgid "Confirm New Password"
+msgstr "Conferma nuova password"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"Colonizza la terra in un canvas piu piccolo con l'oceano protetto. Il "
+"cooldown è lo stesso del canvas normale!"
+
+msgid "Consent"
+msgstr ""
+
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+msgid "Could not close this Session."
+msgstr ""
+
+msgid "Could not find this login method"
+msgstr ""
+
+msgid "Couldn't find this mail in our database"
+msgstr "Non abbiamo trovato questa mail nei nostri database"
+
+msgid "Default"
+msgstr ""
+
+msgid "Delete Application"
+msgstr ""
+
+msgid "Display name for your OIDC client"
+msgstr ""
+
+msgid "Double click on globe to go back."
+msgstr "Doppio click sul globo per andare indietro"
+
+msgid "E-Mail already in use."
+msgstr "Email già in uso"
+
+msgid "Earth"
+msgstr "Terra"
+
+msgid "Edit existing applications"
+msgstr ""
+
+msgid "Email can't be empty."
+msgstr "L'email non può essere vuota"
+
+msgid "Email can't be longer than 40 characters."
+msgstr "L'email non può essere più lunga di 40 caratteri"
+
+msgid "Email should at least contain a dot"
+msgstr "L'email deve contenere almeno un punto"
+
+msgid "Email should be at least 5 characters long."
+msgstr "L'email dovrebbe essere almeno lunga 5 caratteri"
+
+msgid "Email should contain a @"
+msgstr "L'email deve contenere una @"
+
+msgid "Error"
+msgstr ""
+
+msgid "Failed to create a new user :("
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr "Divertiti e non esitare a contattarci se incontri dei problemi"
+
+msgid "Hello"
+msgstr "Ciao"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr ""
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Ciao ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Se non hai richiesto questa mail, per favore ignorala (l'IP che ha richiesto "
+"questa mail era ${ ip })"
+
+msgid "Incorrect password!"
+msgstr "Password incorretta"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "Url invalido :( Per favore controlla nuovamente la tua mail"
+
+msgid "Just admins can do that"
+msgstr "Solo gli admin possono farlo"
+
+msgid "Know that an account exists"
+msgstr ""
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr ""
+
+msgid "Loading..."
+msgstr "Caricamento..."
+
+msgid "Login from new location on pixuniverse"
+msgstr ""
+
+msgid "Login is required"
+msgstr ""
+
+msgid "Mail is already in use!"
+msgstr ""
+
+msgid "Mail is not configured on the server"
+msgstr "Questa mail non è configurata sul server"
+
+msgid "Mail verification"
+msgstr "Verificazione mail"
+
+msgid "Minimap"
+msgstr ""
+
+msgid "Mirror of PixelCanvas"
+msgstr "Mirror di PixelCanvas"
+
+msgid "Mirror of PixelZone"
+msgstr "Mirror di PixelZone"
+
+msgid "Moon"
+msgstr "Luna "
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Canvas luna. Spazio sicuro per le art. Nessuna bandiera o testo lago (a meno "
+"che sia parte di un'art) o art più grande di 1.5kx1.5k pixel"
+
+msgid "Name already in use."
+msgstr ""
+
+msgid "Name can't be empty."
+msgstr "Il nome non può essere vuoto"
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Il nome contiene caratteri invalidi come @, /, \\ o #"
+
+msgid "Name is too long"
+msgstr ""
+
+msgid "Name must be at least 2 characters long"
+msgstr "Il nome deve avere almeno due caratteri"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Il nome deve essere più corto di 26 caratteri"
+
+msgid "Name or Email does not exist!"
+msgstr ""
+
+msgid "New Password"
+msgstr "Nuova password"
+
+msgid "No Captcha given"
+msgstr "Nessun captcha dato"
+
+msgid "No or invalid fish id."
+msgstr ""
+
+msgid "No password given."
+msgstr "Nessuna passwrod data"
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr ""
+
+msgid "No such badge found"
+msgstr ""
+
+msgid "No such fish found"
+msgstr ""
+
+msgid "One redirect URIs per line"
+msgstr ""
+
+msgid "One redirect_uri per line"
+msgstr ""
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr ""
+
+msgid "Only four colors. Same rules as moon!"
+msgstr "Solo quattro colori, Stesse regole del moon canvas!"
+
+msgid "OpenID Connect specs"
+msgstr ""
+
+msgid "Or by copying following url:"
+msgstr "o copia il link seguente"
+
+#, fuzzy
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"Il nostro canvas principale, una enorme mappa del mondo. Piazza onunque to "
+"voglia"
+
+msgid "Password must be at least 6 characters long."
+msgstr "La password deve avere almeno 6 caratteri"
+
+msgid "Password must be shorter than 60 characters."
+msgstr "La password deve essere più corta di 60 caratteri"
+
+msgid "Password successfully changed."
+msgstr "Password cambiata con successo"
+
+msgid "Permission"
+msgstr ""
+
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun Globo 3D"
+
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+
+#, fuzzy
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Piazza Voxels sul canvas 3D con altri"
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr "Piazza pixel colorati in un canvas con altri player online"
+
+msgid "Please refresh the website"
+msgstr "Aggiorna il sito web"
+
+msgid "Please try again."
+msgstr ""
+
+msgid "Please use int channel"
+msgstr "Per favore usa il canale \"int\". Letteralmente 1984"
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Redirect URIs"
+msgstr ""
+
+msgid "Regularly update this data"
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "Reset Password"
+
+msgid "Reset your password here"
+msgstr "Resetta la tua password qui"
+
+msgid "Server error when deleting user."
+msgstr ""
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr ""
+
+msgid "Space-separated list of available scopes"
+msgstr ""
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+
+msgid "Space-separated list of scopes that should be available"
+msgstr ""
+
+#, fuzzy
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "Canvas speciale per sensibilizzare sul SARS-CoV2"
+
+msgid "Stop flooding."
+msgstr "Manda messaggi più lentamente."
+
+msgid "Submit"
+msgstr "Manda"
+
+msgid "Thanks"
+msgstr "Grazie, Ave Roma"
+
+msgid "The user owning this badge is private"
+msgstr ""
+
+msgid "The user owning this fish is private"
+msgstr ""
+
+msgid "This application is not allowed to login"
+msgstr ""
+
+msgid "This application redirects to an unallowed page"
+msgstr ""
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+
+msgid "This application uses a PKCE method we do not support"
+msgstr ""
+
+msgid "This application uses a login method we do not support"
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+
+msgid "This email provider is not allowed"
+msgstr "Il tuo email provider non è permesso, 1984"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Questo password reset link non è più valido"
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr ""
+
+msgid "Top10"
+msgstr "Top10"
+
+msgid "Unknown Captcha Error"
+msgstr "Errore del captcha sconosciuto"
+
+msgid "Update Application"
+msgstr ""
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User doesn't exist in our database :("
+msgstr "Questo user non esiste nei nostri database"
+
+msgid "Username already in use."
+msgstr "Username già in uso"
+
+msgid "Username can not start with pp_"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Ti abbiamo già mandato una mail con delle istruzioni. Per favore aspetta "
+"prima di richiedere un'altra mail."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Ti abbiamo già mandato una mail per verifica, ne puoi richiedere un'altra in "
+"${ minLeft } minuti"
+
+#, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr "Benvenuto ${ name } su pixuniverse, per favore verifica la tua mail"
+
+msgid "You already chose your username"
+msgstr ""
+
+msgid "You already have that name."
+msgstr ""
+
+msgid "You are already verified."
+msgstr ""
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Sei mutato ancora per ${ timeMin } minuti"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Sei mutato ancora per ${ ttl } secondi"
+
+msgid "You are not allowed to access this page"
+msgstr "Non hai il permasso di accedere a questa pagina"
+
+msgid "You are not banned"
+msgstr "Non sei bannato (purtroppo)"
+
+msgid "You are not logged in"
+msgstr "Non hai effettuato l'accesso"
+
+msgid "You are now verified :)"
+msgstr "Adesso sei verificato"
+
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Sei mutato permanentemente, entra sul nostro server Guilded per richiedere "
+"la rimozione del mute"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr ""
+"Stai mandando messaggi troppo velocemente, devi aspettare ${ waitTime }s :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+
+msgid "You can not register an account while you are banned"
+msgstr ""
+
+msgid "You can not register an account with a proxy"
+msgstr ""
+
+#, fuzzy
+msgid "You can not send chat messages while using a proxy"
+msgstr "Non puoi mandare messaggi in chat con proxy, non fare come i serbi"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+
+msgid "You can't send a message this long :("
+msgstr "Non puoi mandare un messaggio così lungo :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+
+msgid "You don't have access to this channel"
+msgstr "Non hai accesso a questa chat"
+
+msgid "You failed your captcha"
+msgstr "Hai sbagliato il captcha"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr "Hai dimenticato la tua password di pixuniverse= Chiedine un'altra qui"
+
+msgid "You have to fill out all fields"
+msgstr ""
+
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr ""
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Hai richiesto una nuova password. Puoi cambiare la tua password nei prossimi "
+"30 minuti qui:"
+
+msgid "You sent an empty password or invalid data :("
+msgstr "Hai inserito una password vuota o data invalido :("
+
+msgid "You took too long, try again"
+msgstr ""
+
+msgid "You will be automatically redirected after 15s"
+msgstr "Sarai rediretto automaticamente dopo 15s"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your account needs to be verified to access this page"
+msgstr ""
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Il tuo paese è temporaneamente mutato da questa chat"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "Devi verificare la tua mail per chattare"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Il tuo mail verification code è invalido o è già scaduto ;(, per farvore "
+"richiedine uno nuovo"
+
+msgid "Your passwords do not match :("
+msgstr "Le tue password non corrispondono"
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr ""
+
+msgid "to go back to pixuniverse"
+msgstr "per tornare su pixuniverse "
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"Benvenuo alla nostra piccola community di pixelplacers, per usare il tuo "
+"account, devi verificare il tuo account mail. Lo puoi fare qui:"
+
+#~ msgid "You are banned"
+#~ msgstr "Sei bannato"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr ""
+#~ "Il tuo internet provider è bannato (ti direi di ritenerti fortunato)"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun PopUp"
+
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "pixunivers.fun Password Reset"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr "Ciao ${ name }, pui mettere la tua nuova password qui"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "Ci hai messo troppo, riprova"
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "Fallimento nel creare un nuovo user"
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "Fallimento nel ristabilire una sessione dopo la registraione"
+
+#~ msgid "You are not even logged in."
+#~ msgstr "Non hai nemmeno fatto l'accesso"
+
+#~ msgid "Server error when logging out."
+#~ msgstr "Errore del server durante il log out"
+
+#~ msgid "You are not authenticated."
+#~ msgstr "Non sei autentificato"
+
+#~ msgid "Muted Users can not delete their account."
+#~ msgstr "Un account mutato non puo essere eliminato"
+
+#~ msgid "Muted Users can not do this."
+#~ msgstr "una persona mutata non puo fare quello che stai facendo, smettila!"
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "pixunivers.fun Accounts"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "o ${ clickHere } per tornare su pixuniverse"

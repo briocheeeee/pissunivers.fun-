@@ -1,0 +1,1820 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"PO-Revision-Date: 2026-01-03 22:40+0000\n"
+"Last-Translator: Extreme Motorsex <em@noreply.pixunivers.fun>\n"
+"Language-Team: Sign Languages <https://translate.gs-os.com/projects/ppfun/"
+"client/sgn/>\n"
+"Language: sgn\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid " which is in "
+msgstr " 👐🖐🤞🤘🖐 🤞🖖 🤞👇 "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } 🖐👌👍🤚 👍🤙✋👋 👆👌🙌🖖🤙 👈🙌👋👋👌👇 ✌️👇🤚 🤚☝️✌️🤛 👆👌🙌"
+"🖖🤙 👋👌 ☝️👌👋✌️👋🤙"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+"${ mouseSymbol } ☝️🤞🤛🖐👋 🤘👍🤞🤘👊 ✌️👇🤚 🤚☝️✌️🤛 👆👌🙌🖖🤙 👋👌 👎✌️👇"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } ☝️🤞🤛🖐👋 🤘👍🤞🤘👊 👌☝️ ${ touchSymbol } 🤚👌🙌👈👍🤙➖️👋✌"
+"️👎 👋👌 ☝️🤙👆👌🤜🤙 ✌️ 👎🤞👉🤙👍"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } 🖖🤘☝️👌👍👍 👆👌🙌🖖🤙 👐🖐🤙🤙👍 👌☝️ 🖐👌👍🤚 $"
+"{ mouseSymbol } 👆🤞🤚🤚👍🤙 👆👌🙌🖖🤙 👈🙌👋👋👌👇 ✌️👇🤚 🤚☝️✌️🤛 👋👌 🙏👌👌"
+"👆"
+
+msgid "(0 = infinite)"
+msgstr "(0️⃣ 🟰 🤞👇✋🤞👇🤞👋🤙)"
+
+msgid "+last hour"
+msgstr "➕👍✌️🖖👋 🖐️👌🙌☝️"
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr ""
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr ""
+
+msgid "Add Template"
+msgstr "✌️🤚🤚 👋🤙👆👎👍✌️👋🤙"
+
+msgid "Admintools"
+msgstr "✌️🤚👆🤞👇👋👌👌👍🖖"
+
+msgid "All sound effects will be disabled."
+msgstr "✌️👍👍 🖖👌🙌👇🤚 🤙✋✋🤙🤘👋🖖 👐🤞👍👍 👈🤙 🤚🤞🖖✌️👈👍🤙🤚."
+
+msgid "Always show Movement Controls"
+msgstr "✌️👍👐✌️👏🖖 🖖🖐👌👐 👆👌🤜🤙👆🤙👇👋 🤘👌👇👋☝️👌👍🖖"
+
+msgid "Always show movement control buttons"
+msgstr "✌️👍👐✌️👏🖖 🖖🖐👌👐 👆👌🤜🤙👆🤙👇👋 🤘👌👇👋☝️👌👍 👈🙌👋👋👌👇🖖"
+
+msgid "Anti Aliasing"
+msgstr ""
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr ""
+
+msgid "Archive"
+msgstr "✌️☝️🤘🖐🤞🤜🤙"
+
+msgid "Assign new Mod"
+msgstr ""
+
+msgid "Auto Zoom In"
+msgstr "✌️🙌👋👌 🙏👌👌👆 🤞👇"
+
+msgid "Back"
+msgstr "👈✌️🤘👊"
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr "👈✌️🤚🤛🤙🖖"
+
+msgid "Banned"
+msgstr "👈✌️👇👇🤙🤚"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "👈✌️👇👇🤙🤚❓ 🤚🤙👋🤙🤘👋🤙🤚 ✌️🖖 👎☝️👌👉👏❓"
+
+msgid "Block"
+msgstr "👈👍👌🤘👊"
+
+msgid "Block DMs"
+msgstr ""
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+"👈👍👌🤘👊 ✌️👍👍 👎☝️🤞🤜✌️👋🤙 👆🤙🖖🖖✌️🤛🤙🖖. 🤙👇✌️👈👍🤞👇🤛 👋🖐🤞🖖 👐🤞👍"
+"👍 🤚🤙👍🤙👋🤙 ✌️👍👍 👏👌🙌☝️ 🤘🙌☝️☝️🤙👇👋 🤚👆🖖. 👏👌🙌 🤘✌️👇 🖖👋🤞👍👍 🖖"
+"👋✌️☝️👋 👇🤙👐 🤚👆🖖 👐🤞👋🖐 👌👋🖐🤙☝️ 🙌🖖🤙☝️🖖, 👈🙌👋 👌👋🖐🤙☝️ 🙌🖖🤙☝️🖖 👐"
+"👌👇'👋 👈🤙 ✌️👈👍🤙 👋👌 🖖👋✌️☝️👋 🤚👆🖖 👐🤞👋🖐 👏👌🙌."
+
+msgid "Blocked"
+msgstr "👈👍👌🤘👊🤙🤚"
+
+msgid "Bottom-right corner"
+msgstr ""
+
+msgid "Build image and set it to protected."
+msgstr ""
+
+msgid "Build image on canvas."
+msgstr ""
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr ""
+
+msgid "By Mod"
+msgstr "👈👏 👆👌🤚"
+
+msgid "Calculate like GIMP"
+msgstr ""
+
+msgid "Can not export more than 20 or no template!"
+msgstr "🤘✌️👇 👇👌👋 🤙👉👎👌☝️👋 👆👌☝️🤙 👋🖐✌️👇 2️⃣0️⃣ 👌☝️ 👇👌 👋🤙👆👎👍✌️👋🤙❗"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "🤘✌️👇 👇👌👋 🤞👆👎👌☝️👋 👆👌☝️🤙 👋🖐✌️👇 2️⃣0️⃣ 👌☝️ 👇👌 👋🤙👆👎👍✌️👋🤙❗"
+
+msgid "Can't read? Reload:"
+msgstr "🤘✌️👇👋 ☝️🤙✌️🤚? ☝️🤙👍👌✌️🤚:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr ""
+"🤘✌️👇👋 ☝️🤙👇🤚🤙☝️ 3️⃣🤚 🤘✌️👇🤜✌️🖖, 🤚👌 👏👌🙌 🖐✌️🤜🤙 👐🤙👈🤛👍2️⃣🤚🤞🖖✌️👈👍"
+"🤙🤚❓"
+
+msgid "Cancel"
+msgstr "🤘✌️👇🤘🤙👍"
+
+msgid "Cancel adding Template"
+msgstr "🤘✌️👇🤘🤙👍 ✌️🤚🤚🤞👇🤛 👋🤙👆👎👍✌️👋🤙"
+
+msgid "Canvas"
+msgstr ""
+
+msgid "Canvas Archive"
+msgstr "🤘✌️👇🤜✌️🖖 ✌️☝️🤘🖐🤞🤜🤙"
+
+msgid "Canvas Cleaner"
+msgstr ""
+
+msgid "Canvas Error"
+msgstr "🤘✌️👇🤜✌️🖖 🤙☝️☝️👌☝️"
+
+msgid "Canvas Selection"
+msgstr "🤘✌️👇🤜✌️🖖 🖖🤙👍🤙🤘👋🤞👌👇"
+
+msgid "Captcha"
+msgstr "🤘✌️👎👋🤘🖐✌️"
+
+msgid "Caught by"
+msgstr ""
+
+msgid "Change Happened"
+msgstr "🤘🖐✌️👇🤛🤙 🙌🖖🤙☝️👇✌️👆🤙"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "🤘🖐✌️👇🤛🤙 👎✌️🖖🖖👐👌☝️🤚"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "🤘🖐✌️👇👇🤙👍 🖖🤙👋👋🤞👇🤛🖖"
+
+msgid "Charts"
+msgstr ""
+
+msgid "Chat"
+msgstr "🤘🖐✌️👋"
+
+msgid "Chat here"
+msgstr "🤘🖐✌️👋 🖐🤙☝️🤙"
+
+msgid "Check out past versions of the canvas."
+msgstr "🤘🖐🤙🤘👊 👌🙌👋 👎✌️🖖👋 🤜🤙☝️🖖🤞👌👇🖖 👌✋ 👋🖐🤙 🤘✌️👇🤜✌️🖖."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr ""
+
+msgid "Choose Canvas"
+msgstr "🤘🖐👌👌🖖🤙 🤘✌️👇🤜✌️🖖"
+
+msgid "Choose Color Mode"
+msgstr ""
+
+msgid "Choose Strategy"
+msgstr ""
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"🤘👍🤙✌️👇 🖖👎✌️☝️🤙 👎🤞👉🤙👍🖖 👋🖐✌️👋 ✌️☝️🤙 🖖🙌☝️☝️👌🙌👇🤚🤙🤚 👈👏 ✌️ 🖖🤞👇"
+"🤛👍🤙 👌👋🖐🤙☝️ 🤘👌👍👌☝️ 👌☝️ 🙌👇🖖🤙👋 👎🤞👉🤙👍🖖 (🤜🤙☝️👏 ✌️🤛🤛☝️🤙🖖🖖🤞"
+"🤜🤙 👌👇 🤘✌️👇🤜✌️🖖🤙🖖 👋🖐✌️👋 ✌️👍👍👌👐 🙌👇🖖🤙👋 👎🤞👉🤙👍🖖 (👐🖐🤙☝️🤙 "
+"👋🖐🤙☝️🤙 ✌️☝️🤙 👋👐👌 🤘👌👌👍🤚👌👐👇🖖)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+
+msgid "Click a color in palette to select it"
+msgstr "🤘👍🤞🤘👊 ✌️ 🤘👌👍👌☝️ 🤞👇 👎✌️👍🤙👋👋🤙 👋👌 🖖🤙👍🤙🤘👋 🤞👋"
+
+msgid "Click here to request a new verification mail."
+msgstr ""
+
+msgid "Click to Load Captcha"
+msgstr "🤘👍🤞🤘👊 👋👌 👍👌✌️🤚 🤘✌️👎👋🤘🖐✌️"
+
+msgid "Clone"
+msgstr "🤘👍👌👇🤙"
+
+msgid "Close"
+msgstr "🤘👍👌🖖🤙"
+
+msgid "Close Chat"
+msgstr "🤘👍👌🖖🤙 🤘🖐✌️👋"
+
+msgid "Close Menu"
+msgstr "🤘👍👌🖖🤙 👆🤙👇🙌"
+
+msgid "Close Palette"
+msgstr "🤘👍👌🖖🤙 👎✌️👍🤙👋👋🤙"
+
+msgid "Compact Palette"
+msgstr "🤘👌👆👎✌️🤘👋 👎✌️👍🤙👋👋🤙"
+
+msgid "Confirm New Password"
+msgstr "🤘👌👇✋🤞☝️👆 👇🤙👐 👎✌️🖖🖖👐👌☝️🤚"
+
+msgid "Confirm Password"
+msgstr "🤘👌👇✋🤞☝️👆 👎✌️🖖🖖👐👌☝️🤚"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "🤘👌👇👇🤙🤘👋🤞👌👇 🤙☝️☝️👌☝️ ${ code } 😔"
+
+msgid "Consent"
+msgstr "🤘👌👇🖖🤙👇👋"
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "🤘👌👇👋☝️👌👍🖖"
+
+msgid "Convert an image to canvas colors"
+msgstr ""
+
+msgid "Converter"
+msgstr "🤘👌👇🤜🤙☝️👋🤙☝️"
+
+msgid "Cooldown"
+msgstr "🤘👌👌👍🤚👌👐👇"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+"🤘👌👌👍🤚👌👐👇 🤞🖖 🙌🖖🙌✌️👍👍👏 ✌️🙌👋👌👆✌️👋🤞🤘✌️👍👍👏 🤘🖐✌️👇🤛🤙🤚 ✋👌"
+"☝️ ✌️ 🤘👌🙌👇👋☝️👏 👋🖐✌️👋 🤞🖖 🤚👌👆🤞👇✌️👋🤞👇🤛. 🤞👇 🤙👉✌️👆👎👍🤙 🤞👇 👋"
+"🖐🤙 🤘✌️🖖🤙 👌✋ ✌️ 🖖👋☝️🤙✌️👆🤙☝️ ☝️✌️🤞🤚."
+
+msgid "Coordinates"
+msgstr ""
+
+msgid "Coordinates:"
+msgstr "🤘👌👌☝️🤚🤞👇✌️👋🤙🖖:"
+
+msgid "Copied"
+msgstr "🤘👌👎🤞🤙🤚"
+
+msgid "Copy"
+msgstr "🤘👌👎👏"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "🤘👌👎👏 👋👌 🤘👍🤞👎👈👌✌️☝️🤚"
+
+msgid "Could not connect to server, please try again later :("
+msgstr ""
+"🤘👌🙌👍🤚 👇👌👋 🤘👌👇👇🤙🤘👋 👋👌 🖖🤙☝️🤜🤙☝️, 👎👍🤙✌️🖖🤙 👋☝️👏 ✌️🤛✌️🤞👇 "
+"👍✌️👋🤙☝️ 😔"
+
+msgid "Could not load captcha"
+msgstr "🤘👌🙌👍🤚 👇👌👋 👍👌✌️🤚 🤘✌️👎👋🤘🖐✌️"
+
+msgid "Couldn't set Pixel"
+msgstr "🤘👌🙌👍🤚👇👋 🖖🤙👋 👎🤞👉🤙👍"
+
+msgid "Countries Today"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr ""
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr ""
+"🤘☝️🤙🤚🤞👋 ✋👌☝️ 👋🖐🤙 👎✌️👍🤙👋👋🤙 👌✋ 👋🖐🤙 👆👌👌👇 🤛👌🤙🖖 👋👌 $"
+"{ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr ""
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr ""
+
+msgid "DM"
+msgstr "🤚👆"
+
+msgid "Daily Pixels per Country"
+msgstr ""
+
+msgid "Daily Pixels per Player"
+msgstr "🤚✌️🤞👍👏 👎🤞👉🤙👍🖖 👎🤙☝️ 👎👍✌️👏🤙☝️"
+
+msgid "Daily Rank"
+msgstr "🤚✌️🤞👍👏 ☝️✌️👇👊"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Account"
+msgstr "🤚🤙👍🤙👋🤙 ✌️🤘🤘👌🙌👇👋"
+
+msgid "Deny"
+msgstr "🤚🤙👇👏"
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"🤚🤞🤚👇👋 🤛🤙👋 ✌️👇 ✌️👇🖖👐🤙☝️ ✋☝️👌👆 👎🤞👉🤙👍👎👍✌️👇🤙👋. 👋☝️👏 👋👌 ☝️"
+"🤙✋☝️🤙🖖🖐 🤞✋ 👋🖐🤞🖖 👎☝️👌👈👍🤙👆 👎🤙☝️🖖🤞🖖👋🖖."
+
+msgid "Dimensions"
+msgstr "🤚🤞👆🤙👇🖖🤞👌👇🖖"
+
+msgid "Disable Game Sounds"
+msgstr "🤚🤞🖖✌️👈👍🤙 🤛✌️👆🤙 🖖👌🙌👇🤚🖖"
+
+msgid "Disable History Pencil"
+msgstr "🤚🤞🖖✌️👈👍🤙 🖐🤞🖖👋👌☝️👏 👎🤙👇🤘🤞👍"
+
+msgid "Disable Overlay Pencil"
+msgstr "🤚🤞🖖✌️👈👍🤙 👌🤜🤙☝️👍✌️👏 👎🤙👇🤘🤞👍"
+
+msgid "Disable Pencil"
+msgstr "🤚🤞🖖✌️👈👍🤙 👎🤙👇🤘🤞👍"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr ""
+"🤚🤞🖖👎👍✌️👏 👎✌️👍🤙👋👋🤙 🤞👇 ✌️ 🤘👌👆👎✌️🤘👋 ✋👌☝️👆 👋🖐✌️👋 👋✌️👊🤙🖖 👍"
+"🤙🖖🖖 🖖🤘☝️🤙🤙👇 🖖👎✌️🤘🤙."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr ""
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr ""
+
+msgid "Download Template"
+msgstr ""
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+
+msgid "Duration"
+msgstr "🤚🙌☝️✌️👋🤞👌👇"
+
+msgid "Easter Egg OFF"
+msgstr "🤙✌️🖖👋🤙☝️ 🤙🤛🤛 👌✋✋"
+
+msgid "Easter Egg ON"
+msgstr "🤙✌️🖖👋🤙☝️ 🤙🤛🤛 👌👇"
+
+msgid "Edit"
+msgstr ""
+
+msgid "Email"
+msgstr "🤙👆✌️🤞👍"
+
+msgid "Email can't be empty."
+msgstr "🤙👆✌️🤞👍 🤘✌️👇👋 👈🤙 🤙👆👎👋👏."
+
+msgid "Email can't be longer than 40 characters."
+msgstr ""
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "🤙👆✌️🤞👍 🖖🖐👌🙌👍🤚 ✌️👋 👍🤙✌️🖖👋 🤘👌👇👋✌️🤞👇 ✌️ 🤚👌👋"
+
+msgid "Email should be at least 5 characters long."
+msgstr ""
+
+msgid "Email should contain a @"
+msgstr "🤙👆✌️🤞👍 🖖🖐👌🙌👍🤚 🤘👌👇👋✌️🤞👇 ✌️ @"
+
+msgid "Enable Overlay"
+msgstr "🤙👇✌️👈👍🤙 👌🤜🤙☝️👍✌️👏"
+
+msgid "Enable Pencil"
+msgstr "🤙👇✌️👈👍🤙 👎🤙👇🤘🤞👍"
+
+msgid "Enable chat notifications"
+msgstr "🤙👇✌️👈👍🤙 🤘🖐✌️👋 👇👌👋🤞✋🤞🤘✌️👋🤞👌👇🖖"
+
+msgid "Enter Characters"
+msgstr "🤙👇👋🤙☝️ 🤘🖐✌️☝️✌️🤘👋🤙☝️🖖"
+
+msgid "Enter Reason"
+msgstr ""
+
+msgid "Enter UserName of new Mod"
+msgstr ""
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr ""
+"🤙👇👋🤙☝️ 👏👌🙌☝️ 👆✌️🤞👍 ✌️🤚🤚☝️🤙🖖🖖 ✌️👇🤚 👐🤙 👐🤞👍👍 🖖🤙👇🤚 👏👌🙌 ✌️ "
+"👇🤙👐 👎✌️🖖🖖👐👌☝️🤚:"
+
+msgid "Error"
+msgstr "🤙☝️☝️👌☝️"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "🤙☝️☝️👌☝️ ${ retCode }"
+
+msgid "Error :("
+msgstr "🤙☝️☝️👌☝️ ☹️"
+
+msgid "Expand"
+msgstr "🤙👉👎✌️👇🤚"
+
+msgid "Export enabled templates"
+msgstr "🤙👉👎👌☝️👋 🤙👇✌️👈👍🤙🤚 👋🤙👆👎👍✌️👋🤙🖖"
+
+msgid "Factor"
+msgstr "✋✌️🤘👋👌☝️"
+
+msgid "File"
+msgstr "✋🤞👍🤙"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr "✋👌☝️"
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "✋👌☝️ 👐🖐🤙👇 👏👌🙌 ✌️☝️🤙 👎👍✌️👏🤞👇🤛 👌👇 ✌️ 👎👌👋✌️👋👌."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr "✋☝️👌👆 🖐🤞🖖👋👌☝️👏"
+
+msgid "From Template"
+msgstr "✋☝️👌👆 👋🤙👆👎👍✌️👋🤙"
+
+msgid "Get IID"
+msgstr "🤛🤙👋 🤞🤞🤚"
+
+msgid "Get Pixels"
+msgstr ""
+
+msgid "Get Users"
+msgstr ""
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "🤛👍👌👈🤙 🤜🤞🤙👐"
+
+msgid "Go to"
+msgstr ""
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "🤛☝️🤞🤚 👌✋✋"
+
+msgid "Grid ON"
+msgstr "🤛☝️🤞🤚 👌👇"
+
+msgid "Have fun!"
+msgstr "🖐✌️🤜🤙 ✋🙌👇❗"
+
+msgid "Height"
+msgstr ""
+
+msgid "Help"
+msgstr "🖐🤙👍👎"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"🖐🤙☝️🤙 👐🤙 🤘👌👍👍🤙🤘👋 ☝️🤙👆👌🤜🤙🤚 🤘✌️👇🤜✌️🖖🤙🖖 👋👌 ✌️☝️🤘🖐🤞🤜🤙 👋🖐"
+"🤙👆 👎☝️👌👎🤙☝️👍👏. 👐🖐🤞🤘🖐 🤞🖖 🤘🙌☝️☝️🤙👇👋👍👏 👌👇👍👏 👌👇🤙."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"🖐🤞🤛🖐🤙☝️ 🙏👌👌👆👍🤙🤜🤙👍🖖 👋✌️👊🤙 🖖👌👆🤙 👋🤞👆🤙 👋👌 🙌👎🤚✌️👋🤙, 👋"
+"🖐🤙 3️⃣🤚 🤛👍👌👈🤙 🤛🤙👋🖖 🙌👎🤚✌️👋🤙🤚 ✌️👋 👍🤙✌️🖖👋 👌👇🤘🤙 👎🤙☝️ 🤚✌️👏."
+
+msgid "Historical View"
+msgstr "🖐🤞🖖👋👌☝️🤞🤘✌️👍 🤜🤞🤙👐"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+
+msgid "How pixuniverse should look like."
+msgstr "🖐👌👐 👎🤞👉🤙👍👎👍✌️👇🤙👋 🖖🖐👌🙌👍🤚 👍👌👌👊 👍🤞👊🤙."
+
+msgid "I forgot my Password."
+msgstr "🤞 ✋👌☝️🤛👌👋 👆👏 👎✌️🖖🖖👐👌☝️🤚."
+
+msgid "IID (optional)"
+msgstr ""
+
+msgid "IID Actions"
+msgstr ""
+
+msgid "IP Actions"
+msgstr ""
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr ""
+
+msgid "Image Upload"
+msgstr ""
+
+msgid "Import templates"
+msgstr "🤞👆👎👌☝️👋 👋🤙👆👎👍✌️👋🤙🖖"
+
+msgid "Interval"
+msgstr "🤞👇👋🤙☝️🤜✌️👍"
+
+msgid "Interval is invalid"
+msgstr ""
+
+msgid "Invalid Canvas"
+msgstr "🤞👇🤜✌️👍🤞🤚 🤘✌️👇🤜✌️🖖"
+
+msgid "Invalid Coordinates"
+msgstr "🤞👇🤜✌️👍🤞🤚 🤘👌👌☝️🤚🤞👇✌️👋🤙🖖"
+
+msgid "Invalid color selected"
+msgstr "🤞👇🤜✌️👍🤞🤚 🤘👌👍👌☝️ 🖖🤙👍🤙🤘👋🤙🤚"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "✊🙌🖖👋 ✋👌☝️ ☝️🤙🤛🤞🖖👋🤙☝️🤙🤚 🙌🖖🤙☝️🖖"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "✊🙌🖖👋 👋🖐🤙 👋👌👎🔟👌✋ 👏🤙🖖👋🤙☝️🤚✌️👏 🤘✌️👇 👎👍✌️🤘🤙 🖐🤙☝️🤙"
+
+msgid "Keep Ratio"
+msgstr ""
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "👍🤞🤛🖐👋 🤛☝️🤞🤚"
+
+msgid "Load Captcha"
+msgstr "👍👌✌️🤚 🤘✌️👎👋🤘🖐✌️"
+
+msgid "Loading"
+msgstr "👍👌✌️🤚🤞👇🤛"
+
+msgid "Loading..."
+msgstr "👍👌✌️🤚🤞👇🤛..."
+
+msgid "Log out"
+msgstr "👍👌🤛 👌🙌👋"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "👍👌🤛🤞👇"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "👍👌🤛🤞👇 👋👌 ✌️🤘🤘🤙🖖🖖 👆👌☝️🤙 ✋🤙✌️👋🙌☝️🤙🖖 ✌️👇🤚 🖖👋✌️👋🖖."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "👍👌🤛🤞👇 👐🤞👋🖐 👇✌️👆🤙 👌☝️ 👆✌️🤞👍:"
+
+msgid "Make Screenshot"
+msgstr "👆✌️👊🤙 🖖🤘☝️🤙🤙👇🖖🖐👌👋"
+
+msgid "Manage Moderators"
+msgstr ""
+
+msgid "Map Data"
+msgstr "👆✌️👎 🤚✌️👋✌️"
+
+msgid "Maximize"
+msgstr "👆✌️👉🤞👆🤞🙏🤙"
+
+msgid "Minimum Color Distance"
+msgstr ""
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "👆👌🤚👋👌👌👍🖖"
+
+msgid "Move"
+msgstr "👆👌🤜🤙"
+
+msgid "Mute"
+msgstr "👆🙌👋🤙"
+
+msgid "Muted Sound"
+msgstr "👆🙌👋🤙🤚 🖖👌🙌👇🤚"
+
+msgid "Name"
+msgstr "👇✌️👆🤙"
+
+msgid "Name can't be empty."
+msgstr "👇✌️👆🤙 🤘✌️👇👋 👈🤙 🤙👆👎👋👏."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "👇✌️👆🤙 🤘👌👇👋✌️🤞👇🖖 🤞👇🤜✌️👍🤞🤚 🤘🖐✌️☝️✌️🤘👋🤙☝️ 👍🤞👊🤙 @, /, \\ "
+"👌☝️ #️⃣"
+
+msgid "Name must be at least 2 characters long"
+msgstr ""
+
+msgid "Name must be shorter than 26 characters"
+msgstr ""
+
+msgid "Name or Email"
+msgstr ""
+
+msgid "New Mail"
+msgstr ""
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "👇🤙👐 👎✌️🖖🖖👐👌☝️🤚"
+
+msgid "New Username"
+msgstr ""
+
+msgid "No"
+msgstr "👇👌"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "👇👌 🤘✌️👎👋🤘🖐✌️ 🤞🤚 🤛🤞🤜🤙👇"
+
+msgid "No or invalid captcha text"
+msgstr "👇👌 👌☝️ 🤞👇🤜✌️👍🤞🤚 🤘✌️👎👋🤘🖐✌️ 👋🤙👉👋"
+
+msgid "No password given."
+msgstr "👇👌 👎✌️🖖🖖👐👌☝️🤚 🤛🤞🤜🤙👇."
+
+msgid "Not allowed"
+msgstr "👇👌👋 ✌️👍👍👌👐🤙🤚"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "👌👊"
+
+msgid "Offset"
+msgstr ""
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr ""
+
+msgid "Online Users"
+msgstr "👌👇👍🤞👇🤙 🙌🖖🤙☝️🖖"
+
+msgid "Online Users on Canvas"
+msgstr "👌👇👍🤞👇🤙 🙌🖖🤙☝️🖖 👌👇 🤘✌️👇🤜✌️🖖"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "👌👎✌️🤘🤞👋👏 👌✋ 👌🤜🤙☝️👍✌️👏 🤞👇 👎🤙☝️🤘🤙👇👋."
+
+msgid "Open Chat"
+msgstr "👌👎🤙👇 🤘🖐✌️👋"
+
+msgid "Open Menu"
+msgstr "👌👎🤙👇 👆🤙👇🙌"
+
+msgid "Open Palette"
+msgstr "👌👎🤙👇 👎✌️👍🤙👋👋🤙"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"👌🙌☝️ 👆✌️🤞👇 🤘✌️👇🤜✌️🖖 🤞🖖 ✌️ 🖐🙌🤛🤙 👐👌☝️👍🤚👆✌️👎, 👏👌🙌 🤘✌️👇 👎👍✌️🤘"
+"🤙 👐🖐🤙☝️🤙🤜🤙☝️ 👏👌🙌 👍🤞👊🤙, 👈🙌👋 👏👌🙌 👐🤞👍👍 🖐✌️🤜🤙 👋👌 👐✌️🤞👋 "
+"✌️ 🖖👎🤙🤘🤞✋🤞🤘 🤘👌👌👍🤚👌👐👇 👈🤙👋👐🤙🤙👇 👎🤞👉🤙👍🖖. 👏👌🙌 🤘✌️"
+"👇 🤘🖐🤙🤘👊 👌🙌👋 👋🖐🤙 🤘👌👌👍🤚👌👐👇 ✌️👇🤚 ☝️🤙🤝🙌🤞☝️🤙👆🤙👇👋🖖 👌👇 "
+"👋🖐🤙 🤘✌️👇🤜✌️🖖 🖖🤙👍🤙🤘👋🤞👌👇 👆🤙👇🙌 (🤛👍👌👈🤙 👈🙌👋👋👌👇 👌👇 👋"
+"👌👎). 🖖👌👆🤙 🤘✌️👇🤜✌️🖖🤙🖖 🖐✌️🤜🤙 ✌️ 🤚🤞✋✋🤙☝️🤙👇👋 🤘👌👌👍🤚👌👐👇 ✋"
+"👌☝️ ☝️🤙👎👍✌️🤘🤞👇🤛 ✌️ 🙌🖖🤙☝️-🖖🤙👋 👎🤞👉🤙👍🖖 👋🖐✌️👇 👎👍✌️🤘🤞👇🤛 👌👇 "
+"✌️ 🙌👇🖖🤙👋 👎🤞👉🤙👍. 🤞.🤙. 4️⃣🖖/7️⃣🖖 👆🤙✌️👇🖖 4️⃣🖖 👌👇 ✋☝️🤙🖖🖐 👎🤞👉🤙"
+"👍🖖 ✌️👇🤚 7️⃣🖖 👌👇 ✌️👍☝️🤙✌️🤚👏 🖖🤙👋 👎🤞👉🤙👍🖖."
+
+msgid "Overlay OFF"
+msgstr "👌🤜🤙☝️👍✌️👏 👌✋✋"
+
+msgid "Overlay ON"
+msgstr "👌🤜🤙☝️👍✌️👏 👌👇"
+
+msgid "Overlay Opacity"
+msgstr "👌🤜🤙☝️👍✌️👏 👌👎✌️🤘🤞👋👏"
+
+msgid "Palette Download"
+msgstr ""
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr ""
+
+msgid "Password"
+msgstr "👎✌️🖖🖖👐👌☝️🤚"
+
+msgid "Password must be at least 6 characters long."
+msgstr ""
+
+msgid "Password must be shorter than 60 characters."
+msgstr ""
+
+msgid "Password successfully changed."
+msgstr "👎✌️🖖🖖👐👌☝️🤚 🖖🙌🤘🤘🤙🖖🖖✋🙌👍👍👏 🤘🖐✌️👇🤛🤙🤚."
+
+msgid "Passwords do not match."
+msgstr ""
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "👎🤙👇🤘🤞👍 👆👌🤚🤙 ✋👌☝️ ${ canvasName } 🤘✌️👇🤜✌️🖖"
+
+msgid "Pencil picks: "
+msgstr "👎🤙👇🤘🤞👍 👎🤞🤘👊🖖: "
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "👎🤞👇🤛"
+
+msgid "Pixel Notify OFF"
+msgstr "👎🤞👉🤙👍 👇👌👋🤞✋👏 👌✋✋"
+
+msgid "Pixel Notify ON"
+msgstr "👎🤞👉🤙👍 👇👌👋🤞✋👏 👌👇"
+
+msgid "Pixel Protection"
+msgstr ""
+
+msgid "Pixel protected"
+msgstr "👎🤞👉🤙👍 👎☝️👌👋🤙🤘👋🤙🤚"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"👎👍✌️🤘🤙 🤘👌👍👌☝️ 👎🤞👉🤙👍🖖 👌👇 ✌️ 👍✌️☝️🤛🤙 🤘✌️👇🤜✌️🖖 👐🤞👋🖐 👌👋🖐🤙☝️ "
+"👎👍✌️👏🤙☝️🖖 👌👇👍🤞👇🤙❗"
+
+msgid "Placed Pixels"
+msgstr "👎👍✌️🤘🤙🤚 👎🤞👉🤙👍🖖"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "👎👍✌️👏 ✌️ 🖖👌🙌👇🤚 👐🖐🤙👇 👇🤙👐 🤘🖐✌️👋 👆🤙🖖🖖✌️🤛🤙🖖 ✌️☝️☝️🤞🤜🤙"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr ""
+
+msgid "Please prove that you are human"
+msgstr "👎👍🤙✌️🖖🤙 👎☝️👌🤜🤙 👋🖐✌️👋 👏👌🙌 ✌️☝️🤙 🖐🙌👆✌️👇"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+"👎👍🤙✌️🖖🤙 🤜🤙☝️🤞✋👏 👏👌🙌☝️ 👆✌️🤞👍 ✌️🤚🤚☝️🤙🖖🖖 👌☝️ ✌️🤚🤚 ✌️ 👇🤙👐 👌👇"
+"🤙, 👌👋🖐🤙☝️👐🤞🖖🤙 👏👌🙌☝️ ✌️🤘🤘👌🙌👇👋 🤘👌🙌👍🤚 🤛🤙👋 🤚🤙👍🤙👋🤙🤚 "
+"🤞👇 👋🖐🤙 ✋🙌👋🙌☝️🤙."
+
+msgid "Political Compass Canvas"
+msgstr "👎👌👍🤞👋🤞🤘✌️👍 🤘👌👆👎✌️🖖🖖 🤘✌️👇🤜✌️🖖"
+
+msgid "Potato Mode"
+msgstr "👎👌👋✌️👋👌 👆👌🤚🤙"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "👎☝️🤙🖖🖖 ${ bindG } 👋👌 👋👌🤛🤛👍🤙 🤛☝️🤞🤚"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr ""
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr ""
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr ""
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr ""
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr ""
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr ""
+"👎☝️🤙🖖🖖 ${ bindX } 👋👌 👋👌🤛🤛👍🤙 🖖🖐👌👐🤞👇🤛 👌✋ 👎🤞👉🤙👍 ✌️🤘👋🤞"
+"🤜🤞👋👏"
+
+msgid "Private"
+msgstr "👎☝️🤞🤜✌️👋🤙"
+
+msgid "Profile"
+msgstr "👎☝️👌✋🤞👍🤙"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "☝️✌️👇🤛🤙 👈✌️👇👇🤙🤚"
+
+msgid "Ranked"
+msgstr "☝️✌️👇👊🤙🤚"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "☝️🤙✌️🖖👌👇"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "☝️🤙🤛🤞🖖👋🤙☝️"
+
+msgid "Register new account here"
+msgstr "☝️🤙🤛🤞🖖👋🤙☝️ 👇🤙👐 ✌️🤘🤘👌🙌👇👋 🖐🤙☝️🤙"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "☝️🤙👍👌✌️🤚"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr ""
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "☝️🤙🤝🙌🤞☝️🤙👆🤙👇👋🖖"
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "☝️🤙🖖🤞🙏🤙"
+
+msgid "Restore"
+msgstr "☝️🤙🖖👋👌☝️🤙"
+
+msgid "Retired Canvases (history only)"
+msgstr "☝️🤙👋🤞☝️🤙🤚 🤘✌️👇🤜✌️🖖🤙🖖 (🖐🤞🖖👋👌☝️👏 👌👇👍👏)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr ""
+
+msgid "Rollback to Date"
+msgstr ""
+
+msgid "Save"
+msgstr "🖖✌️🤜🤙"
+
+msgid "Scale Image"
+msgstr ""
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+
+msgid "Select Date above"
+msgstr "🖖🤙👍🤙🤘👋 🤚✌️👋🤙 ✌️👈👌🤜🤙"
+
+msgid "Select File"
+msgstr ""
+
+msgid "Select Language"
+msgstr "🖖🤙👍🤙🤘👋 👍✌️👇🤛🙌✌️🤛🤙"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"🖖🤙👍🤙🤘👋 👋🖐🤙 🤘✌️👇🤜✌️🖖 👏👌🙌 👐✌️👇👋 👋👌 🙌🖖🤙.\n"
+" 🤙🤜🤙☝️👏 🤘✌️👇🤜✌️🖖 🤞🖖 🙌👇🤞🤝🙌🤙 ✌️👇🤚 🖐✌️🖖 🤚🤞✋✋🤙☝️🤙👇👋 👎✌️👍🤙"
+"👋👋🤙🖖, 🤘👌👌👍🤚👌👐👇 ✌️👇🤚 ☝️🤙🤝🙌🤞☝️🤙👆🤙👇👋🖖.\n"
+" ✌️☝️🤘🖐🤞🤜🤙🤚 🤘✌️👇🤜✌️🖖🤙🖖 🤘✌️👇 👈🤙 ✌️🤘🤘🤙🖖🖖🤙🤚 🖐🤙☝️🤙:"
+
+msgid "Selected Color"
+msgstr "🖖🤙👍🤙🤘👋🤙🤚 🤘👌👍👌☝️"
+
+msgid "Send"
+msgstr "🖖🤙👇🤚"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"🖖🤙👇👋 👏👌🙌 ✌️ 👆✌️🤞👍 👐🤞👋🖐 🤞👇🖖👋☝️🙌🤘👋🤞👌👇🖖 👋👌 ☝️🤙🖖🤙👋 👏👌"
+"🙌☝️ 👎✌️🖖🖖👐👌☝️🤚."
+
+msgid "Serpentine"
+msgstr ""
+
+msgid "Server answered with gibberish :("
+msgstr "🖖🤙☝️🤜🤙☝️ ✌️👇🖖👐🤙☝️🤙🤚 👐🤞👋🖐 🤛🤞👈👈🤙☝️🤞🖖🖐 😔"
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"🖖🤙☝️🤜🤙☝️ 🤛👌👋 🤘👌👇✋🙌🖖🤙🤚 👈👏 👏👌🙌☝️ 👎🤞👉🤙👍🖖. ✌️☝️🤙 👏👌🙌 👎"
+"👍✌️👏🤞👇🤛 👌👇 👆🙌👍👋🤞👎👍🤙 🤚🤙🤜🤞🤘🤙🖖❓"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"🖖🤙👋 👎☝️👌👋🤙🤘👋🤞👌👇 👌✋ ✌️☝️🤙✌️🖖 (🤞✋ 👏👌🙌 👇🤙🤙🤚 ✋🤞👇🤙☝️ 🤛☝️✌️"
+"🤞👇🤙🤚 🤘👌👇👋☝️👌👍, 🙌🖖🤙 👎☝️👌👋🤙🤘👋 👐🤞👋🖐 🤞👆✌️🤛🤙 🙌👎👍👌✌️🤚 ✌️"
+"👇🤚 ✌️👍👎🖐✌️ 👍✌️👏🤙☝️🖖)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+"🖖🤙👋👋🤞👇🤛 ✌️ 👎✌️🖖🖖👐👌☝️🤚 ✌️👍👍👌👐🖖 👏👌🙌 👋👌 👍👌🤛🤞👇 👈👏 🙌🖖"
+"🤙☝️👇✌️👆🤙 👌☝️ 🤙👆✌️🤞👍, ☝️✌️👋🖐🤙☝️ 👋🖐✌️👇 👌👇👍👏 ☝️🤙👍👏🤞👇🤛 👌👇 3️⃣☝️🤚 👎"
+"✌️☝️👋👏 👍👌🤛🤞👇."
+
+msgid "Settings"
+msgstr "🖖🤙👋👋🤞👇🤛🖖"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "🖖🖐👌👐 🤛☝️🤞🤚"
+
+msgid "Show Grid in white instead of black."
+msgstr "🖖🖐👌👐 🤛☝️🤞🤚 🤞👇 👐🖐🤞👋🤙 🤞👇🖖👋🤙✌️🤚 👌✋ 👈👍✌️🤘👊."
+
+msgid "Show Pixel Activity"
+msgstr "🖖🖐👌👐 👎🤞👉🤙👍 ✌️🤘👋🤞🤜🤞👋👏"
+
+msgid "Show circles where pixels are placed."
+msgstr "🖖🖐👌👐 🤘🤞☝️🤘👍🤙🖖 👐🖐🤙☝️🤙 👎🤞👉🤙👍🖖 ✌️☝️🤙 👎👍✌️🤘🤙🤚."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"🖖🖐👌👐 👌🤜🤙☝️👍✌️👏 ✌️🖖 🖖👆✌️👍👍 🤞👇🤚🤞🤜🤞🤚🙌✌️👍 👎🤞👉🤙👍🖖 👌👇 🖐🤞"
+"🤛🖐 🙏👌👌👆👍🤙🤜🤙👍🖖."
+
+msgid "Show templates as overlays ingame."
+msgstr "🖖🖐👌👐 👋🤙👆👎👍✌️👋🤙🖖 ✌️🖖 👌🤜🤙☝️👍✌️👏🖖 🤞👇🤛✌️👆🤙."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "🖖👆✌️👍👍 👎🤞👉🤙👍🖖 👐🖐🤙👇 🙏👌👌👆🤙🤚"
+
+msgid "Social Settings"
+msgstr "🖖👌🤘🤞✌️👍 🖖🤙👋👋🤞👇🤛🖖"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "🖖👋✌️🤘👊🤞👇🤛 👋🤞👍👍"
+
+msgid "Start chatting here"
+msgstr "🖖👋✌️☝️👋 🤘🖐✌️👋👋🤞👇🤛 🖐🤙☝️🤙"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "🖖👋✌️👋🤞🖖👋🤞🤘🖖"
+
+msgid "Status: Not running"
+msgstr ""
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr ""
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "🖖🙌👈👆🤞👋"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "🖖👐🤞👋🤘🖐🤙🤚 👋👌 ${ canvasName }"
+
+msgid "Template Name"
+msgstr ""
+
+msgid "Templates"
+msgstr "👋🤙👆👎👍✌️👋🤙🖖"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"👋🖐🤙 👈✌️☝️🤙 👆✌️👎 🤚✌️👋✌️ 👋🖐✌️👋 👐🤙 🙌🖖🤙, 👋👌🤛🤙👋🖐🤙☝️ 👐🤞👋🖐 🤘👌👇🤜"
+"🤙☝️👋🤙🤚 👌👎🤙👇🖖👋☝️🤙🤙👋👆✌️👎 👋🤞👍🤙🖖 ✋👌☝️ 👌☝️🤞🤙👇👋✌️👋🤞👌👇, 🤘✌️"
+"👇 👈🤙 🤚👌👐👇👍👌✌️🤚🤙🤚 ✋☝️👌👆 👆🤙🤛✌️.👇🙏 🖐🤙☝️🤙: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "👋🖐🤙👆🤙🖖"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "👋🖐🤞🖖 🤘✌️👇🤜✌️🖖 🤚👌🤙🖖👇👋 🤙👉🤞🖖👋"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"👋🖐🤞🖖 🤘✌️👇🤜✌️🖖 🤛👌👋 ☝️🤙🤝🙌🤙🖖👋🤙🤚 🤚🙌☝️🤞👇🤛 ✌️ 👋🤞👆🤙 👌✋ 👎👌"
+"👍🤞👋🤞🤘✌️👍 🤘👌👇✋👍🤞🤘👋🖖 👌👇 👋🖐🤙 👆✌️🤞👇 🤙✌️☝️👋🖐 🤘✌️👇🤜✌️🖖. 🤞👋 "
+"👐✌️🖖 ✌️ 1️⃣0️⃣2️⃣4️⃣👉1️⃣0️⃣2️⃣4️⃣ ☝️🤙👎☝️🤙🖖🤙👇👋✌️👋🤞👌👇 👌✋ 👋🖐🤙 👎👌👍🤞👋🤞🤘✌️👍 🤘"
+"👌👆👎✌️🖖🖖 👐🤞👋🖐 ✌️ 5️⃣🖖 🤘👌👌👍🤚👌👐👇 ✌️👇🤚 6️⃣0️⃣🖖 🖖👋✌️🤘👊🤞👇🤛. 🤞👋 "
+"🤛👌👋 👍✌️🙌👇🤘🖐🤙🤚 👌👇 👆✌️👏 1️⃣1️⃣👋🖐 ✌️👇🤚 ☝️🤙👆✌️🤞👇🤙🤚 ✌️🤘👋🤞🤜🤙 ✋👌"
+"☝️ 👆👌👇👋🖐🖖 👋🤞👍👍 🤞👋 🤛👌👋 🖖🖐🙌👋 🤚👌👐👇 👌👇 👇👌🤜🤙👆👈🤙☝️ 3️⃣0️⃣👋"
+"🖐."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "👋🤞👆🤙👌🙌👋"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr ""
+"👋🤞👎: 👇👌👋 🤘✌️🖖🤙-🖖🤙👇🖖🤞👋🤞🤜🤙; 🤞 ✌️👇🤚 👍 ✌️☝️🤙 👋🖐🤙 🖖✌️👆🤙"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"👋🤞☝️🤙🤚 👌✋ ✌️👍👐✌️👏🖖 🖖👎✌️👆🤞👇🤛 👌👇🤙 🖖🤞👇🤛👍🤙 🤘👌👍👌☝️? 👐✌️👇"
+"👋 👋👌 🤘☝️🤙✌️👋🤙 ✌️☝️👋 🤞👇🖖👋🤙✌️🤚, 👈🙌👋 👏👌🙌 🖐✌️🤜🤙 👋👌 🤘👌🙌👇👋 "
+"👎🤞👉🤙👍🖖 ✋☝️👌👆 🖖👌👆🤙 👌👋🖐🤙☝️ 🤞👆✌️🤛🤙? 👋🤙👆👎👍✌️👋🤙🖖 🤘✌️👇 🖐🤙"
+"👍👎 👏👌🙌 👐🤞👋🖐 👋🖐✌️👋! 👋🤙👆👎👍✌️👋🤙🖖 🤘✌️👇 🖖🖐👌👐 ✌️🖖 👌🤜🤙☝️👍✌️👏 "
+"✌️👇🤚 👏👌🙌 🤘✌️👇 🤚☝️✌️👐 👌🤜🤙☝️ 👋🖐🤙👆. 👌👇🤙 👎🤞👉🤙👍 👌👇 👋🖐🤙 👋🤙"
+"👆👎👍✌️👋🤙, 🖖🖐👌🙌👍🤚 👈🤙 👌👇🤙 👎🤞👉🤙👍 👌👇 👋🖐🤙 🤘✌️👇🤜✌️🖖."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "👋👌🤚✌️👏"
+
+msgid "Today Placed Pixels"
+msgstr "👋👌🤚✌️👏 👎👍✌️🤘🤙🤚 👎🤞👉🤙👍🖖"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr ""
+
+msgid "Top 10 Daily Ranking"
+msgstr ""
+
+msgid "Top 10 Players [pxls / day]"
+msgstr ""
+
+msgid "Top 10 Players from Yesterday"
+msgstr ""
+
+msgid "Top-left corner"
+msgstr ""
+
+msgid "Total"
+msgstr "👋👌👋✌️👍"
+
+msgid "Total Online Users"
+msgstr "👋👌👋✌️👍 👌👇👍🤞👇🤙 🙌🖖🤙☝️🖖"
+
+msgid "Total Pixels per Player"
+msgstr "👋👌👋✌️👍 👎🤞👉🤙👍🖖 👎🤙☝️ 👎👍✌️👏🤙☝️"
+
+msgid "Total Pixels placed per day"
+msgstr ""
+
+msgid "Total Rank"
+msgstr "👋👌👋✌️👍 ☝️✌️👇👊"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"👋🙌☝️👇 🤙🤜🤙☝️👏 👎🤞👉🤙👍 🤞👇 ✌️☝️🤙✌️ 👋👌 0️⃣ (👏👌🙌 ☝️🤙✌️👍👍👏 🖖🖐👌🙌👍🤚"
+"👇'👋 🤚👌 👋🖐✌️👋 👌👇 ✌️👇👏 ✌️☝️🤙✌️ 👋🖐✌️👋 🤞🖖👇'👋 ✌️👍☝️🤙✌️🤚👏 👆👌🖖👋👍👏 "
+"0️⃣)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "👋🙌☝️👇 👌👇 🤛☝️🤞🤚 👋👌 🖐🤞🤛🖐👍🤞🤛🖐👋 👎🤞👉🤙👍 👈👌☝️🤚🤙☝️🖖."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr ""
+"👋👏👎🤙 👋🖐🤙 🤘🖐✌️☝️✌️🤘👋🤙☝️🖖 ✋☝️👌👆 👋🖐🤙 ✋👌👍👍👌👐🤞👇🤛 🤞👆✌️🤛🤙:"
+
+msgid "Unblock Users"
+msgstr ""
+
+msgid "Unknown Captcha Error"
+msgstr "🙌👇👊👇👌👐👇 🤘✌️👎👋🤘🖐✌️ 🤙☝️☝️👌☝️"
+
+msgid "Unknown Error"
+msgstr "🙌👇👊👇👌👐👇 🤙☝️☝️👌☝️"
+
+msgid "Unmuted Sound"
+msgstr "🙌👇👆🙌👋🤙🤚 🖖👌🙌👇🤚"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr ""
+
+msgid "Use our custom cursor"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User Account"
+msgstr "🙌🖖🤙☝️ ✌️🤘🤘👌🙌👇👋"
+
+msgid "User Area"
+msgstr "🙌🖖🤙☝️ ✌️☝️🤙✌️"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"👐🤙 🤚🤙🤘🤞🤚🤙🤚 👋👌 ✌️☝️🤘🖐🤞🤜🤙 🤞👋 ✌️🖖 ✌️ 👋🤞👆🤙👍✌️👎🖖🤙 👐🤞👋🖐 👍"
+"👌🖖🖖👍🤙🖖🖖 🤙👇🤘👌🤚🤙🤚 👐🤙👈👆. 👋✌️👊🤞👇🤛 ✌️ 🖖🤘☝️🤙🤙👇🖖🖐👌👋 ✋☝️"
+"👌👆 👋🖐🤙 👋🤞👆🤙👍✌️👎🖖🤙 ☝️🤙🖖🙌👍👋🖖 🤞👇 ✌️ 👎🤙☝️✋🤙🤘👋 1️⃣:1️⃣ ☝️🤙👎☝️🤙"
+"🖖🤙👇👋✌️👋🤞👌👇 👌✋ 🖐👌👐 👋🖐🤙 🤘✌️👇🤜✌️🖖 👐✌️🖖 ✌️👋 👋🖐✌️👋 👋🤞👆🤙."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"👐🤙 👋🖐✌️👇👊 👋🖐🤙 ✋👌👍👍👌👐🤞👇🤛 ✌️☝️👋🤞🖖👋🖖, 👐🖐👌 👆✌️🤚🤙 👋🖐🤙🤞☝️ "
+"👎✌️👍🤙👋👋🤙🖖 ✌️🤜✌️🤞👍✌️👈👍🤙 👋👌 👋🖐🤙 👎🙌👈👍🤞🤘 👌👇"
+
+msgid "Weird"
+msgstr "👐🤙🤞☝️🤚"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr ""
+"👐🖐✌️👋 👋🖐🤙 👎🤙👇🤘🤞👍 🖖🖐👌🙌👍🤚 🤚☝️✌️👐 👌👇 👋🖐🤙 🤘🙌☝️☝️🤙👇👋 🤘✌️👇🤜✌️"
+"🖖."
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"👐🖐🤞👍🤙 👐🤙 👋🤙👇🤚 👋👌 👇👌👋 🤚🤙👍🤙👋🤙 🤘✌️👇🤜✌️🖖🤙🖖, 🖖👌👆🤙 🤘✌️"
+"👇🤜✌️🖖🤙🖖 ✌️☝️🤙 🖖👋✌️☝️👋🤙🤚 ✋👌☝️ ✋🙌👇 👌☝️ ✌️🖖 ✌️ ☝️🤙🤝🙌🤙🖖👋 👈👏 🙌🖖"
+"🤙☝️🖖 👐🖐👌 👍🤞👊🤙 ✌️ 🤘🙌☝️☝️🤙👇👋👍👏 👎👌👎🙌👍✌️☝️ 👆🤙👆🤙. 👋🖐👌🖖🤙 🤘✌️"
+"👇🤜✌️🖖🤙🖖 🤘✌️👇 👈🤙🤘👌👆🤙 🤚🙌👍👍 ✌️👇🤚 🤞👇✌️🤘👋🤞🤜🤙 ✌️✋👋🤙☝️ ✌️ 👐🖐"
+"🤞👍🤙, ✌️👋 👐🖐🤞🤘🖐 👎👌🤞👇👋 👋🖐🤙☝️🤙 🤞🖖 👇👌 ☝️🤙✌️🖖👌👇 👋👌 👊🤙🤙👎 "
+"👋🖐🤙👆 ✌️👇🤚 👐🤙 👆✌️👏 🤚🤙🤘🤞🤚🤙 👋👌 ☝️🤙👆👌🤜🤙 👋🖐🤙👆."
+
+msgid "Why?"
+msgstr "👐🖐👏❓"
+
+msgid "Width"
+msgstr ""
+
+msgid "Wrong Color"
+msgstr "👐☝️👌👇🤛 🤘👌👍👌☝️"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "👏🤙🖖"
+
+msgid "Yes, Delete My Account!"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+"👏👌🙌 ✌️☝️🤙 ✌️ 👋🤙✌️🤘🖐🤙☝️ ✌️👇🤚 ✌️ 👎🙌👎🤞👍 🤞🖖 👎👍✌️👏🤞👇🤛 👋🖐🤞🖖 🤛✌️👆"
+"🤙, 🤚🤙🖖👎🤞👋🤙 🤞👋 👇👌👋 👈🤙🤞👇🤛 🖖🙌🤞👋✌️👈👍🤙 ✋👌☝️ 👋🖐🤙👆❓ 🖖"
+"🤙👇🤚 🙌🖖 ✌️👇 🤙👆✌️🤞👍."
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "👏👌🙌 ✌️☝️🤙 🙌🖖🤞👇🤛 ✌️ 👎☝️👌👉👏."
+
+msgid "You are weird"
+msgstr "👏👌🙌 ✌️☝️🤙 👐🤙🤞☝️🤚"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"👏👌🙌 🤘✌️👇 👇👌👋 ✌️🤘🤘🤙🖖🖖 👋🖐🤞🖖 🤘✌️👇🤜✌️🖖 👏🤙👋, 👈🤙🤘✌️🙌🖖🤙 👏👌"
+"🙌☝️ 👎🤞👉🤙👍 🖖🤘👌☝️🤙 🤞🖖 👋👌👌 👍👌👐"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr ""
+"👏👌🙌 🤘✌️👇 👇👌👐 👎👍✌️🤘🤙 👆👌☝️🤙 👌👇 👎🤞👉🤙👍👎👍✌️👇🤙👋.✋🙌👇 😊"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "👏👌🙌 ✋✌️🤞👍🤙🤚 👏👌🙌☝️ 🤘✌️👎👋🤘🖐✌️"
+
+msgid "You have new messages in chat"
+msgstr "👏👌🙌 🖐✌️🤜🤙 👇🤙👐 👆🤙🖖🖖✌️🤛🤙🖖 🤞👇 🤘🖐✌️👋"
+
+msgid "You have no users blocked"
+msgstr ""
+
+msgid "You have to be logged in to place on this canvas"
+msgstr ""
+"👏👌🙌 🖐✌️🤜🤙 👋👌 👈🤙 👍👌🤛🤛🤙🤚 🤞👇 👋👌 👎👍✌️🤘🤙 👌👇 👋🖐🤞🖖 🤘✌️👇🤜"
+"✌️🖖"
+
+msgid "You made too many requests"
+msgstr "👏👌🙌 👆✌️🤚🤙 👋👌👌 👆✌️👇👏 ☝️🤙🤝🙌🤙🖖👋🖖"
+
+msgid "You must be logged in to chat"
+msgstr "👏👌🙌 👆🙌🖖👋 👈🤙 👍👌🤛🤛🤙🤚 🤞👇 👋👌 🤘🖐✌️👋"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr ""
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr ""
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "👏👌🙌 👋👌👌👊 👋👌👌 👍👌👇🤛, 👋☝️👏 ✌️🤛✌️🤞👇."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"👏👌🙌☝️ 👈☝️👌👐🖖🤙☝️ 🤚👌🤙🖖👇'👋 ✌️👍👍👌👐 🙌🖖 👋👌 🙌🖖🤙 ✌️🙌🤚🤞👌🤘👌👇"
+"👋🤙👉👋 👋👌 👎👍✌️👏 🖖👌🙌👇🤚🖖. 🤚👌 👏👌🙌 🖐✌️🤜🤙 🖖👌👆🤙 👎☝️🤞🤜✌️🤘👏 "
+"✋🤙✌️👋🙌☝️🤙 👈👍👌🤘👊🤞👇🤛 🙌🖖?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr ""
+"👏👌🙌☝️ 🤞👇👋🤙☝️👇🤙👋 👎☝️👌🤜🤞🤚🤙☝️ 🤞🖖 👈✌️👇👇🤙🤚 ✋☝️👌👆 👋🖐🤞🖖 🤛✌️👆"
+"🤙"
+
+msgid "Your ban expires at "
+msgstr "👏👌🙌☝️ 👈✌️👇 🤙👉👎🤞☝️🤙🖖 ✌️👋 "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+"👏👌🙌☝️ 🤚🤞🤚 👇👌👋 🖖🤙👋 👏👌🙌☝️ 🙌🖖🤙☝️👇✌️👆🤙 👏🤙👋. ✌️ 🙌🖖🤙☝️👇✌️👆🤙 "
+"🤞🖖 ☝️🤙🤝🙌🤞☝️🤙🤚 👋👌 👍👌🤛🤞👇 👋👌 👌👋🖐🤙☝️ ✌️👎👎👍🤞🤘✌️👋🤞👌👇🖖. 👏"
+"👌🙌 🤘✌️👇 🖖🤙👋 🤞👋 👇👌👐:"
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "👏👌🙌☝️ 👇🤙👉👋 👎🤞👉🤙👍🖖 ✌️☝️🤙 ☝️🤙✌️🤚👏"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"🙏👌👌👆 🤞👇 🤞👇🖖👋🤙✌️🤚 👌✋ 👎👍✌️🤘🤞👇🤛 ✌️ 👎🤞👉🤙👍 👐🖐🤙👇 👏👌🙌 👋"
+"✌️👎 👋🖐🤙 🤘✌️👇🤜✌️🖖 ✌️👇🤚 👏👌🙌☝️ 🙏👌👌👆 🤞🖖 🖖👆✌️👍👍."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr ""
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "👆🤙👇👋🤞👌👇🤙🤚 👏👌🙌"
+
+msgid "or login with:"
+msgstr "👌☝️ 👍👌🤛🤞👇 👐🤞👋🖐:"
+
+msgid "or register here:"
+msgstr "👌☝️ ☝️🤙🤛🤞🖖👋🤙☝️ 🖐🤙☝️🤙:"
+
+msgid "recommended"
+msgstr "☝️🤙🤘👌👆👆🤙👇🤚🤙🤚"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "👋☝️👏 ✌️🤛✌️🤞👇 ✌️✋👋🤙☝️ ${ ti }👆🤞👇"
+
+msgid "x out of bounds"
+msgstr "👉 👌🙌👋 👌✋ 👈👌🙌👇🤚🖖"
+
+msgid "y out of bounds"
+msgstr "👏 👌🙌👋 👌✋ 👈👌🙌👇🤚🖖"
+
+msgid "z out of bounds"
+msgstr "🙏 👌🙌👋 👌✋ 👈👌🙌👇🤚🖖"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "✌️"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "👈"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "🤚"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "🤙"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "🤛"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "🖐"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "👆"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "👇"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "🤝"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "☝️"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "🖖"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "🖖🖐🤞✋👋"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "👋"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "👐"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "👉"
+
+#~ msgid "PopUp"
+#~ msgstr "👎👌👎🙌👎"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr ""
+#~ "👏👌🙌 ✌️☝️🤙 👈✌️👇👇🤙🤚. 👏👌🙌 👋🖐🤞👇👊 🤞👋 🤞🖖 🙌👇✊🙌🖖👋🤞✋🤞🤙🤚"
+#~ "❓🤘🖐🤙🤘👊 👌🙌👋 👋🖐🤙 "
+
+#~ msgid "Registration"
+#~ msgstr "☝️🤙🤛🤞🖖👋☝️✌️👋🤞👌👇"
+
+#~ msgid "Forgot Password"
+#~ msgstr "✋👌☝️🤛👌👋 👎✌️🖖🖖👐👌☝️🤚"
+
+#~ msgid " on how to appeal."
+#~ msgstr " 👌👇 🖐👌👐 👋👌 ✌️👎👎🤙✌️👍."
+
+#~ msgid "Unbanned"
+#~ msgstr "🙌👇👈✌️👇👇🤙🤚"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr ""
+#~ "👇👌👐 👋🖐✌️👋 👏👌🙌 🖐✌️🤜🤙 🖖🤙🤙👇 👋🖐🤞🖖 👆🤙🖖🖖✌️🤛🤙, 👏👌🙌 ✌️☝️🤙 👇"
+#~ "👌 👍👌👇🤛🤙☝️ 👈✌️👇👇🤙🤚."
+
+#~ msgid "Source on "
+#~ msgstr "🖖👌🙌☝️🤘🤙 👌👇 "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "🤞✋ 👏👌🙌 🤛👌👋 🤚🤙👋🤙🤘👋🤙🤚 ✌️🖖 👎☝️👌👉👏, 👈🙌👋 👏👌🙌 ✌️☝️🤙 👇👌"
+#~ "👇🤙, 👌☝️ 👋🖐🤞👇👊 👋🖐✌️👋 👏👌🙌 🤛👌👋 👐☝️👌👇🤛✋🙌👍👍👏 👈✌️👇👇🤙🤚, "
+#~ "👎👍🤙✌️🖖🤙 🤛👌 👋👌 👌🙌☝️ ${ guildedLink } 👌☝️ 🖖🤙👇🤚 🙌🖖 ✌️👇 🤙-👆✌️"
+#~ "🤞👍 👋👌 ${ mailLink }✌️👇🤚 🤞👇🤘👍🙌🤚🤙 👋🖐🤙 ✋👌👍👍👌👐🤞👇🤛 🤞🤞"
+#~ "🤚:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "🤘👌👇🖖🤞🤚🤙☝️ ✊👌🤞👇🤞👇🤛 🙌🖖 👌👇 🤛🙌🤞👍🤚🤙🤚:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "👏👌🙌☝️ 👇✌️👆🤙 🤞🖖: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "🤘🖐✌️👇🤛🤙 🙌🖖🤙☝️👇✌️👆🤙"
+
+#~ msgid "Change Mail"
+#~ msgstr "🤘🖐✌️👇🤛🤙 👆✌️🤞👍"
+
+#~ msgid "History Pencil ON"
+#~ msgstr "🖐🤞🖖👋👌☝️👏 👎🤙👇🤘🤞👍 👌👇"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "👌🤜🤙☝️👍✌️👏 👎🤙👇🤘🤞👍 👌👇"
+
+#~ msgid "Place more :)"
+#~ msgstr "👎👍✌️🤘🤙 👆👌☝️🤙 🙂"

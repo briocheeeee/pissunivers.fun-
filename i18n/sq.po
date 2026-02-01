@@ -1,0 +1,1816 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-11-13 22:10+0000\n"
+"Last-Translator: Extreme Motorsex <em@noreply.pixunivers.fun>\n"
+"Language-Team: Albanian <https://translate.gs-os.com/projects/ppfun/client/"
+"sq/>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid " which is in "
+msgstr " e cila është në "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } Mbaj butonin e majtë të mausit dhe tërheq mausin për të "
+"rrotulluar"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Kliko butonin e majtë ose ${ touchSymbol } prek për të "
+"vendosur një piksel"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+"${ mouseSymbol } Kliko me butonin e djathtë dhe tërheq mausin për të lëvizur "
+"pamjen"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } Kliko me butonin e djathtë ose ${ touchSymbol } prek dy "
+"herë për të hequr një piksel"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Lëviz rrotën e mausit ose mbaj ${ mouseSymbol } butonin e "
+"mesëm të mausit dhe tërheq për të zmadhuar"
+
+msgid "(0 = infinite)"
+msgstr "(0 = pafund)"
+
+msgid "+last hour"
+msgstr "+ora e fundit"
+
+msgid "...loading Login methods and sessions..."
+msgstr "…duke ngarkuar metodat e Hyrjes dhe seancat…"
+
+msgid "A Phish!"
+msgstr "Një Peshk!"
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Një email i ri verifikimi po ju dërgohet."
+
+msgid "ACCESS MODTOOLS"
+msgstr "Aksesoni veglat e moderatorit"
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Shto Rrjetën (hiqni shenjën nëse keni nevojë për një shabllon 1:1)"
+
+msgid "Add Template"
+msgstr "Shto Shabllon"
+
+msgid "Admintools"
+msgstr "Veglat e administratorit"
+
+msgid "All sound effects will be disabled."
+msgstr "Të gjitha efektet zanore do të çaktivizohen."
+
+msgid "Always show Movement Controls"
+msgstr "Shfaq gjithmonë Kontrollet e Lëvizjes"
+
+msgid "Always show movement control buttons"
+msgstr "Gjithmonë trego butonat e kontrollit të lëvizjes"
+
+msgid "Anti Aliasing"
+msgstr "Anti Aliasimi"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Apliko një filtër për të pastruar plehrat në zona të mëdha kanavacë."
+
+msgid "Archive"
+msgstr "Arkivi"
+
+msgid "Assign new Mod"
+msgstr "Cakto Mod të ri"
+
+msgid "Auto Zoom In"
+msgstr "Zmadhimi Automatik"
+
+msgid "Back"
+msgstr "Mbrapa"
+
+msgid "Badge Display"
+msgstr "Shfaqja e Stemave"
+
+msgid "Badges"
+msgstr "Stemat"
+
+msgid "Banned"
+msgstr "Përjashtuar"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Përjashtuar? Zbuluar si Proxy?"
+
+msgid "Block"
+msgstr "Blloko"
+
+msgid "Block DMs"
+msgstr "Blloko DM"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+"Blloko të gjitha mesazhet private. Aktivizimi i kësaj do të fshijë të gjitha "
+"DM-të tuaja aktuale. Ju ende mund të filloni DM të reja me përdorues të "
+"tjerë, por përdoruesit e tjerë nuk do të jenë në gjendje të fillojnë DM me "
+"ju."
+
+msgid "Blocked"
+msgstr "Bllokuar"
+
+msgid "Bottom-right corner"
+msgstr "Këndi i poshtëm i djathtë"
+
+msgid "Build image and set it to protected."
+msgstr "Ndërto imazhin dhe vendose atë të mbrojtur."
+
+msgid "Build image on canvas."
+msgstr "Ndërto imazh në kanavacë."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr ""
+"Ndërto imazhin, por rivendos kohën e pritjes në kohë pritjeje të pikselit të "
+"pavendosur."
+
+msgid "By Mod"
+msgstr "Nga Mod"
+
+msgid "Calculate like GIMP"
+msgstr "Llogarit si GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Nuk mund të eksportoni më shumë se 20 ose asnjë shabllon!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Nuk mund të importoni më shumë se 20 ose asnjë shabllon!"
+
+msgid "Can't read? Reload:"
+msgstr "Nuk mund ta lexoni? Ringarkoni:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "Nuk mund të shfaq kanavacën 3D, a keni WebGL2 të çaktivizuar?"
+
+msgid "Cancel"
+msgstr "Anulo"
+
+msgid "Cancel adding Template"
+msgstr "Anulo shtimin e Shabllonit"
+
+msgid "Canvas"
+msgstr "Kanavaca"
+
+msgid "Canvas Archive"
+msgstr "Arkivi i Kanavacave"
+
+msgid "Canvas Cleaner"
+msgstr "Pastrues Kanavacë"
+
+msgid "Canvas Error"
+msgstr "Gabim i Kanavacës"
+
+msgid "Canvas Selection"
+msgstr "Përzgjedhja e Kanavacës"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr "Kapur nga"
+
+msgid "Change Happened"
+msgstr "Ndodhi Ndryshim"
+
+msgid "Change Name"
+msgstr "Ndrysho Emrin"
+
+msgid "Change Password"
+msgstr "Ndrysho Fjalëkalimin"
+
+msgid "Change your Mail Adress here:"
+msgstr "Ndrysho Adresën tënde të Postës këtu:"
+
+msgid "Channel settings"
+msgstr "Cilësimet e kanalit"
+
+msgid "Charts"
+msgstr "Listat"
+
+msgid "Chat"
+msgstr "Bisedë"
+
+msgid "Chat here"
+msgstr "Bisedo këtu"
+
+msgid "Check out past versions of the canvas."
+msgstr "Shiko versionet e mëparshme të kanavacës."
+
+msgid "Check to allow"
+msgstr "Zgjidh për të lejuar"
+
+msgid "Check who placed in an area"
+msgstr "Kontrollo se kush ka vendosur në një zonë"
+
+msgid "Choose Canvas"
+msgstr "Zgjidh Kanavacë"
+
+msgid "Choose Color Mode"
+msgstr "Zgjidh Modalitetin e Ngjyrave"
+
+msgid "Choose Strategy"
+msgstr "Zgjidh Strategjinë"
+
+msgid "Choose Username"
+msgstr "Zgjidh Emrin e Përdoruesit"
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Pastro piksele rezervë që janë të rrethuar nga një ngjyrë tjetër ose piksele "
+"të pacaktuara (SHUMË AGRESIVE NË KANAVACAT QË LEJOJNË PIKSELE TË PAVENDOSURA "
+"(ku ka dy kohë pritjeje)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Pastro piksele rezervë që janë të rrethuar nga piksele të pacaktuara"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Pastro piksele rezervë që janë të rrethuar nga piksele të pacaktuara dhe "
+"deri në 1 piksele të tjera të caktuara"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr "Pastruesit mund të përdorin ngjyra boshe 0cd."
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Kliko ${ mouseSymbol } butonin e mesëm të mausit ose ${ touchSymbol } prekni "
+"gjatë për të zgjedhur ngjyrën aktuale të lëvizjes"
+
+msgid "Click a color in palette to select it"
+msgstr "Kliko një ngjyrë në paletë për ta zgjedhur atë"
+
+msgid "Click here to request a new verification mail."
+msgstr "Kliko këtu për të kërkuar një email të ri verifikimi."
+
+msgid "Click to Load Captcha"
+msgstr "Klikoni për të Ngarkuar Captcha"
+
+msgid "Clone"
+msgstr "Klon"
+
+msgid "Close"
+msgstr "Mbyll"
+
+msgid "Close Chat"
+msgstr "Mbyll Bisedën"
+
+msgid "Close Menu"
+msgstr "Mbyll Menunë"
+
+msgid "Close Palette"
+msgstr "Mbyll Paletën"
+
+msgid "Compact Palette"
+msgstr "Paleta Kompakte"
+
+msgid "Confirm New Password"
+msgstr "Konfirmo Fjalëkalimin e Ri"
+
+msgid "Confirm Password"
+msgstr "Konfirmo Fjalëkalimin"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Gabim i lidhjes ${ code } :("
+
+msgid "Consent"
+msgstr "Autorizimi"
+
+msgid "Consider joining us on Matrix:"
+msgstr "Konsidero të na bashkohesh në Matrix:"
+
+msgid "Controls"
+msgstr "Kontrollet"
+
+msgid "Convert an image to canvas colors"
+msgstr "Konverto një imazh në ngjyrat e kanavacës"
+
+msgid "Converter"
+msgstr "Konvertuesi"
+
+msgid "Cooldown"
+msgstr "Koha e pritjes"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+"Koha e pritjes zakonisht ndryshohet automatikisht për një vend që është duke "
+"dominuar. Në shembull në rastin e një sulmi të një transmetuesi."
+
+msgid "Coordinates"
+msgstr "Koordinatat"
+
+msgid "Coordinates:"
+msgstr "Koordinatat:"
+
+msgid "Copied"
+msgstr "Kopjuar"
+
+msgid "Copy"
+msgstr "Kopjo"
+
+msgid "Copy Link"
+msgstr "Kopjo Lidhjen"
+
+msgid "Copy Selected to Clipboard"
+msgstr "Kopjo të Përzgjedhurën në Memorie"
+
+msgid "Copy URL"
+msgstr "Kopjo URL"
+
+msgid "Copy UserId to Clipboard"
+msgstr "Kopjo UserId në Memorie"
+
+msgid "Copy to Clipboard"
+msgstr "Kopjo në Memorie"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Nuk mund të lidhet me serverin, ju lutem provoni përsëri më vonë :("
+
+msgid "Could not load captcha"
+msgstr "Nuk mund të ngarkohej captcha"
+
+msgid "Couldn't set Pixel"
+msgstr "Nuk mund të vendosej Pikseli"
+
+msgid "Countries Today"
+msgstr "Shtetet Sot"
+
+msgid "Country"
+msgstr "Shteti"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "Krediti për Paletën e kanavacës 2bit shkon tek ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Krediti për Paletën e Hënës shkon tek ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Krediti për Paletën e kanavacës Top10 shkon tek ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr "Ndryshimet Aktuale të Kohës se Pritjes për Shtet"
+
+msgid "Custom Cursor"
+msgstr "Kursori i Personalizuar"
+
+msgid "DM"
+msgstr "DM"
+
+msgid "Daily Pixels per Country"
+msgstr "Pikselët Ditorë për Shtet"
+
+msgid "Daily Pixels per Player"
+msgstr "Pikselët Ditorë për Lojtar"
+
+msgid "Daily Rank"
+msgstr "Renditja Ditore"
+
+msgid "Date of Award"
+msgstr "Data e dhënies së Çmimit"
+
+msgid "Date of catch"
+msgstr "Data e kapjes"
+
+msgid "Delete"
+msgstr "Fshij"
+
+msgid "Delete Account"
+msgstr "Fshij llogarinë"
+
+msgid "Deny"
+msgstr "Refuzo"
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Nuk u mor asnjë përgjigje nga pixuniverse. Provoni të rifreskoni nëse ky "
+"problem vazhdon."
+
+msgid "Dimensions"
+msgstr "Përmasat"
+
+msgid "Disable Game Sounds"
+msgstr "Çaktivizo Tingujt e Lojës"
+
+msgid "Disable History Pencil"
+msgstr "Çaktivizo Lapsin e Historisë"
+
+msgid "Disable Overlay Pencil"
+msgstr "Çaktivizo Lapsin e Mbivendosjes"
+
+msgid "Disable Pencil"
+msgstr "Çaktivizo Lapsin"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "Shfaq paletën në një formë kompakte që zë më pak hapësirë në ekran."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Bëni gjëra me IP (një IP për rresht)"
+
+msgid "Don't remember"
+msgstr "Mos mbaj mend"
+
+msgid "Don't show me in global stats"
+msgstr "Mos më shfaq në statistikat globale"
+
+msgid "Download Template"
+msgstr "Shkarko Shabllonin"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"Tërhiqni ${ mouseSymbol } mausin ose ${ touchSymbol } gishtin për të lëvizur"
+
+msgid "Duration"
+msgstr "Kohëzgjatja"
+
+msgid "Easter Egg OFF"
+msgstr "Veza e Pashkëve OFF"
+
+msgid "Easter Egg ON"
+msgstr "Vezë e Pashkëve ON"
+
+msgid "Edit"
+msgstr "Redakto"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email can't be empty."
+msgstr "Email nuk mund të jetë bosh."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Email nuk mund të jetë më i gjatë se 40 karaktere."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+"Email përdoret për të verifikuar llogarinë tuaj. Ju mund të merrni një email "
+"verifikimi pas regjistrimit."
+
+msgid "Email should at least contain a dot"
+msgstr "Email duhet të përmbajë të paktën një pikë"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Email duhet të jetë të paktën 5 karaktere i gjatë."
+
+msgid "Email should contain a @"
+msgstr "Email duhet të përmbajë një @"
+
+msgid "Enable Overlay"
+msgstr "Aktivizo Mbivendosjen"
+
+msgid "Enable Pencil"
+msgstr "Aktivizo Lapsin"
+
+msgid "Enable chat notifications"
+msgstr "Aktivizo njoftimet e bisedës"
+
+msgid "Enter Characters"
+msgstr "Shkruaj Karakteret"
+
+msgid "Enter Reason"
+msgstr "Shkruaj Arsyen"
+
+msgid "Enter UserName of new Mod"
+msgstr "Fut UserName të Moderatorit të ri"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr ""
+"Shkruaj adresën tënde të postës dhe ne do t'ju dërgojmë një fjalëkalim të ri:"
+
+msgid "Error"
+msgstr "Gabim"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Gabim ${ retCode }"
+
+msgid "Error :("
+msgstr "Gabim :("
+
+msgid "Expand"
+msgstr "Zgjero"
+
+msgid "Export enabled templates"
+msgstr "Eksporto shabllonet aktive"
+
+msgid "Factor"
+msgstr "Faktori"
+
+msgid "File"
+msgstr "Skedar"
+
+msgid "Fish Display"
+msgstr "Shfaqja e Peshqve"
+
+msgid "For"
+msgstr "Për"
+
+msgid "For Developers"
+msgstr "Për Zhvilluesit"
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+"Për çfarëdo çështje ligjore, ju lutemi kontaktoni ${ mailLink }. Nëse "
+"dëshironi të fshini të dhënat tuaja, thjesht fshini llogarinë tuaj, kjo në "
+"fakt fshin të gjitha gjurmët e lidhura me privatësinë. Pikselet tuaja të "
+"vendosura sigurisht që nuk do të fshihen."
+
+msgid "For one day"
+msgstr "Për një ditë"
+
+msgid "For one month"
+msgstr "Për një muaj"
+
+msgid "For one week"
+msgstr "Për një javë"
+
+msgid "For one year"
+msgstr "Për një vit"
+
+msgid "For when you are playing on a potato."
+msgstr "Kur je duke luajtur në një patate."
+
+msgid "Forever"
+msgstr "Përgjithmonë"
+
+msgid "From History"
+msgstr "Nga Historia"
+
+msgid "From Template"
+msgstr "Nga Shablloni"
+
+msgid "Get IID"
+msgstr "Merr IID"
+
+msgid "Get Pixels"
+msgstr "Merr Pikselët"
+
+msgid "Get Users"
+msgstr "Merr Përdoruesit"
+
+msgid "Get email address"
+msgstr "Merr adresën email"
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr "Të marrë sasinë e Pikselëve të vendosur dhe renditjen"
+
+msgid "Globe View"
+msgstr "Pamja e Globit"
+
+msgid "Go to"
+msgstr "Shko"
+
+msgid "Grant"
+msgstr "Prano"
+
+msgid "Grid OFF"
+msgstr "Rrjeta OFF"
+
+msgid "Grid ON"
+msgstr "Rrjeta ON"
+
+msgid "Have fun!"
+msgstr "Argëtohuni!"
+
+msgid "Height"
+msgstr "Lartësia"
+
+msgid "Help"
+msgstr "Ndihmë"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Këtu ne mbledhim kanavacat e hequra për t'i arkivuar ato siç duhet. E cila "
+"aktualisht është vetëm një."
+
+msgid "Hide Embed"
+msgstr "Fshih Embed"
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Nivelet më të larta të zmadhimit kërkojnë pak kohë për t'u përditësuar, "
+"globi 3D përditësohet të paktën një herë në ditë."
+
+msgid "Historical View"
+msgstr "Pamje Historike"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"Mbaj ${ bindShift } e majtë për laps (për të vendosur ndërsa lëviz mausin)"
+
+msgid "How pixuniverse should look like."
+msgstr "Si duhet të duket pixuniverse."
+
+msgid "I forgot my Password."
+msgstr "Kam harruar Fjalëkalimin tim."
+
+msgid "IID (optional)"
+msgstr "IID (opsionale)"
+
+msgid "IID Actions"
+msgstr "Veprimet IID"
+
+msgid "IP Actions"
+msgstr "Veprimet IP"
+
+msgid "Identifiers"
+msgstr "Identifikuesit"
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+"Nëse jeni zbuluar si proxy, por nuk jeni duke përdorur një, ose mendoni se "
+"jeni përjashtuar gabimisht, ju lutemi shkoni tek ${ guildedLink } ynë ose na "
+"dërgoni një email në ${ mailLink } dhe, në rast të përjashtimit, përfshini "
+"BID që keni marrë në mesazhin e përjashtimit."
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+"Nëse flisni me moderatorët ose administratorët, mund t'ju kërkohet një nga "
+"identifikuesit e mëposhtëm:"
+
+msgid "Image Converter"
+msgstr "Konvertuesi i imazhit"
+
+msgid "Image Upload"
+msgstr "Ngarkimi i imazhit"
+
+msgid "Import templates"
+msgstr "Importo shabllone"
+
+msgid "Interval"
+msgstr "Intervali"
+
+msgid "Interval is invalid"
+msgstr "Intervali është i pavlefshëm"
+
+msgid "Invalid Canvas"
+msgstr "Kanavaca e pavlefshme"
+
+msgid "Invalid Coordinates"
+msgstr "Koordinata të pavlefshme"
+
+msgid "Invalid color selected"
+msgstr "Ngjyrë e pavlefshme e zgjedhur"
+
+msgid "Invited to Chat"
+msgstr "Të ftuar në Bisedë"
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+"Kërkon lejet e mëposhtme. Hiqni shenjën nga lejet që nuk dëshironi të "
+"pranoni:"
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+"Jannies mund të kthejnë mbrapsht dhe të mbrojnë, por jo të vëzhgojnë apo të "
+"dënojnë."
+
+msgid "Just for registered Users"
+msgstr "Vetëm për Përdoruesit e regjistruar"
+
+msgid "Just for verified Users"
+msgstr "Vetëm për Përdoruesit e verifikuar"
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Vetëm Top10 e ditës së djeshme mund të vendosin këtu"
+
+msgid "Keep Ratio"
+msgstr "Mbaj Raportin"
+
+msgid "Know that an account exists"
+msgstr "Të dijë që një llogari ekziston"
+
+msgid "Legal Requests"
+msgstr "Kërkesat Ligjore"
+
+msgid "Light Grid"
+msgstr "Rrjeta e Çelur"
+
+msgid "Load Captcha"
+msgstr "Ngarko Captcha-n"
+
+msgid "Loading"
+msgstr "Duke ngarkuar"
+
+msgid "Loading..."
+msgstr "Duke ngarkuar…"
+
+msgid "Log out"
+msgstr "Dil"
+
+msgid "Log out a Session:"
+msgstr "Dil nga një Seancë:"
+
+msgid "LogIn"
+msgstr "Identifikohu"
+
+msgid "Login Methods"
+msgstr "Metodat e Hyrjes"
+
+msgid "Login to access more features and stats."
+msgstr "Hyr për të pasur akses në më shumë veçori dhe statistika."
+
+msgid "Login to grant access to other application."
+msgstr "Hyr për t'i dhënë akses aplikacionit tjetër."
+
+msgid "Login to other application"
+msgstr "Hyr në aplikacion tjetër"
+
+msgid "Login with Name or Mail:"
+msgstr "Identifikohu me Emër apo Postë:"
+
+msgid "Make Screenshot"
+msgstr "Bëni Screenshot"
+
+msgid "Manage Moderators"
+msgstr "Menaxhoni Moderatorët"
+
+msgid "Map Data"
+msgstr "Të Dhënat e Hartës"
+
+msgid "Maximize"
+msgstr "Maksimizoni"
+
+msgid "Minimum Color Distance"
+msgstr "Distanca Minimale e Ngjyrave"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr "Moderatorët mund të aksesojnë të gjitha veglat Canvas, Watch dhe IID."
+
+msgid "Modtools"
+msgstr "Veglat e moderatorit"
+
+msgid "Move"
+msgstr "Lëviz"
+
+msgid "Mute"
+msgstr "Hesht"
+
+msgid "Muted Sound"
+msgstr "Tingull i Heshtur"
+
+msgid "Name"
+msgstr "Emri"
+
+msgid "Name can't be empty."
+msgstr "Emri nuk mund të jetë bosh."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Emri përmban karaktere të pavlefshme si @, /, \\ ose #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Emri duhet të jetë të paktën 2 karaktere i gjatë"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Emri duhet të jetë më i shkurtër se 26 karaktere"
+
+msgid "Name or Email"
+msgstr "Emri ose Email"
+
+msgid "New Mail"
+msgstr "Posta e Re"
+
+msgid "New Name"
+msgstr "Emri i Ri"
+
+msgid "New Password"
+msgstr "Fjalëkalimi i Ri"
+
+msgid "New Username"
+msgstr "Emri i Përdoruesit i Ri"
+
+msgid "No"
+msgstr "Jo"
+
+msgid "No Phish!"
+msgstr "Nuk ka Peshk!"
+
+msgid "No captcha id given"
+msgstr "Asnjë id captcha nuk është dhënë"
+
+msgid "No or invalid captcha text"
+msgstr "Asnjë captcha ose tekst i pavlefshëm"
+
+msgid "No password given."
+msgstr "Nuk është dhënë asnjë fjalëkalim."
+
+msgid "Not allowed"
+msgstr "Nuk lejohet"
+
+msgid "OIDC LogIn"
+msgstr "Hyrje OIDC"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Offset"
+msgstr "Zhvendosje"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr "Oh jo, peshku të shpëtoi. Fat më të mirë herën tjetër!"
+
+msgid "Old Password"
+msgstr "Fjalëkalimi i Vjetër"
+
+msgid "Online Users"
+msgstr "Përdoruesit Online"
+
+msgid "Online Users on Canvas"
+msgstr "Përdoruesit Online në Kanavacë"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr "Vetëm Përdoruesit e verifikuar aktualisht lejohen të luajnë."
+
+msgid "Opacity of Overlay in percent."
+msgstr "Tejdukshmëria e Mbivendosjes në përqindje."
+
+msgid "Open Chat"
+msgstr "Hap Bisedën"
+
+msgid "Open Menu"
+msgstr "Hap Menunë"
+
+msgid "Open Palette"
+msgstr "Hap Paletën"
+
+msgid "Open in PopUp"
+msgstr "Hap në PopUp"
+
+msgid "OpenID Connect Client registration"
+msgstr "Regjistrimi OpenID Connect Client"
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Kanavaca jonë kryesore është një hartë e madhe e botës, mund të vendosni "
+"kudo që dëshironi, por do të duhet të prisni një kohë pritjeje specifike "
+"midis pikselëve. Ju mund të shikoni kohën e pritjes dhe kërkesat në menunë e "
+"Përzgjedhjes së Kanavacës (butoni i globit në krye). Disa prej kanavacave "
+"kanë një kohë pritjeje të ndryshme për zëvendësimin e pikselëve të vendosur "
+"nga përdoruesi sesa vendosjen në një piksel të pacaktuar, dmth. 4s/7s do të "
+"thotë 4s në piksele të freskëta dhe 7s në piksele tanimë të vendosura."
+
+msgid "Overlay OFF"
+msgstr "Mbivendosja OFF"
+
+msgid "Overlay ON"
+msgstr "Mbivendosja ON"
+
+msgid "Overlay Opacity"
+msgstr "Tejdukshmëria e Mbivendosjes"
+
+msgid "Palette Download"
+msgstr "Shkarkimi i Paletës"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Paleta për ${ gimpLink }"
+
+msgid "Password"
+msgstr "Fjalëkalimi"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Fjalëkalimi duhet të jetë të paktën 6 karaktere i gjatë."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Fjalëkalimi duhet të jetë më i shkurtër se 60 karaktere."
+
+msgid "Password successfully changed."
+msgstr "Fjalëkalimi u ndryshua me sukses."
+
+msgid "Passwords do not match."
+msgstr "Fjalëkalimet nuk përputhen."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Modaliteti i Lapsit për kanavacën ${ canvasName }"
+
+msgid "Pencil picks: "
+msgstr "Zgjedhjet e lapsit: "
+
+msgid "Permission"
+msgstr "Leje"
+
+msgid "Phish!"
+msgstr "Peshk!"
+
+msgid "Phishes"
+msgstr "Peshqit"
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Pixel Notify OFF"
+msgstr "Njoftimi Pixel OFF"
+
+msgid "Pixel Notify ON"
+msgstr "Njoftimi Pixel ON"
+
+msgid "Pixel Protection"
+msgstr "Mbrojtje e Pikselit"
+
+msgid "Pixel protected"
+msgstr "Piksel i mbrojtur"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Vendos pikselë me ngjyra në një kanavacë të madhe me lojtarë të tjerë online!"
+
+msgid "Placed Pixels"
+msgstr "Piksele të Vendosura"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Luaj një tingull kur vijnë mesazhe të reja të bisedës"
+
+msgid "Player"
+msgstr "Lojtar"
+
+msgid "Players and Pixels per hour"
+msgstr "Lojtarët dhe Pikselët në orë"
+
+msgid "Please prove that you are human"
+msgstr "Ju lutem vërtetoni se jeni njeri"
+
+msgid "Please refresh the website"
+msgstr "Ju lutemi rifreskoni faqen ueb"
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+"Ju lutem verifikoni adresën tuaj të postës ose shtoni një të re, në të "
+"kundërt llogaria juaj mund të fshihet në të ardhmen."
+
+msgid "Political Compass Canvas"
+msgstr "Kanavacë e Busullës Politike"
+
+msgid "Potato Mode"
+msgstr "Modaliteti i Patates"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Shtyp ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } për të "
+"lëvizur"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Shtyp ${ bindG } për të aktivizuar/çaktivizuar rrjetën"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Shtyp ${ bindH } për të aktivizuar/çaktivizuar pamjen historike"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Shtyp ${ bindQ } dhe ${ bindE } për të fluturuar lart e poshtë"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Shtyp ${ bindQ } ose ${ bindE } për të zmadhuar/minimizuar"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Shtyp ${ bindR } për të kopjuar koordinatat"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Shtyp ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } për të lëvizur"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr ""
+"Shtyp ${ bindX } për të aktivizuar/çaktivizuar tregimin e aktivitetit të "
+"pikselit"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Profile"
+msgstr "Profili"
+
+msgid "Quick Actions"
+msgstr "Veprimet e Shpejta"
+
+msgid "Range Banned"
+msgstr "Kufiri i Dënuar"
+
+msgid "Ranked"
+msgstr "Me renditje"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Renditja përditësohet çdo 5 min. Renditjet ditore rivendosen në mesnatë UTC."
+
+msgid "Read Badges and fishes"
+msgstr "Lexo Stemat dhe peshqit"
+
+msgid "Read name, username and account age"
+msgstr "Lexo emrin, emrin e përdoruesit dhe moshën e llogarisë"
+
+msgid "Reason"
+msgstr "Arsyeja"
+
+msgid "Refresh"
+msgstr "Rifreskoni"
+
+msgid "Register"
+msgstr "Regjistrohu"
+
+msgid "Register new account here"
+msgstr "Regjistro llogari të re këtu"
+
+msgid "Regularly update this data"
+msgstr "Përditëso këto të dhëna rregullisht"
+
+msgid "Reload"
+msgstr "Rifresko"
+
+msgid "Remember this decision: "
+msgstr "Mbani mend këtë zgjedhje: "
+
+msgid "Remove"
+msgstr "Hiq"
+
+msgid "Remove Cleaner"
+msgstr "Hiq Pastruesit"
+
+msgid "Remove Janny"
+msgstr "Hiq Janny"
+
+msgid "Remove Moderator"
+msgstr "Hiq Moderatorin"
+
+msgid "Remove a Login method:"
+msgstr "Hiq një metodë Hyrjeje:"
+
+msgid "Require Verification to Place"
+msgstr "Kërkon Verifikim për të Vendosur"
+
+msgid "Requirements"
+msgstr "Kërkesat"
+
+msgid "Reset"
+msgstr "Rivendos"
+
+msgid "Reset Captchas of ALL Users"
+msgstr "Rivendos Captcha të të GJITHË Përdoruesve"
+
+msgid "Reset your password"
+msgstr "Rivendos fjalëkalimin tënd"
+
+msgid "Resize"
+msgstr "Ndryshoni madhësinë"
+
+msgid "Restore"
+msgstr "Restauro"
+
+msgid "Retired Canvases (history only)"
+msgstr "Kanavacat në Pension (vetëm histori)"
+
+msgid "Retract"
+msgstr "Tërhiq"
+
+msgid "Revoke consent of third party applications:"
+msgstr "Hiq autorizimin e aplikacioneve të palëve të treta:"
+
+msgid "Roll different Captcha Fonts"
+msgstr "Rrotulloni Shkronja të ndryshme Captcha"
+
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "Riktheni një zonë të kanavacës në një datë dhe kohë të caktuar"
+
+msgid "Rollback to Date"
+msgstr "Rikthimi në Datë"
+
+msgid "Save"
+msgstr "Ruaj"
+
+msgid "Scale Image"
+msgstr "Shkallëzo Imazhin"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Lëviz ${ mouseSymbol } rrotën e mausit ose ${ touchSymbol } shtypni për të "
+"zmadhuar"
+
+msgid "Select Date above"
+msgstr "Zgjidhni Datën më lart"
+
+msgid "Select File"
+msgstr "Zgjidhni Skedarin"
+
+msgid "Select Language"
+msgstr "Zgjidhni Gjuhën"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Zgjidhni kanavacën që dëshironi të përdorni.\n"
+"Çdo kanavacë është e veçantë dhe ka paleta, kohë pritjeje dhe kërkesa të "
+"ndryshme.\n"
+"Kanavacat e arkivuara mund të aksesohen këtu:"
+
+msgid "Selected Color"
+msgstr "Ngjyra e Zgjedhur"
+
+msgid "Send"
+msgstr "Dërgo"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr "Ju dërguam një postë me udhëzime për të rivendosur fjalëkalimin tuaj."
+
+msgid "Serpentine"
+msgstr "Serpentin"
+
+msgid "Server answered with gibberish :("
+msgstr "Serveri dha një përgjigje të pakuptimtë :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr "Serveri u hutua nga pikselët tuaja. A po luani në disa pajisje?"
+
+msgid "Set Password"
+msgstr "Vendos Fjalëkalimin"
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Vendos mbrojtjen e zonave (nëse keni nevojë për kontroll më të hollësishëm, "
+"përdorni mbrojtjen me ngarkimin e imazhit dhe shtresat alfa)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+"Vendosja e një fjalëkalimi ju lejon të identifikoheni me emër përdoruesi ose "
+"email, në vend që të mbështeteni vetëm në hyrjen e palës së 3-të."
+
+msgid "Settings"
+msgstr "Cilësimet"
+
+msgid "Show Embedded"
+msgstr "Trego Embedded"
+
+msgid "Show Grid"
+msgstr "Trego Rrjetën"
+
+msgid "Show Grid in white instead of black."
+msgstr "Shfaq Rrjetën në të bardhë në vend të zezës."
+
+msgid "Show Pixel Activity"
+msgstr "Trego Aktivitetin e Pikselit"
+
+msgid "Show circles where pixels are placed."
+msgstr "Trego qarqe aty ku vendosen pikselët."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"Shfaq mbivendosjen si piksele të vegjël individuale në nivele të larta të "
+"zmadhimit."
+
+msgid "Show templates as overlays ingame."
+msgstr "Shfaq shabllonet si mbivendosje në lojë."
+
+msgid "Size"
+msgstr "Madhësia"
+
+msgid "Small Pixels When Zoomed"
+msgstr "Piksele të Vegjël kur është Zmadhuar"
+
+msgid "Social Settings"
+msgstr "Cilësimet Sociale"
+
+msgid "Source for pixuniverse on "
+msgstr "Burimi për pixuniverse në "
+
+msgid "Stacking till"
+msgstr "Grumbullim deri në"
+
+msgid "Start chatting here"
+msgstr "Fillo të bisedosh këtu"
+
+msgid "Start checking for Malware"
+msgstr "Fillo të kontrollosh për Malware"
+
+msgid "Statistics"
+msgstr "Statistikat"
+
+msgid "Status: Not running"
+msgstr "Statusi: Nuk është duke u ekzekutuar"
+
+msgid "Stay logged in: "
+msgstr "Qëndro i kyçur: "
+
+msgid "Stop Cleaner"
+msgstr "Ndalo Pastruesin"
+
+msgid "Stop checking for Malware"
+msgstr "Ndalo kontrollin për Malware"
+
+msgid "Stop requiring Verification to Place"
+msgstr "Ndalo kërkesën e Verifikimit për të Vendosur"
+
+msgid "Submit"
+msgstr "Paraqisni"
+
+msgid "Switch Account"
+msgstr "Ndërroni Llogarinë"
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "U kalua në ${ canvasName }"
+
+msgid "Template Name"
+msgstr "Emri i Shabllonit"
+
+msgid "Templates"
+msgstr "Shabllonet"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+"Aplikacioni ${ appName } në ${ appUrl } dëshiron të kyçet me llogarinë tuaj "
+"pixuniverse ${ accountName }"
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Të dhënat e paprekura të hartave që ne përdorim, së bashku me pllakat e "
+"konvertuara OpenStreetMap për orientim, mund të shkarkohen nga mega.nz këtu: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+"Emri i llogarisë suaj, lejohen vetëm karakteret a-z, A-Z, -, ., dhe _. Është "
+"e përhershme, nuk mund ta ndryshoni më vonë."
+
+msgid "Themes"
+msgstr "Temat"
+
+msgid "This URL is not supported by our Media Player"
+msgstr "Ky URL nuk mbështetet nga Media Player-i jonë"
+
+msgid "This canvas doesn't exist"
+msgstr "Kjo kanavacë nuk ekziston"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Kjo kanavacë u kërkua gjatë një kohe të konflikteve politike në kanavacën "
+"kryesore të Tokës. Ishte një përfaqësim 1024x1024 i busullës politike me një "
+"kohë pritjeje 5s dhe grumbullim 60s. Ajo u lançua më 11 maj dhe mbeti aktiv "
+"për muaj të tërë derisa u mbyll më 30 nëntor."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+"Ky është emri që njerëzit e tjerë shohin, p.sh. në Bisedë. Ju mund ta "
+"ndryshoni atë në çdo kohë. Të gjitha karakteret përveç @, /, \\, >, < dhe # "
+"janë të lejuara."
+
+msgid "This permission is required"
+msgstr "Kjo leje është e detyrueshme"
+
+msgid "Timeout"
+msgstr "Vonesë"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr ""
+"Këshillë: Nuk ka rëndësi kapitalizimi i shkronjave; I dhe l janë të njëjta"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"I lodhur nga spërkatja gjithmonë e një ngjyrë e vetme? Dëshiron të krijosh "
+"art, por duhet të numërosh piksele nga ndonjë imazh tjetër? Shabllonet mund "
+"t'ju ndihmojnë me këtë! Shabllonet mund të shfaqen si mbivendosje dhe ju "
+"mund të vizatoni mbi to. Një piksel në shabllon, duhet të jetë një piksel në "
+"kanavacë."
+
+msgid "To use this page, enter your Password:"
+msgstr "Për të përdorur këtë faqe, futni Fjalëkalimin tuaj:"
+
+msgid "Today"
+msgstr "Sot"
+
+msgid "Today Placed Pixels"
+msgstr "Pikselë të Vendosur Sot"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Top 10 Shtetet [pxls / ditë]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Renditja Ditore e Top 10"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Top 10 Lojtarët [pxls / ditë]"
+
+msgid "Top 10 Players from Yesterday"
+msgstr "Top 10 Lojtarët e Djeshëm"
+
+msgid "Top-left corner"
+msgstr "Këndi i lartë i majtë"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Online Users"
+msgstr "Përdoruesit Online Gjithsej"
+
+msgid "Total Pixels per Player"
+msgstr "Pikselët për Lojtar Gjithsej"
+
+msgid "Total Pixels placed per day"
+msgstr "Pikselë të vendosur në ditë Gjithsej"
+
+msgid "Total Rank"
+msgstr "Renditja Totale"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"Kthejeni çdo piksel në zonë në 0 (VËRTET NUK DUHET TA BËNI KËTË NË ASNJË "
+"ZONË QË NUK ËSHTË TANIMË KRYESISHT 0)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Aktivizo rrjetën për të theksuar kufijtë e pikselëve."
+
+msgid "Type of Mod"
+msgstr "Lloji i Moderatorit"
+
+msgid "Type the characters from the following image:"
+msgstr "Shkruani karakteret nga imazhi i mëposhtëm:"
+
+msgid "Unblock Users"
+msgstr "Zhbllokoni Përdoruesit"
+
+msgid "Unknown Captcha Error"
+msgstr "Gabim i Panjohur Captcha"
+
+msgid "Unknown Error"
+msgstr "Gabim i Panjohur"
+
+msgid "Unmuted Sound"
+msgstr "Tingull i Paheshtur"
+
+msgid "Until the browser closes"
+msgstr "Derisa shfletuesi të mbyllet"
+
+msgid "Upload images to canvas"
+msgstr "Ngarko imazhe në kanavacë"
+
+msgid "Use our custom cursor"
+msgstr "Përdorni kursorin tonë të personalizuar"
+
+msgid "User"
+msgstr "Përdoruesi"
+
+msgid "User Account"
+msgstr "Llogari Përdoruesi"
+
+msgid "User Area"
+msgstr "Zona e Përdoruesit"
+
+msgid "User ID and verification level"
+msgstr "User ID dhe niveli i verifikimit"
+
+msgid "User Name"
+msgstr "Emri i Përdoruesit"
+
+msgid "Username"
+msgstr "Emri i përdoruesit"
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr "Emri i përdoruesit mund të përmbajë vetëm karakteret: a-z . _ dhe -"
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+"Emri i përdoruesit mund të përmbajë vetëm karakteret: a-z A-Z . _ dhe -"
+
+msgid "Username can't be empty."
+msgstr "Emri i përdoruesit nuk mund të jetë bosh."
+
+msgid "Username must be at least 2 characters long"
+msgstr "Emri i përdoruesit duhet të jetë të paktën 2 karaktere i gjatë"
+
+msgid "Username must be shorter than 26 characters"
+msgstr "Emri i përdoruesit duhet të jetë më i shkurtër se 26 karaktere"
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr "Ne jemi Softuer Libre nën ${ agplLink }, "
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Ne vendosëm ta arkivojmë atë si një timelapse me webm të koduar pa humbje. "
+"Marrja e një screenshot nga timelapse-i rezulton në një përfaqësim të "
+"përsosur 1:1 të mënyrës se si ishte kanavaca në atë kohë."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Falenderojmë artistët e mëposhtëm, të cilët i bënë paletat e tyre në "
+"dispozicion të publikut në"
+
+msgid "Weird"
+msgstr "Çudi"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr "Çfarë duhet të vizatojë lapsi në kanavacën aktuale."
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Ndërsa ne priremi të mos fshijmë kanavacat, disa kanavacë fillojnë për "
+"argëtim ose si kërkesë nga përdoruesit që pëlqejnë një meme aktualisht të "
+"njohur. Këto kanavaca mund të bëhen të mërzitshme dhe joaktive pas një kohe, "
+"deri në pikën ku nuk ka arsye për t'i mbajtur ato dhe ne mund të vendosim "
+"t'i heqim ato."
+
+msgid "Why?"
+msgstr "Pse?"
+
+msgid "Width"
+msgstr "Gjerësi"
+
+msgid "Wrong Color"
+msgstr "Ngjyra e Gabuar"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr "JU MUND TË ZGJIDHNI EMRIN TUAJ TË PËRDORUESIT VETËM NJË HERË!"
+
+msgid "Yes"
+msgstr "Po"
+
+msgid "Yes, Delete My Account!"
+msgstr "Po, Fshij Llogarinë Time!"
+
+msgid "Yesterday"
+msgstr "Dje"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+"Jeni një mësues dhe një nxënës e luan këtë lojë, pavarësisht se nuk është e "
+"përshtatshme për të? Na dërgoni një email."
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+"Jeni të përjashtuar. Mendoni se është e pajustifikuar? Shikoni seksionin $"
+"{ helpButton } për të parë se si të apeloni. Dhe mos harroni të përfshini "
+"BID që mund të merrni më poshtë."
+
+msgid "You are currently not allowed to access this game."
+msgstr "Ju nuk mund të aksesoni këtë lojë për momentin."
+
+msgid "You are not allowed to play this game right now :("
+msgstr "Ju nuk mund të luani këtë lojë tani :("
+
+msgid "You are using a Proxy."
+msgstr "Ju jeni duke përdorur një Proxy."
+
+msgid "You are weird"
+msgstr "Ti je i çuditshëm"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+"Ju mund të lidheni me pixuniverse dhe të përdorni llogari pixuniverse për "
+"kyçje oauth / oidc. Shiko këtu:"
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"Ju nuk mund të hyni akoma në këtë kanavacë, sepse niveli juaj i pikselëve "
+"është shumë i ulët"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Tani mund të vendosni më shumë në pixunivers.fun :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+"Keni kapur një Peshk! Është një ${ FISH_TYPES[type].name } me ${ size }kg! "
+"Si një bonus, koha juaj e pritjes përgjysmohet."
+
+msgid "You did not consent"
+msgstr "Ju nuk pranuat"
+
+msgid "You failed your captcha"
+msgstr "Ju keni dështuar captcha-n tuaj"
+
+msgid "You have new messages in chat"
+msgstr "Ju keni mesazhe të reja në bisedë"
+
+msgid "You have no users blocked"
+msgstr "Ju nuk keni përdorues të bllokuar"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Ju duhet të jeni të regjistruar për të vendosur në këtë kanavacë"
+
+msgid "You made too many requests"
+msgstr "Ju keni bërë shumë kërkesa"
+
+msgid "You must be logged in to chat"
+msgstr "Ju duhet të jeni të regjistruar për të biseduar"
+
+msgid "You must enter a UserId"
+msgstr "Ju duhet të futni një UserId"
+
+msgid "You must enter a duration"
+msgstr "Ju duhet të futni një kohëzgjatje"
+
+msgid "You must enter a reason"
+msgstr "Ju duhet të shkruani një arsye"
+
+msgid "You must enter a username"
+msgstr "Ju duhet të futni një emër përdoruesi"
+
+msgid "You must enter an BID"
+msgstr "Ju duhet të futni një BID"
+
+msgid "You must enter an IID"
+msgstr "Ju duhet të futni një IID"
+
+msgid "You must enter an IID or UserId"
+msgstr "Ju duhet të futni një IID apo UserId"
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr "Ju duhet të futni të paktën një IID, User Id apo BID"
+
+msgid "You took too long, try again."
+msgstr "U vonuat shumë, provoni përsëri."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Shfletuesi juaj nuk na lejon të përdorim AudioContext për të luajtur tinguj. "
+"A keni ndonjë veçori privatësie që na bllokon?"
+
+msgid "Your Browser looks shady"
+msgstr "Shfletuesi juaj duket i dyshimtë"
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Ofruesi juaj i Internetit është i përjashtuar nga kjo lojë"
+
+msgid "Your ban expires at "
+msgstr "Përjashtimi juaj skadon në "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+"Ju nuk keni vendosur emrin tuaj të përdoruesit. Një emër përdoruesi "
+"nevojitet për t'u kyçur në aplikacione të tjera. Ju mund ta vendosni atë "
+"tani:"
+
+msgid "Your name is:"
+msgstr "Emri juaj është:"
+
+msgid "Your next pixels are ready"
+msgstr "Pikselët tuaj të ardhshëm janë gati"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Zmadho në vend që të vendosësh një pixel kur prekni kanavacën dhe zmadhimi "
+"juaj është i vogël."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "dhe ${ canvas.req } Piksele të vendosura"
+
+msgid "check compliance here"
+msgstr "kontrolloni pajtueshmërinë këtu"
+
+msgid "mentioned you"
+msgstr "ju përmendi"
+
+msgid "or login with:"
+msgstr "ose identifikohuni me:"
+
+msgid "or register here:"
+msgstr "ose regjistrohuni këtu:"
+
+msgid "recommended"
+msgstr "rekomandohet"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "provo përsëri pas ${ ti } min"
+
+msgid "x out of bounds"
+msgstr "x jashtë kufijve"
+
+msgid "y out of bounds"
+msgstr "y jashtë kufijve"
+
+msgid "z out of bounds"
+msgstr "z jashtë kufijve"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "B"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "Popup"
+
+#~ msgid ""
+#~ " on how to appeal. And don't forget to include the BID you can get below."
+#~ msgstr ""
+#~ " Për mënyrën se si të apeloni. Dhe mos harroni të përfshini BID që mund "
+#~ "të merrni më poshtë."
+
+#~ msgid "BID"
+#~ msgstr "Ofertë"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Ju jeni të ndaluar. Mendoni se është e pajustifikuar? Shikoni "
+
+#~ msgid "Registration"
+#~ msgstr "Regjistrimi"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Harruar fjalëkalimin"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Merrni parasysh bashkimin me ne në Guilded:"
+
+#~ msgid "Userame can't be empty."
+#~ msgstr "Emri i përdoruesit nuk mund të jetë bosh."
+
+#~ msgid "Userame must be at least 2 characters long"
+#~ msgstr "Emri i përdoruesit duhet të jetë së paku 2 karaktere i gjatë"
+
+#~ msgid "Userame must be shorter than 26 characters"
+#~ msgstr "Emri i përdoruesit duhet të jetë më i shkurtër se 26 karaktere"
+
+#~ msgid "There are no mods"
+#~ msgstr "Nuk ka modifikime"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Ju lutemi verifikoni adresën tuaj të postës ose llogaria juaj mund të "
+#~ "fshihet pas disa ditësh."
+
+#~ msgid "...loading Login methods..."
+#~ msgstr "... duke ngarkuar metodat e hyrjes..."
+
+#~ msgid "Give Everyone A Fish"
+#~ msgstr "Jepini të gjithëve një peshk"

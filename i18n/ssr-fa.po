@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-10-29 16:40+0000\n"
+"Last-Translator: IR Führer <ir_fuhrer@noreply.pixunivers.fun>\n"
+"Language-Team: Persian <https://translate.gs-os.com/projects/ppfun/server/fa/"
+">\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid "1bit"
+msgstr "یک بیت"
+
+msgid "2bit"
+msgstr "2بیت"
+
+msgid "3D Canvas"
+msgstr "بوم سه بعدی"
+
+msgid "A 3D globe of our whole map"
+msgstr "یک کره سه بعدی از کل نقشه ما"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"بوم برای فعال ترین بازیکنان روز قبل. به روز رسانی رتبه بندی روزانه در ساعت "
+"00:00 UTC."
+
+msgid "Access modtools"
+msgstr "دسترسی به ابزار های مادریتوری"
+
+msgid "Add Application"
+msgstr "اضافه کردن برنامه"
+
+msgid "Add an Application (OIDC Client)"
+msgstr "اضافه کردن برنامه(دومرحله ای)"
+
+msgid "Add new application"
+msgstr "برنامه ی جدید"
+
+msgid "An error occured. Please try again later."
+msgstr "خطایی رخ داده است. لطفاً بعداً دوباره امتحان کنید."
+
+msgid "Application changed successfully"
+msgstr "برنامه با موفقیت تغییر کرد"
+
+msgid "Application deleted"
+msgstr "برنامه حذف شد"
+
+msgid "Application successfully added"
+msgstr "برنامه با موفقیت اضافه شد"
+
+msgid "Black and White canvas"
+msgstr "بوم سیاه و سفید"
+
+msgid "Can not chat while being banned"
+msgstr "تا زمانی که بن هستی نمیتونی چت کنی"
+
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+msgid "Click to Verify"
+msgstr "برای تایید کلیک کنید"
+
+msgid "Client Name"
+msgstr "اسم مشتری"
+
+msgid "Confirm New Password"
+msgstr "رمز عبور جدید را تأیید کنید"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"زمینی کوچک‌تر با اقیانوسی محافظت‌شده رو فتح کنین. تایم کولد داون با دنیای اصلی "
+"به اشتراک گزاشته میشه!"
+
+msgid "Consent"
+msgstr "رضایت"
+
+msgid "Coronavirus"
+msgstr "ویروس کرونا"
+
+msgid "Could not close this Session."
+msgstr "نتوانستیم این جلسه را ببندیم."
+
+msgid "Could not find this login method"
+msgstr "این روش ورود به سیستم پیدا نشد"
+
+msgid "Couldn't find this mail in our database"
+msgstr "این ایمیل در پایگاه داده ما یافت نشد"
+
+msgid "Default"
+msgstr "پیشفرض"
+
+msgid "Delete Application"
+msgstr "حذف برنامه"
+
+msgid "Display name for your OIDC client"
+msgstr "نام نمایشی برای کلاینت دو مرحله ای شما"
+
+msgid "Double click on globe to go back."
+msgstr "برای بازگشت بر روی globe دوبار کلیک کنید."
+
+msgid "E-Mail already in use."
+msgstr "ایمیل در حال حاضر در حال استفاده است."
+
+msgid "Earth"
+msgstr "زمین"
+
+msgid "Edit existing applications"
+msgstr "ویرایش برنامه‌های موجود"
+
+msgid "Email can't be empty."
+msgstr "ایمیل نمی تواند خالی باشد."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "ایمیل نمی تواند بیشتر از 40 کاراکتر باشد."
+
+msgid "Email should at least contain a dot"
+msgstr "ایمیل حداقل باید حاوی یک نقطه باشد"
+
+msgid "Email should be at least 5 characters long."
+msgstr "ایمیل باید حداقل 5 کاراکتر باشد."
+
+msgid "Email should contain a @"
+msgstr "ایمیل باید حاوی @ باشد"
+
+msgid "Error"
+msgstr "خطا"
+
+msgid "Failed to create a new user :("
+msgstr "ایجاد کاربر جدید ناموفق بود :("
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+
+msgid "Get email address"
+msgstr "دریافت آدرس ایمیل"
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr "تعداد پیکسل‌های قرار داده شده و رتبه‌بندی را دریافت کنید"
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr "لذت ببرید و در صورت بروز هرگونه مشکل با ما در ارتباط باشید :)"
+
+msgid "Hello"
+msgstr "سلام"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr "سلام ${ email }، می‌توانید رمز عبور جدید خود را اینجا تنظیم کنید:"
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "سلام ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+"اگر این شما بودید، لطفاً این ایمیل را نادیده بگیرید. اگر شما نبودید، لطفاً به "
+"<a href=\"https://pixunivers.fun\">pixunivers.fun</a> بروید و در قسمت "
+"«روش‌های ورود» در ناحیه کاربری، هر جلسه‌ای را که از آن بی‌اطلاع هستید، از سیستم "
+"خارج شوید و رمز عبور خود را تغییر دهید."
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"اگر شما این نامه را درخواست نکردید، لطفاً آن را نادیده بگیرید (IP درخواست "
+"کننده این نامه ${ ip } بود)."
+
+msgid "Incorrect password!"
+msgstr "رمزت رو غلط وارد کردی!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "آدرس اینترنتی نامعتبر :( لطفا دوباره ایمیل خود را بررسی کنید."
+
+msgid "Just admins can do that"
+msgstr "فقط ادمین ها میتونن این کار رو بکنن"
+
+msgid "Know that an account exists"
+msgstr "بدانید که یک حساب کاربری وجود دارد"
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr ""
+
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+msgid "Login from new location on pixuniverse"
+msgstr "ورود از طریق آی‌پی جدید در پیکسل پلنت"
+
+msgid "Login is required"
+msgstr "ورود الزامی است"
+
+msgid "Mail is already in use!"
+msgstr "ایمیل از قبل در حال استفاده است!"
+
+msgid "Mail is not configured on the server"
+msgstr "ایمیل روی سرور پیکربندی نشده است"
+
+msgid "Mail verification"
+msgstr "تایید ایمیل"
+
+msgid "Minimap"
+msgstr "مینی‌مپ"
+
+msgid "Mirror of PixelCanvas"
+msgstr "آینه بوم پیکسل"
+
+msgid "Mirror of PixelZone"
+msgstr "آینه منطقه پیکسل"
+
+msgid "Moon"
+msgstr "ماه"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"بوم ماه. فضای امن برای هنر بدون پرچم یا متن بزرگ (مگر اینکه بخشی از هنر) یا "
+"هنری بزرگتر از 1.5k × 1.5k پیکسل باشد."
+
+msgid "Name already in use."
+msgstr ""
+
+msgid "Name can't be empty."
+msgstr "نام نمی تواند خالی باشد."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "نام حاوی نویسه نامعتبر مانند @، /، \\ یا # است"
+
+msgid "Name is too long"
+msgstr "نام خیلی طولانی است"
+
+msgid "Name must be at least 2 characters long"
+msgstr "نام باید حداقل 2 کاراکتر باشد"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "نام باید کمتر از 26 کاراکتر باشد"
+
+msgid "Name or Email does not exist!"
+msgstr "چنین اسم یا ایمیلی وجود ندارد!"
+
+msgid "New Password"
+msgstr "رمز عبور جدید"
+
+msgid "No Captcha given"
+msgstr "کپچا داده نشده است"
+
+msgid "No or invalid fish id."
+msgstr "شناسه ماهی وجود ندارد یا نامعتبر است."
+
+msgid "No password given."
+msgstr "رمز عبور داده نشده است."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr ""
+
+msgid "No such badge found"
+msgstr "نشان مورد نظر یافت نشد"
+
+msgid "No such fish found"
+msgstr "ماهی مورد نظر پیدا نشد"
+
+msgid "One redirect URIs per line"
+msgstr ""
+
+msgid "One redirect_uri per line"
+msgstr ""
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr ""
+
+msgid "Only four colors. Same rules as moon!"
+msgstr ""
+
+msgid "OpenID Connect specs"
+msgstr ""
+
+msgid "Or by copying following url:"
+msgstr "یا با کپی کردن آدرس زیر:"
+
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"بوم اصلی ما، نقشه عظیمی از جهان است. هر جایی که دوست دارید پیکسل بزارید!"
+
+msgid "Password must be at least 6 characters long."
+msgstr "رمز عبور باید حداقل 6 کاراکتر باشد."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "رمز عبور باید کمتر از 60 کاراکتر باشد."
+
+msgid "Password successfully changed."
+msgstr "رمز عبور با موفقیت تغییر کرد."
+
+msgid "Permission"
+msgstr "دسترسی"
+
+msgid "PixelCanvas"
+msgstr "بوم پیکسل"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "مدل کروی. بوم اصلی پیکسل پلنت"
+
+msgid "PixelZone"
+msgstr "منطقه پیکسل"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+"pixuniverse مشخصات OpenID Connect (OIDC) را برآورده می‌کند. بنابراین برنامه‌ای "
+"که از OIDC پشتیبانی می‌کند، می‌تواند با استفاده از حساب‌های pixuniverse درخواست "
+"رضایت و ورود به سیستم کند. نقاط پایانی مورد نیاز می‌توانند به صورت خودکار از "
+"طریق آدرس اینترنتی ${ wellKnownUrl } کشف شوند."
+
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Voxels را روی بوم سه بعدی با دیگران قرار دهید"
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr "پیکسل‌های رنگی را روی بوم طرح‌دار نقشه با دیگر بازیکنان آنلاین قرار دهید"
+
+msgid "Please refresh the website"
+msgstr "لطفا سایت رو رفرش کنید"
+
+msgid "Please try again."
+msgstr "لطفا دوباره تلاش کنید."
+
+msgid "Please use int channel"
+msgstr "لطفا از کانال int استفاده کنید"
+
+msgid "Read Badges and fishes"
+msgstr "نشان‌ها و ماهی‌ها رو ببینید"
+
+msgid "Read name, username and account age"
+msgstr "دیدن نام، نام کاربری و سن حساب کاربری"
+
+msgid "Redirect URIs"
+msgstr "لینک های مرجوعی"
+
+msgid "Regularly update this data"
+msgstr "مرتباً این اطلاعات رو به‌روزرسانی کنید"
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "بازنشانی رمز عبور"
+
+msgid "Reset your password here"
+msgstr "رمز عبور خود را در اینجا بازنشانی کنید"
+
+msgid "Server error when deleting user."
+msgstr "خطای سرور هنگام حذف کاربر!"
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr "شخصی از یک مکان جدید با IP زیر وارد حساب کاربری شما شده است:"
+
+msgid "Space-separated list of available scopes"
+msgstr ""
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+
+msgid "Space-separated list of scopes that should be available"
+msgstr ""
+
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "یک بوم مخصوص برای آگاه سازی درمورد ویروس کرونا"
+
+msgid "Stop flooding."
+msgstr "اینقدر پیام نفرست."
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "Thanks"
+msgstr "ممنون"
+
+msgid "The user owning this badge is private"
+msgstr "کاربری که این نشان را دارد، خصوصی است"
+
+msgid "The user owning this fish is private"
+msgstr "کاربری که مالک این ماهی است، خصوصی است"
+
+msgid "This application is not allowed to login"
+msgstr "این برنامه اجازه ورود ندارد"
+
+msgid "This application redirects to an unallowed page"
+msgstr "این برنامه به یک صفحه غیرمجاز ارجاع داده می‌شود"
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+"این برنامه یک درخواست ورود به سیستم معیوب و بدون تغییر مسیر مرجوعی ارسال کرد"
+
+msgid "This application uses a PKCE method we do not support"
+msgstr "این برنامه از روش PKCE استفاده می‌کند که ما از آن پشتیبانی نمی‌کنیم."
+
+msgid "This application uses a login method we do not support"
+msgstr ""
+"این برنامه از روشی برای ورود به سیستم استفاده می‌کند که ما از آن پشتیبانی "
+"نمی‌کنیم."
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+"این ترکیب ایمیل/رمز عبور هک یا فاش شده است. برای محافظت از این حساب، رمز "
+"عبور بازنشانی شده است. لطفاً از گزینه «رمز عبور خود را فراموش کرده‌ام» در زیر "
+"برای تنظیم رمز عبور جدید استفاده کنید. در آینده در نظر بگیرید که بدافزاری "
+"نصب نکنید، متشکرم."
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+"این ترکیب ایمیل/رمز عبور هک یا فاش شده است. برای محافظت از این حساب، رمز "
+"عبور بازنشانی شده است. لطفاً از گزینه «رمز عبور خود را فراموش کرده‌ام» در "
+"پایین برای تنظیم رمز عبور جدید استفاده کنید. در آینده در نظر بگیرید که "
+"بدافزاری نصب نکنید، متشکرم."
+
+msgid "This email provider is not allowed"
+msgstr "این ارائه دهنده ایمیل مجاز نیست"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "این password-reset دیگر معتبر نیست :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr ""
+
+msgid "Top10"
+msgstr "ده نفر برتر"
+
+msgid "Unknown Captcha Error"
+msgstr "کپچا یه خطایی داده که خودمم نمیدونم چیه"
+
+msgid "Update Application"
+msgstr "به‌روزرسانی برنامه"
+
+msgid "User ID and verification level"
+msgstr "شناسه کاربری و سطح تأیید"
+
+msgid "User doesn't exist in our database :("
+msgstr "کاربر در پایگاه داده ما وجود ندارد :("
+
+msgid "Username already in use."
+msgstr "نام کاربری در حال حاضر استفاده شده است."
+
+msgid "Username can not start with pp_"
+msgstr "نام کاربری نمی‌تواند با pp_ شروع شود"
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr "نام کاربری فقط می‌تواند شامل کاراکترهای a-z، _ و - باشد."
+
+msgid "Username can't be empty."
+msgstr "نام کاربری نمی‌تواند خالی باشد."
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"ما قبلاً یک ایمیل با دستورالعمل برای شما ارسال کردیم. لطفاً قبل از درخواست "
+"ایمیل دیگری صبر کنید."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"ما قبلاً یک ایمیل تأیید برای شما ارسال کرده‌ایم، می‌توانید یک ایمیل دیگر را در $"
+"{ minLeft }دقیقه دیگر درخواست کنید."
+
+#, fuzzy, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr "خوش اومدی آقای ${ name } به پیکسل پلنت. بی زحمت ایمیلت رو تایید کن"
+
+msgid "You already chose your username"
+msgstr ""
+
+msgid "You already have that name."
+msgstr ""
+
+msgid "You are already verified."
+msgstr ""
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "شما برای ${ timeMin } دقیقه بی صدا شدین"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "شما برای ${ ttl } ثانیه بی صدا شدین"
+
+msgid "You are not allowed to access this page"
+msgstr "شما اجازه دسترسی به این صفحه را ندارید"
+
+msgid "You are not banned"
+msgstr "تو بن نشدی"
+
+msgid "You are not logged in"
+msgstr "شما وارد نشده اید"
+
+msgid "You are now verified :)"
+msgstr "الان تایید شدی :)"
+
+#, fuzzy
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr "شما برای همیشه بی‌صدا شده‌اید، به گیلدد ما بپیوندید تا نادیده گرفته شود"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr "خیلی داری تند تند پیام میفرستی. باید ${ waitTime } صبر کنی"
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+
+msgid "You can not register an account while you are banned"
+msgstr ""
+
+msgid "You can not register an account with a proxy"
+msgstr ""
+
+#, fuzzy
+msgid "You can not send chat messages while using a proxy"
+msgstr "تو نمیتونی با فیلترشکن پیام بفرستی"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+
+msgid "You can't send a message this long :("
+msgstr "نمیشه اینقدر پیام بدی :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+
+msgid "You don't have access to this channel"
+msgstr "تو به این کانال دسترسی نداری"
+
+msgid "You failed your captcha"
+msgstr "شما کپچای خود را اشتباه جواب دادین"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr ""
+"رمز عبور خود را برای pixuniverse فراموش کرده اید؟ یک مورد جدید را از اینجا "
+"دریافت کنید"
+
+msgid "You have to fill out all fields"
+msgstr ""
+
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr ""
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"شما درخواست کرده اید که یک رمز عبور جدید دریافت کنید. می توانید رمز عبور خود "
+"را ظرف 30 دقیقه آینده در اینجا تغییر دهید: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "رمز خالی یا داده نامعتبر فرستادی :("
+
+msgid "You took too long, try again"
+msgstr ""
+
+msgid "You will be automatically redirected after 15s"
+msgstr "پس از 15 ثانیه به طور خودکار هدایت می شوید"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your account needs to be verified to access this page"
+msgstr ""
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr "کشور شما موقتاً از این کانال چت بی‌صدا شده است"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "برای چت کردن، ایمیل شما باید تأیید شود"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"کد تأیید ایمیل شما نامعتبر است یا قبلاً منقضی شده است :(، لطفاً یک کد جدید "
+"درخواست کنید."
+
+msgid "Your passwords do not match :("
+msgstr "رمزهای شما همخوانی ندارند :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr ""
+
+msgid "to go back to pixuniverse"
+msgstr "برای بازگشت به pixuniverse"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"به pixelplacers خوش آمدید، برای استفاده از حساب خود، باید ایمیل خود را تأیید "
+"کنید. تو میتوانی آن کار را اینجا انجام بدی: "
+
+#~ msgid "You are banned"
+#~ msgstr "بن شدی سید"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr "ارائه دهنده اینترنت شما ممنوع شده است"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "تنظیم مجدد رمز عبور pixunivers.fun"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr "سلام ${ name }، میتونی اینجا رمز جدیدت رو بزاری:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "خیلی کار رو طولش دادی، دوباره امتحان کن."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "کاربر جدید ایجاد نشد :("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "تشکیل جلسه پس از ثبت نام انجام نشد :("
+
+#~ msgid "You are not even logged in."
+#~ msgstr "تو حتی وارد هم نشدی."
+
+#~ msgid "Server error when logging out."
+#~ msgstr "خطای سرور هنگام خروج از سیستم."
+
+#~ msgid "You are not authenticated."
+#~ msgstr "شما احراز هویت نشده اید."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "حساب‌های pixunivers.fun"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "یا ${ clickHere } تا به پیکسل پلنت برگردی"

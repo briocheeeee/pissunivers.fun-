@@ -1,0 +1,1830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-03-10 17:53+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/pixuniverse/"
+"client/fa/>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Weblate 5.5-dev\n"
+
+msgid " which is in "
+msgstr " که در "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr "${ mouseSymbol } دکمه چپ موس رو نگه دار و موس رو حرکت بده تا بچرخی"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } کلیک چپ یا ${ touchSymbol } بزن روی صفحه تا پیکسل گذاشته بشه"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"راست کلیک کن ${ mouseSymbol } یا ${ touchSymbol } دوبار روی پیکسل بزن تا "
+"پیکسل رو حرف کنی"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } اسکرول موس یا ${ mouseSymbol } دکمه وسطی موس رو نگه دار و "
+"تکونش بده تا زوم کنی"
+
+msgid "(0 = infinite)"
+msgstr ""
+
+msgid "+last hour"
+msgstr ""
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "یک ایمیل تأیید جدید برای شما ارسال می شود."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "شبکه اضافه کن (تیک رو بردار اگر یک قالب یک در یک میخوای)"
+
+#, fuzzy
+msgid "Add Template"
+msgstr "دانلود قالب"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "تمامی افکت های صدا غیرفعال میشه."
+
+msgid "Always show Movement Controls"
+msgstr ""
+
+msgid "Always show movement control buttons"
+msgstr ""
+
+msgid "Anti Aliasing"
+msgstr ""
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "از یک فیلتر برای تمیز کردن سطل زباله در مناطق بزرگ بوم استفاده کنید."
+
+msgid "Archive"
+msgstr "آرشیو"
+
+msgid "Assign new Mod"
+msgstr "ادمین جدید انتخاب کن"
+
+msgid "Auto Zoom In"
+msgstr "زوم اتوماتیک بزرگتر"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "بن شدی سید، بهت گفتیم یاهود بازی در نیار"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "بن شدی؟ به عنوان پروکسی شناخته شدی؟"
+
+msgid "Block"
+msgstr "بلاک"
+
+msgid "Block DMs"
+msgstr "پیام ها رو مسدود کنید"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "گوشه پایین سمت راست"
+
+msgid "Build image and set it to protected."
+msgstr "تصویر را بسازید و آن را روی محافظت شده تنظیم کنید."
+
+msgid "Build image on canvas."
+msgstr "ساخت تصویر روی بوم."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "تصویر بسازید، اما cooldown را به unset-pixel cd بازنشانی کنید."
+
+msgid "By Mod"
+msgstr "توسط ادمین"
+
+msgid "Calculate like GIMP"
+msgstr "مانند GIMP محاسبه کنید"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "نمی توان بیش از 20 یا بدون قالب صادر کرد!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr ""
+
+msgid "Can't read? Reload:"
+msgstr "نمیتونی بخونی؟ یک کَپچای دیگه بزن:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "داداش بوم سه بعدی رندر نشد. WebGL2 رو غیر فعال کردی ناقلا؟"
+
+msgid "Cancel"
+msgstr "لغو"
+
+#, fuzzy
+msgid "Cancel adding Template"
+msgstr "دانلود قالب"
+
+msgid "Canvas"
+msgstr "بوم"
+
+msgid "Canvas Archive"
+msgstr "آرشیو بوم"
+
+msgid "Canvas Cleaner"
+msgstr "پاک کننده بوم"
+
+msgid "Canvas Error"
+msgstr "ارور بوم"
+
+msgid "Canvas Selection"
+msgstr "انتخاب بوم"
+
+msgid "Captcha"
+msgstr "کَپچا"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "اسم کاربریت رو عوض کن"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "پسوردت رو عوض کن"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "تنظمیات کانال"
+
+msgid "Charts"
+msgstr "نمودار"
+
+msgid "Chat"
+msgstr "چت"
+
+msgid "Chat here"
+msgstr "همینجا چت کن"
+
+msgid "Check out past versions of the canvas."
+msgstr "نسخه های قدیمی این بوم رو نشون بده."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "بررسی کنید چه کسی در اون منطقه پیکسل گذاشته"
+
+msgid "Choose Canvas"
+msgstr "بوم رو انتخاب کن"
+
+msgid "Choose Color Mode"
+msgstr "انتخاب حالت رنگ"
+
+msgid "Choose Strategy"
+msgstr "استراتژیت رو انتخاب کن"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"پیکسل‌های یدکی را که با یک رنگ دیگر احاطه شده‌اند یا پیکسل‌های تنظیم نشده تمیز "
+"کنید (روی بوم‌ها بسیار تهاجمی است که اجازه می‌دهد پیکسل‌های تنظیم نشده (در جایی "
+"که دو حالت خنک‌کننده وجود دارد) وجود داشته باشد!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr ""
+"پیکسل های یدکی را که با پیکسل های تنظیم نشده احاطه شده اند را تمیز کنید"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"پیکسل‌های یدکی را که با پیکسل‌های تنظیم‌نشده و حداکثر ۱ پیکسل تنظیم‌شده دیگر "
+"احاطه شده‌اند، تمیز کنید"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"کلیک ${ mouseSymbol } وسط موس رو بزن یا ${ touchSymbol } روی یک پیکسل نگه "
+"دار تا رنگ اون پیکسل گذاشته شده رو انتخاب کنی"
+
+msgid "Click a color in palette to select it"
+msgstr "یه رنگ توی حعبه رنگ کلیک کن تا انتخاب کنی"
+
+msgid "Click here to request a new verification mail."
+msgstr "برای درخواست یک ایمیل تأیید جدید اینجا را کلیک کنید."
+
+msgid "Click to Load Captcha"
+msgstr "کلیک کن تا کَپچا لود بشه"
+
+msgid "Clone"
+msgstr "کلون کن"
+
+msgid "Close"
+msgstr "ببند"
+
+msgid "Close Chat"
+msgstr "چت رو ببند"
+
+msgid "Close Menu"
+msgstr "منو رو ببند"
+
+msgid "Close Palette"
+msgstr "جعبه رنگ ها رو ببند"
+
+msgid "Compact Palette"
+msgstr "حعبه رنگ فشرده"
+
+msgid "Confirm New Password"
+msgstr "رمز عبور جدید را تأیید کنید"
+
+msgid "Confirm Password"
+msgstr "دوباره پسورد رو وارد کن"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "نتت مشکل داره کسکم. ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "کنترل ها"
+
+msgid "Convert an image to canvas colors"
+msgstr "یه عکس رو تبدیل به رنگ های بوم بکن"
+
+msgid "Converter"
+msgstr "تبدیل کننده"
+
+msgid "Cooldown"
+msgstr "کولداون"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+#, fuzzy
+msgid "Coordinates"
+msgstr "مختصات اشتباه است"
+
+#, fuzzy
+msgid "Coordinates:"
+msgstr "مختصات اشتباه است"
+
+#, fuzzy
+msgid "Copied"
+msgstr "کپی شد!"
+
+msgid "Copy"
+msgstr "کپی"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "کپی شد سید"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "به سرور نتونستم وصل شم. بعدا یه امتحان بکن :("
+
+msgid "Could not load captcha"
+msgstr "کَپچا لود نشد"
+
+msgid "Couldn't set Pixel"
+msgstr "پیکسل گذاشته نشد"
+
+msgid "Countries Today"
+msgstr "کشور های امروز"
+
+msgid "Country"
+msgstr "کشور"
+
+#, fuzzy, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "فرد سازنده بوم 10 نفر اول ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "فرد سازنده جعبه رنگ بوم ماه ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "فرد سازنده بوم 10 نفر اول ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr ""
+
+msgid "DM"
+msgstr "پیام"
+
+#, fuzzy
+msgid "Daily Pixels per Country"
+msgstr "پخش کننده و پیکسل در ساعت"
+
+#, fuzzy
+msgid "Daily Pixels per Player"
+msgstr "مجموع پیکسل های قرار داده شده در روز"
+
+msgid "Daily Rank"
+msgstr "رتبه روزانه"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+#, fuzzy
+msgid "Delete"
+msgstr "اکانتت رو پاک کن"
+
+msgid "Delete Account"
+msgstr "اکانتت رو پاک کن"
+
+msgid "Deny"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr "هیچ جوابی از سایت نگرفتیم ، رفرش کن"
+
+msgid "Dimensions"
+msgstr "ابعاد"
+
+msgid "Disable Game Sounds"
+msgstr "صدا های بازی رو غیرفعال کن"
+
+msgid "Disable History Pencil"
+msgstr ""
+
+msgid "Disable Overlay Pencil"
+msgstr ""
+
+#, fuzzy
+msgid "Disable Pencil"
+msgstr "صدا های بازی رو غیرفعال کن"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "جعبه رنگ رو فشرده کن که فضای کمتری بگیره."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "انجام کارها با IP (یک IP در هر خط)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "اسم من رو توی امار جهانی نشون نده"
+
+msgid "Download Template"
+msgstr "دانلود قالب"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr "بکش روی ${ mouseSymbol } موس یا ${ touchSymbol } بکش تا حرکت کنی"
+
+msgid "Duration"
+msgstr "زمان"
+
+msgid "Easter Egg OFF"
+msgstr "ایستر اگ خاموش است"
+
+msgid "Easter Egg ON"
+msgstr "حالت ایستر اگ روشن است"
+
+msgid "Edit"
+msgstr ""
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Email can't be empty."
+msgstr "سید ایمیل خالی نمیشه که بزاری."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "نمیشه که ایمیل بیشتر از چهل تا کلمه داشته باشه."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "ایمیل باید نقطه داشته باشه"
+
+msgid "Email should be at least 5 characters long."
+msgstr "ایمیل باید حداقل پنج تا کلمه داشته باشه."
+
+msgid "Email should contain a @"
+msgstr "ایمیل باید حتما @ داشته باشه"
+
+msgid "Enable Overlay"
+msgstr ""
+
+msgid "Enable Pencil"
+msgstr ""
+
+msgid "Enable chat notifications"
+msgstr "نوتیفیکیشن های چت رو فعال کن"
+
+msgid "Enter Characters"
+msgstr "کاراکترای جدید رو وارد کن"
+
+msgid "Enter Reason"
+msgstr "دلیل وارد کن"
+
+msgid "Enter UserName of new Mod"
+msgstr "نام کاربری ادمین جدید را وارد کنید"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr ""
+"آدرس ایمیلتون رو وارد کنین تا ما یه لینک بفرستیم تا بتونین پسورد جدید بسازید:"
+
+msgid "Error"
+msgstr "ارور"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr ""
+
+msgid "Error :("
+msgstr "ارور داد سید"
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr ""
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr "فایل"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "برای موقعی که داری روی ذغال بازی میکنی."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr ""
+
+#, fuzzy
+msgid "From Template"
+msgstr "دانلود قالب"
+
+msgid "Get IID"
+msgstr "آیدی بگیر"
+
+msgid "Get Pixels"
+msgstr "پیکسل بگیر"
+
+msgid "Get Users"
+msgstr "کاربر بگیر"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "بازدید از کل جهان"
+
+msgid "Go to"
+msgstr ""
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "شبکه  خاموش است"
+
+msgid "Grid ON"
+msgstr "شبکه  روشن است"
+
+msgid "Have fun!"
+msgstr "خوش بگذره!"
+
+msgid "Height"
+msgstr "طول"
+
+msgid "Help"
+msgstr "کمک"
+
+#, fuzzy
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"در اینجا ما آن بوم‌ها را جمع‌آوری می‌کنیم تا آنها را به روشی مناسب بایگانی کنیم "
+"(که در حال حاضر فقط یکی است)."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"سطوح زوم بالاتر مدتی طول می کشد تا به روز شوند، کره سه بعدی حداقل یک بار در "
+"روز به روز می شود."
+
+msgid "Historical View"
+msgstr "حالت تاریخی"
+
+#, fuzzy, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"شیفت چپ ${ bindShift } رو نگه دار تا موس وقتی که تکون میخوره، پیکسل گذاشته "
+"بشه"
+
+msgid "How pixuniverse should look like."
+msgstr "پیکسل پلنت باید چطوری دیده بشه."
+
+msgid "I forgot my Password."
+msgstr "رمز یادم رفته."
+
+msgid "IID (optional)"
+msgstr "آیدی (اختیاری)"
+
+msgid "IID Actions"
+msgstr "اقدامات آیدی"
+
+msgid "IP Actions"
+msgstr "اقدامات آیپی"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "تبدیل کننده عکس"
+
+msgid "Image Upload"
+msgstr "آپلود تصویر"
+
+msgid "Import templates"
+msgstr ""
+
+msgid "Interval"
+msgstr "فاصله"
+
+msgid "Interval is invalid"
+msgstr "فاصله نامعتبر است"
+
+msgid "Invalid Canvas"
+msgstr "بوم پیدا نشد"
+
+msgid "Invalid Coordinates"
+msgstr "مختصات اشتباه است"
+
+msgid "Invalid color selected"
+msgstr "سید رنگ نادرستی انتخاب کردین"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "فقط برای کاربران ثبت نام شده"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "فقط تاپ 10 ها میتونن اینجا فعالیت کنند سید"
+
+msgid "Keep Ratio"
+msgstr "حفظ نسبت"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "پس زمینه روشن"
+
+msgid "Load Captcha"
+msgstr "کَپچا رو لود کن"
+
+msgid "Loading"
+msgstr "در حال لود کردن"
+
+msgid "Loading..."
+msgstr "در حال بارگزاری..."
+
+msgid "Log out"
+msgstr "خروج از اکانت"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "وارد شدن"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "برای دسترسی به ویژگی ها و آمار بیشتر وارد شوید."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "با نام یا ایمیل وارد شوید:"
+
+msgid "Make Screenshot"
+msgstr "اسکرین شات بگیر"
+
+msgid "Manage Moderators"
+msgstr "ادمین ها رو مدیریت کنین"
+
+msgid "Map Data"
+msgstr "اطلاعات نقشه"
+
+msgid "Maximize"
+msgstr "به حداکثر برسون"
+
+msgid "Minimum Color Distance"
+msgstr "حداقل فاصله رنگ"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "چیزای ادمینا"
+
+msgid "Move"
+msgstr "جا به جا کن"
+
+msgid "Mute"
+msgstr "سکوت"
+
+msgid "Muted Sound"
+msgstr "صدا ساکت است"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Name can't be empty."
+msgstr "اسم نمیشه که خالی باشه سید."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "اسم نباید @ یا # یا / از این چیزا داشته باشه"
+
+msgid "Name must be at least 2 characters long"
+msgstr "اسم باید بیشتر از دو تا کلمه داشته باشه"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "اسم باید کمتر از 26 تا کلمه باشه"
+
+msgid "Name or Email"
+msgstr "اسم یا ایمیل"
+
+msgid "New Mail"
+msgstr "ایمیل جدید"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "رمز جدید"
+
+msgid "New Username"
+msgstr "نام کاربری جدید"
+
+msgid "No"
+msgstr "نه"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "هیچ آیدی کپچایی داده نشده"
+
+msgid "No or invalid captcha text"
+msgstr "یا هیچ کلمه ای توی کپچا نیست یا اصن اونی که باید رو ننوشتی"
+
+msgid "No password given."
+msgstr "داداش رمز نزاشتی."
+
+msgid "Not allowed"
+msgstr "قابل قبول نیست سید"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "باشه"
+
+msgid "Offset"
+msgstr "انحراف"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "رمز قدیمی"
+
+msgid "Online Users"
+msgstr "کاربران انلاین"
+
+msgid "Online Users on Canvas"
+msgstr "یوزر های انلاین در بوم"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr ""
+
+msgid "Open Chat"
+msgstr "چت رو باز کن"
+
+msgid "Open Menu"
+msgstr "منو رو باز کن"
+
+msgid "Open Palette"
+msgstr "جعبه رنگ ها رو باز کن"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"ببین، این بوم یک نقشه از جهان با سایز بشدت بزرگی هست که تو میتونی هرجایی که "
+"دلت میخواد توش پیکسل بزاری. اما یادت باشه هر پیکسل که میزاری یه کولداون "
+"داره. تو میتونی کولداون و چیزای لازم برای استفاده از بوم رو توی بخش انتخاب "
+"بوم ببینی. بعضی بوم ها کولداون های مختلفی دارن و اینکه وقتی تو یک پیکسل رو "
+"روی یک پیکسلی که یکی دیگه گذاشته میزاری، کولداونش با پیکسل روی یک جای بی "
+"صاحب فرق داره. اینطوری که در بوم جهان، پیکسل های بی صاحب هر 4 ثانیه هست و "
+"گذاشتن روی پیکسل های صاحب دار 7 ثانیه."
+
+msgid "Overlay OFF"
+msgstr "اورلی خاموش است"
+
+msgid "Overlay ON"
+msgstr "اورلی روشن است"
+
+msgid "Overlay Opacity"
+msgstr ""
+
+msgid "Palette Download"
+msgstr "دانلود جعبه رنگ"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "جعبه رنگ برای ${ gimpLink }"
+
+msgid "Password"
+msgstr "پسورد"
+
+msgid "Password must be at least 6 characters long."
+msgstr "رمز باید حداقل شیش تا کلمه داشته باشه."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "داداش چخبره باید کمتر از شصت تا کلمه باشه پسوردت."
+
+#, fuzzy
+msgid "Password successfully changed."
+msgstr "رمز عبور با موفقیت تغییر کرد."
+
+msgid "Passwords do not match."
+msgstr "رمزهای ورود مطابقت ندارند."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr ""
+
+msgid "Pencil picks: "
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "پینگ"
+
+msgid "Pixel Notify OFF"
+msgstr "هشدار دهنده پیکسل خاموش است"
+
+msgid "Pixel Notify ON"
+msgstr "هشدار دهنده پیکسل روشن است"
+
+msgid "Pixel Protection"
+msgstr "محافظت از پیکسل"
+
+#, fuzzy
+msgid "Pixel protected"
+msgstr "ادمین ها بهت اجازه نمیدند اینجا پیکسل بذاری، محافظت شده"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr "پیکسل های رنگی را روی یک بوم بزرگ با سایر بازیکنان آنلاین قرار دهید!"
+
+msgid "Placed Pixels"
+msgstr "پیکسل های گذاشته شده"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "وقتی یه پیام جدید میاد یه صدایی بده"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "پخش کننده و پیکسل در ساعت"
+
+msgid "Please prove that you are human"
+msgstr "اثبات کن که انسان هستی سید"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "بوم قطب نمای سیاسی"
+
+msgid "Potato Mode"
+msgstr "حالت سیب زمینی"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"بزن روی ${ bindAUp } یا ${ bindALeft } یا ${ bindADown } یا ${ bindARight } "
+"تا حرکت کنی"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "روی ${ bindG } بزن تا شبکه فعال بشه"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "روی ${ bindH } بزن تا دید تاریخی فعال بشه"
+
+#, fuzzy, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "بزن روی ${ bindQ } و ${ bindE } تا بالا و پایین بری"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "بزن روی ${ bindE } ${ bindQ } تا زوم کنی"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "بزن روی ${ bindR } تا مختصات کپی بشه"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr ""
+"بزن روی ${ bindW } یا ${ bindA } یا ${ bindS } یا ${ bindD } تا جا به جا بشی"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "روی ${ bindX } بزن تا فعالیت پیکسلی نشون داده بشه"
+
+msgid "Private"
+msgstr "خصوصی"
+
+msgid "Profile"
+msgstr "پروفایل"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "رنج بن شدی سید"
+
+msgid "Ranked"
+msgstr "رتبه دار"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"به روز رسانی رتبه بندی هر 5 دقیقه. رتبه بندی روزانه در نیمه شب UTC بازنشانی "
+"می شود."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "دلیل"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "ثبت نام"
+
+msgid "Register new account here"
+msgstr "اکانت جدید بساز"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "بارگذاری جدید"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "ادمین  رو پاک کنین"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "چیزای مورد نیاز"
+
+msgid "Reset"
+msgstr "بازنشانی کنین"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "تغییر اندازه"
+
+msgid "Restore"
+msgstr "بازگردانی کن"
+
+msgid "Retired Canvases (history only)"
+msgstr ""
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+#, fuzzy
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "یک منطقه از بوم را به تاریخ مشخصی برگردانید (00:00 UTC)"
+
+msgid "Rollback to Date"
+msgstr "بازگشت به تاریخ"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Scale Image"
+msgstr "عکس رو اندازه کن"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"اسکرول ${ mouseSymbol } رول موس یا ${ touchSymbol } روی صفحه بکش تا زوم کنی"
+
+msgid "Select Date above"
+msgstr "تاریخ رو انتخاب کن"
+
+#, fuzzy
+msgid "Select File"
+msgstr "زبانت رو انتخاب کن"
+
+msgid "Select Language"
+msgstr "زبانت رو انتخاب کن"
+
+#, fuzzy
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"بوم مورد نظر برای استفاده را انتخاب کنید. هر بوم منحصر به فرد است و دارای "
+"جعبه رنگ ها،کولداون و الزامات متفاوتی است. آرشیو بوم های بسته را می توانید "
+"در اینجا مشاهده کنید:"
+
+#, fuzzy
+msgid "Selected Color"
+msgstr "زبانت رو انتخاب کن"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr "یک ایمیل فرستادیم با آموزش که پسوردتون رو عوض کنین."
+
+msgid "Serpentine"
+msgstr "شکل مارپیچ"
+
+msgid "Server answered with gibberish :("
+msgstr "سرور با چرت و پرت جواب داد :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"انقدر پیکسل گذاشتی سایت به خاک رفت سید، داری از چندتا گوشی استفاده میکنی؟ "
+"اگر کیا داره اینو میخونه باید بگم هنوز کونی هستی سید"
+
+msgid "Set Password"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"حفاظت از مناطق          (اگر به کنترل دانه ریزتر نیاز دارید،         use "
+"protect with image upload and alpha layers)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "شبکه رو نشون بده"
+
+msgid "Show Grid in white instead of black."
+msgstr "پس زمینه رو بجای اینکه سفید نشون بده، سیاه نشون بده."
+
+msgid "Show Pixel Activity"
+msgstr "فعالیت پیکسل ها رو نشون بده"
+
+msgid "Show circles where pixels are placed."
+msgstr "دور پیکسل هایی که گذاشته میشن دایره بزار."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+
+msgid "Show templates as overlays ingame."
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr ""
+
+msgid "Social Settings"
+msgstr "تنظیمات فضای اجتماعی"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "انباشته شدن تا"
+
+msgid "Start chatting here"
+msgstr "اینجا میتونی چت کنی"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "آمار"
+
+msgid "Status: Not running"
+msgstr "وضعیت: در حال اجرا نیست"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "تمیز کننده رو متوقف کنین"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr ""
+
+msgid "Template Name"
+msgstr ""
+
+#, fuzzy
+msgid "Templates"
+msgstr "دانلود قالب"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"داده های نقشه خالی که استفاده می کنیم، به همراه کاشی های OpenStreetMap تبدیل "
+"شده برای جهت یابی، می توانند از mega.nz در اینجا دانلود شوند: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "تِم ها"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "این بوم وجود ندارد"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"این بوم در زمان درگیری های سیاسی در بوم اصلی زمین درخواست شد. این یک نمایش "
+"1024x1024 از قطب‌نمای سیاسی با خنک‌کردن 5s و انباشته شدن 60s بود. در 21 "
+"اردیبهشت راه اندازی شد و برای ماه ها فعال بود تا اینکه در 9 آذر تعطیل شد."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "سید سایتو پاره کردی تابم اوت خوردی، رفرش کن"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "راهنمایی: نیاز نیست کلمات همشون بزرگ باشن، I و I یکی هستن"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "امروز"
+
+#, fuzzy
+msgid "Today Placed Pixels"
+msgstr "پیکسل هایی که امروز گذاشتی"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "10 کشور برتر [pxls/day]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "10 رتبه برتر روزانه"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "10 بازیکن برتر [pxls / day]"
+
+#, fuzzy
+msgid "Top 10 Players from Yesterday"
+msgstr "10 بازیکن برتر [pxls / day]"
+
+msgid "Top-left corner"
+msgstr "گوشه بالا سمت چپ"
+
+msgid "Total"
+msgstr "جمع"
+
+msgid "Total Online Users"
+msgstr "تمام یوزر های آنلاین"
+
+#, fuzzy
+msgid "Total Pixels per Player"
+msgstr "مجموع پیکسل های قرار داده شده در روز"
+
+msgid "Total Pixels placed per day"
+msgstr "مجموع پیکسل های قرار داده شده در روز"
+
+msgid "Total Rank"
+msgstr "رتبه کلی"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "شبکه رو روشن کن که مرز های دور پیکسل ها نشون داده بشه."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "چیز میزایی که توی این عکس هست رو توی باکس بنویس:"
+
+msgid "Unblock Users"
+msgstr "کاربران رو غیر مسدود کن"
+
+msgid "Unknown Captcha Error"
+msgstr "یه ارور نامعلومی این کپچای لامصب داده"
+
+msgid "Unknown Error"
+msgstr "داداش یه ارور عجیبی اتفاق افتاد که خودمم نمیدونم چیه"
+
+msgid "Unmuted Sound"
+msgstr "صدا ساکت نیست"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "تصاویر را روی بوم آپلود کنید"
+
+msgid "Use our custom cursor"
+msgstr ""
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "User Account"
+msgstr "اکانت کاربر"
+
+msgid "User Area"
+msgstr "منطقه یوزر"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "نام کاربری"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"ما تصمیم گرفتیم آن را به عنوان یک تایم لپس با وب مدیا رمزگذاری شده بدون ضرر "
+"بایگانی کنیم. گرفتن اسکرین شات از تایم لپس به نمایش کامل 1:1 از چگونگی بوم "
+"در آن زمان منجر می شود."
+
+#, fuzzy
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"ما از هنرمندانمون بسیار متشکر هستیم، اونا حتی از هنر هاشون رو به عموم معرفی "
+"کردن"
+
+msgid "Weird"
+msgstr "عجیب"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"در حالی که ما تمایل داریم بوم‌ها را حذف نکنیم، برخی از بوم‌ها برای سرگرمی یا "
+"به‌عنوان درخواست کاربرانی که در حال حاضر یک میم را دوست دارند شروع می‌شوند. آن "
+"بوم‌ها ممکن است پس از مدتی و پس از هفته‌ها بدون تغییر اساسی خسته‌کننده شوند و "
+"اگر واقعاً ارزش فعال نگه‌داشتن را ندارند، تصمیم می‌گیریم آنها را حذف کنیم."
+
+msgid "Why?"
+msgstr "چرا؟"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid "Wrong Color"
+msgstr "رنگ اشتباهی انتخاب کرده اید"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "آره"
+
+msgid "Yes, Delete My Account!"
+msgstr "آره، اکانتم رو پاک کن!"
+
+msgid "Yesterday"
+msgstr "دیروز"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr ""
+"داری از فیلترشکن استفاده میکنی؟ نگران نباش سایت فیلتر نیست، البته نمیدونم "
+"فردا فیلتره یا نه"
+
+msgid "You are weird"
+msgstr "سید داری یاهود بازی در میاری؟"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+#, fuzzy
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"سید پیکسل به اندازه کافی نزاشتی. بخاطر همین نمیتونی به این بوم دسترسی داشته "
+"باشی"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "حالا میتونی پیکسل های بیشتری بزاری :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "کَپچا رو نتونستی جواب بدی"
+
+msgid "You have new messages in chat"
+msgstr "توی چت پیام های حدید داری"
+
+msgid "You have no users blocked"
+msgstr "تو هیچ کاربر مسدود شده نداری"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "باید توی سایت ثبت نام کنی که از این بوم بتونی استفاده کنی سید"
+
+msgid "You made too many requests"
+msgstr "زیادی درخواست دادی"
+
+msgid "You must be logged in to chat"
+msgstr "باید در سایت وارد بشی تا بتونی چت کنی"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "باید مدت زمان را وارد کنید"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "باید آیدی را وارد کنین"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "خیلی کارت طول کشید. دوباره امتحان کن."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"مرورگر شما به ما اجازه نمی دهد از AudioContext برای پخش صداها استفاده کنیم. "
+"آیا برخی از ویژگی های حفظ حریم خصوصی ما را مسدود می کند؟"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+#, fuzzy
+msgid "Your Internet Provider is banned from this game"
+msgstr "اینترنت و آیپی تو حق بازی نداره"
+
+msgid "Your ban expires at "
+msgstr "بن جنابعالی در این زمان برداشته میشه "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "پیکسل های بعدی تو آماده هستن سید"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr "وقتی که بومت کوچیکه و میخوای پیکسل بزاری، بجای پیکسل گذاشتن زوم کن."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "و ${ canvas.req } تنظیم پیکسل"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "منشنت کرد"
+
+msgid "or login with:"
+msgstr "یا با :"
+
+msgid "or register here:"
+msgstr "یا اینجا ثبت نام کنید:"
+
+msgid "recommended"
+msgstr "پیشنهاد شده"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "دوباره بعد ${ ti }دقیقه امتحان کن شاید درست شد"
+
+msgid "x out of bounds"
+msgstr "ایکس خارج از محدوده است"
+
+msgid "y out of bounds"
+msgstr "ایگرگ خارج از محدوده است"
+
+msgid "z out of bounds"
+msgstr "زد خارج از محدوده است"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "B"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "D"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "E"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "G"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "H"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "M"
+msgstr ""
+
+#, fuzzy
+msgctxt "keybinds"
+msgid "N"
+msgstr "نه"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "R"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "S"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "T"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "W"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "X"
+msgstr ""
+
+#~ msgid "PopUp"
+#~ msgstr "پاپ آپ"
+
+#, fuzzy
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "بن شدی سید. فکر میکنی یه اشتباهی رخ داده؟ خب برو درخواست "
+
+#~ msgid "Registration"
+#~ msgstr "ثبت"
+
+#~ msgid "Forgot Password"
+#~ msgstr "پسورد رو یادم رفته"
+
+#~ msgid " on how to appeal."
+#~ msgstr " بده که بنت برداشته بشه."
+
+#~ msgid "Unbanned"
+#~ msgstr "آنبن شدی"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "خب الان که داری این پیامو میبینی، دیگه بن نیستی."
+
+#~ msgid "Source on "
+#~ msgstr "منبع در "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "اگر فکر کردن تو رباتی ولی تو فکر میکنی که نیستی، یا فکر میکنی که اشتباها "
+#~ "بن شدی، پس برو به ${ guildedLink } یا یه ایمیل به ${ mailLink } بفرست و "
+#~ "آیدی مورد نظر رو اضافه کن:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "حتی خوب میشه اگر به گیلدد ما هم عضو بشین:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "اسم شما: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "اسم کاربریت رو عوض کن"
+
+#~ msgid "Change Mail"
+#~ msgstr "ایمیلت رو عوض کن"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "لطفاً آدرس ایمیل خود را تأیید کنید، در غیر این صورت حساب شما ممکن است پس "
+#~ "از چند روز حذف شود."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "ایمیل با موفقیت تغییر کرد. ما یک ایمیل تأیید برای شما ارسال "
+#~ "کردیم،               لطفا آدرس ایمیل جدید خود را تأیید کنید."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "تمام پیام های خصوصی رو مسدود کنید"
+
+#~ msgid "There are no mods"
+#~ msgstr "هیچ ادمینی نیست"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "کشورها بر اساس پیکسل امروز"
+
+#~ msgid "Pixels placed"
+#~ msgstr "تعداد پیکسل هایی که گذاشتی"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "شیفت راست ${ bindShift } نگه دار تا وقتی موس تکون میخوره، توی دید تاریخی "
+#~ "پیکسل گذاشته بشه"
+
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr ""
+#~ "سید توطئه کردی؟ از سایت جوابی نگرفتیم سید، فکر کنم رفرش کنی درست بشه"
+
+#~ msgid "Place more :)"
+#~ msgstr "پیکسل های بیشتری بزار سید :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr ""
+#~ "مگه تورکی پروکسی میزنی؟ اگر وی پی انت روشنه یا پروکسیت روشنه خاموش کن سریع"
+
+#~ msgid "Show Hidden Canvases"
+#~ msgstr "بوم های مخفی را نشان بده"
+
+#~ msgid "Hide Hidden Canvases"
+#~ msgstr "بوم های مخفی را پنهان کن"
+
+#~ msgid "Coordinates in X_Y format:"
+#~ msgstr "مختصات در حالت X_Y :"

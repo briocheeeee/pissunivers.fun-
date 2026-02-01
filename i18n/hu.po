@@ -1,0 +1,1846 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-11-08 07:40+0000\n"
+"Last-Translator: Extreme Motorsex <em@noreply.pixunivers.fun>\n"
+"Language-Team: Hungarian <https://translate.gs-os.com/projects/ppfun/client/"
+"hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid " which is in "
+msgstr " addig hátravan még "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"Tartsd lenyomva a bal egérgombot ${ mouseSymbol } a kamera forgatásához"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"Kattints bal egérgombbal ${ mouseSymbol } vagy koppints ${ touchSymbol } a "
+"képernyőre a pixel elhelyezésére"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "Tartsd lenyomva a jobb egérgombot ${ mouseSymbol } és húzd a mozgáshoz"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"Kattints jobb egérgombbal ${ mouseSymbol } vagy koppints kétszer az "
+"érintőpadra ${ touchSymbol } a pixel eltávolításához"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"Görgess az egérgörgővel ${ mouseSymbol } vagy tartsd lenyomva az egérgörgőt $"
+"{ mouseSymbol } a zoomoláshoz"
+
+msgid "(0 = infinite)"
+msgstr "(0 = végtelen)"
+
+msgid "+last hour"
+msgstr "+utolsó óra"
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Új ellenőrző e-mailt küldünk neked."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Rács hozzáadása (ne jelöld be, ha 1:1 sablon kell)"
+
+msgid "Add Template"
+msgstr "Sablon hozzáadása"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "Az összes hang le lesz tiltva."
+
+msgid "Always show Movement Controls"
+msgstr "Mindig mutassa a mozgásvezérlőket"
+
+msgid "Always show movement control buttons"
+msgstr "Mindig mutassa a mozgásvezérlő gombokat"
+
+msgid "Anti Aliasing"
+msgstr "Élsimítás"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Használj szűrőt a nagy vászonfelületeken lévő szemét megtisztításához."
+
+msgid "Archive"
+msgstr "Archívum"
+
+msgid "Assign new Mod"
+msgstr "Új moderátor kijelölése"
+
+msgid "Auto Zoom In"
+msgstr "Automatikus zoomolás"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Kitiltva"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Kitiltva? Proxyként észlelve?"
+
+msgid "Block"
+msgstr "Blokkolás"
+
+msgid "Block DMs"
+msgstr "Közvetlen üzenetek tiltása"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Jobb alsó sarok"
+
+msgid "Build image and set it to protected."
+msgstr "Kép építése és védelembe helyezése."
+
+msgid "Build image on canvas."
+msgstr "Kép építése a vászonra."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr ""
+"Kép építése, de állítsa vissza a töltési időt a nem beállított pixeles "
+"töltési időre."
+
+msgid "By Mod"
+msgstr "Általa (moderátor)"
+
+msgid "Calculate like GIMP"
+msgstr "Számítás úgy, mint a GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Nem lehet 20-nál többet exportálni, vagy nincsen sablon!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Nem lehet 20-nál többet importálni, vagy nincsen sablon!"
+
+msgid "Can't read? Reload:"
+msgstr "Nem tudsz olvasni? Újra:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "Nem képes a 3D vászon megjelenítésére, a WebGL2 ki van kapcsolva?"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Cancel adding Template"
+msgstr "Sablon hozzáadásának visszavonása"
+
+msgid "Canvas"
+msgstr "Vásznak"
+
+msgid "Canvas Archive"
+msgstr "Vászonarchívum"
+
+msgid "Canvas Cleaner"
+msgstr "Vászon tisztító"
+
+msgid "Canvas Error"
+msgstr "Vászon hiba"
+
+msgid "Canvas Selection"
+msgstr "Vászon kiválasztása"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "Felhasználónév megváltoztatása"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Jelszó megváltoztatása"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Csatorna beállítások"
+
+msgid "Charts"
+msgstr "Diagramok"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Chat here"
+msgstr "Csevegj itt"
+
+msgid "Check out past versions of the canvas."
+msgstr "A vászon korábbi állapotának megtekintése."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Ellenőrizd, ki rajzolt ezen a területen"
+
+msgid "Choose Canvas"
+msgstr "Vászon kiválasztása"
+
+msgid "Choose Color Mode"
+msgstr "Színmód kiválasztása"
+
+msgid "Choose Strategy"
+msgstr "Stratégia kiválasztása"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Tisztítsa meg azokat a pixeleket, amelyeket egyetlen másik szín vagy nem "
+"beállított pixelek vesznek körül (NAGYON AGGRESSZÍV AZOKON A VÁSZONOKON, "
+"AMELYEK MEGENGEDIK A NEM BEÁLLÍTOTT PIXELEKET (ahol két töltési idő van)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "A nem beállított pixelekkel körülvett tartalék pixelek megtisztítása"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Tisztítsa meg azokat a pixeleket, amelyeken nem beállított pixelek és "
+"legfeljebb 1 másik beállított pixel által körülvett tartalék pixelek vannak"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Kattints a görgővel ${ mouseSymbol } vagy koppints hosszan ${ touchSymbol } "
+"a pixelre, hogy kiválaszd a színét"
+
+msgid "Click a color in palette to select it"
+msgstr "Kattints egy színre a palettán, hogy kiválaszd"
+
+msgid "Click here to request a new verification mail."
+msgstr "Kattints ide, ha új ellenőrző levelet szeretnél kérni."
+
+msgid "Click to Load Captcha"
+msgstr "Kattints ide a Captcha betöltéséhez"
+
+msgid "Clone"
+msgstr "Klónozás"
+
+msgid "Close"
+msgstr "Bezárás"
+
+msgid "Close Chat"
+msgstr "Chat bezárása"
+
+msgid "Close Menu"
+msgstr "Menü bezárása"
+
+msgid "Close Palette"
+msgstr "Paletta bezárása"
+
+msgid "Compact Palette"
+msgstr "Kompakt paletta"
+
+msgid "Confirm New Password"
+msgstr "Új jelszó megerősítése"
+
+msgid "Confirm Password"
+msgstr "Jelszó megerősítése"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Csatlakozási hiba ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Irányítás"
+
+msgid "Convert an image to canvas colors"
+msgstr "Kép konvertálása a vászon színeire"
+
+msgid "Converter"
+msgstr "Konvertáló"
+
+msgid "Cooldown"
+msgstr "Töltési idő"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+msgid "Coordinates"
+msgstr "Koordináták"
+
+msgid "Coordinates:"
+msgstr "Koordináták:"
+
+msgid "Copied"
+msgstr "Másolva"
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Vágólapra másolás"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Nem sikerült csatlakozni a szerverhez, próbáld meg újra később :("
+
+msgid "Could not load captcha"
+msgstr "Nem sikerült betölteni a captchat"
+
+msgid "Couldn't set Pixel"
+msgstr "Nem sikerült kiválasztani a pixelt"
+
+msgid "Countries Today"
+msgstr "Országok ma"
+
+msgid "Country"
+msgstr "Ország"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "A 2bit vászon palettája a ${ donendoLink } érdeme."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "A Hold vászon palettája a ${ starhouseLink } érdeme."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "A Top10 vászon palettája a ${ vinikLink } érdeme."
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr "Egyedi Kurzor"
+
+msgid "DM"
+msgstr "Közvetlen üzenet"
+
+#, fuzzy
+msgid "Daily Pixels per Country"
+msgstr "Játékosok és pixelek óránként"
+
+#, fuzzy
+msgid "Daily Pixels per Player"
+msgstr "Naponta elhelyezett pixelek száma"
+
+msgid "Daily Rank"
+msgstr "Napi helyezés"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Delete Account"
+msgstr "Fiók törlése"
+
+msgid "Deny"
+msgstr ""
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Nem érkezett válasz a pixuniversetől. Próbáld meg frissíteni az oldalt, ha a "
+"probléma továbbra is fennáll."
+
+msgid "Dimensions"
+msgstr "Méretek"
+
+msgid "Disable Game Sounds"
+msgstr "Játék hangjainak letiltása"
+
+msgid "Disable History Pencil"
+msgstr "Történelmi ceruza kikapcsolása"
+
+msgid "Disable Overlay Pencil"
+msgstr "Overlay ceruza kikapcsolása"
+
+msgid "Disable Pencil"
+msgstr "Ceruza kikapcsolása"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "A paletta kompakt formában jelenik meg, ami kevesebb helyet foglal."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "IP-kkel kapcsolatos dolgok (egy IP soronként)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "Ne jelenítsen meg a globális statisztikákban"
+
+msgid "Download Template"
+msgstr "Sablon letöltése"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"A mozgatáshoz húzd az egeredet ${ mouseSymbol } vagy az érintőpadodat $"
+"{ touchSymbol }"
+
+msgid "Duration"
+msgstr "Időtartam"
+
+msgid "Easter Egg OFF"
+msgstr "Easter Egg kikapcsolva"
+
+msgid "Easter Egg ON"
+msgstr "Easter Egg bekapcsolva"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email can't be empty."
+msgstr "Az e-mail cím nem lehet üres."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Az e-mail cím nem lehet hosszabb 40 karakternél."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "Az e-mail címnek legalább egy pontot tartalmaznia kell"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Az e-mail címnek legalább 5 karakterből kell állnia."
+
+msgid "Email should contain a @"
+msgstr "Az e-mail címnek tartalmaznia kell egy @-t"
+
+msgid "Enable Overlay"
+msgstr "Overlay bekapcsolása"
+
+msgid "Enable Pencil"
+msgstr "Ceruza bekapcsolása"
+
+msgid "Enable chat notifications"
+msgstr "Chat értesítések engedélyezése"
+
+msgid "Enter Characters"
+msgstr "Ide írj"
+
+msgid "Enter Reason"
+msgstr "Indoklás megadása"
+
+msgid "Enter UserName of new Mod"
+msgstr "Add meg az új moderátor felhasználónevét"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Írd be az e-mail címedet és küldünk egy új jelszót:"
+
+msgid "Error"
+msgstr "Hiba"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Hiba ${ retCode }"
+
+msgid "Error :("
+msgstr "Hiba :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "Bekapcsolt sablonok exportálása"
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr "Fájl"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Arra az esetre, ha kenyérpiríton játszol."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr "Történelemből"
+
+msgid "From Template"
+msgstr "Sablonból"
+
+msgid "Get IID"
+msgstr "IID lekérése"
+
+msgid "Get Pixels"
+msgstr "Pixelek lekérése"
+
+msgid "Get Users"
+msgstr "Felhasználók lekérése"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Földgömb nézet"
+
+msgid "Go to"
+msgstr "Menj oda"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Rács kikapcsolva"
+
+msgid "Grid ON"
+msgstr "Rács bekapcsolva"
+
+msgid "Have fun!"
+msgstr "Jó szórakozást!"
+
+msgid "Height"
+msgstr "Magasság"
+
+msgid "Help"
+msgstr "Segítség"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Itt gyűjtjük össze az eltávolított vásznakat, hogy megfelelő módon "
+"archiválhassuk őket. Amiből jelenleg csak egy van."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"A magasabb nagyítási szintek frissítése némi időt vesz igénybe, a 3D "
+"földgömb legalább naponta egyszer frissül."
+
+msgid "Historical View"
+msgstr "Történelmi nézet"
+
+#, fuzzy, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr "Tartsd lenyomva a bal ${ bindShift }-et, hogy kattintás nélkül rajzolj"
+
+msgid "How pixuniverse should look like."
+msgstr "Ahogy a pixuniversenek kellene kinéznie."
+
+msgid "I forgot my Password."
+msgstr "Elfelejtettem a jelszavamat."
+
+msgid "IID (optional)"
+msgstr "IID (opcionális)"
+
+msgid "IID Actions"
+msgstr "IID intézkedések"
+
+msgid "IP Actions"
+msgstr "IP lehetőségek"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Kép konvertáló"
+
+msgid "Image Upload"
+msgstr "Képfeltöltés"
+
+msgid "Import templates"
+msgstr "Sablonok importálása"
+
+msgid "Interval"
+msgstr "Intervallum"
+
+msgid "Interval is invalid"
+msgstr "Érvénytelen intervallum"
+
+msgid "Invalid Canvas"
+msgstr "Érvénytelen vászon"
+
+msgid "Invalid Coordinates"
+msgstr "Érvénytelen koordináták"
+
+msgid "Invalid color selected"
+msgstr "A kiválasztott szín nem megfelelő"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Kizárólag regisztrált felhasználók számára"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Csak az előző nap Top10 játékosa rajzolhat itt"
+
+msgid "Keep Ratio"
+msgstr "Arány megtartása"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Világos rács"
+
+msgid "Load Captcha"
+msgstr "Captcha betöltése"
+
+msgid "Loading"
+msgstr "Betöltés"
+
+msgid "Loading..."
+msgstr "Betöltés..."
+
+msgid "Log out"
+msgstr "Kijelentkezés"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Bejelentkezés"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "További funkciók és statisztikák eléréséhez jelentkezz be."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Bejelentkezés névvel vagy e-mail címmel:"
+
+msgid "Make Screenshot"
+msgstr "Képernyőkép készítése"
+
+msgid "Manage Moderators"
+msgstr "Moderátorok kezelése"
+
+msgid "Map Data"
+msgstr "Térkép adatok"
+
+msgid "Maximize"
+msgstr "Maximalizálás"
+
+msgid "Minimum Color Distance"
+msgstr "Minimális színtartomány"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Moderátori eszközök"
+
+msgid "Move"
+msgstr "Mozgatás"
+
+msgid "Mute"
+msgstr "Némít"
+
+msgid "Muted Sound"
+msgstr "Némítva"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Name can't be empty."
+msgstr "A név nem lehet üres."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "A név érvénytelen karaktereket tartalmaz mint például: @, /, \\ vagy #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "A névnek legalább 2 karakterből kell állnia"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "A név nem lehet hosszabb 26 karakternél"
+
+msgid "Name or Email"
+msgstr "Név vagy e-mail cím"
+
+msgid "New Mail"
+msgstr "Új e-mail cím"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Új jelszó"
+
+msgid "New Username"
+msgstr "Új Felhasználónév"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Nincs megadva captcha-azonosító"
+
+msgid "No or invalid captcha text"
+msgstr "Nincs vagy érvénytelen captcha szöveg"
+
+msgid "No password given."
+msgstr "Nem adtál meg jelszót."
+
+msgid "Not allowed"
+msgstr "Nem megengedett"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "Rendben"
+
+msgid "Offset"
+msgstr "Eltolás"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Régi jelszó"
+
+msgid "Online Users"
+msgstr "Elérhető felhasználók"
+
+msgid "Online Users on Canvas"
+msgstr "Online felhasználók a vásznon"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "Az overlay átlátszósága százalékban."
+
+msgid "Open Chat"
+msgstr "Chat kinyitása"
+
+msgid "Open Menu"
+msgstr "Menü kinyitása"
+
+msgid "Open Palette"
+msgstr "Paletta kinyitása"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"A fő vásznunk egy hatalmas világtérkép, ahol akkor rajzolsz rá, amikor "
+"szeretnél, de a pixelek között várnod kell. A kérdéses időtartamról és a "
+"feltételekről a vászon kiválasztó menüben (földgömb ikon felül) "
+"tájékozódhatsz. Néhány vásznon más-más töltési idő tartozik a többi játékos "
+"által elhelyezett illetve a friss pixelekhez, tehát a 4mp/7mp azt jelenti, "
+"hogy a friss pixelek 4mp-t, míg a már beállított pixelek megváltoztatása 7mp-"
+"t vesz le a teljes időtartamból."
+
+msgid "Overlay OFF"
+msgstr "Overlay kikapcsolva"
+
+msgid "Overlay ON"
+msgstr "Overlay bekapcsolva"
+
+msgid "Overlay Opacity"
+msgstr "Overlay átlátszósága"
+
+msgid "Palette Download"
+msgstr "Paletta letöltése"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Paletta ${ gimpLink } számára"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Password must be at least 6 characters long."
+msgstr "A jelszónak legalább 6 karakter hosszúságúnak kell lennie."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "A jelszónak 60 karakternél rövidebbnek kell lennie."
+
+msgid "Password successfully changed."
+msgstr "Sikeresen megváltoztattad a jelszót."
+
+msgid "Passwords do not match."
+msgstr "A jelszó nem stimmel."
+
+#, fuzzy, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Átváltottál ${ canvasName } vászonra"
+
+msgid "Pencil picks: "
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Megemlítés"
+
+msgid "Pixel Notify OFF"
+msgstr "Pixel-aktivitás kikapcsolva"
+
+msgid "Pixel Notify ON"
+msgstr "Pixel-aktivitás bekapcsolva"
+
+msgid "Pixel Protection"
+msgstr "Pixel védelem"
+
+msgid "Pixel protected"
+msgstr "Védett pixel"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Helyezz el pixeleket egy hatalmas online vásznon más játékosokkal együtt!"
+
+msgid "Placed Pixels"
+msgstr "Elhelyezett Pixelek"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Új üzenet érkezésekor hang lejátszása"
+
+#, fuzzy
+msgid "Player"
+msgstr "Lejátszó"
+
+msgid "Players and Pixels per hour"
+msgstr "Játékosok és pixelek óránként"
+
+msgid "Please prove that you are human"
+msgstr "Kérlek, bizonyítsd be, hogy ember vagy"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Politikai iránytű vászon"
+
+msgid "Potato Mode"
+msgstr "Kenyérpirító mód"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Nyomd meg a ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } "
+"gombokat a mozgáshoz"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Nyomd meg a ${ bindG } gombot a rács váltásához"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Nyomd meg a ${ bindH } gombot a történelmi nézet váltásához"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr ""
+"Nyomd meg a ${ bindQ } és ${ bindE } gombokat a felfelé és lefelé repüléshez"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Nyomd meg a ${ bindQ } vagy az ${ bindE } gombot a zoomoláshoz"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Nyomd meg az ${ bindR } gombot a koordináta másolásához"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr ""
+"Nyomd meg a ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } gombokat a "
+"mozgáshoz"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr ""
+"Nyomd meg az ${ bindX } gombot a pixel-aktivitás megjelenítésének váltásához"
+
+msgid "Private"
+msgstr "Privát"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Tiltott tartomány"
+
+msgid "Ranked"
+msgstr "Rangsorolt"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"A rangsor 5 percenként frissül. A napi ranglisták pedig UTC idő szerint "
+"éjfélkor."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Indok"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "Regisztráció"
+
+msgid "Register new account here"
+msgstr "Új fiók regisztrálása itt"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Újra"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Moderátor eltávolítása"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Követelmény(ek)"
+
+msgid "Reset"
+msgstr "Visszaállítás"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Átméretezés"
+
+msgid "Restore"
+msgstr "Visszaállítás"
+
+msgid "Retired Canvases (history only)"
+msgstr "Nyugdíjazott vásznak (csak történelmi nézet)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+#, fuzzy
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr ""
+"A vászon egy területének visszaállítása egy meghatározott dátumra (00:00 UTC)"
+
+msgid "Rollback to Date"
+msgstr "Visszaállítás egy dátumra"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Scale Image"
+msgstr "Méretarányos kép"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Görgess egérgörgővel ${ mouseSymbol } vagy csúsztasd két ujjal $"
+"{ touchSymbol } a zoomoláshoz"
+
+msgid "Select Date above"
+msgstr "Válassz a fenti dátumokból"
+
+msgid "Select File"
+msgstr "Fájl kiválasztása"
+
+msgid "Select Language"
+msgstr "Nyelv kiválasztása"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Válaszd ki a használni kívánt vásznat.\n"
+"Minden vászon egyedi, és sajátos színpalettával, töltési idővel illetve "
+"követelményekkel rendelkezik.\n"
+"Az eltávolított vásznak archívuma itt érhető el:"
+
+msgid "Selected Color"
+msgstr "Kiválasztott szín"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"Elküldtük az e-mailt az instrukciókkal együtt a jelszó megváltoztatásához."
+
+msgid "Serpentine"
+msgstr "Serpentine"
+
+msgid "Server answered with gibberish :("
+msgstr "A szerver zagyvaságokkal válaszolt :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr "A szervert összezavarták a pixeleid. Több eszközön is játszol?"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Területek védelmének beállítása (ha finomabb ellenőrzésre van szükséged, "
+"használd a képfeltöltéssel és az alfa rétegekkel való védelmet)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Rács megjelenítése"
+
+msgid "Show Grid in white instead of black."
+msgstr "Rács megjelenítése fekete helyett fehéren."
+
+msgid "Show Pixel Activity"
+msgstr "Pixel-aktivitás megjelenítése"
+
+msgid "Show circles where pixels are placed."
+msgstr "A pixelek lerakásakor körök jelennek meg."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr "Az overlay kis egyedi pixelként jelenik meg nagy zoomolási szinteken."
+
+msgid "Show templates as overlays ingame."
+msgstr "Sablonok megjelenítése overlay-ként a játékban."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "Kis pixeles nagyítás"
+
+msgid "Social Settings"
+msgstr "Szociális beállítások"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "Időtartam"
+
+msgid "Start chatting here"
+msgstr "Kezdj el csevegni itt"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Statisztikák"
+
+msgid "Status: Not running"
+msgstr "Állapot: Nem fut"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Tisztítás leállítása"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Küldés"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Átváltottál ${ canvasName } vászonra"
+
+msgid "Template Name"
+msgstr "Sablon neve"
+
+msgid "Templates"
+msgstr "Sablonok"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"A nyers térképadatok a tájékozódáshoz használt átkonvertált OpenStreetMap "
+"mozaikokkal együtt letölthetőek a mega.nz-ről itt: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Témák"
+
+#, fuzzy
+msgid "This URL is not supported by our Media Player"
+msgstr "A mi lejátszónk nem támogatja ezt az URL-t"
+
+msgid "This canvas doesn't exist"
+msgstr "Ez a vászon nem létezik"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Ez a vászon a földi vásznon zajló politikai konfliktusok alatt lett "
+"kérvényezve. A politikai iránytű 1024x1024 reprezentációja 5mp töltési "
+"idővel és 60mp időtartamig. Május 11-én indult el, és hónapokig aktív volt, "
+"amíg november 30-án le nem állítottuk."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Időtúllépés"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Tipp: Nem számít a kis- és nagybetű; az I és az l ugyanaz"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Eleged van abból, hogy mindig csak egy színt használsz? Szeretnél helyette "
+"műalkotásokat létrehozni, de ehhez pixeleket kell számolnod egy másik "
+"képből? A sablonok segíthetnek ebben! A sablonok megjelenhetnek overlay-"
+"ként, és rajzolhatsz felettük. Egy pixelnek a sablonon, egy pixelnek kell "
+"lennie a vásznon."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Ma"
+
+msgid "Today Placed Pixels"
+msgstr "Mai elhelyezett pixelek"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Top 10 ország [pixelek / nap]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Top 10 napi rangsor"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Top 10 játékos [pixelek / nap]"
+
+#, fuzzy
+msgid "Top 10 Players from Yesterday"
+msgstr "Top 10 játékos [pixelek / nap]"
+
+msgid "Top-left corner"
+msgstr "Bal felső sarok"
+
+msgid "Total"
+msgstr "Összes"
+
+msgid "Total Online Users"
+msgstr "Összes online felhasználó"
+
+#, fuzzy
+msgid "Total Pixels per Player"
+msgstr "Naponta elhelyezett pixelek száma"
+
+msgid "Total Pixels placed per day"
+msgstr "Naponta elhelyezett pixelek száma"
+
+msgid "Total Rank"
+msgstr "Összesített helyezés"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"A terület minden pixelét állítsd 0-ra (TÉNYLEG NEM KELL EZT MEGCSINÁLNOD "
+"SEMMELYIK TERÜLETEN, AMELYIK NEM TELJESEN 0)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Kapcsold be a rácsot, hogy lásd a pixelhatárokat."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Írd be az alábbi képen látható karaktereket:"
+
+msgid "Unblock Users"
+msgstr "Felhasználók letiltásának feloldása"
+
+msgid "Unknown Captcha Error"
+msgstr "Ismeretlen Captcha hiba"
+
+msgid "Unknown Error"
+msgstr "Ismeretlen hiba"
+
+msgid "Unmuted Sound"
+msgstr "Hang"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Képek feltöltése a vászonra"
+
+#, fuzzy
+msgid "Use our custom cursor"
+msgstr "Használja a saját kurzorainkat"
+
+msgid "User"
+msgstr "Felhasználó"
+
+msgid "User Account"
+msgstr "Felhasználói fiók"
+
+msgid "User Area"
+msgstr "Felhasználói terület"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Felhasználó neve"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Úgy döntöttünk, hogy gyorsított felvételként archiváljuk veszteségmentesen "
+"kódolt webm formátumban. A gyorsított felvételből készített képernyőfotó "
+"tökéletes 1:1 arányú ábrázolást eredményez arról, hogy milyen volt a vászon "
+"abban az időben."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Köszönetet szeretnénk mondani azoknak a művészeknek, akik felajánlották "
+"palettáikat a közönségnek:"
+
+msgid "Weird"
+msgstr "Furcsa"
+
+#, fuzzy
+msgid "What the pencil should draw on the current canvas."
+msgstr "Mit rajzoljon a ceruza a jelenlegi vászonra"
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Bár általában nem törlünk vásznakat, ám néhány vásznat csak szórakozásból "
+"vagy olyan felhasználók kérésére indítottunk, akiknek éppen tetszett egy "
+"mém. Ezek a vásznak egy idő után unalmassá válnak, és ha hetekig nem "
+"történik nagyobb változás, akkor már tényleg nem érdemes őket fenntartani."
+
+msgid "Why?"
+msgstr "Miért?"
+
+msgid "Width"
+msgstr "Szélesség"
+
+msgid "Wrong Color"
+msgstr "Nem megfelelő szín"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Yes, Delete My Account!"
+msgstr "Igen, töröld a fiókomat!"
+
+msgid "Yesterday"
+msgstr "Tegnap"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "Proxyt használsz."
+
+msgid "You are weird"
+msgstr "Furcsa vagy"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr "Ehhez a vászonhoz még nem férsz hozzá. Több pixelt kell elhelyezned"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Mostantól többet is elhelyezhetsz a pixunivers.fun oldalon :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Nem sikerült a captcha"
+
+msgid "You have new messages in chat"
+msgstr "Új üzeneteid vannak a chaten"
+
+msgid "You have no users blocked"
+msgstr "Nincsenek letiltott felhasználóid"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "A vászon használatához be kell jelentkezned"
+
+msgid "You made too many requests"
+msgstr "Túl sok kérést küldtél"
+
+msgid "You must be logged in to chat"
+msgstr "Be kell jelentkezned a csevegéshez"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "Meg kell adnod egy időtartamot"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "Meg kell adnod egy IID-t"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Túl sokáig próbáltad, próbáld újra."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"A böngésződ nem engedi, hogy AudioContextet használjunk a hangok "
+"lejátszásához. Van valamilyen adatvédelmi rendszered, amely blokkol minket?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Az internetszolgáltatód nem játszhat ezzel a játékkal"
+
+msgid "Your ban expires at "
+msgstr "A kitiltásod ekkor jár le "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "A következő pixeleid készen állnak"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Ha a zoomolás túl kicsi ahhoz, hogy pixelt helyezz el, automatikusan "
+"kinagyítja."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "és ${ canvas.req } pixel letétele"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "megemlített téged"
+
+msgid "or login with:"
+msgstr "vagy jelentkezz be a következővel:"
+
+msgid "or register here:"
+msgstr "vagy regisztrálj itt:"
+
+msgid "recommended"
+msgstr "ajánlott"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "Próbáld meg újra ${ ti } perc múlva"
+
+msgid "x out of bounds"
+msgstr "Érvénytelen x koordináta"
+
+msgid "y out of bounds"
+msgstr "Érvénytelen y koordináta"
+
+msgid "z out of bounds"
+msgstr "Érvénytelen z koordináta"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "Felugró"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Ki lettél tiltva. Szerinted ez indokolatlan? Nézd meg a "
+
+#~ msgid "Registration"
+#~ msgstr "Regisztrálás"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Elfelejtett jelszó"
+
+#~ msgid " on how to appeal."
+#~ msgstr " fület a fellebbezés módjáról."
+
+#~ msgid "Unbanned"
+#~ msgstr "Kitiltás feloldva"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "Most, hogy láttad ezt az üzenetet, már nem vagy kitiltva."
+
+#~ msgid "Source on "
+#~ msgstr "Forráskód "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Ha hamisan gondoljuk azt, hogy proxyt használsz, vagy jogtalannak "
+#~ "gondolod a kitiltásodat, kérjük látogass el a ${ guildedLink } szerverre, "
+#~ "vagy írj egy levelet az ${ mailLink } e-mail címre az alábbi IID-vel "
+#~ "együtt:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Csatlakozz hozzánk Discordon:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "A neved: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Felhasználónév megváltoztatása"
+
+#~ msgid "Change Mail"
+#~ msgstr "E-mail cím megváltoztatása"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Kérlek erősítsd meg az e-mail címedet, különben a fiókod néhány napon "
+#~ "belül törlésre kerülhet."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Sikeresen megváltoztattad az e-mail címedet. Küldtünk neked egy ellenőrző "
+#~ "levelet, kérjük, erősítsd meg az új e-mail címedet."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Minden privát üzenet blokkolása"
+
+#~ msgid "There are no mods"
+#~ msgstr "Nincsenek moderátorok"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "Országok napi helyezése"
+
+#~ msgid "Pixels placed"
+#~ msgstr "Elhelyezett pixelek"
+
+#~ msgid "History Pencil ON"
+#~ msgstr "Történelmi ceruza bekapcsolva"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "Overlay ceruza bekapcsolva"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Tartsd lenyomva a jobb ${ bindShift }-et, hogy kattintás nélkül rajzolj a "
+#~ "történelmi nézet szerint"
+
+#~ msgid "Right-Shift Auto-Color"
+#~ msgstr "Jobb Shift-tel automatikus színezés"
+
+#~ msgid "Place pixels from overlay on right-shift, instead of history."
+#~ msgstr ""
+#~ "Pixelek elhelyezése az overlay-ből a jobb oldali shift-tel, a történelmi "
+#~ "nézet helyett."
+
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr ""
+#~ "Nem érkezett válasz a pixuniversetől. Próbáld meg frissíteni az oldalt."
+
+#~ msgid "Place more :)"
+#~ msgstr "Rajzolj többet :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "A proxy használata tiltott :("
+
+#~ msgid "Show Hidden Canvases"
+#~ msgstr "Rejtett vásznak megjelenítése"
+
+#~ msgid "Hide Hidden Canvases"
+#~ msgstr "Rejtett vásznak elrejtése"
+
+#~ msgid "Coordinates in X_Y format:"
+#~ msgstr "Koordináták X_Y formátumban:"
+
+#~ msgctxt "keybinds"
+#~ msgid "C"
+#~ msgstr "C"

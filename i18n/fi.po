@@ -1,0 +1,1796 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"PO-Revision-Date: 2025-10-26 12:52+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Finnish <https://translate.gs-os.com/projects/ppfun/client/fi/"
+">\n"
+"Language: fi\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid " which is in "
+msgstr " joka on "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } Klikkaa vasenta hiirinäppäintä ja vedä hiirtä kääntääksesi"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } klikkaa vasemmalla tai ${ touchSymbol } napauta "
+"asettaaksesi pikseleitä"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "${ mouseSymbol } Klikkaa oikealta ja vedä hiirtä panoroidaksesi"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } Klikkaa oikealta tai ${ touchSymbol } tuplaklikkaa "
+"poistaaksesi pikselin"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Skrollaa hiirellä tai paina ${ mouseSymbol } hiiren "
+"keskinäppäintä pitkään ja vedä zoomataksesi"
+
+msgid "(0 = infinite)"
+msgstr ""
+
+msgid "+last hour"
+msgstr "+viime tunnilta"
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Sinulle lähetetään uusi vahvistusviesti."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Lisää Ruudukko (Jätä rastittamatta jos tarvitset 1:1 mallikkeen)"
+
+msgid "Add Template"
+msgstr "Lisää malline"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "Kaikki äänet mykistetään."
+
+msgid "Always show Movement Controls"
+msgstr "Näytä aina kontrollit"
+
+msgid "Always show movement control buttons"
+msgstr "Näyttää kontrollit aina"
+
+msgid "Anti Aliasing"
+msgstr "Anti aliasing"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr ""
+
+msgid "Archive"
+msgstr "Arkisto"
+
+msgid "Assign new Mod"
+msgstr ""
+
+msgid "Auto Zoom In"
+msgstr "Automaattinen zoomaus"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Porttikielto"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Porttikielto? Tunnistettu proxynä?"
+
+msgid "Block"
+msgstr ""
+
+msgid "Block DMs"
+msgstr ""
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr ""
+
+msgid "Build image and set it to protected."
+msgstr ""
+
+msgid "Build image on canvas."
+msgstr ""
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr ""
+
+msgid "By Mod"
+msgstr "Moderaattorilta"
+
+msgid "Calculate like GIMP"
+msgstr "Laske kuin GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Ei voida viedä enemmän kuin 20 tai ei mallia!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Ei voida tuoda enemmän kuin 20 tai ei mallia!"
+
+msgid "Can't read? Reload:"
+msgstr "Lataa uudelleen:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr ""
+"3D-kehyksen renderöinti epäonnistui. Oletko poistanut WebGL2:en käytöstä?"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Cancel adding Template"
+msgstr "Peru mallineen lisääminen"
+
+msgid "Canvas"
+msgstr "Kehys"
+
+msgid "Canvas Archive"
+msgstr "Kehysarkisto"
+
+msgid "Canvas Cleaner"
+msgstr ""
+
+msgid "Canvas Error"
+msgstr "Kehyksessä virhe"
+
+msgid "Canvas Selection"
+msgstr "Kehysvalikko"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "Vaihda nimi"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Vaihda salasana"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Kanava-asetukset"
+
+msgid "Charts"
+msgstr "Kaaviot"
+
+msgid "Chat"
+msgstr "Keskustelu"
+
+msgid "Chat here"
+msgstr "Keskustele täällä"
+
+msgid "Check out past versions of the canvas."
+msgstr "Näyttää kehysten vanhat versiot."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr ""
+
+msgid "Choose Canvas"
+msgstr "Valitse kanvaasi"
+
+msgid "Choose Color Mode"
+msgstr "Valitse väritystapa"
+
+msgid "Choose Strategy"
+msgstr "Valitse strategia"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Klikkaa ${ mouseSymbol } hiiren keskinäppäintä tai ${ touchSymbol } paina "
+"pitkään valitaksesi osoittamasi värin"
+
+msgid "Click a color in palette to select it"
+msgstr "Klikkaa väriä paletista valitaksesi sen"
+
+msgid "Click here to request a new verification mail."
+msgstr "Napsauta tätä pyytääksesi uutta vahvistussähköpostia."
+
+msgid "Click to Load Captcha"
+msgstr "Klikkaa ladataksesi Captchan"
+
+msgid "Clone"
+msgstr "Monista"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Close Chat"
+msgstr "Sulje keskustelu"
+
+msgid "Close Menu"
+msgstr "Sulje valikko"
+
+msgid "Close Palette"
+msgstr "Sulje väripaletti"
+
+msgid "Compact Palette"
+msgstr "Pienempi väripaletti"
+
+msgid "Confirm New Password"
+msgstr "Vahvista uusi salasanasi"
+
+msgid "Confirm Password"
+msgstr "Vahvista salasana"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Yhteysongelma ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Näppäimet"
+
+msgid "Convert an image to canvas colors"
+msgstr "Muunna kuva kanvaasin väreihin"
+
+msgid "Converter"
+msgstr "Konvertoija"
+
+msgid "Cooldown"
+msgstr "Jäähdytys"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+msgid "Coordinates"
+msgstr "Koordinaatit"
+
+msgid "Coordinates:"
+msgstr ""
+
+#, fuzzy
+msgid "Copied"
+msgstr "Kopioitu!"
+
+msgid "Copy"
+msgstr "Kopioi"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Kopioi leikepöydälle"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Ei voitu yhdistää palvelimeen, yritä uudelleen myöhemmin :("
+
+msgid "Could not load captcha"
+msgstr "Captchaa ei voitu ladata"
+
+msgid "Couldn't set Pixel"
+msgstr "Pikselin asetus ei onnistunut"
+
+msgid "Countries Today"
+msgstr "Maat tänään"
+
+msgid "Country"
+msgstr "Maa"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "Kiitokset 2bit-kehyksen väripaletista menee ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Kiitokset Kuu-kehyksen väripaletista menee ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Kiitokset Top10-kehyksen väripaletista menee ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr "Kustomoitu kursori"
+
+msgid "DM"
+msgstr ""
+
+msgid "Daily Pixels per Country"
+msgstr "Päivittäiset pikselit maittain"
+
+#, fuzzy
+msgid "Daily Pixels per Player"
+msgstr "Pikseleitä asetettu"
+
+msgid "Daily Rank"
+msgstr "Päivän sijoitukset"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Delete Account"
+msgstr "Poista käyttäjä"
+
+msgid "Deny"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr "pixuniverse ei vastaa. Kokeile päivittää sivu, jos ongelma jatkuu?"
+
+msgid "Dimensions"
+msgstr "Ulottovuudet"
+
+msgid "Disable Game Sounds"
+msgstr "Mykistä pelin äänet"
+
+msgid "Disable History Pencil"
+msgstr "Sulje historiakynä"
+
+msgid "Disable Overlay Pencil"
+msgstr "Sulje päällyskynä"
+
+msgid "Disable Pencil"
+msgstr "Sulje kynä"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "Näyttää väripaletin pienempänä."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr ""
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr ""
+
+msgid "Download Template"
+msgstr "Lataa Malline"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr "Vedä ${ mouseSymbol } hiirtä tai ${ touchSymbol } panoroi liikkuaksesi"
+
+msgid "Duration"
+msgstr "Kesto"
+
+msgid "Easter Egg OFF"
+msgstr "Pääsiäismuna POIS"
+
+msgid "Easter Egg ON"
+msgstr "Pääsiäismuna PÄÄLLÄ"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Email"
+msgstr "Sähköpostiosoite"
+
+msgid "Email can't be empty."
+msgstr "Sähköposti-osio ei voi olla tyhjä."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Sähköpostit eivät voi olla yli 40 kirjainta pidempiä."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "Sähköpostissa tulee olla vähintään yksi piste"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Sähköpostin tulee olla vähintään 5 kirjainta pitkä."
+
+msgid "Email should contain a @"
+msgstr "Sähköpostissa tulee olla @-symboli"
+
+msgid "Enable Overlay"
+msgstr "Ota käyttöön päällystys"
+
+msgid "Enable Pencil"
+msgstr "Avaa kynä"
+
+msgid "Enable chat notifications"
+msgstr "Salli keskusteluilmoitukset"
+
+msgid "Enter Characters"
+msgstr "Kirjoita"
+
+msgid "Enter Reason"
+msgstr ""
+
+msgid "Enter UserName of new Mod"
+msgstr ""
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr ""
+"Kirjoita sähköpostiosoitteesi, ja me lähetämme sinulle ohjeet salasanan "
+"vaihtamiseen:"
+
+msgid "Error"
+msgstr "Virhe"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Virhe ${ retCode }"
+
+msgid "Error :("
+msgstr "Virhe :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "Vie käytössä olevat mallineet"
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Kun pelaat perunalla."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr "historiasta"
+
+#, fuzzy
+msgid "From Template"
+msgstr "Mallit"
+
+msgid "Get IID"
+msgstr "Näe IID"
+
+msgid "Get Pixels"
+msgstr ""
+
+msgid "Get Users"
+msgstr ""
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Maapallonäkymä"
+
+msgid "Go to"
+msgstr "Mene"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Ruudukko POIS"
+
+msgid "Grid ON"
+msgstr "Ruudukko PÄÄLLÄ"
+
+msgid "Have fun!"
+msgstr "Pidä hauskaa!"
+
+msgid "Height"
+msgstr "Pituus"
+
+msgid "Help"
+msgstr "Apua"
+
+#, fuzzy
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr "Tänne kerätään poistetut kehykset, joita on tällä hetkellä vain yksi."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Laajemmat näkymät päivittyvät hitaammin, ja 3D-maapallo päivitetään kerran "
+"päivässä."
+
+msgid "Historical View"
+msgstr "Historiallinen näkymä"
+
+#, fuzzy, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"Pidä vasen ${ bindShift } pohjassa asettaaksesi pikseleitä liikuttaessa "
+"hiirtä"
+
+msgid "How pixuniverse should look like."
+msgstr "Miltä pixuniversein pitäisi näyttää."
+
+msgid "I forgot my Password."
+msgstr "Unohdin salasanani."
+
+msgid "IID (optional)"
+msgstr ""
+
+msgid "IID Actions"
+msgstr ""
+
+msgid "IP Actions"
+msgstr ""
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Kuvien muuntaja"
+
+msgid "Image Upload"
+msgstr ""
+
+msgid "Import templates"
+msgstr "Tuo mallineita"
+
+msgid "Interval"
+msgstr ""
+
+msgid "Interval is invalid"
+msgstr ""
+
+msgid "Invalid Canvas"
+msgstr "Virheellinen kehys"
+
+msgid "Invalid Coordinates"
+msgstr "Virheelliset koordinaatit"
+
+msgid "Invalid color selected"
+msgstr "Virheellinen väri valittu"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Vain rekisteröidyille käyttäjille"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Vain eilispäivän 10 parasta saa asettaa tänne pikseleitä"
+
+msgid "Keep Ratio"
+msgstr "Pidä suhdeluku"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Vaalea ruudukko"
+
+msgid "Load Captcha"
+msgstr "Lataa Captcha"
+
+msgid "Loading"
+msgstr "Ladataan"
+
+msgid "Loading..."
+msgstr "Ladataan..."
+
+msgid "Log out"
+msgstr "Kirjaudu ulos"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Kirjaudu sisään"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "Kirjaudu sisään käyttääksesi lisää toimintoja ja tilastoja."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Kirjaudu sisään Nimellä tai sähköpostilla:"
+
+msgid "Make Screenshot"
+msgstr "Ota näyttökuva"
+
+msgid "Manage Moderators"
+msgstr ""
+
+msgid "Map Data"
+msgstr "Karttatiedot"
+
+msgid "Maximize"
+msgstr "Maksimoi"
+
+msgid "Minimum Color Distance"
+msgstr "Minimi värien etäisyys"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Modityökalut"
+
+msgid "Move"
+msgstr "Siirrä"
+
+msgid "Mute"
+msgstr ""
+
+msgid "Muted Sound"
+msgstr "Äänet pois"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Name can't be empty."
+msgstr "Nimi ei voi olla tyhjä."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Nimi sisältää kelvottomia merkkejä kuten @,/,\\ tai #"
+
+msgid "Name must be at least 2 characters long"
+msgstr ""
+"Nimen tulee olla vähintään 2 kirjainta pitkä saatanan runkkari, eli nimesi "
+"ei saa olla kyrpäsi pituinen"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Nimen tulee olla lyhyempi kuin 26 kirjainta"
+
+msgid "Name or Email"
+msgstr "Nimi tai Sähköposti"
+
+msgid "New Mail"
+msgstr ""
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Uusi salasana"
+
+msgid "New Username"
+msgstr ""
+
+msgid "No"
+msgstr "Ei"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Ei Captcha-ID:tä annettu"
+
+msgid "No or invalid captcha text"
+msgstr "Virheellinen tai ei ollenkaan Captcha-tekstiä"
+
+msgid "No password given."
+msgstr "Salasana jäi nyt antamatta jätkällä."
+
+msgid "Not allowed"
+msgstr "Kielletty"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr ""
+
+msgid "Online Users"
+msgstr "Käyttäjiä onlinessa"
+
+msgid "Online Users on Canvas"
+msgstr "Käyttäjiä kehyksessä"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "Päällysteen läpinäkymättömyys prosenteissa."
+
+msgid "Open Chat"
+msgstr "Avaa keskustelu"
+
+msgid "Open Menu"
+msgstr "Avaa valikko"
+
+msgid "Open Palette"
+msgstr "Avaa väripaletti"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Pääkehyksemme on laaja maailmankartta. Voit asettaa pikseleitä mihin vain, "
+"mutta sinun täytyy odottaa tietty aika, ennen kuin voit asettaa pikseleitä "
+"uudelleen. Voit katsoa ajan ja vaatimukset kehysvalikosta (maapallokuvake "
+"ylhäällä). Joissakin kehyksissä tämä aika on eri niissä pikseleissä, johon "
+"on jo asetettu pikseli, kuin niissä, joihin ei ole vielä asetettu pikseliä. "
+"Esimerkiksi 4s/7s tarkoittaa, että koskemattomissa pikseleissä aika on 4 "
+"sekuntia, koskettuissa 7 sekuntia."
+
+msgid "Overlay OFF"
+msgstr "Peite POIS"
+
+msgid "Overlay ON"
+msgstr "Peite PÄÄLLÄ"
+
+msgid "Overlay Opacity"
+msgstr "Päällysteen läpinäkymättömyys"
+
+msgid "Palette Download"
+msgstr "Lataa väripaletti"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Väripaletti ${ gimpLink }:kiä varten"
+
+msgid "Password"
+msgstr "Salasana"
+
+msgid "Password must be at least 6 characters long."
+msgstr "salasanan tulee olla yli 6 merkkiä pidempi."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Salasanan tulee olla 60 merkkiä lyhyempi."
+
+msgid "Password successfully changed."
+msgstr ""
+
+msgid "Passwords do not match."
+msgstr "Salasanat eivät täsmää."
+
+#, fuzzy, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Vaihdettu ${ canvasName }"
+
+msgid "Pencil picks: "
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr ""
+
+msgid "Pixel Notify OFF"
+msgstr "Pikseliaktiivisuus POIS"
+
+msgid "Pixel Notify ON"
+msgstr "Pikseliaktiivisuus PÄÄLLÄ"
+
+msgid "Pixel Protection"
+msgstr ""
+
+#, fuzzy
+msgid "Pixel protected"
+msgstr "Pikseli suojattu!"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Aseta värikkäitä pikseleitä suurelle kehykselle muiden pelaajien kanssa!"
+
+msgid "Placed Pixels"
+msgstr "Laitetut pikselit"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Soita ääni kun uusia viestejä tulee"
+
+msgid "Player"
+msgstr "Pelaaja"
+
+msgid "Players and Pixels per hour"
+msgstr ""
+
+msgid "Please prove that you are human"
+msgstr "Todista olevasi ihminen"
+
+msgid "Please refresh the website"
+msgstr "Päivitä sivusto"
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Poliittinen kompassi -kehys"
+
+msgid "Potato Mode"
+msgstr "Perunamuoto"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Paina ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } "
+"liikkuaksesi"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Paina ${ bindG } vaihtaaksesi ruudukkon näkyvyyttä"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Paina ${ bindH } vaihtaaksesi historiallisen näkymän näkyvyyttä"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Paina ${ bindQ } ja ${ bindE } lentääksesi ylös ja alas"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Paina ${ bindQ } tai ${ bindE } zoomataksesi"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Paina ${ bindR } kopioidaksesi koordinaatit"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Paina ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } liikkuaksesi"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "Paina ${ bindX } vaihtaaksesi pikseliaktiivisuuden näkymistä"
+
+msgid "Private"
+msgstr ""
+
+msgid "Profile"
+msgstr "Profiili"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Laaja porttikielto"
+
+msgid "Ranked"
+msgstr "Rankattu"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Sijoitukset päivittyvät viiden minuutin välein. Päivän sijoitukset nollataan "
+"kahdelta suomen aikaan."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Syy"
+
+msgid "Refresh"
+msgstr "Päivitä"
+
+msgid "Register"
+msgstr "rekisteröidy"
+
+msgid "Register new account here"
+msgstr "Rekisteröidy täällä"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Lataa uudelleen"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr ""
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Vaatimukset"
+
+msgid "Reset"
+msgstr "Nollaa muunnokset"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Muuta kokoa"
+
+msgid "Restore"
+msgstr "Palauta"
+
+msgid "Retired Canvases (history only)"
+msgstr "Vanhat kehykset (vain historiallinen näkymä)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr ""
+
+msgid "Rollback to Date"
+msgstr ""
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Scale Image"
+msgstr "Muunna kuvan kokoa"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Skrollaa ${ mouseSymbol } hiirellä tai ${ touchSymbol } nipistä zoomataksesi"
+
+msgid "Select Date above"
+msgstr "Valitse päivämäärä"
+
+msgid "Select File"
+msgstr "Valitse Tiedosto"
+
+msgid "Select Language"
+msgstr "Valitse kieli"
+
+#, fuzzy
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Valitse kehys, jota haluat käyttää.\n"
+"Jokainen kehys on erilainen ja tarjoaa erilaiset väripaletit, jäähtymisajat "
+"ja vaatimukset.\n"
+"Poistettujen kehysten arkisto on täällä:"
+
+#, fuzzy
+msgid "Selected Color"
+msgstr "Valitse Tiedosto"
+
+msgid "Send"
+msgstr "Lähetä"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"Sinulle lähetettiin sähköposti, jossa on ohjeet salasanan vaihtamiseen."
+
+msgid "Serpentine"
+msgstr "Serpentine"
+
+msgid "Server answered with gibberish :("
+msgstr "Palvelin vastasi mongerruksella :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr "Palvelin hämmentyi pikseleistäsi. Pelaatko usealla laitteella?"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Näytä ruudukko"
+
+msgid "Show Grid in white instead of black."
+msgstr "Näyttää ruudukon vaaleana mustan sijasta."
+
+msgid "Show Pixel Activity"
+msgstr "Näytä pikseliaktiivisuus"
+
+msgid "Show circles where pixels are placed."
+msgstr "Näyttää punaisia palloja siellä, missä asetetaan pikseleitä."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"Näytä päällystys pienienä yksittäisinä pikseleinä korkeilla zoomitasoilla."
+
+msgid "Show templates as overlays ingame."
+msgstr "Näytä mallineet päällysteinä pelissä."
+
+msgid "Size"
+msgstr ""
+
+#, fuzzy
+msgid "Small Pixels When Zoomed"
+msgstr "Näytä Pienet Pikselit Zoomatessa"
+
+msgid "Social Settings"
+msgstr "Sosiaaliset asetukset"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr ""
+
+msgid "Start chatting here"
+msgstr "Aloita keskustelu täällä"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Statistiikat"
+
+msgid "Status: Not running"
+msgstr ""
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr ""
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Lähetä"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Vaihdettu ${ canvasName }"
+
+msgid "Template Name"
+msgstr "sapluunan nimi"
+
+msgid "Templates"
+msgstr "Mallit"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Karttatiedot joita käytämme, sekä OpenStreetMapin karttalaatat "
+"suunnistamista varten, voit ladata mega.nz:stä: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Teemat"
+
+msgid "This URL is not supported by our Media Player"
+msgstr "Mediasoitin ei tue tätä URL-osoitetta."
+
+msgid "This canvas doesn't exist"
+msgstr "Tätä kehystä ei ole olemassa"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Tätä kehystä pyydettiin pääkehyksen poliittisten konfliktien aikana. Se oli "
+"1024x1024-kokoinen poliittinen kompassi 5 sekunnin jäähdytysajalla ja 60 "
+"sekunnin keräysajalla. Se esiteltiin toukokuun 11. päivänä pysyen "
+"aktiivisena kuukausien ajan, kunnes se poistettiin marraskuun 30. päivänä."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Aikakatkaisu"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Muista: Kirjainkoolla ei ole väliä, I ja l ovat sama"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Oletko kyllästynyt vain yhden värin käyttämiseen? Haluatko tehdä taidetta "
+"sen sijaan, mutta joudut laskemaan pikseleitä jostain muusta kuvasta? "
+"Mallineet voi auttaa sinua sen kanssa! Mallineita voi käyttää päällystyksenä "
+"ja voit piirtää niiden päällä. Yksi pikseli mallineella pitäisi olla yksi "
+"pikseli kanvaasilla."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Tänään"
+
+msgid "Today Placed Pixels"
+msgstr "Tänään laitetut pikselit"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr ""
+
+msgid "Top 10 Daily Ranking"
+msgstr "Top 10 Päivittäinen listaus"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr ""
+
+msgid "Top 10 Players from Yesterday"
+msgstr "Top 10 pelajat eilen"
+
+msgid "Top-left corner"
+msgstr ""
+
+msgid "Total"
+msgstr "kokonaisuus"
+
+msgid "Total Online Users"
+msgstr "Kaikkiaan käyttäjiä paikalla"
+
+#, fuzzy
+msgid "Total Pixels per Player"
+msgstr "Pikseleitä asetettu"
+
+msgid "Total Pixels placed per day"
+msgstr ""
+
+msgid "Total Rank"
+msgstr "Kokonaissijoitukset"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Näyttää ruudukon nähdäksesi pikselien rajat."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Kirjoita kuvassa esiintyvät kirjaimet tai numerot:"
+
+msgid "Unblock Users"
+msgstr ""
+
+msgid "Unknown Captcha Error"
+msgstr "Tuntematon Captcha Virhe"
+
+msgid "Unknown Error"
+msgstr "Tuntematon virhe"
+
+msgid "Unmuted Sound"
+msgstr "Äänet päällä"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr ""
+
+msgid "Use our custom cursor"
+msgstr "Käytä meidän kustomoitua kursoria"
+
+msgid "User"
+msgstr "Käyttäjä"
+
+msgid "User Account"
+msgstr "Käyttäjä"
+
+msgid "User Area"
+msgstr "Käyttäjäalue"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Päätimme arkistoida sen timelapsena koodatulla webm:llä. Kuvakaappauksen "
+"ottaminen timelapsesta antaa täydellisen 1:1-esityksen siitä, millainen "
+"kehys oli tuolloin."
+
+#, fuzzy
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Kiitämme näitä taiteilijoita, koska he tarjosivat väripalettinsa kaikille"
+
+msgid "Weird"
+msgstr "Outo"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Vaikkemme useimmiten poista kehyksiä, jotkin kehykset aloitetaan vain "
+"vitsillä. Tällaiset kehykset saattavat käydä tylsäksi ajan kuluessa ja ne "
+"poistetaan, jos ne eivät ole tarpeeksi aktiivisia."
+
+msgid "Why?"
+msgstr "Miksi?"
+
+msgid "Width"
+msgstr "Leveys"
+
+msgid "Wrong Color"
+msgstr "Väärä väri"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "Yes, Delete My Account!"
+msgstr ""
+
+msgid "Yesterday"
+msgstr "Eilen"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "Käytät proxyä."
+
+msgid "You are weird"
+msgstr "Olet outo"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+#, fuzzy
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"Et voi käyttää tätä kehystä vielä. Sinun täytyy asettaa enemmän pikseleitä"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Voit nyt asettaa lisää pikseleitä pixunivers.fun:ssa :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Sinä epäonnistuit captchassasi"
+
+msgid "You have new messages in chat"
+msgstr "Sinulla on uusia viestejä keskustelussa"
+
+msgid "You have no users blocked"
+msgstr ""
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Sinun täytyy kirjautua voidaksesi asettaa pikseleitä tähän kehykseen"
+
+msgid "You made too many requests"
+msgstr "Teit liian monta pyyntöä"
+
+msgid "You must be logged in to chat"
+msgstr "Kirjaudu sisään keskustellaksesi"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr ""
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr ""
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Sinulla kesti liian kauan, kokeile uudestaan."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Selaimesi ei anna meidän käyttää AudioContextiä soittaaksemme ääniä. Onko "
+"sinulla jokin turvallisuustoiminto päällä, joka estää tämän?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+#, fuzzy
+msgid "Your Internet Provider is banned from this game"
+msgstr "Internet-palveluntarjoajasi on kielletty pelaamasta tätä peliä"
+
+msgid "Your ban expires at "
+msgstr "Porttikieltosi loppuu "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Seuraavat pikselisi ovat valmiina"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr "Zoomaa pikselin asettamisen sijasta."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "ja ${ canvas.req } pikseliä asetettu"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "mainitsi sinut"
+
+msgid "or login with:"
+msgstr "Tai kirjaudu:"
+
+msgid "or register here:"
+msgstr "tai rekisteröidy täällä:"
+
+msgid "recommended"
+msgstr "suositeltu"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "yritä uudelleen ${ ti } minuutin jälkeen"
+
+msgid "x out of bounds"
+msgstr "x kielletyllä alueella"
+
+msgid "y out of bounds"
+msgstr "y kielletyllä alueella"
+
+msgid "z out of bounds"
+msgstr "z kielletyllä alueella"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "B"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "Ponnahdusikkuna"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Sinulle on asetettu porttikielto. Oliko tämä virhe? Katso "
+
+#~ msgid "Registration"
+#~ msgstr "Rekisteröinti"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Unohditko salasanasi"
+
+#~ msgid " on how to appeal."
+#~ msgstr " tehdäksesi valituksen."
+
+#~ msgid "Unbanned"
+#~ msgstr "Porttikielto loppunut"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "Nähtyäsi tämän viestin, porttikieltosi on loppunut."
+
+#~ msgid "Source on "
+#~ msgstr "Lähde "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Jos sinut tunnistettiin proxynä, vaikket sitä ole, tai uskot saaneesi "
+#~ "porttikiellon syyttä, mene meidän ${ guildedLink } tai lähetä meille "
+#~ "viesti ${ mailLink } jossa mainitset seuraavan IID:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Liity Guildediin:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Nimesi on: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Vaihda nimi"
+
+#~ msgid "Change Mail"
+#~ msgstr "Vaihda sähköposti"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Vahvista sähköpostiosoitteesi tai tilisi voidaan poistaa muutaman päivän "
+#~ "kuluttua."
+
+#~ msgid "History Pencil ON"
+#~ msgstr "Historiakynä PÄÄLLÄ"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "Päällyskynä PÄÄLLÄ"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Pidä vasen ${ bindShift } pohjassa asettaaksesi pikseleitä liikuttaessa "
+#~ "hiirtä historiallisen näkymän mukaan"
+
+#~ msgid "Right-Shift Auto-Color"
+#~ msgstr "Right-Shift Automaattinen väritys"
+
+#~ msgid "Place pixels from overlay on right-shift, instead of history."
+#~ msgstr ""
+#~ "Aseta pikseleitä päällystyksestä painamalla Oikeaa shiftiä pohjaan, "
+#~ "historian tilalta. Painamalla oikeaa shiftiä pohjassa, peli valitsee "
+#~ "värit automaattisesti päällystystä käytettäessä."
+
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr "pixuniverse ei vastaa. Kokeile ladata sivu uudelleen?"
+
+#~ msgid "Place more :)"
+#~ msgstr "Aseta lisää pikseleitä :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "Proxyjä ei sallita :("

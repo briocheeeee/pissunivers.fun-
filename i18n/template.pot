@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: src\components\PerkManagement.jsx:151
+msgid "Chat Badges"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:208
+msgid "Default"
+msgstr ""
+
+#: src\routes\api\factions\create.js:92
+msgid "Faction name is already taken"
+msgstr ""
+
+#: src\routes\api\factions\create.js:97
+msgid "Faction tag is already taken"
+msgstr ""
+
+#: src\routes\api\factions\create.js:124
+msgid "Failed to create faction"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:112
+msgid "Failed to save some settings"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:118
+msgid "Network error"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:195
+msgid "Nickname Color"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:154
+msgid "No badges available yet. Earn badges by completing achievements!"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:267
+msgid "Profile Background"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:312
+msgid "Profile Bio"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:290
+msgid "Profile Frame"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:343
+msgid "Save All Perks"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:335
+msgid "Saved successfully!"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:343
+msgid "Saving..."
+msgstr ""
+
+#: src\components\PerkManagement.jsx:190
+msgid "Select badges to display next to your name in chat"
+msgstr ""
+
+#: src\components\PerkManagement.jsx:326
+msgid "Tell others about yourself..."
+msgstr ""
+
+#: src\components\PerkManagement.jsx:147
+msgid "VIP/Premium Perks"
+msgstr ""
+
+#: src\routes\api\factions\create.js:73
+msgid "You are already a member of a faction"
+msgstr ""
+
+#: src\routes\api\factions\create.js:79
+msgid "You have a pending join request. Cancel it first."
+msgstr ""

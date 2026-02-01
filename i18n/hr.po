@@ -1,0 +1,1820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-10 20:09+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Croatian <https://hosted.weblate.org/projects/pixuniverse/"
+"client/hr/>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.6-dev\n"
+
+msgid " which is in "
+msgstr " što znači u "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr "${ mouseSymbol } Držite lijevu tipku miša i povucite miš za rotiranje"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Lijevi klik ili ${ touchSymbol } dodirnite za postavljanje "
+"piksela"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "${ mouseSymbol } Desni klik i povlačenje miša za pomicanje"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } Desni klik ili ${ touchSymbol } dvaput dodirnite za "
+"uklanjanje piksela"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Pomaknite kotačić miša ili držite ${ mouseSymbol } srednju "
+"tipku miša i povucite za zumiranje"
+
+msgid "(0 = infinite)"
+msgstr "(0 = beskonačno)"
+
+msgid "+last hour"
+msgstr "+zadnji sat"
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Dobivate novu e-poruku za potvrdu."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Dodaj rešetku (poništite ako vam je potreban predložak 1:1)"
+
+msgid "Add Template"
+msgstr "Dodaj šablon"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "Svi zvučni efekti bit će onemogućeni."
+
+msgid "Always show Movement Controls"
+msgstr "Uvijek pokaži kontrole za kretnju"
+
+msgid "Always show movement control buttons"
+msgstr "Uvijek prikaži gumbe za kontrolu kretanja"
+
+msgid "Anti Aliasing"
+msgstr "Anti-Aliasing"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Primijenite filtar za čišćenje smeća na velikim površinama platna."
+
+msgid "Archive"
+msgstr "Arhiva"
+
+msgid "Assign new Mod"
+msgstr "Dodijeli novi Mod"
+
+msgid "Auto Zoom In"
+msgstr "Automatsko povećanje"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Zabranjeni ste"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Zabranjen? Otkriven kao proxy?"
+
+msgid "Block"
+msgstr "Blokiraj"
+
+msgid "Block DMs"
+msgstr "Blokiraj DM-ove"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Donji desni kut"
+
+msgid "Build image and set it to protected."
+msgstr "Izgradite sliku i postavite je na zaštićenu."
+
+msgid "Build image on canvas."
+msgstr "Izgradite sliku na platnu."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "Izgradite sliku, ali vratite vrijeme hlađenja na unset-pixel cd."
+
+msgid "By Mod"
+msgstr "Od moderatora"
+
+msgid "Calculate like GIMP"
+msgstr "Računajte kao GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Ne možete uvest više od 20 ili nijedan predložak!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Ne možete uvesti više od 20 ili nijedan predložak!"
+
+msgid "Can't read? Reload:"
+msgstr "Ne možete pročitati? Ponovno učitati:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "Ne možete prikazati 3D platno, jeste li onemogućili WebGL2?"
+
+msgid "Cancel"
+msgstr "Otkaži"
+
+msgid "Cancel adding Template"
+msgstr "Otkaži dodavanje šablona"
+
+msgid "Canvas"
+msgstr "Platno"
+
+msgid "Canvas Archive"
+msgstr "Arhiva platna"
+
+msgid "Canvas Cleaner"
+msgstr "Sredstvo za čišćenje platna"
+
+msgid "Canvas Error"
+msgstr "Pogreška platna"
+
+msgid "Canvas Selection"
+msgstr "Odabir platna"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+msgid "Change Happened"
+msgstr "Dogodila se promjena"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Promjena lozinkе"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Postavke kanala"
+
+msgid "Charts"
+msgstr "Dijagrami"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Chat here"
+msgstr "Ovdje razgovarajte"
+
+msgid "Check out past versions of the canvas."
+msgstr "Pogledajte prethodne verzije platna."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Provjerite tko je postavljao u neko područje"
+
+msgid "Choose Canvas"
+msgstr "Odaberi platno"
+
+msgid "Choose Color Mode"
+msgstr "Odaberite način rada u boji"
+
+msgid "Choose Strategy"
+msgstr "Odaberite strategiju"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Očistite rezervne piksele koji su okruženi jednom drugom bojom ili "
+"nepostavljenim pikselima (VRLO AGRESIVNO NA PLATNIMA KOJA DOPUŠTAJU "
+"NEPOSTAVLJENE PIKSELE (gdje postoje dva hlađenja)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Očistite rezervne piksele koji su okruženi nepostavljenim pikselima"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Očisti rezervne piksele koji su okruženi nepostavljenim pikselima i do 1 "
+"drugim postavljenim pikselima"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Kliknite ${ mouseSymbol } srednju tipku miša ili ${ touchSymbol } dugim "
+"dodirom za odabir trenutne boje lebdenja"
+
+msgid "Click a color in palette to select it"
+msgstr "Pritisnite boju u paleti da biste je odabrali"
+
+msgid "Click here to request a new verification mail."
+msgstr "Kliknite ovdje da zatražite novu e-poštu za potvrdu."
+
+msgid "Click to Load Captcha"
+msgstr "Kliknite za učitavanje Captcha"
+
+msgid "Clone"
+msgstr "Kloniraj"
+
+msgid "Close"
+msgstr "Zatvori"
+
+msgid "Close Chat"
+msgstr "Zatvori chat"
+
+msgid "Close Menu"
+msgstr "Zatvori izbornik"
+
+msgid "Close Palette"
+msgstr "Zatvori paletu"
+
+msgid "Compact Palette"
+msgstr "Kompaktna paleta"
+
+msgid "Confirm New Password"
+msgstr "Potvrdi novu lozinku"
+
+msgid "Confirm Password"
+msgstr "Potvrdite lozinku"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Pogreška veze ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Kontrole"
+
+msgid "Convert an image to canvas colors"
+msgstr "Pretvorite sliku u boje platna"
+
+msgid "Converter"
+msgstr "Konverter"
+
+msgid "Cooldown"
+msgstr "Hladjenje"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+"Cooldown se obično automatski mijenja za zemlju koja dominira. Na primjer, u "
+"slučaju napada streamera."
+
+msgid "Coordinates"
+msgstr "Koordinate"
+
+msgid "Coordinates:"
+msgstr "Koordinate:"
+
+msgid "Copied"
+msgstr "Kopirano"
+
+msgid "Copy"
+msgstr "Kopiraj"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Kopirati u međuspremnik"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Ne mogu se spojiti na poslužitelj, pokušajte ponovno kasnije :("
+
+msgid "Could not load captcha"
+msgstr "Nije moguće učitati captcha"
+
+msgid "Couldn't set Pixel"
+msgstr "Nije moguće postaviti Pixel"
+
+msgid "Countries Today"
+msgstr "Države danas"
+
+msgid "Country"
+msgstr "Država"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "Zasluga za paletu Top10 pripada ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Zasluge za paletu Mjeseca pripadaju ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Zasluga za paletu Top10 pripada ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr "Trenutačne promjene vremena cooldowna po zemlji"
+
+msgid "Custom Cursor"
+msgstr "Prilagođeni kursor"
+
+msgid "DM"
+msgstr "DM"
+
+msgid "Daily Pixels per Country"
+msgstr "Dnevni pikseli po zemlji"
+
+msgid "Daily Pixels per Player"
+msgstr "Dnevni pikseli po igraču"
+
+msgid "Daily Rank"
+msgstr "Dnevni rank"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "Izbriši"
+
+msgid "Delete Account"
+msgstr "Izbriši račun"
+
+msgid "Deny"
+msgstr ""
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Nisam dobio odgovor od pixuniversea. Možda pokušati osvježiti ako se problem "
+"nastavi."
+
+msgid "Dimensions"
+msgstr "Dimenzije"
+
+msgid "Disable Game Sounds"
+msgstr "Onemogući zvukove igre"
+
+msgid "Disable History Pencil"
+msgstr "Ugasi Povijest Olovku"
+
+msgid "Disable Overlay Pencil"
+msgstr "Ugasi Šablon Olovku"
+
+msgid "Disable Pencil"
+msgstr "Ugasi Olovku"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr ""
+"Prikaži paletu u kompaktnom obliku koji zauzima manje prostora na zaslonu."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Radite stvari s IP-ovima (jedan IP po retku)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "Ne prikazuj me u globalnoj statistici"
+
+msgid "Download Template"
+msgstr "Preuzmite šablon"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr "Povucite ${ mouseSymbol } mišem ili ${ touchSymbol } pan za pomicanje"
+
+msgid "Duration"
+msgstr "Trajanje"
+
+msgid "Easter Egg OFF"
+msgstr "Tajna OFF"
+
+msgid "Easter Egg ON"
+msgstr "Tajna ON"
+
+msgid "Edit"
+msgstr "Uredi"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email can't be empty."
+msgstr "Email ne može biti prazan."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Email ne smije biti duži od 40 znakova."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "Email treba sadržavati barem točku"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Email treba imati najmanje 5 znakova."
+
+msgid "Email should contain a @"
+msgstr "Email treba sadržavati @"
+
+msgid "Enable Overlay"
+msgstr "Omogući preklapanje"
+
+msgid "Enable Pencil"
+msgstr "Upali Olovku"
+
+msgid "Enable chat notifications"
+msgstr "Omogući obavijesti o chatu"
+
+msgid "Enter Characters"
+msgstr "Unesite znakove"
+
+msgid "Enter Reason"
+msgstr "Unesite razlog"
+
+msgid "Enter UserName of new Mod"
+msgstr "Unesite korisničko ime novog Mod"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Unesite svoju mail adresu i mi ćemo vam poslati novu lozinku:"
+
+msgid "Error"
+msgstr "Greška"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Pogreška ${ retCode}"
+
+msgid "Error :("
+msgstr "Greška :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "Izvoz omogućenih šablona"
+
+msgid "Factor"
+msgstr "Faktor"
+
+msgid "File"
+msgstr "Datoteka"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Jer kad igraš na krumpir."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr "Iz History mode-a"
+
+msgid "From Template"
+msgstr "Sa šablona"
+
+msgid "Get IID"
+msgstr "Uzmi IID"
+
+msgid "Get Pixels"
+msgstr "Nabavite piksele"
+
+msgid "Get Users"
+msgstr "Dobiti korisnike"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Pogled na globus"
+
+msgid "Go to"
+msgstr "Idi do"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Rešetka OFF"
+
+msgid "Grid ON"
+msgstr "Rešetka ON"
+
+msgid "Have fun!"
+msgstr "Zabavite se!"
+
+msgid "Height"
+msgstr "Visina"
+
+msgid "Help"
+msgstr "Pomoć"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Ovdje skupljamo ta platna da ih arhiviramo na odgovarajući način (što je "
+"trenutno samo jedno)."
+
+msgid "Hide Embed"
+msgstr "Sakrij Embed"
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Za ažuriranje viših razina zumiranja potrebno je neko vrijeme, 3D globus se "
+"ažurira barem jednom dnevno."
+
+msgid "Historical View"
+msgstr "Povijesni pogled"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr "Držite lijevo ${ bindShift } za postavljanje dok pomičete miš"
+
+msgid "How pixuniverse should look like."
+msgstr "Kako bi pixuniverse trebao izgledati."
+
+msgid "I forgot my Password."
+msgstr "Zaboravio sam lozinku."
+
+msgid "IID (optional)"
+msgstr "IID (izborno)"
+
+msgid "IID Actions"
+msgstr "IID radnje"
+
+msgid "IP Actions"
+msgstr "IP radnje"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Konverter slika"
+
+msgid "Image Upload"
+msgstr "Prijenos slike"
+
+msgid "Import templates"
+msgstr "Uvoz šablona"
+
+msgid "Interval"
+msgstr "Intervall"
+
+msgid "Interval is invalid"
+msgstr "Interval je nevažeći"
+
+msgid "Invalid Canvas"
+msgstr "Nevažeće platno"
+
+msgid "Invalid Coordinates"
+msgstr "Nevažeće koordinate"
+
+msgid "Invalid color selected"
+msgstr "Odabrana je nevažeća boja"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Samo za registrirane korisnike"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Ovdje može postavljati samo Top10 igrača od jučer"
+
+msgid "Keep Ratio"
+msgstr "Zadrži omjer"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Svijetla rešetka"
+
+msgid "Load Captcha"
+msgstr "Učitaj Captcha"
+
+msgid "Loading"
+msgstr "Učitavanje"
+
+msgid "Loading..."
+msgstr "Učitavam..."
+
+msgid "Log out"
+msgstr "Odjavite se"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Prijava"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "Prijavite se za pristup dodatnim značajkama i statistikama."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Prijavite se imenom ili e-poštom:"
+
+msgid "Make Screenshot"
+msgstr "Napravite snimak zaslona"
+
+msgid "Manage Moderators"
+msgstr "Upravljanje moderatorima"
+
+msgid "Map Data"
+msgstr "Podaci karte"
+
+msgid "Maximize"
+msgstr "Maksimiziraj"
+
+msgid "Minimum Color Distance"
+msgstr "Minimalna udaljenost boja"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Alati za moderatore"
+
+msgid "Move"
+msgstr "Premjesti"
+
+msgid "Mute"
+msgstr "Isključi zvuk"
+
+msgid "Muted Sound"
+msgstr "Ugašen zvuk"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "Name can't be empty."
+msgstr "Ime ne može biti prazno."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Naziv sadrži nevažeći znak kao što je @, /, \\ ili #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Ime mora imati najmanje 2 znaka"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Ime mora biti kraće od 26 znakova"
+
+msgid "Name or Email"
+msgstr "Ime ili email"
+
+msgid "New Mail"
+msgstr "Nova pošta"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Nova lozinka"
+
+msgid "New Username"
+msgstr "Novo korisničko ime"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Nije naveden captcha ID"
+
+msgid "No or invalid captcha text"
+msgstr "Nema ili nije valjan captcha tekst"
+
+msgid "No password given."
+msgstr "Lozinka nije navedena."
+
+msgid "Not allowed"
+msgstr "Nije dozvoljeno"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "U redu"
+
+msgid "Offset"
+msgstr "Pomak"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Nova lozinka"
+
+msgid "Online Users"
+msgstr "Online korisnici"
+
+msgid "Online Users on Canvas"
+msgstr "Online korisnici na platnu"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "Neprozirnost sloja u postocima."
+
+msgid "Open Chat"
+msgstr "Otvorite Chat"
+
+msgid "Open Menu"
+msgstr "Otvori izbornik"
+
+msgid "Open Palette"
+msgstr "Otvorite paletu"
+
+msgid "Open in PopUp"
+msgstr "Otvori u skočnom prozoru"
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Naše glavno platno je ogromna karta svijeta, koju možete postaviti gdje god "
+"želite, ali ćete morati čekati određeno hlađenje između piksela. Možete "
+"provjeriti vrijeme hlađenja i zahtjeve na izborniku Canvas Selection (gumb "
+"globusa na vrhu). Neka platna imaju drugačije vrijeme hlađenja za zamjenu "
+"piksela koje je postavio korisnik od postavljanja na nepostavljeni piksel. "
+"tj. 4s/7s znači 4s na svježe piksele i 7s na već postavljene piksele."
+
+msgid "Overlay OFF"
+msgstr "Preklapanje OFF"
+
+msgid "Overlay ON"
+msgstr "Ovеrlay ON"
+
+msgid "Overlay Opacity"
+msgstr "Prozirnost sloja"
+
+msgid "Palette Download"
+msgstr "Preuzimanje palete"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Paleta za ${ gimpLink }"
+
+msgid "Password"
+msgstr "Lozinka"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Lozinka mora imati najmanje 6 znakova."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Lozinka mora biti kraća od 60 znakova."
+
+msgid "Password successfully changed."
+msgstr "Lozinka je uspješno promijenjena."
+
+msgid "Passwords do not match."
+msgstr "Lozinke se ne podudaraju."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Mod olovke za platno ${ canvasName }"
+
+msgid "Pencil picks: "
+msgstr "Odabir olovke: "
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Pixel Notify OFF"
+msgstr "Notifikacija za pixele OFF"
+
+msgid "Pixel Notify ON"
+msgstr "Notifikacija za pixele ON"
+
+msgid "Pixel Protection"
+msgstr "Zaštita piksela"
+
+msgid "Pixel protected"
+msgstr "Pixel zaštićen"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr "Postavite piksele u boji na veliko platno s drugim igračima na mreži!"
+
+msgid "Placed Pixels"
+msgstr "Postavljeni pixeli"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Pusti zvuk kada stignu nove chat poruke"
+
+msgid "Player"
+msgstr "Igrač"
+
+msgid "Players and Pixels per hour"
+msgstr "Igrači i pikseli po satu"
+
+msgid "Please prove that you are human"
+msgstr "Molimo dokažite da ste čovjek"
+
+msgid "Please refresh the website"
+msgstr "Osvježi web stranicu"
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Platno političkog kompasa"
+
+msgid "Potato Mode"
+msgstr "Način krumpira"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Pritisnite ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } za "
+"pomicanje"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Pritisnite ${ bindG } za promjenu mreže"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Pritisnite ${ bindH } za prebacivanje povijesnog prikaza"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Pritisnite ${ bindQ } i ${ bindE } za let gore i dolje"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Pritisnite ${ bindQ } ili ${ bindE } za zumiranje"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Pritisnite ${ bindR } za kopiranje koordinata"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Pritisnite ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } za pomicanje"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr ""
+"Pritisnite ${ bindX } za uključivanje/isključivanje prikaza aktivnosti "
+"piksela"
+
+msgid "Private"
+msgstr "Privatno"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Rasponski banani"
+
+msgid "Ranked"
+msgstr "Rangirano"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Poredak se ažurira svakih 5 minuta. Dnevni poredak se resetira u ponoć UTC."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Razlog"
+
+msgid "Refresh"
+msgstr "Osvježi"
+
+msgid "Register"
+msgstr "Registracija"
+
+msgid "Register new account here"
+msgstr "Registrirajte novi račun ovdje"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Ponovno učitati"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Ukloni moderatora"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Zahtjevi"
+
+msgid "Reset"
+msgstr "Resetiraj"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Promjena veličine"
+
+msgid "Restore"
+msgstr "Vratiti"
+
+msgid "Retired Canvases (history only)"
+msgstr "Povučena platna (samo povijest)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "Rollback područje platna na postavljeni datum (00:00 UTC)"
+
+msgid "Rollback to Date"
+msgstr "Rollback na datum"
+
+msgid "Save"
+msgstr "Spremi"
+
+msgid "Scale Image"
+msgstr "Skaliraj sliku"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Pomičite ${ mouseSymbol } kotačić miša ili ${ touchSymbol } stisnite za "
+"zumiranje"
+
+msgid "Select Date above"
+msgstr "Označite datum iznad"
+
+msgid "Select File"
+msgstr "Odaberi datoteku"
+
+msgid "Select Language"
+msgstr "Izaberi jezik"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Odaberite platno koje želite koristiti. \n"
+"Svako je platno jedinstveno i ima različite palete, vrijeme hlađenja i "
+"zahtjeve. \n"
+" Arhivi zatvorenih platna možete pristupiti ovdje:"
+
+msgid "Selected Color"
+msgstr "Odabrana boja"
+
+msgid "Send"
+msgstr "Pošalji"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr "Poslao sam vam e-poštu s uputama za ponovno postavljanje lozinke."
+
+msgid "Serpentine"
+msgstr "Serpentina"
+
+msgid "Server answered with gibberish :("
+msgstr "Server je odgovorio besmislicama :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr "Vaši pikseli su zbunili poslužitelja. Igrate li na više uređaja?"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Postavite zaštitu područja (ako vam je potrebna preciznija kontrola, "
+"koristite zaštitu s učitavanjem slike i alfa slojevima)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Postavke"
+
+msgid "Show Embedded"
+msgstr "Pokaži Embedded"
+
+msgid "Show Grid"
+msgstr "Pokaži rešetku"
+
+msgid "Show Grid in white instead of black."
+msgstr "Pokaži rešetku u bijeloj umjesto u crnoj boji."
+
+msgid "Show Pixel Activity"
+msgstr "Prikaži aktivnost Pixela"
+
+msgid "Show circles where pixels are placed."
+msgstr "Prikažite krugove gdje su postavljeni pikseli."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"Prikaži sloj kao male pojedinačne pixele na visokim razinama zumiranja."
+
+msgid "Show templates as overlays ingame."
+msgstr "Prikaži šablone kao slojeve u igri."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "Zumiranje malih pixela"
+
+msgid "Social Settings"
+msgstr "Društvene postavke"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "Postavljanje do"
+
+msgid "Start chatting here"
+msgstr "Počnite razgovarati ovdje"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Status: Not running"
+msgstr "Status: Ne radi"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Zaustavi čistača"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Podnesi"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Prebačeno na ${ canvasName }"
+
+msgid "Template Name"
+msgstr "Ime šablona"
+
+msgid "Templates"
+msgstr "Šabloni"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Čisti kartografski podaci koje koristimo, zajedno s konvertiranim "
+"OpenStreetMap pločicama za orijentaciju, mogu se preuzeti s mega.nz ovdje: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Teme"
+
+msgid "This URL is not supported by our Media Player"
+msgstr "Ovaj link nije podržan od strane našeg Media Player-a"
+
+msgid "This canvas doesn't exist"
+msgstr "Ovo platno ne postoji"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Ovo je platno zatraženo u vrijeme političkih sukoba na glavnom platnu "
+"Zemlje. Bio je to 1024x1024 prikaz političkog kompasa s hlađenjem od 5 s i "
+"slaganjem od 60 s. Pokrenut je 11. svibnja i ostao je aktivan mjesecima dok "
+"se nije ugasio 30. studenog."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Pauza"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Savjet: nije osjetljivo na velika i mala slova; L i l su isti"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Umorni ste od uvijek spamanja jedne boje? Umjesto toga želite stvarati "
+"umjetnost, ali morate brojati pixele s neke druge slike? U tome vam mogu "
+"pomoći predlošci! Predlošci se mogu prikazati kao sloj i možete crtati preko "
+"njih. Jedan pixel na predlošku trebao bi biti jedan pixel na platnu."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Danas"
+
+msgid "Today Placed Pixels"
+msgstr "Današnji postavljeni pikseli"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "10 najboljih zemalja [pxls / dan]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Top 10 dnevni poredak"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "10 najboljih igrača [pxls / dan]"
+
+msgid "Top 10 Players from Yesterday"
+msgstr "Top 10 igrača od jučer"
+
+msgid "Top-left corner"
+msgstr "Gornji lijevi kut"
+
+msgid "Total"
+msgstr "Ukupno"
+
+msgid "Total Online Users"
+msgstr "Ukupno online korisnika"
+
+msgid "Total Pixels per Player"
+msgstr "Ukupni broj piksela po igraču"
+
+msgid "Total Pixels placed per day"
+msgstr "Ukupno postavljenih piksela po danu"
+
+msgid "Total Rank"
+msgstr "Ukupni rank"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"Okrenite svaki piksel u području na 0 (TO STVARNO NE BISTE SMIJELI RADITI NA "
+"BILO KOJEM PODRUČJU KOJE VEĆ NIJE VEĆINOM 0)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Uključite rešetku za označavanje granica piksela."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Upišite znakove sa sljedeće slike:"
+
+msgid "Unblock Users"
+msgstr "Odblokiraj korisnike"
+
+msgid "Unknown Captcha Error"
+msgstr "Nepoznata Captcha pogreška"
+
+msgid "Unknown Error"
+msgstr "Nepoznata pogreška"
+
+msgid "Unmuted Sound"
+msgstr "Upaljen zvuk"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Prenesite slike na platno"
+
+msgid "Use our custom cursor"
+msgstr "Koristite naš prilagođeni kursor"
+
+msgid "User"
+msgstr "Korisnik"
+
+msgid "User Account"
+msgstr "Korisnički račun"
+
+msgid "User Area"
+msgstr "Korisničko područje"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Korisničko ime"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Odlučili smo ga arhivirati kao timelapse s kodiranim webmom bez gubitaka. "
+"Snimanje zaslona iz timelapse-a rezultira savršenim prikazom 1:1 kakvog je "
+"platna bilo u to vrijeme."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr "Veliko hvala tim umjetnicima koji su ponudili svoje palete javnosti na"
+
+msgid "Weird"
+msgstr "Čudno"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr "Što bi olovka trebala nacrtati na trenutnom platnu."
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Iako obično ne brišemo platna, neka se platna pokreću iz zabave ili na "
+"zahtjev korisnika kojima se trenutno sviđa meme. Ta platna mogu postati "
+"dosadna nakon nekog vremena i nakon tjedana bez većih promjena i ako stvarno "
+"ne zaslužuju da budu aktivna, odlučujemo ih ukloniti."
+
+msgid "Why?"
+msgstr "Zašto?"
+
+msgid "Width"
+msgstr "Širina"
+
+msgid "Wrong Color"
+msgstr "Pogrešna boja"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "Yes, Delete My Account!"
+msgstr "Da, izbriši moj račun!"
+
+msgid "Yesterday"
+msgstr "Jučer"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "Koristite proxy."
+
+msgid "You are weird"
+msgstr "Čudni ste"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr "Još ne možete pristupiti ovom platnu. Morate postaviti više piksela"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Sada možete staviti više na pixunivers.fun :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Pogrešio si s captcha"
+
+msgid "You have new messages in chat"
+msgstr "Imate nove poruke u chatu"
+
+msgid "You have no users blocked"
+msgstr "Nemate blokiranih korisnika"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Morate biti prijavljeni da postavite na ovo platno"
+
+msgid "You made too many requests"
+msgstr "Poslali ste previše zahtjeva"
+
+msgid "You must be logged in to chat"
+msgstr "Za chat morate biti prijavljeni"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "Morate unijeti trajanje"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "Morate unijeti IID"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Predugo vam je trebalo, pokušajte ponovno."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Vaš nam preglednik ne dopušta korištenje AudioContexta za reprodukciju "
+"zvukova. Imate li neku značajku privatnosti koja nas blokira?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Vašem internet davatelju zabranjeno je igrati ovu igricu"
+
+msgid "Your ban expires at "
+msgstr "Vaš ban ističe "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Vaši sljedeći pikseli su spremni"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Povećajte umjesto postavljanja piksela kada dodirnete platno i vaše je "
+"zumiranje malo."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "i ${ canvas.req } postavljeni pikseli"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "te spomenuo"
+
+msgid "or login with:"
+msgstr "ili se prijavite sa:"
+
+msgid "or register here:"
+msgstr "ili se registrirajte ovdje:"
+
+msgid "recommended"
+msgstr "preporučeno"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "pokušaj ponovno nakon ${ ti } min"
+
+msgid "x out of bounds"
+msgstr "x izvan granica"
+
+msgid "y out of bounds"
+msgstr "y izvan granica"
+
+msgid "z out of bounds"
+msgstr "z izvan granica"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "B"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "PopUp"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Zabranjeni ste. Mislite da je neopravdano? Provjerite "
+
+#~ msgid "Registration"
+#~ msgstr "Registracija"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Zaboravili ste lozinku"
+
+#~ msgid " on how to appeal."
+#~ msgstr " o tome kako se žaliti."
+
+#~ msgid "Unbanned"
+#~ msgstr "Unbanani ste"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "Sada kada ste vidjeli ovu poruku, više niste banani."
+
+#~ msgid "Source on "
+#~ msgstr "Izvor na "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Ako ste otkriveni kao proxy, ali to niste, ili mislite da ste pogrešno "
+#~ "zabranjeni, idite na naš ${ guildedLink } ili nam pošaljite e-poruku na $"
+#~ "{ mailLink } i uključite sljedeći IID:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Razmislite o tome da nam se pridružite na Discordu:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Vaše ime je: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Promjena korisničkog imena"
+
+#~ msgid "Change Mail"
+#~ msgstr "Promjena pošte"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Potvrdite svoju adresu e-pošte ili bi vaš račun mogao biti izbrisan nakon "
+#~ "nekoliko dana."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Mail je uspješno promijenjen. Poslali smo vam e-poruku za "
+#~ "potvrdu,             potvrdite svoju novu adresu e-pošte."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Blokiraj sve privatne poruke"
+
+#~ msgid "There are no mods"
+#~ msgstr "Nema modifikacija"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "Države po postavljenim pixelima danas"
+
+#~ msgid "Pixels placed"
+#~ msgstr "Postavljeni pikseli"
+
+#~ msgid "History Pencil ON"
+#~ msgstr "Povijest Olovka ON"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "Šablon Olovka ON"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Držite desno ${ bindShift } za postavljanje dok pomičete miš, prema "
+#~ "povijesnom prikazu"
+
+#~ msgid "Right-Shift Auto-Color"
+#~ msgstr "Right-Shift Auto-Color"
+
+#~ msgid "Place pixels from overlay on right-shift, instead of history."
+#~ msgstr "Postavite pixele iz sloja pomoću desnog shifta, umjesto povijesti."
+
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr "Nisam dobio odgovor od pixuniversea. Možda probati osvježiti?"
+
+#~ msgid "Place more :)"
+#~ msgstr "Stavljajte više :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "Proxyji nisu dopušteni :("
+
+#~ msgid "Show Hidden Canvases"
+#~ msgstr "Prikaži skrivena platna"
+
+#~ msgid "Hide Hidden Canvases"
+#~ msgstr "Sakrij skrivena platna"
+
+#~ msgid "Coordinates in X_Y format:"
+#~ msgstr "Koordinate u formatu X_Y:"
+
+#~ msgctxt "keybinds"
+#~ msgid "C"
+#~ msgstr "C"

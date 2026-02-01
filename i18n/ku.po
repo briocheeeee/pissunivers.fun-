@@ -1,0 +1,1801 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-29 11:08+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/"
+"pixuniverse/client/kmr/>\n"
+"Language: kmr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.2\n"
+
+msgid " which is in "
+msgstr " ku tê de ye "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } Bişkoka çepê ya mişkê bigire û ji bo zivirîna mişkê kaş bike"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Çep bikirtînin an jî ${ touchSymbol } bikirtînin da ku "
+"pixelek bi cih bikin"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+"${ mouseSymbol } Bişkojka rastê bikirtînin û mişkê kaş bikin da ku pêve bikin"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } Rast bikirtînin an ${ touchSymbol } du caran bikirtînin da "
+"ku pixelek jêbirin"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Tekera mişkê bigerîne an jî ${ mouseSymbol } bişkoka navîn "
+"ya mişkê bigire û kaş bike ku mezin bike"
+
+msgid "(0 = infinite)"
+msgstr "(0 = bêsînor)"
+
+msgid "+last hour"
+msgstr "+saeta dawî"
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Nameyek verastkirinê ya nû ji we re tê şandin."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Tor lê zêde bikin (heke we pêdivî bi şablonek 1:1 heye, hilnebijêre)"
+
+msgid "Add Template"
+msgstr "Şablon lê zêde bike"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "Hemî bandorên deng dê neçalak bibin."
+
+msgid "Always show Movement Controls"
+msgstr "Her gav Kontrolên Tevgerê nîşan bidin"
+
+msgid "Always show movement control buttons"
+msgstr "Her gav bişkokên kontrola tevgerê nîşan bidin"
+
+msgid "Anti Aliasing"
+msgstr "Anti Aliasing"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Parzûnek bixin da ku çopê li deverên mezin ên kanvas paqij bikin."
+
+msgid "Archive"
+msgstr "Arşîv"
+
+msgid "Assign new Mod"
+msgstr "Moda nû destnîşan bikin"
+
+msgid "Auto Zoom In"
+msgstr "Zêdekirina Xweser"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Tu Qedexeyî"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Qedexe kirin? Weke Proxy hat tesbît kirin?"
+
+msgid "Block"
+msgstr "Blok"
+
+msgid "Block DMs"
+msgstr "DM-ê asteng bikin"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Kuncê jêrîn-rastê"
+
+msgid "Build image and set it to protected."
+msgstr "Wêne ava bikin û wê ji bo parastinê saz bikin."
+
+msgid "Build image on canvas."
+msgstr "Wêne li ser kanvas ava bikin."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "Wêneyê ava bikin, lê sarbûnê li cd-ya nesazkirî-piksel vegerînin."
+
+msgid "By Mod"
+msgstr "Ji hêla Mod"
+
+msgid "Calculate like GIMP"
+msgstr "Mîna GIMP hesab bikin"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Zêdetirî 20 şablon an yek nayê derxistin!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Zêdetirî 20 şablon an yek nayê derxistin!"
+
+msgid "Can't read? Reload:"
+msgstr "Nikarî bixwîne? Dîsa bar bike:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr ""
+"Hûn nikarin kanvase (qada lîstikê) 3D pêşkêş bikin, we WebGL2 neçalak kiriye?"
+
+msgid "Cancel"
+msgstr "Bişûndekirin"
+
+msgid "Cancel adding Template"
+msgstr "Zêdekirina Şablon betal bike"
+
+msgid "Canvas"
+msgstr "Kanvasên"
+
+msgid "Canvas Archive"
+msgstr "Arşîva Kanvasê"
+
+msgid "Canvas Cleaner"
+msgstr "Kanvasên Paqijker"
+
+msgid "Canvas Error"
+msgstr "Şaşîye Kanvas"
+
+msgid "Canvas Selection"
+msgstr "Hilbijartina Kanvas"
+
+msgid "Captcha"
+msgstr "kaptcha"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "Navê bikarhêner biguherînin"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Şîfre biguherînin"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Mîhengên kanalê"
+
+msgid "Charts"
+msgstr "Qebale"
+
+msgid "Chat"
+msgstr "Suhbet"
+
+msgid "Chat here"
+msgstr "Li vir biaxive"
+
+msgid "Check out past versions of the canvas."
+msgstr "Guhertoyên paşîn ên kanavê binihêrin."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Kontrol bikin ka kî li herêmek bi cih kiriye"
+
+msgid "Choose Canvas"
+msgstr "kanvas hilbijêre"
+
+msgid "Choose Color Mode"
+msgstr "Moda Rengê Hilbijêre"
+
+msgid "Choose Strategy"
+msgstr "stratejî hilbijêre"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Pixelên yedek ên ku li dora wan bi yek rengek din an pîxelên nesazkirî ve "
+"hatine dorpêç kirin paqij bikin (LI SER PÎKELÊN KU DAWÎ DIDE PÎKÊLÊN "
+"NEHATINE (li cihê ku du sarbûn hene) PIR AGRESIVE!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr ""
+"Pixelên yedek ên ku bi pîxelên nesazkirî ve hatine dorpêç kirin paqij bikin"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Pixelên yedek ên ku bi pixelên nesazkirî û heta 1 pîxelên setê yên din ve "
+"hatine dorpêç kirin paqij bikin"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Bikirtînin ${ mouseSymbol } bişkoka mişkê ya navîn an jî ${ touchSymbol } "
+"klîk dirêj bikin da ku rengê hilavêtina heyî hilbijêrin"
+
+msgid "Click a color in palette to select it"
+msgstr "Rengek di paletê de bikirtînin da ku wê hilbijêrin"
+
+msgid "Click here to request a new verification mail."
+msgstr "Li vir bikirtînin ku hûn e-nameyek verastkirinê ya nû bixwazin."
+
+msgid "Click to Load Captcha"
+msgstr "Ji bo Barkirina Captchayê Bitikîne"
+
+msgid "Clone"
+msgstr "Klon"
+
+msgid "Close"
+msgstr "Bigire"
+
+msgid "Close Chat"
+msgstr "Suhbetê Bigire"
+
+msgid "Close Menu"
+msgstr "Menûyê Bigire"
+
+msgid "Close Palette"
+msgstr "Depkê Rengan Bigire"
+
+msgid "Compact Palette"
+msgstr "Gişt paleta"
+
+msgid "Confirm New Password"
+msgstr "Şîfreya Nû piştrast bikin"
+
+msgid "Confirm Password"
+msgstr "Şîfreyê Bipejirîne"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Şaşîyê girêdanê ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "kontrolên"
+
+msgid "Convert an image to canvas colors"
+msgstr "Wêneyek veguherînin rengên kanvas"
+
+msgid "Converter"
+msgstr "Veguherîner"
+
+msgid "Cooldown"
+msgstr "sarbûn"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+"sarbûn bi gelemperî ji bo welatek ku serdest e bixweber tê guheztin. Mînakî "
+"di bûyera serdegirtina streamer de."
+
+msgid "Coordinates"
+msgstr "Koordînatên"
+
+msgid "Coordinates:"
+msgstr "koordînatên:"
+
+msgid "Copied"
+msgstr "Kopî kir"
+
+msgid "Copy"
+msgstr "kopî"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Kopî li Clipboardê"
+
+msgid "Could not connect to server, please try again later :("
+msgstr ""
+"Nekarî bi serverê ve were girêdan, ji kerema xwe paşê dîsa biceribîne :("
+
+msgid "Could not load captcha"
+msgstr "nikare captcha bar bike"
+
+msgid "Couldn't set Pixel"
+msgstr "Pixel nehat danîn"
+
+msgid "Countries Today"
+msgstr "Welatên Îro"
+
+msgid "Country"
+msgstr "Welat"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "Krediya Paleta kanvasa 2bit diçe ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Krediya Paleta Heyvê diçe ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Krediya Paleta Top10-ê ji bo ${ vinikLink } heye."
+
+msgid "Current Cooldown Changes per Country"
+msgstr "Guhertinên Rojane yên sarbûn li her welatekê"
+
+msgid "Custom Cursor"
+msgstr "Hûnbunî kursor"
+
+msgid "DM"
+msgstr "DM"
+
+msgid "Daily Pixels per Country"
+msgstr "Rojane piksel her Welat"
+
+msgid "Daily Pixels per Player"
+msgstr "rojane piksel her yarîker"
+
+msgid "Daily Rank"
+msgstr "rêjeya rojane"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "Jêbirin"
+
+msgid "Delete Account"
+msgstr "Hesabê jêbirin"
+
+msgid "Deny"
+msgstr ""
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Ji pixuniverse cewab nehat. Ger ev pirsgirêk berdewam bike, malpera nûjen "
+"bikin."
+
+msgid "Dimensions"
+msgstr "Rehend"
+
+msgid "Disable Game Sounds"
+msgstr "Dengên lîstikê neçalak bike"
+
+msgid "Disable History Pencil"
+msgstr "Pênûse Dîrokê Neçalak Bike"
+
+msgid "Disable Overlay Pencil"
+msgstr "Pênûsê Şablûnê Neçalak Bike"
+
+msgid "Disable Pencil"
+msgstr "Pênûsê Neçalak Bike"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "Pêşandana Paleta bi rengek kompakt ku cîhê ekranê kêmtir digire."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Tiştên bi IP-yê bikin (ji her rêzê yek IP)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "Di statîstîkên gerdûnî de nîşanî min nedin"
+
+msgid "Download Template"
+msgstr "Şablon dakêşin"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"${ mouseSymbol } mişk an jî ${ touchSymbol } panê kaş bikin da ku biçin"
+
+msgid "Duration"
+msgstr "Demajok"
+
+msgid "Easter Egg OFF"
+msgstr "Hêka Paskalyayê GIRTÎ"
+
+msgid "Easter Egg ON"
+msgstr "Hêka Paskalyayê VEKIRÎ"
+
+msgid "Edit"
+msgstr "Weşandin"
+
+msgid "Email"
+msgstr "Nameya elektronîk"
+
+msgid "Email can't be empty."
+msgstr "E-peyam ne vala ye."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "E-name nikare ji 40 tîpan dirêjtir be."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "Divê e-mail bi kêmanî xalek hebe"
+
+msgid "Email should be at least 5 characters long."
+msgstr "E-name divê herî kêm 5 tîpan be."
+
+msgid "Email should contain a @"
+msgstr "Divê e-mail navnîşek @ hebe"
+
+msgid "Enable Overlay"
+msgstr "Overlay çalak bike"
+
+msgid "Enable Pencil"
+msgstr "Pênûsê çalak bike"
+
+msgid "Enable chat notifications"
+msgstr "Agahiyên chatê çalak bike"
+
+msgid "Enter Characters"
+msgstr "Tîpan binivîse"
+
+msgid "Enter Reason"
+msgstr "Sedemê binivîse"
+
+msgid "Enter UserName of new Mod"
+msgstr "Navê bikarhêner a moda nû binivîse"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Navnîşana postaya xwe binivîse û em ê şîfreyeke nû ji we re bişînin:"
+
+msgid "Error"
+msgstr "Şaşî"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Şaşîyê ${ retCode }"
+
+msgid "Error :("
+msgstr "Şaşî :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "Şablonên çalakkirî derxînin"
+
+msgid "Factor"
+msgstr "Faktor"
+
+msgid "File"
+msgstr "Pel"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Ji bo dema ku hûn li ser kartol dilîzin."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr "Ji Dîrokê"
+
+msgid "From Template"
+msgstr "Ji Şablon"
+
+msgid "Get IID"
+msgstr "IID bistînin"
+
+msgid "Get Pixels"
+msgstr "pikselên bistînin"
+
+msgid "Get Users"
+msgstr "Bikarhêneran bistînin"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Dîtina Gerdûnî"
+
+msgid "Go to"
+msgstr "Biçe"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Tor GIRTÎ"
+
+msgid "Grid ON"
+msgstr "Tor VEKIRÎ"
+
+msgid "Have fun!"
+msgstr "Baş derbas be!"
+
+msgid "Height"
+msgstr "Bilindî"
+
+msgid "Help"
+msgstr "Alîkarî"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Li vir ji bo ku em bi awayekî rast arşîv bikin, tuvalên jêkirî berhev dikin. "
+"ku niha tenê yek e."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Asta zoomê ya bilind ji bo nûvekirinê hin dem digire, cîhana 3D herî kêm "
+"rojê carekê tê nûve kirin."
+
+msgid "Historical View"
+msgstr "Dîtina Dîrokî"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"${ bindShift } ji bo qelemê li çepê bihêle (ji bo ku dema mişk diherike bi "
+"cîh bike)"
+
+msgid "How pixuniverse should look like."
+msgstr "Divê pixuniverse çawa xuya bike."
+
+msgid "I forgot my Password."
+msgstr "Min şîfreya xwe ji bîr kir."
+
+msgid "IID (optional)"
+msgstr "IID (vebijarkî)"
+
+msgid "IID Actions"
+msgstr "IID Çalakiyên"
+
+msgid "IP Actions"
+msgstr "Çalakiyên IP"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Veguherînerê Wêne"
+
+msgid "Image Upload"
+msgstr "Barkirina Wêne"
+
+msgid "Import templates"
+msgstr "Şablonên derhanînê"
+
+msgid "Interval"
+msgstr "Navber"
+
+msgid "Interval is invalid"
+msgstr "Navber nederbasdar e"
+
+msgid "Invalid Canvas"
+msgstr "Kanvas ne rast e"
+
+msgid "Invalid Coordinates"
+msgstr "Koordînatên ne rast e"
+
+msgid "Invalid color selected"
+msgstr "Rengê nederbasdar hat hilbijartin"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Tenê ji bo Bikarhênerên qeydkirî"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr ""
+"Tenê 10 kesên ku duh herî zêde pixel şandine dikarin pixelan li vir bixin"
+
+msgid "Keep Ratio"
+msgstr "rêje biparêze"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Ronahî Tor"
+
+msgid "Load Captcha"
+msgstr "Captcha Bar Bike"
+
+msgid "Loading"
+msgstr "Bar dike, bisekine"
+
+msgid "Loading..."
+msgstr "Bar dike..."
+
+msgid "Log out"
+msgstr "Derkeve"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Têketin"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "Têkeve ku hûn bigihîjin bêtir taybetmendî û statîstîkan."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Têkeve bi Nav an Mail:"
+
+msgid "Make Screenshot"
+msgstr "Wêneya Ekranê Bigirin"
+
+msgid "Manage Moderators"
+msgstr "Birêvebirina Moderatoran"
+
+msgid "Map Data"
+msgstr "Daneyên nexşeyê"
+
+msgid "Maximize"
+msgstr "Mezintirîn Bike"
+
+msgid "Minimum Color Distance"
+msgstr "Kêmtirîn Dûrahiya Rengê"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Amûrên Mod"
+
+msgid "Move"
+msgstr "Bilebine"
+
+msgid "Mute"
+msgstr "Bêdeng"
+
+msgid "Muted Sound"
+msgstr "Bêdengî"
+
+msgid "Name"
+msgstr "Nav"
+
+msgid "Name can't be empty."
+msgstr "Nav vala nabe."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Navê tîpan nederbasdar e wek @, /, \\ an #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Divê nav bi kêmanî 2 tîpan dirêj be"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Divê nav ji 26 tîpan kurttir be"
+
+msgid "Name or Email"
+msgstr "Nav an E-mail"
+
+msgid "New Mail"
+msgstr "Nameya Nû"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Şîfreya Nû"
+
+msgid "New Username"
+msgstr "Navê bikarhênerê nû"
+
+msgid "No"
+msgstr "Na"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Captcha id na dayîn"
+
+msgid "No or invalid captcha text"
+msgstr "Nivîsara captcha tune an nederbasdar e"
+
+msgid "No password given."
+msgstr "Tu şîfre nehat dayîn."
+
+msgid "Not allowed"
+msgstr "Destûr nayê dayîn"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "Belê"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Şîfreya Kevin"
+
+msgid "Online Users"
+msgstr "Bikarhênerên liserxetê"
+
+msgid "Online Users on Canvas"
+msgstr "Bikarhênerên Online li ser kanvas"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "Nerazîbûna Overlay ji sedî."
+
+msgid "Open Chat"
+msgstr "Suhbetê Veke"
+
+msgid "Open Menu"
+msgstr "Menûyê Veke"
+
+msgid "Open Palette"
+msgstr "Depkê Rengan Veke"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Kulîlka meya sereke nexşeyek cîhanek mezin e, hûn dikarin li ku derê "
+"bixwazin bi cîh bikin, lê hûn ê neçar bimînin ku di navbera pixelan de li "
+"benda Cooldownek taybetî bin. Hûn dikarin sarbûn û hewcedariyên li ser "
+"menuya Hilbijartina kanvas (bişkoka gerdûnê ya li jor) binihêrin. Ji bo "
+"guheztina pîxelên set-bikarhêner ji danîna li ser pîxelek nesazkirî, hin "
+"kanava sarbûnek cûda heye. ango 4s/7s tê wateya 4s li ser pixelên nû û 7s li "
+"ser pixelên jixwe hatine saz kirin."
+
+msgid "Overlay OFF"
+msgstr "Şablûn GIRTÎ"
+
+msgid "Overlay ON"
+msgstr "Şablûn VEKIRÎ"
+
+msgid "Overlay Opacity"
+msgstr "Nerazîbûna Overlay"
+
+msgid "Palette Download"
+msgstr "Daxistina Paletê"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Paleta ji bo ${ gimpLink }"
+
+msgid "Password"
+msgstr "Şîfre"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Divê şîfre herî kêm 6 tîpan be."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Divê şîfre ji 60 tîpan kurttir be."
+
+msgid "Password successfully changed."
+msgstr "Şîfre bi serkeftî hate guhertin."
+
+msgid "Passwords do not match."
+msgstr "Şîfre li hev nayên."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Moda Qelemê ya ji bo kanava ${ canvasName }"
+
+msgid "Pencil picks: "
+msgstr "Hilbijartinên qelemê: "
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Pixel Notify OFF"
+msgstr "Agahdarkirina Pixelê GIRTÎ"
+
+msgid "Pixel Notify ON"
+msgstr "Agahdarkirina Pixel Vekirî"
+
+msgid "Pixel Protection"
+msgstr "Parastina Piksel"
+
+msgid "Pixel protected"
+msgstr "Pixel parastîye"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Bi lîstikvanên din ên serhêl re pîxelên rengîn li ser kavilek mezin bi cîh "
+"bikin!"
+
+msgid "Placed Pixels"
+msgstr "Pixelên danîn"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Dema ku peyamên chatê yên nû digihîjin dengek bileyzin"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "lîstikvan û pikselên serê saetekê"
+
+msgid "Please prove that you are human"
+msgstr "Ji xwe îspat bikin ku hûn mirov in"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Komsîyona Siyasî Kanvas"
+
+msgid "Potato Mode"
+msgstr "Moda kartol"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Bişkojka ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } ji bo "
+"barkirinê"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Bişkojka ${ bindG } bike ku torê biguherîne"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Bişkojka ${ bindH } ji bo guheztina dîtina dîrokî"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Bişkojka ${ bindQ } û ${ bindE } bifirin ku jor û jêr bifirin"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Bişkojka ${ bindQ } an jî ${ bindE } ji bo zoom bike"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Ji bo kopîkirina koordînatan ${ bindR } bikirtînin"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr ""
+"Ji bo veguheztina ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } bikirtînin"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr ""
+"Bişkojka ${ bindX } bikirtînin da ku nîşana çalakiya pixelê biguherînin"
+
+msgid "Private"
+msgstr "Taybet"
+
+msgid "Profile"
+msgstr "Tengal"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Qedexeyê Range"
+
+msgid "Ranked"
+msgstr "rêzkirî"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Her 5 hûrdem carekê nûvekirinên rêzkirinê. Rêzkirinên rojane di demjimêra "
+"Gerdûnî ya Hevrêzkirî ya nîvê şevê de ji nû ve têne sererast kirin."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Semed"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "Fêhrist"
+
+msgid "Register new account here"
+msgstr "Hesabeke nû li vir tomar bike"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Ji nû ve bar bike"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Moderatorê rakin"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Pêdiviyan"
+
+msgid "Reset"
+msgstr "ji nû ve saz kirin"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Biguherîne"
+
+msgid "Restore"
+msgstr "Vegerîne"
+
+msgid "Retired Canvases (history only)"
+msgstr "Tuxleyên teqawîtbûyî (dîrok tenê)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+#, fuzzy
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "Deverek kanvas vegerîne rojek diyarkirî (00:00 UTC)"
+
+msgid "Rollback to Date"
+msgstr "Vegerîna Dîrokê"
+
+msgid "Save"
+msgstr "hilgirtin"
+
+msgid "Scale Image"
+msgstr "wêneyê pîvan"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Ji bo mezinkirinê ${ mouseSymbol } çerxa mişkê bigerin an jî $"
+"{ touchSymbol } biçînin"
+
+msgid "Select Date above"
+msgstr "Dîroka Jorîn hilbijêrin"
+
+msgid "Select File"
+msgstr "Pelî Hilbijêre"
+
+msgid "Select Language"
+msgstr "Ziman hilbijêrin"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Tuvalên ku hûn dixwazin bi kar bînin hilbijêrin\n"
+"Her tuval bêhempa ye û palet, sarbûn û pêdiviyên wan ên cuda hene\n"
+"Tuvalên arşîvkirî dikarin bigihîjin vir:"
+
+msgid "Selected Color"
+msgstr "Rengê Hilbijartî"
+
+msgid "Send"
+msgstr "Şandin"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"Ji bo ku hûn şîfreya xwe ji nû ve eyar bikin nameyeke bi talîmatan ji we ra "
+"şand."
+
+msgid "Serpentine"
+msgstr "Serpentîn"
+
+msgid "Server answered with gibberish :("
+msgstr "Server bi bêdengî cewab da :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"Server ji hêla pixelên we ve tevlihev bû. Ma hûn li ser gelek cîhazan "
+"dilîzin?"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Parastina deveran bicîh bikin (heke hûn hewceyê kontrolek zexmtir be, bi "
+"barkirina wêneyê û qatên alpha parastinê bikar bînin)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Mîhengên"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Grid nîşan bide"
+
+msgid "Show Grid in white instead of black."
+msgstr "Li şûna reş tor bi spî nîşan bidin."
+
+msgid "Show Pixel Activity"
+msgstr "Çalakiya Pixel nîşan bide"
+
+msgid "Show circles where pixels are placed."
+msgstr "Derdorên ku pixel lê têne danîn nîşan bidin."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"Li ser astên zoomê yên bilind xêzkirin wekî pixelên ferdî yên piçûk nîşan "
+"bidin."
+
+msgid "Show templates as overlays ingame."
+msgstr "Şablonan wekî lîstika serpêhatî nîşan bidin."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "Pixelên Biçûk Dema Zêdekirin"
+
+msgid "Social Settings"
+msgstr "Mîhengên Civakî"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "Berhevkirina heta"
+
+msgid "Start chatting here"
+msgstr "Li vir dest bi sohbetê bikin"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Jimare"
+
+msgid "Status: Not running"
+msgstr "Rewş: Nabe"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Paqijker rawestîne"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Pêşkêş kirin"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "${ canvasName } re derbas bû"
+
+msgid "Template Name"
+msgstr "Navê Şablonê"
+
+msgid "Templates"
+msgstr "Şablonên"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Daneyên nexşeyê yên tazî yên ku em bikar tînin, digel pêlên OpenStreetMap-ê "
+"yên veguheztin ji bo rêgezê, dikarin ji mega.nz vir werin dakêşandin: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Mijad"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "Ev kanvas tûne ye"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Di dema pevçûnên siyasî yên li kanvasa erdê ya sereke de ev tuval hat "
+"xwestin. Ev temsîlîyeta 1024x1024ya kompoya sîyasî bû ku 5s sarbûn û 60'î lê "
+"zêde bû. 11 'ê Gulanê dest pê kir û heta ku 30 'ê Mijdarê were girtin bi "
+"mehan çalak ma."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "bêdeng kirin"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Tîp: Rewşa ne hesas; Ez û ez wek hev in"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Ji hergav spama yek rengî westiyayî? Dixwazin li şûna hunerê biafirînin, lê "
+"divê hûn pixelên ji wêneyek din bijmêrin? Şablon dikarin bi wê re ji we re "
+"bibin alîkar! Şablon dikarin wekî sergirtî nîşan bidin û hûn dikarin li ser "
+"wan xêz bikin. Yek pixel li ser şablonê, divê yek pixel li ser kanvasê be."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Îro"
+
+msgid "Today Placed Pixels"
+msgstr "Îro Pixelên Cihkirî"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "10 Welatên Serê [pxls/roj]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "10 lîstikvanên herî baş ên rojê"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "10 Lîstikvanên Serê [pxls / roj]"
+
+msgid "Top 10 Players from Yesterday"
+msgstr "10 lîstikvanên herî baş yên duh"
+
+msgid "Top-left corner"
+msgstr "Kuncê çepê yê-jorîn"
+
+msgid "Total"
+msgstr "Hemî"
+
+msgid "Total Online Users"
+msgstr "Tevahiya Bikarhênerên Serhêl"
+
+msgid "Total Pixels per Player"
+msgstr "hemî piksel her yarîker"
+
+msgid "Total Pixels placed per day"
+msgstr "Bi tevahî Pikselên ku her roj têne danîn"
+
+msgid "Total Rank"
+msgstr "rêjeya giştî"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"Her pîxelê li herêmê bizivirînin 0 (BASTÎ DIVÊ TU WÊ LI SER QERÊKE KU JI BER "
+"NE PIRÎ 0 NE BIKIN)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Ji bo ronîkirina sînorên pîxelê torê vekin."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Tîpan ji wêneya jêr binivîse:"
+
+msgid "Unblock Users"
+msgstr "Astengkirina Bikarhêneran"
+
+msgid "Unknown Captcha Error"
+msgstr "Çewtiya Captcha nenas"
+
+msgid "Unknown Error"
+msgstr "Şaşîyê Nenas"
+
+msgid "Unmuted Sound"
+msgstr "Bidengî Deng"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Wêneyên li ser kanvas barkirin"
+
+msgid "Use our custom cursor"
+msgstr "Kursorê meya xwerû bikar bînin"
+
+msgid "User"
+msgstr "Bikarhêner"
+
+msgid "User Account"
+msgstr "Hesabê Bikarhêner"
+
+msgid "User Area"
+msgstr "Herêma Bikarhêner"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Navê bikarhêner"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Me biryar da ku em wê bi webma şîfrekirî ya bêwindayî ve wekî demkî arşîv "
+"bikin. Bi girtina dîmenek a ji demboriya demê re, temsîla bêkêmasî ya 1:1 a "
+"ka tuval di wê demê de çawa bû."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Em spasiya hunermendên jêrîn dikin, ku paletên xwe pêşkêşî raya giştî kirin"
+
+msgid "Weird"
+msgstr "Xerîb e"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr "Tiştê ku pênûs divê li ser kabloya heyî xêz bike."
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Dema ku em tuvalan jê nabin, hin tuval ji bo kêfê an jî ji bo daxwazeka "
+"bikarhênerên ku dişibin memeka populer dest pê dikin. Ev tuval piştî demekê "
+"dikarin bibin lal û neçalak, di wê demê de tu sedem tune ne ku em wan "
+"bigirin û em dikarin biryara rakirina wan bidin."
+
+msgid "Why?"
+msgstr "Çima?"
+
+msgid "Width"
+msgstr "Berî"
+
+msgid "Wrong Color"
+msgstr "Rengê şaş"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Erê"
+
+msgid "Yes, Delete My Account!"
+msgstr "Erê, hesabê min jê bibe!"
+
+msgid "Yesterday"
+msgstr "Do"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "Tu Proxyê bikar tînin."
+
+msgid "You are weird"
+msgstr "Tu xerîb î"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"Hûn hîn nikarin xwe bigihînin vê kanvasê. Pêdivî ye ku hûn pixelên bêtir bi "
+"cîh bikin"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Niha hûn dikarin zêdetir li ser pixunivers.fun bi cîh bikin :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Te captcha xwe bi ser neket"
+
+msgid "You have new messages in chat"
+msgstr "Di suhbetê de peyamên nû hene"
+
+msgid "You have no users blocked"
+msgstr "Tu bikarhênerên astengkirî tune"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Divê hûn têketî bin ku hûn li ser vê pixel avêtin"
+
+msgid "You made too many requests"
+msgstr "Te gelek serlêdan kir"
+
+msgid "You must be logged in to chat"
+msgstr "Ji bo axaftinê divê tu têkevî têketinê"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "Divê hûn demek binivîsin"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "Divê hûn ID-ê têkevin"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Te pir dirêj kir, careke din biceribîne."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Geroka we rê nade me ku em AudioContext bikar bînin da ku dengan bilîzin. Ma "
+"we hin taybetmendiyek nepenîtiyê heye ku me asteng dike?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Pêşkêşvanê internetê ya we ji vê lîstikê qedexe ye"
+
+msgid "Your ban expires at "
+msgstr "Qedexeya we diqede "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Pixelên weya paşîn amade ne"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Dema ku hûn li ser kanavê bixin li şûna ku hûn pixelek bixin zoom bikin û "
+"zooma we piçûk e."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "û ${ canvas.req } pikselên danîn"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "Behsa te kir"
+
+msgid "or login with:"
+msgstr "an têkevin bi:"
+
+msgid "or register here:"
+msgstr "an jî li vir qeyd bikin:"
+
+msgid "recommended"
+msgstr "pêşniyar kirin"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "Piştî ${ ti } deqîqeyan dîsa biceribîne"
+
+msgid "x out of bounds"
+msgstr "x, ji sînor re dûr ket"
+
+msgid "y out of bounds"
+msgstr "y, ji sînor re dûr ket"
+
+msgid "z out of bounds"
+msgstr "z, ji sînor re dûr ket"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "B"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "PopUp"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Hûn qedexe ne. Hûn difikirin ku ew neheq e? Binêre "
+
+#~ msgid "Registration"
+#~ msgstr "Qeydkirin"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Nasnavê ji bîr kir"
+
+#~ msgid " on how to appeal."
+#~ msgstr " li ser çawa îtirazê."
+
+#~ msgid "Unbanned"
+#~ msgstr "Neqedexekirî"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "Niha ku we ev peyam dît, êdî hûn qedexe ne."
+
+#~ msgid "Source on "
+#~ msgstr "Çavkanî li ser "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Heger tu wek proxy hatiyî dîtin, lê tu tune, yan jî difikirî ku tu bi "
+#~ "xeletî hatîye qedexekirin, ji kerema xwe here ${ guildedLink } me an jî e-"
+#~ "nameyek ji me re bişîne ${ mailLink } û ID-ya jêrîn tê de hebe:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Li ser Guilded bifikirin ku hûn beşdarî me bibin:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Navê te: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Navê bikarhêner biguherînin"
+
+#~ msgid "Change Mail"
+#~ msgstr "Mail biguherînin"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Ji kerema xwe navnîşana e-nameya xwe verast bikin an jî dibe ku hesabê we "
+#~ "piştî çend rojan were jêbirin."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Mail bi serfirazî guherî. Me e-mail verastkirinê ji we re "
+#~ "şand,             ji kerema xwe navnîşana e-mail xweya nû verast bikin."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Hemî Mesajên Taybet asteng bikin"
+
+#~ msgid "There are no mods"
+#~ msgstr "Mod tune ne"
+
+#~ msgid "History Pencil ON"
+#~ msgstr "Penûsê Dîrokê VEKIRÎ"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "Pênûsê Şablûnê VEKIRÎ"
+
+#~ msgid "Place more :)"
+#~ msgstr "Bêtir cîh :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "Bikaranîna proxy nayê destûr kirin :("

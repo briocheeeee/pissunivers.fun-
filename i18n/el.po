@@ -1,0 +1,1820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-11-05 20:44+0000\n"
+"Last-Translator: Extreme Motorsex <em@noreply.pixunivers.fun>\n"
+"Language-Team: Greek <https://translate.gs-os.com/projects/ppfun/client/"
+"el_CY/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid " which is in "
+msgstr " το οποιο είναι στεις "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"Κράτα πατημένο το αριστερό κουμπί του ποντικιού ${ mouseSymbol } τζιαι σούσε "
+"το για να γυρίσεις"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"Πάτα αριστερό κλικ ${ mouseSymbol } ή απλά πάτα την οθόνη ${ touchSymbol } "
+"για να βάλλεις ένα πίξελ"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "Δεξί κλικ ${ mouseSymbol } τζιαι σούσε το ποντίκι για να κινηθείς"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"Διπλό πάτημα ${ touchSymbol } ή δεξί κλικ ${ mouseSymbol } για να αφαιρέσεις "
+"ένα πίξελ"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"Κύλησε τη ροδέλα του ποντικιού ${ mouseSymbol } ή κράτα πατημένο το μεσαίο "
+"κουμπί τζιαι σούσε το για να κάμεις ζουμ."
+
+msgid "(0 = infinite)"
+msgstr "(0 = άπειρο)"
+
+msgid "+last hour"
+msgstr ""
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Ένα νέο email επιβεβαίωσης σου στέλλεται."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Βάλε κάτζελο (βκάλε το αν θέλεις ακριβές πρότυπο 1:1)"
+
+msgid "Add Template"
+msgstr "Πρόσθεσε πρότυπο"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "Όλοι οι ήχοι θα μπλοκκαριστούν."
+
+msgid "Always show Movement Controls"
+msgstr "Εμφάνιζε πάντα τα κουμπιά κίνησης"
+
+msgid "Always show movement control buttons"
+msgstr "Εμφάνιζε πάντα τα κουμπιά κίνησης"
+
+msgid "Anti Aliasing"
+msgstr "Εξομάλυνση"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr ""
+"Εφάρμοσε φίλτρο για να καθαρίσεις τα άχρηστα pixels σε μεγάλες περιοχές του "
+"καμβά."
+
+msgid "Archive"
+msgstr "Αρχείο"
+
+msgid "Assign new Mod"
+msgstr "Διόρισε νέο συντονιστή"
+
+msgid "Auto Zoom In"
+msgstr "Αυτόματο ζουμ"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Αποκλεισμένος"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Εμπλόκαραν σε; Σε είδαν για Proxy;"
+
+msgid "Block"
+msgstr "Μπλόκαρε"
+
+msgid "Block DMs"
+msgstr "Μπλόκαρε τα μηνύματα"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Κάτω-δεξιά γωνιά"
+
+msgid "Build image and set it to protected."
+msgstr "Χτίσε εικόνα τζαι κάμε την προστατευμένη."
+
+msgid "Build image on canvas."
+msgstr "Χτίσε εικόνα πάνω στον καμβά."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "Χτίσε εικόνα, αλλά ξαναρίξε το cooldown στο unset-pixel cd."
+
+msgid "By Mod"
+msgstr "Που τον Mod"
+
+msgid "Calculate like GIMP"
+msgstr "Υπολόγισε όπως το GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Εν μπορείς να εξαexportάρεις πάνω που 20 ή εν έshεις πρότυπο!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Εν μπορείς να εισάξεις πάνω που 20 ή εν έshεις πρότυπο!"
+
+msgid "Can't read? Reload:"
+msgstr "Εν το θωρείς; Ξαναφόρτωσέ το:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr ""
+"Εν μπορεί να εμφανιστεί ο 3D καμβάς, έshεις το WebGL2 απενεργοποιημένο;"
+
+msgid "Cancel"
+msgstr "Άκυρο"
+
+msgid "Cancel adding Template"
+msgstr "Ακύρωσε το πρότυπο"
+
+msgid "Canvas"
+msgstr "Καμβάς"
+
+msgid "Canvas Archive"
+msgstr "Αρχείο καμβά"
+
+msgid "Canvas Cleaner"
+msgstr "Καθαριστής καμβά"
+
+msgid "Canvas Error"
+msgstr "Σφάλμα καμβά"
+
+msgid "Canvas Selection"
+msgstr "Επιλογή καμβά"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+msgid "Change Happened"
+msgstr ""
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Άλλαξε τον κωδικό σου"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Ρυθμίσεις καναλιού"
+
+msgid "Charts"
+msgstr "Διαγράμματα"
+
+msgid "Chat"
+msgstr "Κουβέντα"
+
+msgid "Chat here"
+msgstr "Κουβέντιασε δαμέ"
+
+msgid "Check out past versions of the canvas."
+msgstr "Δες πως ήταν ο καμβάς σε παλιές εκδόσεις."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Δες ποιος έβαλε pixels σε μια περιοχή"
+
+msgid "Choose Canvas"
+msgstr "Διάλεξε καμβά"
+
+msgid "Choose Color Mode"
+msgstr "Διάλεξε τρόπο χρωματισμού"
+
+msgid "Choose Strategy"
+msgstr "Διάλεξε στρατηγική"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Καθάρισε τα άχρηστα pixels που τα περικυκλώνει ένα μόνο χρώμα ή unset pixels "
+"(ΠΟΛΛΑ ΕΠΙΘΕΤΙΚΟ σε καμβάδες που επιτρέπουν unset pixels τζαι έσιει δύο "
+"cooldowns!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Καθάρισε τα άχρηστα pixels που τα περικυκλώνουν unset pixels"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Καθάρισε τα άχρηστα pixels που τα περικυκλώνουν unset pixels τζαι το πολλή 1 "
+"set pixel"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Πάτα το ${ mouseSymbol } μεσαίο κουμπί του ποντικού ή κράτα πατημένο το $"
+"{ touchSymbol } για να διαλέξεις το χρώμα που αιωρείται τωρά"
+
+msgid "Click a color in palette to select it"
+msgstr "Πάτα ένα χρώμα στην παλέτα για να το θκιαλέξεις"
+
+msgid "Click here to request a new verification mail."
+msgstr "Πάτα δαμέ για να ζητήσεις νέο email επιβεβαίωσης."
+
+msgid "Click to Load Captcha"
+msgstr "Πάτα για να φορτώσεις το Captcha"
+
+msgid "Clone"
+msgstr "Κλώνος"
+
+msgid "Close"
+msgstr "Κλειστό"
+
+msgid "Close Chat"
+msgstr "Κλείστε το Chat"
+
+msgid "Close Menu"
+msgstr "Κλείσιμο μενού"
+
+msgid "Close Palette"
+msgstr "Κλείσιμο παλέτας"
+
+msgid "Compact Palette"
+msgstr "Μιτσιά παλέτα"
+
+msgid "Confirm New Password"
+msgstr "Επιβεβαίωσε τον τζενούρκο κωδικό"
+
+msgid "Confirm Password"
+msgstr "Επιβεβαίωση Κωδικού"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Σφάλμα σύνδεσης ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Χειρισμοί"
+
+msgid "Convert an image to canvas colors"
+msgstr "Μετάτρεψε μια εικόνα σε χρώματα του καμβά"
+
+msgid "Converter"
+msgstr "Μετατροπέας"
+
+msgid "Cooldown"
+msgstr "Χρόνος που Καρτεράς"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+msgid "Coordinates"
+msgstr "Συντεταγμένες"
+
+msgid "Coordinates:"
+msgstr "Συντεταγμένες:"
+
+msgid "Copied"
+msgstr "Αντιγραφήκαν"
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Αντιγραφή στο Πρόχειρο"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Εν μπορώ να συνδεθώ στον σέρβερ, δοκίμασε ξανά αργότερα :("
+
+msgid "Could not load captcha"
+msgstr "Εν εμπορούσαμε να φορτώσουμε το captcha"
+
+msgid "Couldn't set Pixel"
+msgstr "Εν εμπόρεσα να βάλλω το πίξελ"
+
+msgid "Countries Today"
+msgstr "Χώρες σήμερα"
+
+msgid "Country"
+msgstr "Χώρα"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "Εύσημα για την Παλέτα του 2bit: ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Εύσημα για την Παλέτα του Φεγγαριού: ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Εύσημα για την Παλέτα του Top10: ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr ""
+
+msgid "DM"
+msgstr "Ιδιωτικό μήνυμα"
+
+msgid "Daily Pixels per Country"
+msgstr ""
+
+msgid "Daily Pixels per Player"
+msgstr ""
+
+msgid "Daily Rank"
+msgstr "Ημερήσια κατάταξη"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Delete Account"
+msgstr "Διαγραφή λοαρκαζμού"
+
+msgid "Deny"
+msgstr ""
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Εν ήρτεω απάντηση που το pixuniverse. Δοκίμασε να φορτώσεις ξανά αν "
+"συνεχίζει το πρόβλημα."
+
+msgid "Dimensions"
+msgstr "Διαστάσεις"
+
+msgid "Disable Game Sounds"
+msgstr "Απενεργοποίησε τους ήχους του παιχνιδιού"
+
+msgid "Disable History Pencil"
+msgstr "Απενεργοποιήστε το μολύβι ιστορικού"
+
+msgid "Disable Overlay Pencil"
+msgstr "Απενεργοποιήστε το μολύβι επικάλυψης"
+
+msgid "Disable Pencil"
+msgstr "Απενεργοποιήστε το μολύβι"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "Μιτσιά παλέτα για να πιάνει λλιόττερη θέση."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Κάμε πράματα με τις IP (μια IP ανά γραμμή)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "Μεν με δείχνεις στα παγκόσμια στατιστικά"
+
+msgid "Download Template"
+msgstr "Κατέβασμα προτύπου"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"Σύρε το ποντίκι ${ mouseSymbol } ή το δάχτυλο ${ touchSymbol } για να "
+"κινηθείς"
+
+msgid "Duration"
+msgstr "Διάρκεια"
+
+msgid "Easter Egg OFF"
+msgstr "Έσβησε το μυστικό"
+
+msgid "Easter Egg ON"
+msgstr "Άναψε το μυστικό"
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email can't be empty."
+msgstr "Το email εν μπορεί να είναι άδειο."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Το email εν μπορεί να είναι παραπάνω που 40 γράμματα."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "Το email πρέπει να έσιει τουλάχιστον μια τελεία"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Το email πρέπει να έχει τουλάχιστον 5 γράμματα."
+
+msgid "Email should contain a @"
+msgstr "Το email πρέπει να έσιει @"
+
+msgid "Enable Overlay"
+msgstr "Ενεργοποίηση Επικάλυψης"
+
+msgid "Enable Pencil"
+msgstr "Ενεργοποίηση μολυβιού"
+
+msgid "Enable chat notifications"
+msgstr "Ενεργοποίησε τις ειδοποιήσεις του chat"
+
+msgid "Enter Characters"
+msgstr "Γράψε τους χαρακτήρες"
+
+msgid "Enter Reason"
+msgstr "Βάλε λόγο"
+
+msgid "Enter UserName of new Mod"
+msgstr "Βάλε το όνομα χρήστη του νέου συντονιστή"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr ""
+"Βάλε τη διεύθυνση του email σου τζαι εν να σου στείλουμε καινούριο κωδικό:"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Σφάλμα ${ retCode }"
+
+msgid "Error :("
+msgstr "Σφάλμα :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "Εξάγαρε τα πρότυπα που είναι ενεργά"
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Αν ο υπολογιστής σου εν τα φκαίνει, βάλε το δαμέ."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr ""
+
+msgid "From Template"
+msgstr ""
+
+msgid "Get IID"
+msgstr "Πιάε IID"
+
+msgid "Get Pixels"
+msgstr "Πιάστα pixels"
+
+msgid "Get Users"
+msgstr "Πιάσε τους πλάζματα"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Υδρόγειου"
+
+msgid "Go to"
+msgstr "Πάενε στο"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Kάτζελο Ανένεργο"
+
+msgid "Grid ON"
+msgstr "Kάτζελο Ενεργό"
+
+msgid "Have fun!"
+msgstr "Καλή φάση!"
+
+msgid "Height"
+msgstr "Ύψος"
+
+msgid "Help"
+msgstr "Βοηθά"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Δαμέ μαζεύκουμε τους καμβάες που εφκάλουμε για να τους αρχειοθετήσουμε "
+"σωστά. Τωρά εν μόνον ένας."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Τα μεγάλα zoom αρκούν λλίο να φκάλουν update, ο 3D χάρτης ανανεώνεται "
+"τουλάχιστον μια φορά τη μέρα."
+
+msgid "Historical View"
+msgstr "Δες πως ήταν ο καμβάς"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+
+msgid "How pixuniverse should look like."
+msgstr "Ινταλος να φαίνεται το pixuniverse."
+
+msgid "I forgot my Password."
+msgstr "Εξίασα τον κωδικό μου."
+
+msgid "IID (optional)"
+msgstr "IID (προαιρετικό)"
+
+msgid "IID Actions"
+msgstr "Ενέργειες IID"
+
+msgid "IP Actions"
+msgstr "Ενέργειες IP"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Μετατροπέας εικόνας"
+
+msgid "Image Upload"
+msgstr "Ανέβασμα εικόνας"
+
+msgid "Import templates"
+msgstr "Φέρτα μέσα τα πρότυπα"
+
+msgid "Interval"
+msgstr "Διάστημα"
+
+msgid "Interval is invalid"
+msgstr "Το διάστημα εν άκυρο"
+
+msgid "Invalid Canvas"
+msgstr "Άκυρος καμβάς"
+
+msgid "Invalid Coordinates"
+msgstr "Άκυρες συντεταγμένες"
+
+msgid "Invalid color selected"
+msgstr "Εδιάλεξες λάθος χρώμα"
+
+msgid "Invited to Chat"
+msgstr "Εκάλεσαν σε στο Chat"
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Μόνο για εγγεγραμμένους χρήστες"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Μόνο οι Top10 που εχτες μπορούν να βάλλουν δαμέ"
+
+msgid "Keep Ratio"
+msgstr "Κράτα την αναλογία"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Ασπρο Κάτζελο"
+
+msgid "Load Captcha"
+msgstr "Φόρτωσε το Captcha"
+
+msgid "Loading"
+msgstr "Φόρτωση"
+
+msgid "Loading..."
+msgstr "Φορτώννει..."
+
+msgid "Log out"
+msgstr "Εφκα έξω"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Σύνδεση"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "Συνδέθου για να 'σιεις παραπάνω επιλογές τζαι στατιστικά."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Σύνδεση με όνομα ή email:"
+
+msgid "Make Screenshot"
+msgstr "Φκάλε στιγμιότυπου οθόνης"
+
+msgid "Manage Moderators"
+msgstr "Διαχείριση συντονιστών"
+
+msgid "Map Data"
+msgstr "Δεδομένα του Χάρτη"
+
+msgid "Maximize"
+msgstr "Μεγιστοποιώ"
+
+msgid "Minimum Color Distance"
+msgstr "Ελάχιστη απόσταση χρώματος"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Εργαλεία διαχείρισης"
+
+msgid "Move"
+msgstr "Κίνηση"
+
+msgid "Mute"
+msgstr "Σίγασε"
+
+msgid "Muted Sound"
+msgstr "Ο ήχος έσβησε"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Name can't be empty."
+msgstr "Το όνομα εν μπορεί να είναι άδειο."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Το όνομα έσιει άκυρους χαρακτήρες όπως @, /, \\\\ ή #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Το όνομα πρέπει να έσιει τουλάχιστον 2 γράμματα"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Το όνομα πρέπει να είναι πιο μιτσίν που 26 γράμματα"
+
+msgid "Name or Email"
+msgstr "Όνομα ή Email"
+
+msgid "New Mail"
+msgstr "Νέο email"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Τζενούρκος κωδικός"
+
+msgid "New Username"
+msgstr "Νέο όνομα πλαζμάτος"
+
+msgid "No"
+msgstr "Όι"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Εν δίδομεν ταυτότητα captcha"
+
+msgid "No or invalid captcha text"
+msgstr "Χωρίς ή μη έγκυρο κείμενο captcha"
+
+msgid "No password given."
+msgstr "Εν έβαλες κωδικό."
+
+msgid "Not allowed"
+msgstr "Εν επιτρέπεται"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "ΟΚ"
+
+msgid "Offset"
+msgstr "Μετατόπιση"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Παλιός κωδικός"
+
+msgid "Online Users"
+msgstr "Συνδεδεμένα Πλάζματα"
+
+msgid "Online Users on Canvas"
+msgstr "Πλάζματα στον καμβά"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "Πόση διαφάνεια να 'σιει η επικάλυψη, σε ποσοστό."
+
+msgid "Open Chat"
+msgstr "Ανοίξτε το Chat"
+
+msgid "Open Menu"
+msgstr "Άνοιγμα Μενού"
+
+msgid "Open Palette"
+msgstr "Ανοίξτε την Παλέτα"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Ο κύριος καμβάς μας εν ένας τεράστιος παγκόσμιος χάρτης, μπορείς να βάλλεις "
+"όπου θέλεις, αλλά πρέπει να περιμένεις συγκεκριμένο cooldown μεταξύ των "
+"πίξελ. Μπορείς να δεις το cooldown τζιαι τες απαιτήσεις στο μενού Επιλογής "
+"Καμβά (το κουμπί με τη υδρόγειο πάνω). Κάποιοι καμβάδες έχουν διαφορετικό "
+"cooldown για να αλλάξεις πίξελ που έβαλε άλλος χρήστης, παρά για να βάλλεις "
+"σε άδειο σημείο. Π.χ. 4s/7s σημαίνει 4 δευτερόλεπτα για νέα πίξελ τζιαι 7 "
+"δευτερόλεπτα για ήδη τοποθετημένα πίξελ."
+
+msgid "Overlay OFF"
+msgstr "Έσβησε η επικάλυψη"
+
+msgid "Overlay ON"
+msgstr "Άναψε η επικάλυψη"
+
+msgid "Overlay Opacity"
+msgstr "Διαφάνεια επικάλυψης"
+
+msgid "Palette Download"
+msgstr "Κατέβασμα παλέτας"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Παλέτα για ${ gimpLink }"
+
+msgid "Password"
+msgstr "Κωδικός"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Ο κωδικός πρέπει να έσιει τουλάχιστον 6 γράμματα."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Ο κωδικός πρέπει να είναι πιο μιτσής που 60 γράμματα."
+
+msgid "Password successfully changed."
+msgstr "Ο κωδικός άλλαξε επιτυχώς."
+
+msgid "Passwords do not match."
+msgstr "Οι κωδικοί εν ταιρκάζουν."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr ""
+
+msgid "Pencil picks: "
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Pixel Notify OFF"
+msgstr "Ειδοποίηση Πίξελ Ανένεργη"
+
+msgid "Pixel Notify ON"
+msgstr "Ειδοποίηση Πίξελ Ενεργή"
+
+msgid "Pixel Protection"
+msgstr "Προστασία pixels"
+
+msgid "Pixel protected"
+msgstr "Το πίξελ προστατεύεται"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Βάλε χρωματιστά πίξελ πας σε έναν μεγάλο καμβά μαζί με άλλους παίκτες online!"
+
+msgid "Placed Pixels"
+msgstr "Τοποθετημένα pixels"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Παίξε ήχο όταν έρκεται νέο μήνυμα"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "Παίκτες τζαι pixels ανά ώρα"
+
+msgid "Please prove that you are human"
+msgstr "Παρακαλώ απόδειξε ότι είσαι άνθρωπος"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Καμβάς Πολιτικής Πυξίδας"
+
+msgid "Potato Mode"
+msgstr "Πατάρα Μοουτ"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Πάτα ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } για να "
+"κινηθείς"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Πάτα ${ bindG } να ανοιγοκλείσεις το πλέγμα"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Πάτα ${ bindH } να αλλάξεις στην ιστορική προβολή"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Πάτα ${ bindQ } τζιαι ${ bindE } για να ανεβοκατεβείς"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Πάτα ${ bindQ } ή ${ bindE } για ζουμ"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Πάτα ${ bindR } να αντιγράψεις συντεταγμένες"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Πάτα ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } για να κινηθείς"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "Πάτα ${ bindX } να δείξεις/κρύψεις τη δραστηριότητα των πίξελ"
+
+msgid "Private"
+msgstr "Ιδιωτικό"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Αποκλεισμός περιοχής"
+
+msgid "Ranked"
+msgstr "Καταταγμένος"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Η κατάταξη αλλάσσει κάθε 5 λεπτά. Η ημερήσια κατάταξη φτουρκάται τα "
+"μεσάνυχτα UTC."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Λόγος"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "Εγγραφή"
+
+msgid "Register new account here"
+msgstr "Εγγραφείτε δαμέ για νέο λοαρκαζμό"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Ξαναφόρτωμα"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Φύε τον συντονιστή"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Απαιτήσεις"
+
+msgid "Reset"
+msgstr "Επαναφορά"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Αλλαγή μεγέθους"
+
+msgid "Restore"
+msgstr "Επαναφέρω"
+
+msgid "Retired Canvases (history only)"
+msgstr "Παλιοί Καμβάδες (μόνο ιστορικό)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr ""
+
+msgid "Rollback to Date"
+msgstr "Επαναφορά σε ημερομηνία"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Scale Image"
+msgstr "Μεγάλωσε ή μίκρυνε την εικόνα"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Κύλησε τη ροδέλα του ποντικιού ${ mouseSymbol } ή κάμε pinch $"
+"{ touchSymbol } για ζουμ"
+
+msgid "Select Date above"
+msgstr "Επιλέξτε Ημερομηνία παραπάνω"
+
+msgid "Select File"
+msgstr "Επέλεξε αρχείο"
+
+msgid "Select Language"
+msgstr "Επιλογή γλώσσας"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Επίλεξε τον καμβά που θέλεις να χρησιμοποιήσεις.\n"
+"Κάθε καμβάς εν μοναδικός τζιαι έσιει διαφορετικές παλέτες, cooldown τζιαι "
+"απαιτήσεις.\n"
+"Μπορείς να έβρεις τους αρχειοθετημένους καμβάδες δαμέ:"
+
+msgid "Selected Color"
+msgstr ""
+
+msgid "Send"
+msgstr "Στείλε"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr "Εστείλαμε σου email με οδηγίες για να αλλάξεις τον κωδικό σου."
+
+msgid "Serpentine"
+msgstr "Ελικοειδές"
+
+msgid "Server answered with gibberish :("
+msgstr "Ο σερβερ απάντησε με Αμπαλατοσίνες :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr "Ο σέρβερ μπερδεύτηκε με τα πίξελ σου. Παίζεις που πολλές συσκευές;"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Βάλε προστασία σε περιοχές (αν θέλεις πιο λεπτομερή έλεγχο, χρησιμοποίησε "
+"προστασία με ανέβασμα εικόνας τζαι alpha layers)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Εμφάνισε το Κάτζελο"
+
+msgid "Show Grid in white instead of black."
+msgstr "Δείξε το πλέγμα σε άσπρο αντί σε μαύρο."
+
+msgid "Show Pixel Activity"
+msgstr "Εμφάνισε τη δραστηριότητα των πίξελ"
+
+msgid "Show circles where pixels are placed."
+msgstr "Δείξε που βάλλουν οι άλλοι παίκτες."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr "Δείξε την επικάλυψη σαν μιτσιά pixels άμα ζουμάρεις πολλά."
+
+msgid "Show templates as overlays ingame."
+msgstr "Δείξε τα πρότυπα σαν επικαλύψεις στο παιχνίδι."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "Μιτσιά Πιξελς οταν κάμεις ζουμ μέσα"
+
+msgid "Social Settings"
+msgstr "Κοινωνικές ρυθμίσεις"
+
+msgid "Source for pixuniverse on "
+msgstr "Πηγή για το pixuniverse δαμέ "
+
+msgid "Stacking till"
+msgstr "Σορέφκο"
+
+msgid "Start chatting here"
+msgstr "Ξεκίνα τη κουβέντα δαμέ"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+msgid "Status: Not running"
+msgstr "Εν τρέχει"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Σταμάτα τον καθαριστή"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Υποβολή"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Άλλαξες στο ${ canvasName }"
+
+msgid "Template Name"
+msgstr "Όνομα προτύπου"
+
+msgid "Templates"
+msgstr "Πρότυπα"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Τα δεδομένα του χάρτη που χρησιμοποιούμε, μαζί με OpenStreetMap tiles για "
+"προσανατολισμό, μπορείς να τα κατεβάσεις που το mega.nz δαμέ: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Θέματα"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "Τούτος ο καμβάς εν υπάρχει"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Τούτος ο καμβάς εζητήθηκεν την περίοδο που είσιεν πολιτικές κόντρες στον "
+"κύριο καμβά της Γης. Ήταν μια αναπαράσταση 1024x1024 της πολιτικής πυξίδας "
+"με 5 δευτερόλεπτα cooldown τζαι 60 δευτερόλεπτα stacking. Ξεκίνησεν στις 11 "
+"του Μάη τζαι έμεινεν ανοιχτός για μήνες ώσπου εσφραγίστηκεν στις 30 του "
+"Νοέβρη."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Έληξε ο χρόνος"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr ""
+"Συμβουλή: Εν παίζει ρόλο αν είναι κεφαλαία ή πεζά. Το I τζαι το l εν το ίδιο"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Εβαρέθηκες να βάλλεις πάντα το ίδιο χρώμα; Θέλεις να κάμεις τέχνη, αλλά "
+"πρέπει να μετράς pixels που άλλην εικόνα; Τα πρότυπα μπορούν να σε "
+"βοηθήσουν! Μπορούν να εμφανίζονται σαν επικάλυψη, τζαι εσύ να ζωγραφίζεις "
+"που πάνω τους. Ένα pixel στο πρότυπο, πρέπει να είναι ένα pixel στον καμβά."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Σήμερα"
+
+msgid "Today Placed Pixels"
+msgstr "Τα pixels που έβαλες σήμερα"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Τα 10 πρώτα κράτη [pxls / μέρα]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Τα 10 πρώτα της ημέρας"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Οι 10 πρώτοι παίκτες [pxls / μέρα]"
+
+msgid "Top 10 Players from Yesterday"
+msgstr ""
+
+msgid "Top-left corner"
+msgstr "Πάνω-αριστερή γωνιά"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Total Online Users"
+msgstr "Σύνολο πλαζμάτον"
+
+msgid "Total Pixels per Player"
+msgstr ""
+
+msgid "Total Pixels placed per day"
+msgstr "Σύνολο τοποθετημένων pixels ανά μέρα"
+
+msgid "Total Rank"
+msgstr "Συνολική κατάταξη"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"Κάμε ούλλα τα pixels της περιοχής 0 (ΕΝ ΚΑΛΥΤΤΕΡΑ ΝΑ ΜΕΝ ΤΟ ΚΑΜΕΙΣ ΣΕ "
+"ΠΕΡΙΟΧΕΣ ΠΟΥ ΕΝ ΕΧΟΥΝ ΗΔΗ ΚΥΡΙΩΣ 0)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Άναψε το grid για να φαίνουνται τα περιγράμματα των πίξελ."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Γράψε τους χαρακτήρες που την εικόνα δαμέ:"
+
+msgid "Unblock Users"
+msgstr "Ξεμπλόκαρε πλάζματα"
+
+msgid "Unknown Captcha Error"
+msgstr "Άγνωστο Σφάλμα Captcha"
+
+msgid "Unknown Error"
+msgstr "Άγνωστο σφάλμα"
+
+msgid "Unmuted Sound"
+msgstr "Ο ήχος άναψε"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Ανέβασε εικόνες στον καμβά"
+
+msgid "Use our custom cursor"
+msgstr ""
+
+msgid "User"
+msgstr "Πλάζμα"
+
+msgid "User Account"
+msgstr "Λοαρκαζμός πλαζμάτου"
+
+msgid "User Area"
+msgstr "Περιοχή πλαζμάτου"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Όνομα πλαζμάτος"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Αποφασίσαμε να τον κρατήσουμε αρχειοθετημένο σαν χρονογράφημα σε webm χωρίς "
+"απώλειες. Αν πιάσεις screenshot που το timelapse, εν να φκάλεις μια τέλεια "
+"1:1 αναπαράσταση του πώς ήταν τότε."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Ευχαριστούμε τους καλλιτέχνες που εκάμαν τις παλέτες τους διαθέσιμες για το "
+"κοινό"
+
+msgid "Weird"
+msgstr "Περίεργο"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr ""
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Εμείς εν συνηθίζουμε να διαγράφουμε καμβάες, αλλά κάποιοι ξεκινούνται για το "
+"χάζι ή επειδή κάποιοι χρήστες ακολουθούν τα μόδες του ίντερνετ. Ούλλοι "
+"τούτοι οι καμβάες μπορεί να γίνουν αδιάφοροι τζαι να μεν τους θωρεί κανένας, "
+"οπόταν εν έσιει λόγο να τους κρατούμε τζαι μπορεί να αποφασίσουμε να τους "
+"φκάλουμε."
+
+msgid "Why?"
+msgstr "Γιατί?"
+
+msgid "Width"
+msgstr "Πλάτος"
+
+msgid "Wrong Color"
+msgstr "Λάθος χρώμα"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "Yes, Delete My Account!"
+msgstr "Ναι, σβήσε τον λογαριασμό μου!"
+
+msgid "Yesterday"
+msgstr "Εχτές"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "Χρησιμοποιείς Proxy."
+
+msgid "You are weird"
+msgstr "Είσαι λλίο περίεργος"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"Εν μπορείς να μπεις σε τούτο τον καμβά ακόμα, γιατί το σκορ σου εν πολλά "
+"χαμηλό"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Τώρα μπορείς να βάλεις περίτου στο pixunivers.fun :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Εν εκούτσισες το captcha σου"
+
+msgid "You have new messages in chat"
+msgstr "Έχετε νέα μηνύματα μες την συνομιλία"
+
+msgid "You have no users blocked"
+msgstr "\"Εν έσιεις χρήστες μπλοκαρισμένους"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Πρέπει να είσαι συνδεδεμένος για να βάλλεις πάνω σε τούτο τον καμβά"
+
+msgid "You made too many requests"
+msgstr "Έστειλες πάρα πολλά αιτήματα"
+
+msgid "You must be logged in to chat"
+msgstr "Πρέπει να είσαι συνδεδεμένος για να μιλήσεις"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "Πρέπει να βάλεις διάρκεια"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "Πρέπει να βάλεις IID"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Αγκάστροσες μας, φτου ξανά που αρκις."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Ο περιηγητής σου εν μας αφήνει να χρησιμοποιήσουμε το AudioContext για να "
+"παίζουμε ήχους. Έσιεις κάποια ρύθμιση απορρήτου που μας μπλοκάρει;"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Ο πάροχος ίντερνετ σου εν αποκλεισμένος που το παιχνίδι"
+
+msgid "Your ban expires at "
+msgstr "Η απαγόρευσή σου τελειώνει στις "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Τα επόμενα pixel σου εν έτοιμα"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr "Αντί να βάλλεις πίξελ, πρώτα κάμνει zoom αν είσαι πολλά μακριά."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "τζαι ${ canvas.req } pixels τοποθετημένα"
+
+msgid "check compliance here"
+msgstr "Έλεγξε αν συμμορφώνεσαι δαμέ"
+
+msgid "mentioned you"
+msgstr "Ανέφερε σε"
+
+msgid "or login with:"
+msgstr "ή σύνδεθου με:"
+
+msgid "or register here:"
+msgstr "ή γράφτου δαμέ:"
+
+msgid "recommended"
+msgstr "Συστήνεται"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "Δοκίμασε ξανά μετά που ${ ti } λεπτά"
+
+msgid "x out of bounds"
+msgstr "Το x εν εκτός ορίων"
+
+msgid "y out of bounds"
+msgstr "Το y εν εκτός ορίων"
+
+msgid "z out of bounds"
+msgstr "Το z εν εκτός ορίων"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "B"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "D"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "E"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "G"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "H"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "M"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "N"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "R"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "S"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "T"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "W"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "X"
+msgstr ""
+
+#~ msgid "PopUp"
+#~ msgstr "PopUp"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Είσαι αποκλεισμένος. Νομίζεις ότι εν αδικαιολόγητο; Κοίταξε το"
+
+#~ msgid "Pixels placed"
+#~ msgstr "Pixel τοποθετημένα"
+
+#~ msgid "History Pencil ON"
+#~ msgstr "Μολύβι Ιστορίας Ανοιχτό"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "Μολύβι επικάλυψης Ανοιχτο"
+
+#~ msgid "Registration"
+#~ msgstr "Εγγραφή"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Εξίασα τον κωδικό"
+
+#~ msgid " on how to appeal."
+#~ msgstr "Για το πώς να κάνεις εφεση ( appeal )"
+
+#~ msgid "Unbanned"
+#~ msgstr "Aποδεσμεύση"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "Τωρά που είδες τουντο μήνυμα, εν είσαι πκιον μπανταρισμένος."
+
+#~ msgid "We are Libre Software, "
+#~ msgstr "Είμαστε Ελεύθερο Λογισμικό"
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Αν σε επήραν για Proxy αλλά εν είσαι, ή νομίζεις ότι εμπλοκαρίστηκες "
+#~ "άδικα, πήγαινε στο ${ guildedLink } η στείλε μας εναν e-mail στο $"
+#~ "{ mailLink } τζε βαλε το IID:"
+
+#, javascript-format
+#~ msgid "Hold left ${ bindShift } for placing while moving mouse"
+#~ msgstr ""
+#~ "Κράτα πατημένο το αριστερό ${ bindShift } τζιαι σούσε το ποντίκι για να "
+#~ "βάλλεις πίξελ."
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Κράτα το δεξί ${ bindShift } τζιαι σούσε το ποντίκι για να δεις την "
+#~ "ιστορική προβολή."
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Σκεφτείτε να έρτετε μαζί μας στο Guilded:"
+
+#~ msgid "Right-Shift Auto-Color"
+#~ msgstr "Αυτόματο χρώμα με δεξιά σήρη"
+
+#~ msgid "Place pixels from overlay on right-shift, instead of history."
+#~ msgstr ""
+#~ "Βάλε τα pixels που την επικάλυψη άμα σέρνεις δεξιά, αντί να τραβάς που το "
+#~ "ιστορικό."
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Το όνομά σου εν: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Άλλαξε το όνομα σου"
+
+#~ msgid "Change Mail"
+#~ msgstr "Άλλαξε το email σου"
+
+#~ msgid "Rollback an area of the canvas to a set date (00:00 UTC)"
+#~ msgstr ""
+#~ "Φέρ’ την περιοχή του καμβά πίσω σε μια καθορισμένη ημερομηνία (00:00 UTC)"
+
+#~ msgid "There are no mods"
+#~ msgstr "Εν έσιει συντονιστές"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Επιβεβαίωσε το email σου, αλλιώς ο λοαρκαζμός σου μπορεί να διαγραφεί σε "
+#~ "λίες μέρες."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Το email σου άλλαξε επιτυχώς. Σου στείλαμε email επιβεβαίωσης, παρακαλώ "
+#~ "επιβεβαίωσε τη νέα σου διεύθυνση."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Μπλόκαρε ούλλα τα ιδιωτικά μηνύματα"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "Χώρες ανά pixels σήμερα"

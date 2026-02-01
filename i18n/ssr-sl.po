@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: \n"
+"Language: sl_SI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100>=3 && "
+"n%100<=4 ? 2 : 3);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr ""
+
+msgid "3D Canvas"
+msgstr "3D Kanvas"
+
+msgid "A 3D globe of our whole map"
+msgstr "3D globus našega celega zemljevida"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+
+msgid "Access modtools"
+msgstr ""
+
+msgid "Add Application"
+msgstr ""
+
+msgid "Add an Application (OIDC Client)"
+msgstr ""
+
+msgid "Add new application"
+msgstr ""
+
+msgid "An error occured. Please try again later."
+msgstr ""
+
+msgid "Application changed successfully"
+msgstr ""
+
+msgid "Application deleted"
+msgstr ""
+
+msgid "Application successfully added"
+msgstr ""
+
+msgid "Black and White canvas"
+msgstr "Črn in Bel kanvas"
+
+msgid "Can not chat while being banned"
+msgstr ""
+
+msgid "Click here"
+msgstr "Kliknite tukaj,"
+
+msgid "Click to Verify"
+msgstr "Kliknite, da Preverite"
+
+msgid "Client Name"
+msgstr ""
+
+msgid "Confirm New Password"
+msgstr "Potrdite Novo Geslo"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+
+msgid "Consent"
+msgstr ""
+
+msgid "Coronavirus"
+msgstr "Koronavirus"
+
+msgid "Could not close this Session."
+msgstr ""
+
+msgid "Could not find this login method"
+msgstr ""
+
+msgid "Couldn't find this mail in our database"
+msgstr "Nismo mogli najti e-naslova v naši podatkovni bazi"
+
+msgid "Default"
+msgstr ""
+
+msgid "Delete Application"
+msgstr ""
+
+msgid "Display name for your OIDC client"
+msgstr ""
+
+msgid "Double click on globe to go back."
+msgstr "Kliknite dvakrat na planet, da se vrnete"
+
+msgid "E-Mail already in use."
+msgstr "E-Naslov je že v uporabi."
+
+msgid "Earth"
+msgstr "Zemlja"
+
+msgid "Edit existing applications"
+msgstr ""
+
+msgid "Email can't be empty."
+msgstr "E-naslov ne sme biti prazen."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "E-naslov ne sme biti daljši od 40 znakov."
+
+msgid "Email should at least contain a dot"
+msgstr "E-naslov mora vsebovati vsaj eno piko"
+
+msgid "Email should be at least 5 characters long."
+msgstr "E-naslov mora vsebovati vsaj 5 znakov."
+
+msgid "Email should contain a @"
+msgstr "E-naslov mora vsebovati @"
+
+msgid "Error"
+msgstr ""
+
+msgid "Failed to create a new user :("
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Imejte se lepo in ne bojte se nas kontaktirati če pridete, do kakšnih "
+"težav :)"
+
+msgid "Hello"
+msgstr "Pozdravljeni"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr ""
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Pozdravljen ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Če niste povprašali za to sporočilo, jo prosim ignorirajte (ip naslov, ki je "
+"povprašal za to sporočilo je ${ ip })."
+
+msgid "Incorrect password!"
+msgstr "Nepravilno geslo!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "Neveljavna povezava :( Prosim ponovno preverite vaš E-naslov."
+
+msgid "Just admins can do that"
+msgstr ""
+
+msgid "Know that an account exists"
+msgstr ""
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr ""
+
+msgid "Loading..."
+msgstr "Nalaganje..."
+
+msgid "Login from new location on pixuniverse"
+msgstr ""
+
+msgid "Login is required"
+msgstr ""
+
+msgid "Mail is already in use!"
+msgstr ""
+
+msgid "Mail is not configured on the server"
+msgstr ""
+
+msgid "Mail verification"
+msgstr "Potrjevanje E-naslova"
+
+msgid "Minimap"
+msgstr ""
+
+msgid "Mirror of PixelCanvas"
+msgstr "Zrcalo PixelKanvasa"
+
+msgid "Mirror of PixelZone"
+msgstr "Zrcalo PixelCone"
+
+msgid "Moon"
+msgstr "Luna"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Luna kanvas. Varen kraj za slike. Brez zastav ali velikih besedil (razen če "
+"so del umetnin) ali slik večjih od 1.5k x 1.5k pikslov."
+
+msgid "Name already in use."
+msgstr ""
+
+msgid "Name can't be empty."
+msgstr "Ime ne sme biti prazno."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Ime ne sme vsebovati znake kot so @, /, \\ ali #"
+
+msgid "Name is too long"
+msgstr ""
+
+#, fuzzy
+msgid "Name must be at least 2 characters long"
+msgstr "Ime mora biti vsaj 4 znake dolgo"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Ime mora biti krajše od 26 znakov"
+
+msgid "Name or Email does not exist!"
+msgstr ""
+
+msgid "New Password"
+msgstr "Novo Geslo"
+
+#, fuzzy
+msgid "No Captcha given"
+msgstr "Niste vnesli besedila za captcho"
+
+msgid "No or invalid fish id."
+msgstr ""
+
+msgid "No password given."
+msgstr "Geslo ni podano."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr ""
+
+msgid "No such badge found"
+msgstr ""
+
+msgid "No such fish found"
+msgstr ""
+
+msgid "One redirect URIs per line"
+msgstr ""
+
+msgid "One redirect_uri per line"
+msgstr ""
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr ""
+
+msgid "Only four colors. Same rules as moon!"
+msgstr ""
+
+msgid "OpenID Connect specs"
+msgstr ""
+
+msgid "Or by copying following url:"
+msgstr "Ali pa tako, da kopirate naslednji naslov:"
+
+#, fuzzy
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"Naš glavni kanvas, ogromen zemljevid sveta. Postavljajte kjer koli hočete"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Geslo mora vsebovati vsaj 6 znakov."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Geslo mora biti krajše od 60 znakov."
+
+msgid "Password successfully changed."
+msgstr "Geslo je bilo uspešno spremenjeno."
+
+msgid "Permission"
+msgstr ""
+
+msgid "PixelCanvas"
+msgstr "PixelKanvas"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun 3DGlobus"
+
+msgid "PixelZone"
+msgstr "PixelCona"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+
+#, fuzzy
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Postavljajte kvadratke na 3D kanvasu z drugimi"
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Postavite barvne piksle na kanvas v obliki zemljevida z drugimi igralci na "
+"spletu"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid "Please try again."
+msgstr ""
+
+msgid "Please use int channel"
+msgstr "Prosim uporabite int kanal"
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Redirect URIs"
+msgstr ""
+
+msgid "Regularly update this data"
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "Resetirajte Geslo"
+
+msgid "Reset your password here"
+msgstr "Resetirajte vaše geslo tukaj"
+
+msgid "Server error when deleting user."
+msgstr ""
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr ""
+
+msgid "Space-separated list of available scopes"
+msgstr ""
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+
+msgid "Space-separated list of scopes that should be available"
+msgstr ""
+
+#, fuzzy
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "Poseben kanvas za širjenje zavedanja za SARS-CoV2"
+
+msgid "Stop flooding."
+msgstr "Nehajte poplavljati."
+
+msgid "Submit"
+msgstr "Oddajte"
+
+msgid "Thanks"
+msgstr "Hvala"
+
+msgid "The user owning this badge is private"
+msgstr ""
+
+msgid "The user owning this fish is private"
+msgstr ""
+
+msgid "This application is not allowed to login"
+msgstr ""
+
+msgid "This application redirects to an unallowed page"
+msgstr ""
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+
+msgid "This application uses a PKCE method we do not support"
+msgstr ""
+
+msgid "This application uses a login method we do not support"
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+
+msgid "This email provider is not allowed"
+msgstr ""
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Ta povezava za ponastavitev gesla ni več veljavna :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr ""
+
+msgid "Top10"
+msgstr ""
+
+msgid "Unknown Captcha Error"
+msgstr "Neznana Napaka Captche"
+
+msgid "Update Application"
+msgstr ""
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User doesn't exist in our database :("
+msgstr "Uporabnik ne obstaja v naši podatkovni bazi :("
+
+msgid "Username already in use."
+msgstr "Uporabniško ime je že v uporabi"
+
+msgid "Username can not start with pp_"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Že smo vam poslali E-pošto z navodili. Prosim počakajte preden povprašate za "
+"novo sporočilo."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Že smo vam poslali potrditveno E-poštno sporočilo, ponovno ga lahko naročite "
+"čez ${ minLeft } minut."
+
+#, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr "${ name } dobrodošel na pixuniverseu, prosim potrdite vaš E-naslov"
+
+msgid "You already chose your username"
+msgstr ""
+
+msgid "You already have that name."
+msgstr ""
+
+msgid "You are already verified."
+msgstr ""
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Utišani ste še ${ timeMin } minut"
+
+#, fuzzy, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Utišani ste še ${ ttl } sekund"
+
+#, fuzzy
+msgid "You are not allowed to access this page"
+msgstr "Nimate dostopa do tega kanala"
+
+#, fuzzy
+msgid "You are not banned"
+msgstr "Niste preverjeni."
+
+#, fuzzy
+msgid "You are not logged in"
+msgstr "Niste vpisani."
+
+msgid "You are now verified :)"
+msgstr "Potrjeni ste :)"
+
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Za vedno ste utišani, pridružite se guilded, da se pritožite na utišavo "
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr "Sporočila pošiljate prehitro, počakati morate ${ waitTime }s :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+
+msgid "You can not register an account while you are banned"
+msgstr ""
+
+msgid "You can not register an account with a proxy"
+msgstr ""
+
+#, fuzzy
+msgid "You can not send chat messages while using a proxy"
+msgstr "Ne morate pošiljati sporočil za proksiji"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+
+msgid "You can't send a message this long :("
+msgstr "Ne morate poslati tako dolgega sporočila :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+
+msgid "You don't have access to this channel"
+msgstr "Nimate dostopa do tega kanala"
+
+msgid "You failed your captcha"
+msgstr "Ni vam uspelo narediti captcho"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr "Ste pozabili geslo za pixuniverse? Pridobite novega tukaj"
+
+msgid "You have to fill out all fields"
+msgstr ""
+
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr ""
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Povprašali ste za novo geslo. Geslo lahko spremenite tukaj v naslednjih 30-"
+"tih minutah:"
+
+msgid "You sent an empty password or invalid data :("
+msgstr "Poslali ste prazno geslo ali pa nepravilne podatke :("
+
+msgid "You took too long, try again"
+msgstr ""
+
+msgid "You will be automatically redirected after 15s"
+msgstr "Po 15s boste samodejno preusmerjeni"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your account needs to be verified to access this page"
+msgstr ""
+
+#, fuzzy
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Vaša država je začasno utišana v klepetu"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "Vaš E-naslov mora biti preverjen zato, da lahko klepetate"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Vaša koda za preverjanje E-naslova je neveljavna ali pa je že potekla :(, "
+"prosim povprašajte za novo."
+
+msgid "Your passwords do not match :("
+msgstr "Vaši gesli se ne ujemata :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr ""
+
+msgid "to go back to pixuniverse"
+msgstr "da se vrnete na pixel planet"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"dobrodošli v naši majhni skupnosti postavljavcev pixlov, da lahko "
+"uporabljate vaš profil, morate preveriti vaš E-naslov. To lahko storite "
+"tukaj:"
+
+#, fuzzy
+#~ msgid "You are banned"
+#~ msgstr "Niste preverjeni."
+
+#, fuzzy
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun"
+
+#, fuzzy
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "pixunivers.fun Ponastavitev Gesla"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr "Pozdravljeni ${ name }, vaše novo geslo lahko vpišite tukaj:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "Potrebovali ste preveč časa poizkušajte ponovno."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "Ni nam uspelo ustvariti novega uporabnika :("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "Ni nam uspelo ustvariti seje po registraciji :("
+
+#~ msgid "You are not even logged in."
+#~ msgstr "Niste vpisani."
+
+#, fuzzy
+#~ msgid "Server error when logging out."
+#~ msgstr "Zgodila se je napaka v strežniku"
+
+#~ msgid "You are not authenticated."
+#~ msgstr "Niste preverjeni."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "pixunivers.fun Profili"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "Ali ${ clickHere }, da se vrnete na pixuniverse"
+
+#~ msgid "Couldn't send your message, pls log out and back in again."
+#~ msgstr ""
+#~ "Nismo mogli poslati vašega sporočila, prosim izpišite se ter se vpišite "
+#~ "nazaj."
+
+#~ msgid "Ow no! Spam protection decided to mute you"
+#~ msgstr "Oh ne! Obramba proti spamu vas je utišala"
+
+#~ msgid ""
+#~ "This passwort reset link is wrong or already expired, please request a "
+#~ "new one (Note: you can use those links just once)"
+#~ msgstr ""
+#~ "Ta povezava za ponastavitev gesla je napačna ali pa je že pretečena, "
+#~ "prosim povprašajte za novo (Komentar: te povezave lahko uporabite le "
+#~ "enkrat)"

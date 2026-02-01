@@ -1,0 +1,1762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sk po\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid " which is in "
+msgstr " čo je v "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Ľavým kliknutím alebo  ${ touchSymbol } na pokládanie pixelu"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+
+msgid "(0 = infinite)"
+msgstr "(0 = nekonečno)"
+
+msgid "+last hour"
+msgstr "Posledná hodina"
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Nový verifikačný mail sa ti posiela."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Pridaj mriežku (odčiakni pokial potrebuješ 1:1 šablonu)"
+
+msgid "Add Template"
+msgstr "Pridaj šablonu"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "Všetky zvukové efekty budú vypnuté."
+
+msgid "Always show Movement Controls"
+msgstr "Vždy ukáž pohyb kontrolovania"
+
+msgid "Always show movement control buttons"
+msgstr "Vždy zobrazuj tlačidlá ovládania pohybu"
+
+msgid "Anti Aliasing"
+msgstr "Anti Aliasing"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr ""
+
+msgid "Archive"
+msgstr "Archív"
+
+msgid "Assign new Mod"
+msgstr "Pridaj nového moda"
+
+msgid "Auto Zoom In"
+msgstr "Automaticky priblíž"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Zabanovaný"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Zabanovaný? Zistené ako proxy?"
+
+msgid "Block"
+msgstr "Zablokovať"
+
+msgid "Block DMs"
+msgstr "Blokovať DMs"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Pravý dolný roh"
+
+msgid "Build image and set it to protected."
+msgstr "Vytvor obrázok a nastav ho na chránený."
+
+msgid "Build image on canvas."
+msgstr "Stav obrázky na plátne."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "Vytvor obrázok, ale obnov cooldown na disk CD s nenastavenými pixelmi."
+
+msgid "By Mod"
+msgstr "Módom"
+
+msgid "Calculate like GIMP"
+msgstr "Kalkuluj ako GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Nedokáže exportovat viac ako 20 alebo žiadnu šablonu!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Nedokáže importovať viac ako 20 alebo žiadnu šablonu!"
+
+msgid "Can't read? Reload:"
+msgstr "Nemôžeš prečítať? Reloadni:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "Nedokáže vykresliť 3D plátno, máš WebGL2 vypnutý?"
+
+msgid "Cancel"
+msgstr "Zruš"
+
+msgid "Cancel adding Template"
+msgstr "Zruš pridanie šablony"
+
+msgid "Canvas"
+msgstr "Plátno"
+
+msgid "Canvas Archive"
+msgstr "Plátnový archív"
+
+msgid "Canvas Cleaner"
+msgstr "Plátnový čistič"
+
+msgid "Canvas Error"
+msgstr "Plátnová chyba"
+
+msgid "Canvas Selection"
+msgstr "Výber platna"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+msgid "Change Happened"
+msgstr "Nastala zmena"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Zmeniť heslo"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Kanálove nastaveni"
+
+msgid "Charts"
+msgstr "Chart"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Chat here"
+msgstr "Rozprávajte tu"
+
+msgid "Check out past versions of the canvas."
+msgstr "Pozri si predošlé verzie tohto plátna."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Pozri kto položil v area"
+
+msgid "Choose Canvas"
+msgstr "Vyber si plátno"
+
+msgid "Choose Color Mode"
+msgstr "Vyber farbu mo"
+
+msgid "Choose Strategy"
+msgstr "Vyber stratégiu"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Vyčisti náhradné pixely, ktoré sú obklopené jednou inou farbou alebo "
+"nenastavené pixely (VEĽMI AGRESÍVNE NA PLÁTNACH, KTORÉ UMOŽŇUJÚ NENASTAVENÉ "
+"PIXELY (kde sú dve cooldowny)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Vyčisti náhradné pixely, ktoré sú obklopené nenastavenými pixelmi"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Vyčisti náhradné pixely, ktoré sú obklopené nenastavenými pixelmi a až 1 "
+"ďalším nastaveným pixelom"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Kliknutím na ${ mouseSymbol } stredným tlačidlom myši alebo dlhým klepnutím "
+"na ${ touchSymbol } vyber aktuálnu farbu pri umiestnení kurzora myši"
+
+msgid "Click a color in palette to select it"
+msgstr "Klikni farbu na palete nato aby si ju vybral"
+
+msgid "Click here to request a new verification mail."
+msgstr "Klikni sem na žiadanie nového verifikačného mailu."
+
+msgid "Click to Load Captcha"
+msgstr "Klikni na načítanie Captcha"
+
+msgid "Clone"
+msgstr "Klonovať"
+
+msgid "Close"
+msgstr "Zatvoriť"
+
+msgid "Close Chat"
+msgstr "Zatvoriť chat"
+
+msgid "Close Menu"
+msgstr "Zatvoriť menu"
+
+msgid "Close Palette"
+msgstr "Zatvoriť paletu"
+
+msgid "Compact Palette"
+msgstr "Kompaktná paleta"
+
+msgid "Confirm New Password"
+msgstr "Potvrd nové heslo"
+
+msgid "Confirm Password"
+msgstr "Potvrd heslo"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Chyba spojenia ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Ovládania"
+
+msgid "Convert an image to canvas colors"
+msgstr "Konverti obrázok do farieb plátna"
+
+msgid "Converter"
+msgstr "Konvertor"
+
+msgid "Cooldown"
+msgstr "Cooldown"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+"Cooldown je zvyčajne automaticky menený pre krajiny ktoré dominujú, "
+"napríklad v prípade streamerského raidu."
+
+msgid "Coordinates"
+msgstr "Koordinácie"
+
+msgid "Coordinates:"
+msgstr "Koordinácie:"
+
+msgid "Copied"
+msgstr "Skopírované"
+
+msgid "Copy"
+msgstr "Kopíruj"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Kopírovať"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Nedokázal sa spojiť na server, prosím skús neskôr :("
+
+msgid "Could not load captcha"
+msgstr "Nedokázal sa načítat captcha"
+
+msgid "Couldn't set Pixel"
+msgstr "Nevedno nastaviť pixel"
+
+msgid "Countries Today"
+msgstr "Krajiny dnes"
+
+msgid "Country"
+msgstr "Krajina"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr ""
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr ""
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr ""
+
+msgid "Current Cooldown Changes per Country"
+msgstr "Príomne zmeny cooldownu za krajinu"
+
+msgid "Custom Cursor"
+msgstr "Vlastný kurzor"
+
+msgid "DM"
+msgstr "DM"
+
+msgid "Daily Pixels per Country"
+msgstr "Denné pixely za krajinu"
+
+msgid "Daily Pixels per Player"
+msgstr "Denné pixely za hráča"
+
+msgid "Daily Rank"
+msgstr "Denné poradie"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "Vymaž"
+
+msgid "Delete Account"
+msgstr "Vymazať účet"
+
+msgid "Deny"
+msgstr ""
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Nezaregistrovala sa odpoveď z pixuniverse. Skús refreshnúť stránku ak "
+"problém naďalej pretrváva."
+
+msgid "Dimensions"
+msgstr "Dimenzie"
+
+msgid "Disable Game Sounds"
+msgstr "Vypni herné zvuky"
+
+msgid "Disable History Pencil"
+msgstr "Vypnúť Historickú ceruzku"
+
+msgid "Disable Overlay Pencil"
+msgstr "Vypnúť overlay ceruzku"
+
+msgid "Disable Pencil"
+msgstr "Vypnuť ceruzku"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr ""
+"Paleta displeja v kompaktnej forme, ktorá zaberá menej miesta na obrazovke."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Rob veci s IPs (jedna ip za lajnu)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "Neukazuj ma v globálnych štatistikác"
+
+msgid "Download Template"
+msgstr "Stiahni si šablonu"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"Presuň sa potiahnutím myši ${ mouseSymbol } alebo posúvaním ${ touchSymbol }"
+
+msgid "Duration"
+msgstr "Dľžka"
+
+msgid "Easter Egg OFF"
+msgstr "Easter egg vypnutý"
+
+msgid "Easter Egg ON"
+msgstr "Easter egg zapnutý"
+
+msgid "Edit"
+msgstr "Uprav"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email can't be empty."
+msgstr "Email nesmie byť prázdny."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Email nesmie byť dlhší ako 40 písmen."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "Email by mal obsahovať aspoň bodku"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Email by mal byt aspon 5 písmen dlhý."
+
+msgid "Email should contain a @"
+msgstr "Email by mal obsahovať"
+
+msgid "Enable Overlay"
+msgstr "Zapnúť overlay"
+
+msgid "Enable Pencil"
+msgstr "Zapnúť ceruzku"
+
+msgid "Enable chat notifications"
+msgstr "Zapni si chat notifikácie"
+
+msgid "Enter Characters"
+msgstr "Napíš písmenká"
+
+msgid "Enter Reason"
+msgstr "Napíš dôvod"
+
+msgid "Enter UserName of new Mod"
+msgstr "Zadaj Uživatelské meno nového moda"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Napíš svoju mailovú adresu a my ti pošleme nové heslo:"
+
+msgid "Error"
+msgstr "Chyba"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Chyba ${ retCode }"
+
+msgid "Error :("
+msgstr "Chyba :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "Exportuj zapnuté šablony"
+
+msgid "Factor"
+msgstr "Faktor"
+
+msgid "File"
+msgstr "Súbor"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Ked hráš na zemiaku."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr "Z histórie"
+
+msgid "From Template"
+msgstr "Zo šablony"
+
+msgid "Get IID"
+msgstr "Získaj IID"
+
+msgid "Get Pixels"
+msgstr "Získaj pixely"
+
+msgid "Get Users"
+msgstr "Získaj používateľov"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Zemeguľový výhlad"
+
+msgid "Go to"
+msgstr "Chod do"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Mriežka vypnutá"
+
+msgid "Grid ON"
+msgstr "Mriežka zapnutá"
+
+msgid "Have fun!"
+msgstr "Zabav sa!"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Tu zhromažďujeme odstránené plátna, aby sme ich správne archivovali. Ktorá "
+"je momentálne len jedna."
+
+msgid "Hide Embed"
+msgstr "Schovaj embed"
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Aktualizácia vyšších úrovní priblíženia nejaký čas trvá, 3D glóbus sa "
+"aktualizuje aspoň raz za deň."
+
+msgid "Historical View"
+msgstr "Historické videnie"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"Podrž ľavý ${ bindShift } pre ceruzku (na umiestnenie pri pohybe myšou)"
+
+msgid "How pixuniverse should look like."
+msgstr "Ako by mal vyzerať pixuniverse."
+
+msgid "I forgot my Password."
+msgstr "Zabudol som heslo."
+
+msgid "IID (optional)"
+msgstr "IID ("
+
+msgid "IID Actions"
+msgstr "IID akcie"
+
+msgid "IP Actions"
+msgstr "IP akcie"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Obrázkový konverter"
+
+msgid "Image Upload"
+msgstr "Uploadnúť obrázok"
+
+msgid "Import templates"
+msgstr "Importuj šablonu"
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Interval is invalid"
+msgstr "Interval je neplatný"
+
+msgid "Invalid Canvas"
+msgstr "Neplatné plátno"
+
+msgid "Invalid Coordinates"
+msgstr "Neplatné koordinácie"
+
+msgid "Invalid color selected"
+msgstr "Bola vybratá neplatná farba"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Len pre zaregistrovaných uživatelov"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Len Top10 zo včera tu môžu pokladať pixely"
+
+msgid "Keep Ratio"
+msgstr "Udržuj pomer"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Svetlá mriežka"
+
+msgid "Load Captcha"
+msgstr "Načítaj Captcha"
+
+msgid "Loading"
+msgstr "Načítava sa"
+
+msgid "Loading..."
+msgstr "Načítavam..."
+
+msgid "Log out"
+msgstr "Odhlásiť sa"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Prihlásiť sa"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "Prihlás sa aby si dostal prístup k viacerím možnostiam a štatistikám."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Prihlás sa s menom alebo mailom:"
+
+msgid "Make Screenshot"
+msgstr "Urobiť screenshot"
+
+msgid "Manage Moderators"
+msgstr "Spravuj moderátorov"
+
+msgid "Map Data"
+msgstr "Mapové údaje"
+
+msgid "Maximize"
+msgstr "Maximalizovať"
+
+msgid "Minimum Color Distance"
+msgstr "Minimálna vzdialenosť farby"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Modove náradie"
+
+msgid "Move"
+msgstr "Hýbať"
+
+msgid "Mute"
+msgstr "Stľmíť"
+
+msgid "Muted Sound"
+msgstr "Stlmený zvuk"
+
+msgid "Name"
+msgstr "Meno"
+
+msgid "Name can't be empty."
+msgstr "Meno nesmie byť prázdne."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Meno obsahuje neplátné charaktery ako @, /, \\ alebo #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Meno musí byť aspon 2 písmenká dlhé"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Meno musí byť kratšie ako 26 písmen"
+
+msgid "Name or Email"
+msgstr "Meno alebo Email"
+
+msgid "New Mail"
+msgstr "Nový email"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Nové heslo"
+
+msgid "New Username"
+msgstr "Nové meno"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Žiadne zadané captcha id"
+
+msgid "No or invalid captcha text"
+msgstr "Žiadny alebo neplatný captcha text"
+
+msgid "No password given."
+msgstr "Nezadané žiadne heslo."
+
+msgid "Not allowed"
+msgstr "Nepovolené"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Staré heslo"
+
+msgid "Online Users"
+msgstr "Online užívatelia"
+
+msgid "Online Users on Canvas"
+msgstr "Online uživatelia na plátne"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "Nepriehladnosť overlayu v percentách."
+
+msgid "Open Chat"
+msgstr "Otvoriť chat"
+
+msgid "Open Menu"
+msgstr "Otvoriť menu"
+
+msgid "Open Palette"
+msgstr "Otvoriť paletu"
+
+msgid "Open in PopUp"
+msgstr "Otvoriť v PopUp"
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Naším hlavným plátnom je obrovská mapa sveta, na ktorej môžeš pokládať kde "
+"len chceš, ale budeš musieť počkať na konkrétny Cooldown medzi pixelmi. "
+"Cooldown a požiadavky si môžeš pozrieť v ponuke Plátnový Výber (tlačidlo "
+"zemegule navrchu). Niektoré plátna majú iný cooldown na nahradenie "
+"užívateľom nastavených pixelov ako umiestnenie na nenastavený pixel. t.j. 4s/"
+"7s znamená 4s na nových pixeloch a 7s na už nastavených pixeloch."
+
+msgid "Overlay OFF"
+msgstr "Overlay vypnutý"
+
+msgid "Overlay ON"
+msgstr "Overlay zapnutý"
+
+msgid "Overlay Opacity"
+msgstr "Overlay neprehliadnosť"
+
+msgid "Palette Download"
+msgstr "Stiahnutie palety"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Paleta pre ${ gimpLink }"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Heslo musí byť aspon 6 písmen dlhé."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Heslo musí byť kratšie ako 60 písmen."
+
+msgid "Password successfully changed."
+msgstr "Heslo úspešne zmenené."
+
+msgid "Passwords do not match."
+msgstr "Heslá sa nezhodujú."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Režim ceruzky pre plátno ${ canvasName }"
+
+msgid "Pencil picks: "
+msgstr "Výber ceruzkou: "
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Pixel Notify OFF"
+msgstr "Pixel notifikácia vypnutá"
+
+msgid "Pixel Notify ON"
+msgstr "Pixel notifikácia zapnutá"
+
+msgid "Pixel Protection"
+msgstr "Pixel ochrana"
+
+msgid "Pixel protected"
+msgstr "Pixely sú chránene"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr "Pokladaj farebné pixely na veľkom plátne s ostatnými hráčmi online!"
+
+msgid "Placed Pixels"
+msgstr "Položené pixely"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Prehraj hudbu ked sa objaví nová správa"
+
+msgid "Player"
+msgstr "Hráč"
+
+msgid "Players and Pixels per hour"
+msgstr "Hráči a Pixely za hodinu"
+
+msgid "Please prove that you are human"
+msgstr "Prosím over sa že si človek"
+
+msgid "Please refresh the website"
+msgstr "Prosím obnov stránku"
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Politický kompas plátna"
+
+msgid "Potato Mode"
+msgstr "Zemiakový režim"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Pre pohyb stlač ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight }"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Stlač ${ bindG } na zapnutie mriežky"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Stlač ${ bindH } aby si zapol historické zobrazenie"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Stlačením ${ bindQ } a ${ bindE } lietaš hore a dole"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Stlač ${ bindQ } or ${ bindE } na priblíženie"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Stlač ${ bindR } na kopírovanie súradnic"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Stlač ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } aby si sa hýbal"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "Stlač ${ bindX } na zapnutie ukazovatela pixelovej aktivity"
+
+msgid "Private"
+msgstr "Súkromné"
+
+msgid "Profile"
+msgstr "Profi"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Vzdialenosť zabanovaná"
+
+msgid "Ranked"
+msgstr "Ranke"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Umiestnetie sa aktualizuje každých 5 minút. Denné umiestnenie sa resetuje o "
+"polnoci UTC času."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Dôvod"
+
+msgid "Refresh"
+msgstr "Obnov"
+
+msgid "Register"
+msgstr "Zaregistrovať"
+
+msgid "Register new account here"
+msgstr "Zaregistruj si nový účet tu"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Reloadni"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Vymaž moderátora"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Požiadavky"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Zmeniť velkosť"
+
+msgid "Restore"
+msgstr "Obnoviť"
+
+msgid "Retired Canvases (history only)"
+msgstr "Plátna mimo prevádzky (len historia)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "Rollbackni area plátna na nastavenie dátumu a času"
+
+msgid "Rollback to Date"
+msgstr "Rollbackni do dátumu"
+
+msgid "Save"
+msgstr "Ulož"
+
+msgid "Scale Image"
+msgstr "Mierka obrazu"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Scrollovaním ${ mouseSymbol } kolieskom myši alebo ${ touchSymbol } "
+"stiahnutím prstov sa priblížiš"
+
+msgid "Select Date above"
+msgstr "Vyber dátum hore"
+
+msgid "Select File"
+msgstr "Vyber súbor"
+
+msgid "Select Language"
+msgstr "Vyber jazyk"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Vyber plátno, ktoré chceš použiť.\n"
+"Každé plátno je jedinečné a má rôzne palety, cooldown a požiadavky.\n"
+"Archivované plátna sú dostupné tu:"
+
+msgid "Selected Color"
+msgstr "Vybraná farba"
+
+msgid "Send"
+msgstr "Pošli"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr "Poslal ti mail s inštrukciami na resetovanie tvojho hesla."
+
+msgid "Serpentine"
+msgstr "Serpentín"
+
+msgid "Server answered with gibberish :("
+msgstr "Server odpovedal blábolom :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr "Server je zmätený z tvojich pixelov, hráš na viacero zariadeniach?"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Nastavte ochranu oblastí (ak potrebuš jemnejšiu kontrolu, použi ochranu s "
+"nahrávaním obrázkov a alfa vrstvy)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgid "Show Embedded"
+msgstr "Ukáž embedded"
+
+msgid "Show Grid"
+msgstr "Ukáž mriežku"
+
+msgid "Show Grid in white instead of black."
+msgstr "Ukáž mriežku v bielom namiesto čiernej."
+
+msgid "Show Pixel Activity"
+msgstr "Ukáž pixelovú aktivitu"
+
+msgid "Show circles where pixels are placed."
+msgstr "Ukáž krúžky kde sa pokladajú pixely."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"Ukáž overlay ako malý individuálny pixel na vysokých približovacích levloch."
+
+msgid "Show templates as overlays ingame."
+msgstr "Ukáž šablony ako overlays v hre."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "Malé pixely ked priblížiš"
+
+msgid "Social Settings"
+msgstr "Sociálne nastavenia"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "Stakuje do"
+
+msgid "Start chatting here"
+msgstr "Začni rozprávať tu"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Štatistiky"
+
+msgid "Status: Not running"
+msgstr "Status: nebeží"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Stop čistič"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Odošli"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Zmenené na ${ canvasName }"
+
+msgid "Template Name"
+msgstr "Meno šablony"
+
+msgid "Templates"
+msgstr "Šablony"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Holé mapové údaje, ktoré používame, spolu s konvertovanými OpenStreetMap na "
+"orientáciu, si môžeš stiahnuť z mega.nz tu: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Témy"
+
+msgid "This URL is not supported by our Media Player"
+msgstr "Táto URL nieje podporovaná našim Media prehrávačom"
+
+msgid "This canvas doesn't exist"
+msgstr "Toto plátno neexistuje"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Toto plátno bolo vyžiadané v čase politických konfliktov na hlavnom plátne "
+"Zeme. Išlo o zobrazenie politického kompasu v rozlíšení 1024 x 1024 s 5s "
+"cooldown a 60s stackingom. Bola spustená 11. mája a zostala aktívna niekoľko "
+"mesiacov, kým bola 30. novembra vypnutá."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Čas vypršal"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Tip: Niesu case-sensitívne, I a 1 sú tie isté"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Už ťa nebaví stále spamovať jednu farbu? Chceš namiesto toho vytvoriť art, "
+"ale musíš počítať pixely z iného obrázka? Šablóny ti s tým môžu pomôcť! "
+"Šablóny sa môžu zobraziť ako prekrytie a môžeš cez ne kresliť. Jeden pixel "
+"na šablóne by mal byť jeden pixel na plátne."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "Today Placed Pixels"
+msgstr "Dneš položené pixely"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Top 10 krajín [pxls / day]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Top 10 denné umiestnenie"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Top 10 hráčov pxls / day]"
+
+msgid "Top 10 Players from Yesterday"
+msgstr "Top 10 hráčov zo včera"
+
+msgid "Top-left corner"
+msgstr "Horný lavý roh"
+
+msgid "Total"
+msgstr "Celkovo"
+
+msgid "Total Online Users"
+msgstr "Celý počet online uživatelov"
+
+msgid "Total Pixels per Player"
+msgstr "Celkové pixely za hráča"
+
+msgid "Total Pixels placed per day"
+msgstr "Celkový počet pixelov za deń"
+
+msgid "Total Rank"
+msgstr "Celkové poradie"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"Otoč každý pixel v oblasti na 0 (NAOZAJ BY SI TO NEMAL ROBIŤ NA ŽIADNEJ "
+"OBLASTI, KTORÁ UŽ NIE JE VEĽMI 0)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Zapni mriežku na zvýraznenie pixelových hraníc."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Napíš písmenká z následujúceho obrázku:"
+
+msgid "Unblock Users"
+msgstr "Odblokovať uživatelov"
+
+msgid "Unknown Captcha Error"
+msgstr "Neznáma Captcha chyba"
+
+msgid "Unknown Error"
+msgstr "Neznáma chyba"
+
+msgid "Unmuted Sound"
+msgstr "Zapnutý zvuk"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Uploadni obrázok na canva"
+
+msgid "Use our custom cursor"
+msgstr "Použí náš vlastný kurzor"
+
+msgid "User"
+msgstr "Uživateľ"
+
+msgid "User Account"
+msgstr "Uživatelský účet"
+
+msgid "User Area"
+msgstr "Uživatelská zona"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Uživatelské meno"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Rozhodli sme sa to archivovať ako timelapse s bezstratovo kódovaným webm. "
+"Vytvorenie snímky obrazovky z časozberu má za následok dokonalé zobrazenie "
+"toho, ako bolo plátno v tom čase v pomere 1:1."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+
+msgid "Weird"
+msgstr "Divné"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr "Čo má ceruzka kresliť na aktuálne plátno."
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Aj keď máme tendenciu nevymazávať plátna, niektoré plátna sa spúšťajú pre "
+"zábavu alebo na žiadosť používateľov, ktorí majú radi aktuálne populárny "
+"meme. Tieto plátna môžu byť po chvíli matné a neaktívne, vtedy už nie je "
+"dôvod ich uchovávať a môžeme sa rozhodnúť ich odstrániť."
+
+msgid "Why?"
+msgstr "Prečo?"
+
+msgid "Width"
+msgstr "Šírka"
+
+msgid "Wrong Color"
+msgstr "Nesprávna farba"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "Yes, Delete My Account!"
+msgstr "Ano, vymaž môj účet!"
+
+msgid "Yesterday"
+msgstr "Včera"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "Používaš proxy."
+
+msgid "You are weird"
+msgstr "Si divný"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr "Nemôžeš pristúpiť k tomuto plátnu, pretože máš malé pixel skóre"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Teraz môžeš pokládať  viac na pixunivers.fun :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Zlyhal si v captcha"
+
+msgid "You have new messages in chat"
+msgstr "Máš nové spravy v chate"
+
+msgid "You have no users blocked"
+msgstr "Nemáš zablokovaných žiadnych uživatelov"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Musíš byť prihlásený ak chceš pokladat na tomto plátne"
+
+msgid "You made too many requests"
+msgstr "Urobil si mnoho žiadností"
+
+msgid "You must be logged in to chat"
+msgstr "Nato aby si písal do chatu, musíš byt zaregistrovaný"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "Musíš zadať trvanie"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "Musíš napíšat IID"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Trvalo ti to moc dlho, skús znova."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Tvoj prehliadač nám neumožňuje používať AudioContext na prehrávanie zvukov. "
+"Máš nejakú súkromnu funciu ktorá nás blokuje?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Tvoj poskytovateľ internetu je zabanovaný z tejto hry"
+
+msgid "Your ban expires at "
+msgstr "Tvoj ban vyprší v "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Tvoje pixely sú pripravené"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Keď klepneš na plátno a priblíženie je malé, namiesto umiestnenia pixelu "
+"priblíž."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "a ${ canvas.req } nastavenie pixelov"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "ťa zmienil"
+
+msgid "or login with:"
+msgstr "alebo sa prihlás s:"
+
+msgid "or register here:"
+msgstr "alebo sa zaregistruj tu:"
+
+msgid "recommended"
+msgstr "doporučené"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "skús znova po ${ ti }min"
+
+msgid "x out of bounds"
+msgstr "x mimo dlhopisov"
+
+msgid "y out of bounds"
+msgstr "y mimo dlhopisov"
+
+msgid "z out of bounds"
+msgstr "z mimo dlhopisov"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "B"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "Vyskočiť"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Si zabanovaný. Myslíš že to je bezdôvodné? Pozri si "
+
+#~ msgid "Registration"
+#~ msgstr "Registrácia"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Zabudol heslo"
+
+#~ msgid " on how to appeal."
+#~ msgstr " na to ako sa odvolať."
+
+#~ msgid "Unbanned"
+#~ msgstr "Odbanovaný"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "Pokiaľ vidíš túto správnu, tak už niesi zabanovaný."
+
+#~ msgid "Source on "
+#~ msgstr "Zdroj zapnutý "
+
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Ak si zistili že si proxy, ale niesi, alebo si myslíš že si dostal "
+#~ "neprávom ban, prosím chod do našej ${ guildedLink } alebo nám pošlí e-"
+#~ "mail na ${ mailLink } a prilož aj následovné IID:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Zváž sa k nám pripojiť na Guilded:"
+
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Tvoje meno je: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Zmeniť meno"
+
+#~ msgid "Change Mail"
+#~ msgstr "Zmeniť mail"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Prosím over si svoju emailovú adresu alebo tvoj účet može byť vymazaná za "
+#~ "pár dní."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Mail sa zmenil úspešne. Poslali sme ti verifikačný mail, prosím over si "
+#~ "svoju novú mailovú adresu."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Blokovať všetky súkromnú správy"
+
+#~ msgid "There are no mods"
+#~ msgstr "Niesu žiadni modi"

@@ -1,0 +1,699 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: \n"
+"Language: to\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr ""
+
+msgid "3D Canvas"
+msgstr "3D Fakatataa"
+
+msgid "A 3D globe of our whole map"
+msgstr "Ko ha kolope 3D ʻo ʻetau mape kotoa"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Ko ha fakatataa maʻa e kau vaʻinga malohi taha mei he ʻaho kimuʻa. Ngaahi "
+"fakamatala fakamuimuitaha ʻi he 00:00 UTC."
+
+msgid "Access modtools"
+msgstr ""
+
+msgid "Add Application"
+msgstr ""
+
+msgid "Add an Application (OIDC Client)"
+msgstr ""
+
+msgid "Add new application"
+msgstr ""
+
+msgid "An error occured. Please try again later."
+msgstr ""
+
+msgid "Application changed successfully"
+msgstr ""
+
+msgid "Application deleted"
+msgstr ""
+
+msgid "Application successfully added"
+msgstr ""
+
+msgid "Black and White canvas"
+msgstr "Fakatataa ʻuliʻuli mo hinehina"
+
+msgid "Can not chat while being banned"
+msgstr ""
+
+msgid "Click here"
+msgstr "Lomiʻi heni"
+
+msgid "Click to Verify"
+msgstr "Lomiʻi ke Fakapapauʻi"
+
+msgid "Client Name"
+msgstr ""
+
+msgid "Confirm New Password"
+msgstr "Fakapapauʻi ʻa e Lea Fufū Foʻoú"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+
+msgid "Consent"
+msgstr ""
+
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+msgid "Could not close this Session."
+msgstr ""
+
+msgid "Could not find this login method"
+msgstr ""
+
+msgid "Couldn't find this mail in our database"
+msgstr "ʻIkai lava ke maʻu e meili ko ʻeni ʻi heʻemau faile fakakomipiuta"
+
+msgid "Default"
+msgstr ""
+
+msgid "Delete Application"
+msgstr ""
+
+msgid "Display name for your OIDC client"
+msgstr ""
+
+msgid "Double click on globe to go back."
+msgstr "Lomiʻi tuʻo ua ʻi he mamani ke toe foki."
+
+msgid "E-Mail already in use."
+msgstr "Kuo ʻosi fakaʻaongaʻi ʻa e ʻĪ-meilí."
+
+msgid "Earth"
+msgstr "Mamani"
+
+msgid "Edit existing applications"
+msgstr ""
+
+msgid "Email can't be empty."
+msgstr "He ʻikai lava ke taʻe fakafonu e ʻimeili."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "He ʻikai lava ke loloa ange ʻa e ʻimeili ʻi he mataʻitohi ʻe 40."
+
+msgid "Email should at least contain a dot"
+msgstr "ʻOku totonu ke ʻoua naʻa toe siʻi hifo he ʻimeili ha dot"
+
+msgid "Email should be at least 5 characters long."
+msgstr ""
+"ʻOku totonu ke ʻoua naʻa toe siʻi hifo he mataʻitohi ʻe 5 ʻa e ʻimeili."
+
+msgid "Email should contain a @"
+msgstr "ʻOku totonu ke kau ʻi he ʻimeili ha @"
+
+msgid "Error"
+msgstr ""
+
+msgid "Failed to create a new user :("
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Fiefia pea ʻoua naʻa ke momou ke fetuʻutaki mai kiate kimautolu kapau te ke "
+"e encouter ha faʻahinga palopalema :)"
+
+msgid "Hello"
+msgstr "Malo e lelei"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr ""
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Malo e lelei ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Kapau naʻe ʻikai ke ke kole ʻa e meili ko ʻeni, kataki ʻo tukunoaʻi pe ia "
+"(ko e ip naʻa ne kole ʻa e meili ko ʻeni ko e ${ ip })."
+
+msgid "Incorrect password!"
+msgstr "ʻIkai tonu e lea fufuú!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "ʻIkai tonu e :( URL Kātaki ʻo toe vakaiʻi hoʻo meilí."
+
+msgid "Just admins can do that"
+msgstr "ʻE lava ʻe he miniti pe ʻe taha ʻo fai ia"
+
+msgid "Know that an account exists"
+msgstr ""
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr ""
+
+msgid "Loading..."
+msgstr "Load..."
+
+msgid "Login from new location on pixuniverse"
+msgstr ""
+
+msgid "Login is required"
+msgstr ""
+
+msgid "Mail is already in use!"
+msgstr ""
+
+msgid "Mail is not configured on the server"
+msgstr "ʻOku ʻikai fakapolokalamaʻi ʻa e meili ʻi he server"
+
+msgid "Mail verification"
+msgstr "Fakapapauʻi ʻo e meilí"
+
+msgid "Minimap"
+msgstr ""
+
+msgid "Mirror of PixelCanvas"
+msgstr "Sioʻata ʻo e PixelCanvas"
+
+msgid "Mirror of PixelZone"
+msgstr "Sioʻata ʻo e PixelZone"
+
+msgid "Moon"
+msgstr "Mahina"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Fakatataa ʻo e mahina. Feituʻu malu ki he ʻati. ʻIkai ha fuka pe fakamatala "
+"lahi (tuku kehe kapau ko ha konga ʻo e ʻati) pe ʻaati lahi ange ʻi he 1.5 k "
+"x 1.5 k."
+
+msgid "Name already in use."
+msgstr ""
+
+msgid "Name can't be empty."
+msgstr "ʻIkai lava ke taʻe ʻi ai ha hingoa."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "ʻOku ʻi he hingoa ha mataʻitohi ʻoku hala hange ko @, /, \\ pe #"
+
+msgid "Name is too long"
+msgstr ""
+
+msgid "Name must be at least 2 characters long"
+msgstr "Kuo pau ke mataʻitohi ʻe 2 hono lōloa ʻo e hingoá"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Kuo pau ke nounou ange ʻa e hingoá ʻi he mataʻitohi ʻe 26"
+
+msgid "Name or Email does not exist!"
+msgstr ""
+
+msgid "New Password"
+msgstr "Lea Fufū Foʻoú"
+
+msgid "No Captcha given"
+msgstr "ʻIkai ha Captcha ʻe foaki"
+
+msgid "No or invalid fish id."
+msgstr ""
+
+msgid "No password given."
+msgstr "ʻIkai ʻoange ha lea fufū."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr ""
+
+msgid "No such badge found"
+msgstr ""
+
+msgid "No such fish found"
+msgstr ""
+
+msgid "One redirect URIs per line"
+msgstr ""
+
+msgid "One redirect_uri per line"
+msgstr ""
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr ""
+
+msgid "Only four colors. Same rules as moon!"
+msgstr ""
+
+msgid "OpenID Connect specs"
+msgstr ""
+
+msgid "Or by copying following url:"
+msgstr "Pe hiki tatau ʻa e URL ko ʻeni:"
+
+#, fuzzy
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"Ko ʻetau tefitoʻi fakatataa, ko ha mape lahi ʻo e mamani. Tuku ʻi he feituʻu "
+"kotoa pe ʻoku ke saiʻia ai"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Kuo pau ke ʻoua naʻa toe siʻi hifo he mataʻitohi ʻe 6 ʻa e lea fufuú."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Kuo pau ke nounou ange ʻa e lea fufuú ʻi he mataʻitohi ʻe 60."
+
+#, fuzzy
+msgid "Password successfully changed."
+msgstr "Naʻe lava lelei ʻo liliu ʻa e Passowrd."
+
+msgid "Permission"
+msgstr ""
+
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun 3DGlobe"
+
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+
+#, fuzzy
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Fokotuʻu Voxels ʻi ha fakatataa 3D mo e niʻihi kehe"
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Fokotuʻu ʻa e lanu ʻo e lanu ʻi ha mape styled fakatataa mo e kau vaʻinga "
+"kehe ʻi he ʻInitaneti"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid "Please try again."
+msgstr ""
+
+msgid "Please use int channel"
+msgstr "Kātaki ʻo fakaʻaongaʻi ʻa e int channel"
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Redirect URIs"
+msgstr ""
+
+msgid "Regularly update this data"
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "Toe Fakafoʻou ʻa e Lea Fufuú"
+
+msgid "Reset your password here"
+msgstr "Fakafoʻou heni hoʻo lea fufuú"
+
+msgid "Server error when deleting user."
+msgstr ""
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr ""
+
+msgid "Space-separated list of available scopes"
+msgstr ""
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+
+msgid "Space-separated list of scopes that should be available"
+msgstr ""
+
+#, fuzzy
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "Fakatataa makehe ke fakamafola hono ʻiloʻi ʻo e SARS-CoV2"
+
+msgid "Stop flooding."
+msgstr "Taʻofi e tafea."
+
+msgid "Submit"
+msgstr "Fakahū"
+
+msgid "Thanks"
+msgstr "Malo"
+
+msgid "The user owning this badge is private"
+msgstr ""
+
+msgid "The user owning this fish is private"
+msgstr ""
+
+msgid "This application is not allowed to login"
+msgstr ""
+
+msgid "This application redirects to an unallowed page"
+msgstr ""
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+
+msgid "This application uses a PKCE method we do not support"
+msgstr ""
+
+msgid "This application uses a login method we do not support"
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+
+msgid "This email provider is not allowed"
+msgstr "ʻOku ʻikai fakangofua ʻa e kautaha ʻimeili ko ʻeni"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr ""
+"ʻOku ʻikai toe ʻaonga ʻa e fehokotakiʻanga fakafoʻou ko ʻeni ʻo e lea fufuú :"
+"("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr ""
+
+msgid "Top10"
+msgstr "Top10"
+
+msgid "Unknown Captcha Error"
+msgstr "Fehalaaki Captcha ʻikai ʻiloʻi"
+
+msgid "Update Application"
+msgstr ""
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User doesn't exist in our database :("
+msgstr "ʻOku ʻikai maʻu ʻa e tokotaha ngaue ʻi heʻetau faile fakakomipiuta :("
+
+msgid "Username already in use."
+msgstr "Kuo ʻosi ngāueʻaki ʻe he tokotaha ngāue ki he polokala."
+
+msgid "Username can not start with pp_"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Kuo mau ʻosi ʻoatu ha meili mo ha ngaahi fakahinohino. Kātaki ʻo tatali "
+"kimuʻa pea toki kole mai ha toe meili ʻe taha."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Kuo mau ʻosi ʻoatu ha meili fakapapauʻi, te ke lava ʻo kole ha taha ʻi he "
+"miniti ʻe ${ minLeft }."
+
+#, fuzzy, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr ""
+"Talitali lelei ʻa e ${ name } ki he pixuniverse, plese fakapapauʻi hoʻo meili"
+
+msgid "You already chose your username"
+msgstr ""
+
+msgid "You already have that name."
+msgstr ""
+
+msgid "You are already verified."
+msgstr ""
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "ʻOku ʻikai ke ke toe ʻi ha miniti ʻe ${ timeMin }"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "ʻOku ʻikai ke ke toe ʻi ai ha sekoni ʻe ${ ttl }"
+
+msgid "You are not allowed to access this page"
+msgstr "ʻOku ʻikai ngofua ke ke hū ki he peesi ko ʻení"
+
+msgid "You are not banned"
+msgstr "ʻOku ʻikai ke ke banned"
+
+msgid "You are not logged in"
+msgstr "ʻOku ʻikai ke ke hū ki he polokalamá"
+
+msgid "You are now verified :)"
+msgstr "Kuo fakapapauʻi he taimí ni :)"
+
+#, fuzzy
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"ʻOku ʻikai ke ke fuʻu tokanga koe ki ai, kau ki heʻetau guilded ke apppeal "
+"ʻa e fakalongo"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr ""
+"ʻOku ke ʻoatu ha ngaahi popoaki ʻoku fuʻu vave, kuo pau ke ke tatali ki he $"
+"{ waitTime }s :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+
+msgid "You can not register an account while you are banned"
+msgstr ""
+
+msgid "You can not register an account with a proxy"
+msgstr ""
+
+#, fuzzy
+msgid "You can not send chat messages while using a proxy"
+msgstr "He ʻikai lava ke ke ʻave ha ngaahi popoaki talanoa mo e fakafofonga"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+
+msgid "You can't send a message this long :("
+msgstr "He ʻikai lava ke ke ʻave ha popoaki fuoloa peheni :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+
+msgid "You don't have access to this channel"
+msgstr "ʻOku ʻikai ke ke lava ʻo hu ki he senolo ko ʻeni"
+
+msgid "You failed your captcha"
+msgstr "Naʻe ʻikai ke ke lava hoʻo captcha"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr "Naʻe ngalo hoʻo lea fufuu ki he pixuniverse? Maʻu ha taha foʻou heni"
+
+msgid "You have to fill out all fields"
+msgstr ""
+
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr ""
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Naʻá ke kole ke maʻu mai ha lea fufū foʻou. Te ke lava ʻo liliu hoʻo lea "
+"fufuu ʻi he miniti ʻe 30 ka hoko: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "Naʻá ke ʻave ha lea fufū ʻoku ʻikai fakafonu pe hala e fakamatalá :("
+
+msgid "You took too long, try again"
+msgstr ""
+
+msgid "You will be automatically redirected after 15s"
+msgstr "ʻE toe fakafoki fakahangatonu atu koe hili 15s"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your account needs to be verified to access this page"
+msgstr ""
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr ""
+"ʻOku ʻikai ke ʻi ai ha meʻa fakataimi ʻi ho fonua mei he senolo ko ʻeni"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "Kuo pau ke fakapapauʻi hoʻo meili kae lava ke talanoa"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"ʻOku ʻikai tonu hoʻo kouti fakapapauʻi ʻo e meilí pe kuo ʻosi e taimi "
+"ngāueʻaki :(, kātaki ʻo kole ha fika foʻou."
+
+msgid "Your passwords do not match :("
+msgstr "ʻOku ʻikai tatau hoʻo ongo lea fufuú mo e :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr ""
+
+msgid "to go back to pixuniverse"
+msgstr "ke foki ki pixuniverse"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"talitali lelei ki homau kiʻi kolo pixelplacers, ke fakaʻaongaʻi hoʻo "
+"ʻakauni, kuo pau ke ke fakapapauʻi hoʻo meili. Te ke lava ʻo fai ia heni: "
+
+#~ msgid "You are banned"
+#~ msgstr "ʻOku ke banned"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr "ʻOku banned hoʻo kautaha ʻInitaneti"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun PopUp"
+
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "Toe Fakafoʻou e Lea Fufuú pixunivers.fun"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr ""
+#~ "Malo e lelei ${ name }, te ke lava ʻo fokotuʻu heni hoʻo lea fufu foʻou:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "Naʻe fuʻu fuoloa hoʻo feinga."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "ʻIkai lava ʻo faʻu ha foʻou ki he polokalamá :("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "ʻIkai lava ke fokotuʻu ha fakataha hili e lesisita :("
+
+#~ msgid "You are not even logged in."
+#~ msgstr "ʻOku ʻikai ke ke hu ki he polokalama."
+
+#~ msgid "Server error when logging out."
+#~ msgstr "Fehalaaki ʻa e server ʻi he taimi ʻoku loka ai."
+
+#~ msgid "You are not authenticated."
+#~ msgstr "ʻOku ʻikai ke ke authenticated."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "Ngaahi ʻAkauni pixunivers.fun"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "Pe ${ clickHere } ke foki ki pixuniverse"

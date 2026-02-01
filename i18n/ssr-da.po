@@ -1,0 +1,715 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-10-27 08:07+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Danish <https://translate.gs-os.com/projects/ppfun/server/da/"
+">\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr "2bit"
+
+msgid "3D Canvas"
+msgstr "3D Kanvas"
+
+msgid "A 3D globe of our whole map"
+msgstr "En 3D klode af hele vores kort"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Et kanvas for de mest aktive spillere fra den tidligere dag. Daglig "
+"rangering opdaterer kl. 00:00 UTC."
+
+msgid "Access modtools"
+msgstr "Brug modværktøjer"
+
+msgid "Add Application"
+msgstr "Tilføj Applikation"
+
+msgid "Add an Application (OIDC Client)"
+msgstr "Tilføj en Applikation (OIDC Klient)"
+
+msgid "Add new application"
+msgstr "Tilføj ny applikation"
+
+msgid "An error occured. Please try again later."
+msgstr "Der opstod en fejl. Prøv igen senere."
+
+msgid "Application changed successfully"
+msgstr "Applikation ændrede"
+
+msgid "Application deleted"
+msgstr "Applikation slettet"
+
+msgid "Application successfully added"
+msgstr "Applikation er blevet tilføjet"
+
+msgid "Black and White canvas"
+msgstr "Sort og Hvidt kanvas"
+
+msgid "Can not chat while being banned"
+msgstr "Kan ikke snakke når bannet"
+
+msgid "Click here"
+msgstr "Klik her"
+
+msgid "Click to Verify"
+msgstr "Klik for at Bekræfte"
+
+msgid "Client Name"
+msgstr "Klient Navn"
+
+msgid "Confirm New Password"
+msgstr "Bekræft Nye Adgangskode"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"Erobrer land på et mindrere verdenskort med beskyttet hav. Deler nedkøling "
+"med jorden kanvasset!"
+
+msgid "Consent"
+msgstr "Samtykke"
+
+msgid "Coronavirus"
+msgstr "Koronavirus"
+
+msgid "Could not close this Session."
+msgstr "Kunne ikke lukke denne Session."
+
+msgid "Could not find this login method"
+msgstr "Kunne ikke finde denne login metode"
+
+msgid "Couldn't find this mail in our database"
+msgstr "Kunne ikke finde denne mail i vores database"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Delete Application"
+msgstr "Slet Applikation"
+
+msgid "Display name for your OIDC client"
+msgstr "Vis navn for din OIDC klient"
+
+msgid "Double click on globe to go back."
+msgstr "Dobbeltklik på kloden for at gå tilbage."
+
+msgid "E-Mail already in use."
+msgstr "E-Mail allerede i brug."
+
+msgid "Earth"
+msgstr "Jorden"
+
+msgid "Edit existing applications"
+msgstr "Tilføj eksisterende applikationer"
+
+msgid "Email can't be empty."
+msgstr "Email må ikke være tom."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Email kan ikke være længere end 40 tegn."
+
+msgid "Email should at least contain a dot"
+msgstr "Email skal indeholde i det mindste én prik"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Email skal være mindst 5 tegn langt."
+
+msgid "Email should contain a @"
+msgstr "Email skal indeholde et @"
+
+msgid "Error"
+msgstr "Fejl"
+
+msgid "Failed to create a new user :("
+msgstr "Mislykkede at skabe en ny bruger :("
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+"Generér en ny client_secret. Den gamle hemmelighed vil blive ugyldig "
+"øjeblikkeligt."
+
+msgid "Get email address"
+msgstr "Få email adresse"
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr "Få antallet af placerede pixels og rang"
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Hav' det sjovt og tøv ikke med at kontakte os hvis du støder på nogle "
+"problemer :)"
+
+msgid "Hello"
+msgstr "Hej"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr "Hej ${ email }, du kan indstille din nye adgangskode her:"
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Hej ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+"Hvis dette var dig, ignorér denne email. Hvis det ikke var dig, gå til <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> og log-ud enhver "
+"session som du er ubevidst om under »Login Methods« i brugerområdet og ændr "
+"din adgangskode."
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Hvis du ikke anmodet om denne mail, ignorerer den bare (ip'en der anmodet om "
+"denne mail var ${ ip })."
+
+msgid "Incorrect password!"
+msgstr "Forkerte adgangskode!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "Ugyldig url :( tjek din mail igen."
+
+msgid "Just admins can do that"
+msgstr "Kun administratorer kan gøre det"
+
+msgid "Know that an account exists"
+msgstr "Ved at en konto eksisterer"
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr "Liste over tilgængelige scopes"
+
+msgid "Loading..."
+msgstr "Indlæser..."
+
+msgid "Login from new location on pixuniverse"
+msgstr "Login fra ny placering på pixuniverse"
+
+msgid "Login is required"
+msgstr "Login er påkrævet"
+
+msgid "Mail is already in use!"
+msgstr "Mail er allerede i brug!"
+
+msgid "Mail is not configured on the server"
+msgstr "Mail er ikke konfigureret på serveren"
+
+msgid "Mail verification"
+msgstr "Mail bekræftelse"
+
+msgid "Minimap"
+msgstr "Minikort"
+
+msgid "Mirror of PixelCanvas"
+msgstr "Spejl af PixelCanvas"
+
+msgid "Mirror of PixelZone"
+msgstr "Spejl af PixelZone"
+
+msgid "Moon"
+msgstr "Måne"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Måne kanvas. Sikkert sted for kunst. Ingen flager eller stor text (undtagen "
+"hvis del af kunst) eller større end 1,5k x 1,5k pixels."
+
+msgid "Name already in use."
+msgstr "Navn allerede i brug."
+
+msgid "Name can't be empty."
+msgstr "Navn må ikke være tomt."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Navn indeholder ugyldige tegn f.eks. @, /, \\ eller #"
+
+msgid "Name is too long"
+msgstr "Navn er for langt"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Navn skal være mindst 2 tegn langt"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Navn skal være kortere end 26 tegn"
+
+msgid "Name or Email does not exist!"
+msgstr "Navn eller Email eksisterer ikke!"
+
+msgid "New Password"
+msgstr "Nye adgangskode"
+
+msgid "No Captcha given"
+msgstr "Ingen Captcha angivet"
+
+msgid "No or invalid fish id."
+msgstr "Ingen eller ugyldig fiske-id."
+
+msgid "No password given."
+msgstr "Ingen adgangskode angivet."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr "Ingen redirect_uris angivet."
+
+msgid "No such badge found"
+msgstr "Ingen sådan medalje fundet"
+
+msgid "No such fish found"
+msgstr "Ingen sådan fisk fundet"
+
+msgid "One redirect URIs per line"
+msgstr "Én omridigerings URIs per linje"
+
+msgid "One redirect_uri per line"
+msgstr "Én redirect_uri per linje"
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr "Kun fem redirect_uris er tilladt per klient"
+
+msgid "Only four colors. Same rules as moon!"
+msgstr "Kun fire farver. Samme regler som måne!"
+
+msgid "OpenID Connect specs"
+msgstr "OpenID Connect specs"
+
+msgid "Or by copying following url:"
+msgstr "Eller ved at kopiere følgende url:"
+
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr "Vores hovedkanvas, et kæmpe verdenskort. Placer hvor end du vil!"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Adgangskode skal være mindst 6 tegn lang."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Adgangskode skal være kortere end 60 tegn."
+
+msgid "Password successfully changed."
+msgstr "Ændrede Adgangskode succesfuldt."
+
+msgid "Permission"
+msgstr "Tilladelse"
+
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun 3DGlobus"
+
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+"pixuniverse opfylder OpenID Connect (OIDC) specifikationerne. Så hvis en "
+"applikation som understøtter OIDC kunne spørge efter samtykke og logge in "
+"ved brug af pixuniverse kontoer. De nødvendige endepunkter kan blive auto-"
+"opdaget via ${ wellKnownUrl } URL'en."
+
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Placer Voxels på et 3D kanvas med andre."
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Placer farvede pixels på et kort-stilet kanvas med andre spillere online"
+
+msgid "Please refresh the website"
+msgstr "Genindlæs hjemmesiden"
+
+msgid "Please try again."
+msgstr "Prøv igen."
+
+msgid "Please use int channel"
+msgstr "Brug int kanal"
+
+msgid "Read Badges and fishes"
+msgstr "Læs medaljer og fisk"
+
+msgid "Read name, username and account age"
+msgstr "Læs navn, brugernavn og kontoalder"
+
+msgid "Redirect URIs"
+msgstr "Omridigér URIs"
+
+msgid "Regularly update this data"
+msgstr "Regelmæssigt opdatér dette data"
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr "Genrul client_secret"
+
+msgid "Reset Password"
+msgstr "Nulstil Adgangskode"
+
+msgid "Reset your password here"
+msgstr "Nulstil din adgangskode her"
+
+msgid "Server error when deleting user."
+msgstr "Serverfejl når man sletter bruger."
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr "Nogen loggede ind på din konto fra en ny placering, med IP'en:"
+
+msgid "Space-separated list of available scopes"
+msgstr "Mellemrumssepareret liste over tilgængelige scope"
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+"Mellemrumssepareret liste over standard scopes, de vil blive brugt på "
+"anmodninger hvis ingen andre scope er angivet."
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+"Mellemrumssepareret liste over standard scopes, de vil blive brugt på "
+"anmodninger hvor ingen andre scope er angivet."
+
+msgid "Space-separated list of scopes that should be available"
+msgstr "Mellemrumssepareret liste over scopes der bør være tilgængelige"
+
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "Specielt kanvas for at sprede viden om SARS-CoV2 (tag vaccinen)."
+
+msgid "Stop flooding."
+msgstr "Lad være med at oversvømme chatten."
+
+msgid "Submit"
+msgstr "Indsend"
+
+msgid "Thanks"
+msgstr "Tak"
+
+msgid "The user owning this badge is private"
+msgstr "Bruger der ejer denne medalje er privat"
+
+msgid "The user owning this fish is private"
+msgstr "Brugeren der ejer denne fisk er privat"
+
+msgid "This application is not allowed to login"
+msgstr "Denne applikation er har ikke tilladelse til at logge ind"
+
+msgid "This application redirects to an unallowed page"
+msgstr "Denne applikation omridigerer til en forbudt side"
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+"Denne applikation sendte en fejlagtig login anmodning med ingen omridigering"
+
+msgid "This application uses a PKCE method we do not support"
+msgstr "Denne applikation bruger en PKCE metode som vi ikke understøtter"
+
+msgid "This application uses a login method we do not support"
+msgstr "Denne applikation bruger en loginmetode som vi ikke understøtter"
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+"Denne email / adgangskode kombination blev hacket og afsløret. For at "
+"beskytte denne konto, adgangskode er blevet nulstillet. Brug »Glemte min "
+"adgangskode« funktionen nedenfor til at indstille en ny adgangskode. I "
+"fremtiden, overvej ikke at installere malware, Tak."
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+"Denne email / adgangskode kombination blev hacket og afsløret. For at "
+"beskytte denne konto, adgangskode er blevet nulstillet. Brug »Glemte min "
+"adgangskode« funktionen på LogIn-siden til at indstille en ny adgangskode. I "
+"fremtiden, overvej ikke at installere malware, Tak."
+
+msgid "This email provider is not allowed"
+msgstr "Denne email udbyder er ikke tilladt"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Dette adgangskode-nulstillings link er ikke længere gyldig :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr "For mange eller for lange redirect_uris"
+
+msgid "Top10"
+msgstr "Top10"
+
+msgid "Unknown Captcha Error"
+msgstr "Ukendt Captcha Fejl"
+
+msgid "Update Application"
+msgstr "Opdatér Applikation"
+
+msgid "User ID and verification level"
+msgstr "Bruger-ID og bekræftelsesniveau"
+
+msgid "User doesn't exist in our database :("
+msgstr "Bruger eksisterer ikke i vores database :("
+
+msgid "Username already in use."
+msgstr "Brugernavn allerede i brug."
+
+msgid "Username can not start with pp_"
+msgstr "Brugernavn må ikke starte med pp_"
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr "Brugernavn må kun indeholde tegnene: a-z . _ og -"
+
+msgid "Username can't be empty."
+msgstr "Brugernavn må ikke være tomt."
+
+msgid "Username must be at least 2 characters long"
+msgstr "Brugernavn skal være mindst 2 tegn langt"
+
+msgid "Username must be shorter than 26 characters"
+msgstr "Brugernavn skal være kortere end 26 tegn"
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Vi har allerede sendt dig en mail med instruktioner. Vent før du anmoder om "
+"en ny mail."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Vi har allerede sendt dig en bekræftelsesmail, du kan anmode om endnu en om $"
+"{ minLeft } minutter."
+
+#, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr "Velkommen ${ name } til pixuniverse, bekræft din mail"
+
+msgid "You already chose your username"
+msgstr "Du har allerede valgt dit brugernavn"
+
+msgid "You already have that name."
+msgstr "Du har allerede det navn."
+
+msgid "You are already verified."
+msgstr "Du er allerede bekræftet."
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Du er gjort stum for en anden ${ timeMin } minutes"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Du er gjort stum for en anden ${ ttl } Sekunder"
+
+msgid "You are not allowed to access this page"
+msgstr "Du er ikke tilladt at tilgå denne side"
+
+msgid "You are not banned"
+msgstr "Du er ikke bannet"
+
+msgid "You are not logged in"
+msgstr "Du er ikke logget ind"
+
+msgid "You are now verified :)"
+msgstr "Du er nu bekræftet :)"
+
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Du er permanent gjort stum, Tilslut dig til vores Guilded for at appellere "
+"om at du blev gjort stum"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr "Du sender beskeder for hurtigt, du skal vente ${ waitTime }s :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr "Du kan ikke slette denne loginmetode, fordi du har ikke andet tilbage."
+
+msgid "You can not register an account while you are banned"
+msgstr "Du kan ikke registere en konto mens du er bannet"
+
+msgid "You can not register an account with a proxy"
+msgstr "Du kan ikke registrere en konto med en proxy"
+
+msgid "You can not send chat messages while using a proxy"
+msgstr "Du kan ikke sende chat beskeder med proxy"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+"Du kan registrere din egen applikation her for at hente client-id og client-"
+"secret nødvendige for at kunne bruge dette."
+
+msgid "You can't send a message this long :("
+msgstr "Du kan ikke sende en besked så lang :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr "Du har ikke en email adresse sat. Tilføj én under »Loginmetoder«."
+
+msgid "You don't have access to this channel"
+msgstr "Du har ikke tilladelse til at se denne kanal"
+
+msgid "You failed your captcha"
+msgstr "Du mislykkede din captcha"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr "Glemt din adgangskode for pixuniverse? Få en ny en her"
+
+msgid "You have to fill out all fields"
+msgstr "Du skal udfylde alle felter"
+
+msgid "You must be logged in to access this page"
+msgstr "Du skal være logget ind for at få adgang til denne side"
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr "Du skal definere et gyldigt scope"
+
+msgid "You need to directly access this page in the browser :("
+msgstr "Du skal direkte tilgå denne side i browseren :("
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Du anmodet om en ny adgangskode. Du kan ændre din adgangskode inden for de "
+"næste 30min her: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "Du sendte en tom adgangskode eller ugyldig data :("
+
+msgid "You took too long, try again"
+msgstr "Du tog for lang tid, prøv igen"
+
+msgid "You will be automatically redirected after 15s"
+msgstr "Du vil blive automatisk omdirigeret efter 15s"
+
+msgid "Your Browser looks shady"
+msgstr "Din Browser ser tvivlsom ud"
+
+msgid "Your account needs to be verified to access this page"
+msgstr "Din konto skal være bekræftet for at tilgå denne side"
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Dit land er midlertidigt gjort stum i denne chat kanal"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "Din mail skal være bekræftet for at chatte"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Din mail bekræftelseskode er ugyldig eller allerede udløbet :(, anmod "
+"venligst om en ny en."
+
+msgid "Your passwords do not match :("
+msgstr "Dine adgangskoder matcher ikke :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr "redirect_uris ser ikke legitim ud"
+
+msgid "to go back to pixuniverse"
+msgstr "for at gå tilbage til pixuniverse"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"velkommen til vores lille samfund of pixelplacere, for at bruge din konto, "
+"har du brug for at bekræfte din mail. Du kan gøre det her: "
+
+#~ msgid "You are banned"
+#~ msgstr "Du er bannet"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr "Din Internetudbyder er bannet"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun PopUp"
+
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "pixunivers.fun Adgangskode Nulstilling"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr "Hej ${ name }, du kan skrive din nye adgangskode her:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "Du tog for lang tid, prøv igen."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "Kunne ikke oprette ny bruger :("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "Kunne ikke oprette session efter registrering :("
+
+#~ msgid "You are not even logged in."
+#~ msgstr "Du er engang logget in."
+
+#~ msgid "Server error when logging out."
+#~ msgstr "Server fejl ved log ud."
+
+#~ msgid "You are not authenticated."
+#~ msgstr "Du er ikke godkendt."
+
+#~ msgid "Muted Users can not delete their account."
+#~ msgstr "Stummet brugere kan ikke slette deres konto."
+
+#~ msgid "Muted Users can not do this."
+#~ msgstr "Stummet brugere kan ikke gøre dette."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "pixunivers.fun Kontoer"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "Eller ${ clickHere } for at gå tilbage til pixuniverse"

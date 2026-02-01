@@ -1,0 +1,790 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-10-26 15:53+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: German <https://translate.gs-os.com/projects/ppfun/server/de/"
+">\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr "2bit"
+
+msgid "3D Canvas"
+msgstr "3D Leinwand"
+
+msgid "A 3D globe of our whole map"
+msgstr "Ein interaktvier 3D Globus unserer gesamten Karte"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Eine Leinwand für die zehn aktivsten Spieler des Vortages. Tägliche Reihung "
+"wird um 00:00 UTC aktualisiert."
+
+msgid "Access modtools"
+msgstr "Auf Moderationshilfen zugreifen"
+
+msgid "Add Application"
+msgstr "Anwendung hinzufügen"
+
+msgid "Add an Application (OIDC Client)"
+msgstr "Eine Anwendung hinzufügen (OIDC Client)"
+
+msgid "Add new application"
+msgstr "Neue Anwendung hinzufügen"
+
+msgid "An error occured. Please try again later."
+msgstr "Es ist ein Fehler aufgetreten. Versuche es später noch einmal."
+
+msgid "Application changed successfully"
+msgstr "Anwendung erfolgreich geändert"
+
+msgid "Application deleted"
+msgstr "Anwendung gelöscht"
+
+msgid "Application successfully added"
+msgstr "Anwendung erfolgreich hinzugefügt"
+
+msgid "Black and White canvas"
+msgstr "Schwarz/Weiß Leinwand"
+
+msgid "Can not chat while being banned"
+msgstr "Du kannst nicht schreiben, während du gesperrt bist"
+
+msgid "Click here"
+msgstr "Klicke hier"
+
+msgid "Click to Verify"
+msgstr "Klicke zum verifizieren"
+
+msgid "Client Name"
+msgstr "Client Name"
+
+msgid "Confirm New Password"
+msgstr "Neues Passwort bestätigen"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"Erobere Land auf einer kleineren Erde mit beschützten Ozeanen. Teilt seine "
+"Abklingzeit mit Erde!"
+
+msgid "Consent"
+msgstr "Einstimmung"
+
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+msgid "Could not close this Session."
+msgstr "Die Sitzung konnte nicht beendet werden."
+
+msgid "Could not find this login method"
+msgstr "Anmeldungsmethode nicht gefunden"
+
+msgid "Couldn't find this mail in our database"
+msgstr "Konnten diese E-Mail nicht in unserer Datenbank finden"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Delete Application"
+msgstr "Anwendung löschen"
+
+msgid "Display name for your OIDC client"
+msgstr "Namen des OIDIC client anzeigen"
+
+msgid "Double click on globe to go back."
+msgstr "Doppelklick um zurück zu gehen."
+
+msgid "E-Mail already in use."
+msgstr "E-Mail wird bereits verwendet."
+
+msgid "Earth"
+msgstr "Erde"
+
+msgid "Edit existing applications"
+msgstr "Vorhandene Anwendungen bearbeiten"
+
+msgid "Email can't be empty."
+msgstr "E-Mail Feld kann nicht leer sein."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "E-Mail kann nicht länger als 40 Zeichen sein."
+
+msgid "Email should at least contain a dot"
+msgstr "E-Mail sollte zumindest einen Punkt beinhalten"
+
+msgid "Email should be at least 5 characters long."
+msgstr "E-Mail sollte mindestens 5 Zeichen lang sein."
+
+msgid "Email should contain a @"
+msgstr "E-Mail sollte ein \"@\" beinhalten"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Failed to create a new user :("
+msgstr "Konnte keinen neuen Benutzer erstellen :("
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+"Erzeuge ein neues client_secret. Das alte client_secret wird sofort ungültig."
+
+msgid "Get email address"
+msgstr "Sehe E-Mail-Adresse"
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr "Zugriff auf die Anzahl gesetzter Pixel und Rang"
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Viel Spaß und scheue dich nicht uns zu kontaktieren, falls du Probleme "
+"hast :)"
+
+msgid "Hello"
+msgstr "Hallo"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr "Hallo ${ email }, dein Passwort kann hier zurückgesetzt werden:"
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Hallo ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+"Falls du das warst, kannst du diese Email vernachlässigen. Falls du es doch "
+"nicht warst, geh auf <a href=\"https://pixunivers.fun\">pixunivers.fun</a> "
+"und melde dich unter \"Anmeldemethoden\" von allen dir unbekannten "
+"Sitzungen, unter dem Reiter Nutzerbereich, ab und ändere dein Passwort."
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Falls du diese Mail nicht beantragt hast, bitte ignoriere sie (die IP welche "
+"diese Nachricht beantragt hat war ${ ip })."
+
+msgid "Incorrect password!"
+msgstr "Falsches Passwort!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "Ungültige Adresse :( Bitte kontrolliere die Mail nochmal."
+
+msgid "Just admins can do that"
+msgstr "Nur Administratoren können dies tun"
+
+msgid "Know that an account exists"
+msgstr "Erfahren, dass ein pixuniverse Konto existiert"
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr "Liste aller verfügbaren scopes"
+
+msgid "Loading..."
+msgstr "Lade..."
+
+msgid "Login from new location on pixuniverse"
+msgstr "Anmeldung von neuem Standort"
+
+msgid "Login is required"
+msgstr "Anmeldung erforderlich"
+
+msgid "Mail is already in use!"
+msgstr "E-Mail wird schon in Verwendung!"
+
+msgid "Mail is not configured on the server"
+msgstr "Mail ist auf diesen Server nicht konfiguriert"
+
+msgid "Mail verification"
+msgstr "E-Mail verifizieren"
+
+msgid "Minimap"
+msgstr "Kleine Karte"
+
+msgid "Mirror of PixelCanvas"
+msgstr "Kopie von PixelCanvas"
+
+msgid "Mirror of PixelZone"
+msgstr "Kopie von PixelZone"
+
+msgid "Moon"
+msgstr "Mond"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Mond Leinwand. Kunst erwünscht. Keine Flaggen oder großer Text außer als "
+"Teil von Kunst und nicht größer als 1,5k x 1,5k pixels."
+
+msgid "Name already in use."
+msgstr "Name bereits in Verwendung."
+
+msgid "Name can't be empty."
+msgstr "Name kann nicht leer sein."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Ungültige Zeichen im Namen wie @,/.\\ oder #"
+
+msgid "Name is too long"
+msgstr "Name zu lang"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Name muss mindestens 2 Zeichen lang sein"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Name muss kürzer als 26 Zeichen sein"
+
+msgid "Name or Email does not exist!"
+msgstr "Name oder E-Mail nicht vorhanden!"
+
+msgid "New Password"
+msgstr "Neues Passwort"
+
+msgid "No Captcha given"
+msgstr "Kein Captcha angegeben"
+
+msgid "No or invalid fish id."
+msgstr "Keine oder ungültige Fisch-ID ."
+
+msgid "No password given."
+msgstr "Kein Passwort angegeben."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr "Keine redirect_uris angegeben."
+
+msgid "No such badge found"
+msgstr "Keine Auszeichnung dieser Art gefunden"
+
+msgid "No such fish found"
+msgstr "Kein Fisch gefunden"
+
+msgid "One redirect URIs per line"
+msgstr "Eine redirect URIs pro Zeile"
+
+msgid "One redirect_uri per line"
+msgstr "Eine redirect_uri pro Zeile"
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr "Nur fünf redirect_uris sind pro Anwendung erlaubt"
+
+msgid "Only four colors. Same rules as moon!"
+msgstr "Nur vier Farben. Gleiche Regeln wie auf Mond!"
+
+msgid "OpenID Connect specs"
+msgstr "OpenID Connect Spezifikationen"
+
+msgid "Or by copying following url:"
+msgstr "Oder kopiere den folgenden Link:"
+
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"Unsere Hauptleinwand, eine große Weltkarte. Zeichnen ist überall möglich!"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Passwort muss mindestens 6 Zeichen lang sein."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Passwort muss kürzer als 60 Zeichen sein."
+
+msgid "Password successfully changed."
+msgstr "Passwort erfolgreich geändert."
+
+msgid "Permission"
+msgstr "Berechtigung"
+
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun 3D Globus"
+
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+"pixuniverse erfüllt die OpenID Connect (OIDC) Spezifikationen. Somit kann "
+"eine Anwendung, welche diese unterstützt, pixuniverse Konten zur Anmeldung "
+"benutzen. Die erforderlichen Endpunkte können automatisch über die URL $"
+"{ wellKnownUrl } ermittelt werden."
+
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Zeichne mit Voxel in einer 3D Umgebung."
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr "Zeichne mit farbigen Pixel auf einer Weltkarte mit anderen Spielern"
+
+msgid "Please refresh the website"
+msgstr "Bitte lade die Seite neu"
+
+msgid "Please try again."
+msgstr "Bitte noch einmal versuchen."
+
+msgid "Please use int channel"
+msgstr "Bitte benutze int Kanal"
+
+msgid "Read Badges and fishes"
+msgstr "Sehe Auszeichnungen und Fische"
+
+msgid "Read name, username and account age"
+msgstr "Sehe Name, Benutzername und Alter des Kontos"
+
+msgid "Redirect URIs"
+msgstr "redirect_uris"
+
+msgid "Regularly update this data"
+msgstr "Aktualisiere diese Daten regelmäßig"
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr "Erzeuge ein neues client_secret"
+
+msgid "Reset Password"
+msgstr "Passwort zurücksetzen"
+
+msgid "Reset your password here"
+msgstr "Setze hier dein Passwort zurück"
+
+msgid "Server error when deleting user."
+msgstr "Server Fehler beim Löschen des Benutzers."
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr ""
+"Jemand neues hat sich auf dein Konto von einem neuen Standort angemeldet. "
+"Die IP:"
+
+msgid "Space-separated list of available scopes"
+msgstr "Durch Leerzeichen getrennte Liste verfügbarer scopes"
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+"Durch Leerzeichen getrennte Listea Standard scopes, welche für Anfragen "
+"benutzt werden, in denen kein scope Parameter angegeben ist."
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+"Durch Leerzeichen getrennte Listea Standard scopes, welche benutzt werden, "
+"falls kein scope Parameter angegeben wird."
+
+msgid "Space-separated list of scopes that should be available"
+msgstr ""
+"Durch Leerzeichen getrennte Liste an scopes, welche zur verfügung stehen "
+"sollen"
+
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "Kleine Leinwand im SARS-CoV2 Thema."
+
+msgid "Stop flooding."
+msgstr "Stoppe zu spamen."
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "Thanks"
+msgstr "Danke"
+
+msgid "The user owning this badge is private"
+msgstr "Der Nutzer, dem diese Auszeichnung gehöhrt, hat ein privates Profil"
+
+msgid "The user owning this fish is private"
+msgstr "Der Nutzer, dem dieser Fisch gehört, hat ein privates Profil"
+
+msgid "This application is not allowed to login"
+msgstr "Diese Anwendung darf sich nicht anmelden"
+
+msgid "This application redirects to an unallowed page"
+msgstr "Diese Anwendung leitet auf eine nicht zugelassene Seite weiter"
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+"Diese Anwendung hat eine fehlerhafte Anmeldeanfrage ohne Weiterleitung "
+"gesendet"
+
+msgid "This application uses a PKCE method we do not support"
+msgstr "Diese Anwendung bwnutz eine PKCE Methode die wir nicht anbieten"
+
+msgid "This application uses a login method we do not support"
+msgstr "Diese Anwendung benutzt eine Anmeldemethode die wir nicht anbieten"
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+"Diese E-Mail-/Passwort-Kombination wurde gehackt und ist von einem Datenleck "
+"betroffen. Zum Schutz dieses Accounts wurde das Passwort zurückgesetzt. "
+"Bitte verwenden Sie die Funktion \"Passwort vergessen\" unten, um ein neues "
+"Passwort zu vergeben. Zukünftig sollten Sie darauf achten, keine Malware zu "
+"installieren. Vielen Dank."
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+"Diese E-Mail-/Passwort-Kombination wurde gehackt und ist von einem Datenleck "
+"betroffen. Zum Schutz dieses Accounts wurde das Passwort zurückgesetzt. "
+"Bitte verwenden Sie die Funktion \"Passwort vergessen\" unten, um ein neues "
+"Passwort zu vergeben. Zukünftig sollten Sie darauf achten, keine Malware zu "
+"installieren. Vielen Dank."
+
+msgid "This email provider is not allowed"
+msgstr "Dieser E-Mail Anbieter ist nicht erlaubt"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Dieser Passwort-Wiederherstellungslink ist nichtmehr gültig :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr "Zu viele oder zu lange redirect_uris"
+
+msgid "Top10"
+msgstr "Top10"
+
+msgid "Unknown Captcha Error"
+msgstr "Unbekannter Captcha-Fehler"
+
+msgid "Update Application"
+msgstr "Aktualisiere Anwendung"
+
+msgid "User ID and verification level"
+msgstr "Benutzer ID und Verifikationslevel"
+
+msgid "User doesn't exist in our database :("
+msgstr "Spieler existiert nicht in unserer Datenbank :("
+
+msgid "Username already in use."
+msgstr "Name wird bereits verwendet."
+
+msgid "Username can not start with pp_"
+msgstr "Benutzername kann nicht mit \"pp_\" beginnen"
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr "Benutzername kann nur [a-z]._ und - beinhalten"
+
+msgid "Username can't be empty."
+msgstr "Benutzername darf nicht leer sein."
+
+msgid "Username must be at least 2 characters long"
+msgstr "Benutzername muss mindestens zwei Zeichen lang sein"
+
+msgid "Username must be shorter than 26 characters"
+msgstr "Benutzername muss kürzer als 26 Zeichen sein"
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Wir sendeten dir bereits eine E-Mail mit Instruktionen. Bitte warte bevor du "
+"eine neue beantragts."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Wir sendeten dir bereits eine Wiederherstellung Mail, du kannst die nächste "
+"in ${ minLeft } minuten anfordern."
+
+#, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr ""
+"Willkommen ${ name } auf pixuniverse, bitte verifiziere deine Mail Adresse"
+
+msgid "You already chose your username"
+msgstr "Benutzername wurde bereits gewählt"
+
+msgid "You already have that name."
+msgstr "Du hast bereits diesen Namen."
+
+msgid "You are already verified."
+msgstr "Du bist bereits verifiziert."
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Du bist für ${ timeMin } Minuten stummgeschaltet"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Du bist für weiter ${ ttl } Sekunden stummgeschaltet"
+
+msgid "You are not allowed to access this page"
+msgstr "Du hast keinen Zugriff zu diese Seite"
+
+msgid "You are not banned"
+msgstr "Du bist nicht verbannt"
+
+msgid "You are not logged in"
+msgstr "Du bist nicht angemeldet"
+
+msgid "You are now verified :)"
+msgstr "Du bist nun verifiziert :)"
+
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Du bsit permanent stummgeschaltet, gehe zu unser guilded um dagegen "
+"einzusprechen"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr "Du sendest zu viele Nachrichten, du musst ${ waitTime }s warten :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+"Du kannst diese Anmeldungsmethode nicht entfernen, da du keine anderen mehr "
+"hast und Zugriff verlieren könntest."
+
+msgid "You can not register an account while you are banned"
+msgstr "Du kannst kein Konto registrieren während du gebannt bist"
+
+msgid "You can not register an account with a proxy"
+msgstr "Du kannst kein Konto registrieren, während du einen Proxy verwendest"
+
+msgid "You can not send chat messages while using a proxy"
+msgstr "Du kannst keine Nachrichten senden während du ein Proxy benutzt"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+"Du kannst hier deine eigene Anwendung registrieren und ein client_id und "
+"client_secret bekommen, welches du brauchst um es zu nutzen."
+
+msgid "You can't send a message this long :("
+msgstr "Do kannst keine so langen Nachrichten senden"
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+"Du hast keine E-Mail-Adresse gesetzt. Bitte füge eine im Menü "
+"\"Anmeldemethoden\" hinzu."
+
+msgid "You don't have access to this channel"
+msgstr "Du hast keinen Zugriff zu diesen Kanal"
+
+msgid "You failed your captcha"
+msgstr "Captcha Text ist falsch"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr ""
+"Du hast dein Passwort für pixuniverse vergessen? Bekomme ein neues hier"
+
+msgid "You have to fill out all fields"
+msgstr "Bitte alle Felder ausfüllen"
+
+msgid "You must be logged in to access this page"
+msgstr "Diese Seite ist nur für angemeldete Benutzer verfügbar"
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr "Du musst einen gültigen scope angeben"
+
+msgid "You need to directly access this page in the browser :("
+msgstr "Diese Seite ist nur direkt in einem Browser verfügbar :("
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Du hast ein neues Passwort beantragt. Du kannst es nun während der nächsten "
+"30min hier ändern: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "Du hast ein ungültiges Passwort oder Daten gesendet :("
+
+msgid "You took too long, try again"
+msgstr "Zeitüberschreitung, bitte nochmal versuchen"
+
+msgid "You will be automatically redirected after 15s"
+msgstr "Du wirst automatisch weitergeleitet nach 15s"
+
+msgid "Your Browser looks shady"
+msgstr "Dein Browser sieht verdächtig aus"
+
+msgid "Your account needs to be verified to access this page"
+msgstr "Dein Konto muss verifiziert sein, um auf diese Seite zuzugreifen"
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Dein Land ist temporär in diesem Kanal stummgeschaltet"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "E-Mail muss verifiziert sein um Nachrichten zu senden"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Dein E-Mail verifikations Code ist ungültig oder bereits abgelaufen :(, "
+"bitte fordere einen neuen an."
+
+msgid "Your passwords do not match :("
+msgstr "Passwörter stimmen nicht überein :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr "redirect_uri seht ungültig aus"
+
+msgid "to go back to pixuniverse"
+msgstr "um zu pixuniverse zurückzukehren"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"wilkommen in unserer kleinen Gemeinschaft aus Pixel schubser, um dein Konto "
+"zu verwenden musst du deine E-Mail Adresse verifizieren. Du kannst das hier "
+"erledigen: "
+
+#~ msgid ""
+#~ "Generate a new client secret. The old secret will become invalid "
+#~ "immediately."
+#~ msgstr ""
+#~ "Neues client secret schaffen, damit verliert das alte secret seine die "
+#~ "Gültigkeit."
+
+#~ msgid "Grants"
+#~ msgstr "Grants"
+
+#~ msgid "No redirect URI given."
+#~ msgstr "Keine redirect URI angegeben."
+
+#~ msgid "One redirect URI per line"
+#~ msgstr "Eine redirect URI pro Zeile"
+
+#~ msgid "Only five redirect URIs are allowed per client"
+#~ msgstr "Nur fünf redirect URIs sind für einen client erlaubt"
+
+#~ msgid "Redirect URI does not look legit"
+#~ msgstr "Redirect URI scheint nicht echt zu sein"
+
+#~ msgid "Reroll Client Secret"
+#~ msgstr "Reroll Client Secret"
+
+#~ msgid "You are banned"
+#~ msgstr "Du bist gebannt"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr "Dein Internet Anbieter ist verbannt"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun PopUp"
+
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "pixunivers.fun Passwort Wiederherstellung"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr "Hallo ${ name }, du kannst dein neues Passwort hier setzen:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "Du hast zu lange gebraucht, versuche es noch einmal."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "Konnte keinen neuen Benutzer erstellen :("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "Konnte keine Sitzung nach registrierung starten :("
+
+#~ msgid "You are not even logged in."
+#~ msgstr "Du bist nichteinmal angemeldet."
+
+#~ msgid "Server error when logging out."
+#~ msgstr "Server Fehler beim ausloggen."
+
+#~ msgid "You are not authenticated."
+#~ msgstr "Du bist nicht auhtentifiziert."
+
+#~ msgid "Muted Users can not delete their account."
+#~ msgstr "Stumme Spieler sind nicht erlaubt, ihre Konto zu löschen."
+
+#~ msgid "Muted Users can not do this."
+#~ msgstr "Stumme Spieler können das nicht tun."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "pixunivers.fun Konten"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "Oder ${ clickHere } um zu pixuniverse zurückzukehren"
+
+#~ msgid "You are not allowed to use chat"
+#~ msgstr "Du hast keinen Zugriff auf den Chat"
+
+#~ msgid "Ow no! Spam protection decided to mute you"
+#~ msgstr "Oh nein! Spam-Schutz hat dich stummgeschaltet"
+
+#~ msgid ""
+#~ "This passwort reset link is wrong or already expired, please request a "
+#~ "new one (Note: you can use those links just once)"
+#~ msgstr ""
+#~ "Dieser Passwort Wiederherstellungslink ist falsch oder abgelaufen, bitte "
+#~ "beantrage einen neuen (Hinweis: Du kannst diese Links nur einmal "
+#~ "verwenden)"
+
+#~ msgid "No captcha text given"
+#~ msgstr "Keinen Captcha Text eingegeben"
+
+#~ msgid "No captcha id given"
+#~ msgstr "Keine captcha id eingegeben"
+
+#~ msgid "Server error occured"
+#~ msgstr "Server Fehler"
+
+#~ msgid "Top10 Only Canvas"
+#~ msgstr "Tip10 Exklusiv"
+
+#~ msgid "Couldn't send your message, pls log out and back in again."
+#~ msgstr ""
+#~ "Konnte die Nachricht nicht senden, bitte logge duch aus und wieder an."
+
+#~ msgid "Could not connect to server, please try again later :("
+#~ msgstr ""
+#~ "Konnte nicht zum Server verbinden, bitte versuche es später erneut :("
+
+#~ msgid "I think we experienced some error :("
+#~ msgstr "Ich glaube wir haben ein Problem :("

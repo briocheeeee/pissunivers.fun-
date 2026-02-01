@@ -1,0 +1,1862 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-03-11 16:05+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Tongan <https://hosted.weblate.org/projects/pixuniverse/"
+"client/to/>\n"
+"Language: to\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5-dev\n"
+
+msgid " which is in "
+msgstr " ʻa ia ʻoku ʻi he "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${mouseSymbol } puke ʻa e meʻa lomi toʻohema ʻo e mausi pea tohoʻi ʻa e "
+"mausi ke vilo"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${mouseSymbol } toʻohema lomiʻi pe ${touchSymbol } lomiʻi ke fokotuʻu ha "
+"pixel"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "${mouseSymbol } lomiʻi fakatoʻomataʻu pea tohoʻi ʻa e mausi ki he kulo"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${mouseSymbol } lomiʻi fakatoʻomataʻu pe ${touchSymbol } lomiʻi tuʻo ua ke "
+"toʻo ha pixel"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${mouseSymbol } scroll e veʻeteka ʻo e mausi pe puke ʻa e ${mouseSymbol } "
+"meʻa lomi ʻo e mausi pea tohoʻi ke fakaʻata"
+
+msgid "(0 = infinite)"
+msgstr "(0 = taʻe fakangatangata)"
+
+msgid "+last hour"
+msgstr ""
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "ʻOku ʻoatu ha meili fakapapauʻi foʻou kiate koe."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Tanaki atu ʻa e grid (uncheck kapau ʻoku ke fie maʻu ha template 1:1)"
+
+#, fuzzy
+msgid "Add Template"
+msgstr "Download Template"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "ʻE fakataʻeʻaongaʻi ʻa e ngaahi ola lelei kotoa pe."
+
+msgid "Always show Movement Controls"
+msgstr ""
+
+msgid "Always show movement control buttons"
+msgstr ""
+
+msgid "Anti Aliasing"
+msgstr "ʻAnitai Aliasing"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr ""
+"Fakaʻaongaʻi ha filter ke fakamaʻa ʻaki e veve ʻi he ngaahi feituʻu "
+"fakatataa lalahi."
+
+msgid "Archive"
+msgstr "ʻAkaivi"
+
+msgid "Assign new Mod"
+msgstr "Vahe ha Mod foʻou"
+
+msgid "Auto Zoom In"
+msgstr "Fakaʻata ʻa e meʻalele ʻi he"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Banned"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Banned? ʻIloʻi ko e fakafofonga?"
+
+msgid "Block"
+msgstr "Poloka"
+
+msgid "Block DMs"
+msgstr "Poloka DMs"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Tuliki toʻomataʻu ki lalo"
+
+msgid "Build image and set it to protected."
+msgstr "Langa ha ʻimisi pea fokotuʻu ia ke maluʻi."
+
+msgid "Build image on canvas."
+msgstr "Langa ha ʻimisi ʻi he fakatataa."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "Langa ʻa e ʻimisi, kae fakafoʻou ʻa e cooldown ki he t-pixel cd."
+
+msgid "By Mod"
+msgstr "Fai ʻe Mod"
+
+msgid "Calculate like GIMP"
+msgstr "Fikaʻi hange ko GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr ""
+
+msgid "Can not import more than 20 or no template!"
+msgstr ""
+
+msgid "Can't read? Reload:"
+msgstr "ʻIkai lava ʻo laukonga? Reload:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr ""
+"ʻIkai lava ʻo ʻave 3H fakatataa, ʻoku ʻi ai haʻo WebGL2 fakataʻeʻaongaʻi?"
+
+msgid "Cancel"
+msgstr "Kaniseli"
+
+#, fuzzy
+msgid "Cancel adding Template"
+msgstr "Download Template"
+
+msgid "Canvas"
+msgstr "Fakatataa"
+
+msgid "Canvas Archive"
+msgstr "ʻAkaivi ʻo e fakatataa"
+
+msgid "Canvas Cleaner"
+msgstr "Fakamaʻa ʻo e fakatataa"
+
+msgid "Canvas Error"
+msgstr ""
+
+msgid "Canvas Selection"
+msgstr "Fili ʻo e fakatataa"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "Liliu e Hingoa Ngāue ki he Polokala"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Liliu ʻa e Lea Fufuú"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Fokotuʻutuʻu ʻo e senolo"
+
+msgid "Charts"
+msgstr "Ngaahi Sātí"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Chat here"
+msgstr "Talanoa heni"
+
+msgid "Check out past versions of the canvas."
+msgstr "Vakaiʻi ʻa e ngaahi tatau ʻo e fakatataa kuo ʻosi."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Vakaiʻi pe ko hai naʻe tuku ʻi ha feituʻu"
+
+msgid "Choose Canvas"
+msgstr "Fili ʻa e fakatataa"
+
+msgid "Choose Color Mode"
+msgstr "Fili ʻa e founga lanu"
+
+msgid "Choose Strategy"
+msgstr "Fili ʻa e founga palani"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"ʻOku ʻi ai ha ngaahi liunga maʻa ʻoku ʻatakaiʻi ʻe ha lanu kehe pe ko ha "
+"liunga ua (ʻoku ʻikai ke ʻi ai ha MEʻA ʻi he CANVASES ʻoku ne fakaʻata ʻa e "
+"PIXELS (ʻa ia ʻoku ʻi ai ha cooldowns ʻe ua)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "ʻOku maʻa ʻa e ngaahi liunga ʻoku ʻatakaiʻi ʻe he ngaahi liunga"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"ʻOku ʻi ai ha ngaahi liunga maʻa ʻoku ʻatakaiʻi ʻe he ngaahi pixel ʻoku "
+"ʻikai ke ʻi ai ha liunga pea aʻu ki he 1 ngaahi liunga kehe"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Lomiʻi ʻi he ${mouseSymbol } meʻa lomi mausi pe ${touchSymbol } loloa ke "
+"fili ʻa e lanu nau lolotonga"
+
+msgid "Click a color in palette to select it"
+msgstr "Lomiʻi ʻi ha lanu ʻi palette ke fili ia"
+
+msgid "Click here to request a new verification mail."
+msgstr "Lomiʻi heni ke kole ha meili fakapapauʻi foʻou."
+
+msgid "Click to Load Captcha"
+msgstr "Lomiʻi ke load Captcha"
+
+msgid "Clone"
+msgstr "Ko e f pe"
+
+msgid "Close"
+msgstr "Tāpuni"
+
+msgid "Close Chat"
+msgstr "Tapuniʻi ʻa e chat"
+
+msgid "Close Menu"
+msgstr "Tapuniʻi ʻa e menu"
+
+msgid "Close Palette"
+msgstr "Tapuni Palette"
+
+msgid "Compact Palette"
+msgstr "Maʻuʻanga Fakamatala Palette"
+
+msgid "Confirm New Password"
+msgstr "Fakapapauʻi ʻa e Lea Fufū Foʻoú"
+
+msgid "Confirm Password"
+msgstr "Fakapapauʻi ʻa e Lea Fufuú"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Fehalaaki hono fakafehokotaki ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Puleʻi"
+
+msgid "Convert an image to canvas colors"
+msgstr "Papi ului ha ʻimisi ki he ngaahi lanu fakatataa"
+
+msgid "Converter"
+msgstr "Fakaului"
+
+msgid "Cooldown"
+msgstr "Cooldown"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+#, fuzzy
+msgid "Coordinates"
+msgstr "Ngaahi Fakafekauʻaki Hala"
+
+#, fuzzy
+msgid "Coordinates:"
+msgstr "Ngaahi Fakafekauʻaki Hala"
+
+#, fuzzy
+msgid "Copied"
+msgstr "Hiki tatau!"
+
+msgid "Copy"
+msgstr "Hiki Tatau"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Hiki Tatau ki he Papafakamaʻú"
+
+msgid "Could not connect to server, please try again later :("
+msgstr ""
+"ʻIkai lava ʻo fakafehokotaki ki he server, kataki ʻo toe feinga ʻamui ange :("
+
+msgid "Could not load captcha"
+msgstr "ʻIkai lava ʻo load captcha"
+
+msgid "Couldn't set Pixel"
+msgstr "ʻIkai lava ʻo fokotuʻu pixel"
+
+msgid "Countries Today"
+msgstr "Ngaahi Fonua he ʻAho Ní"
+
+msgid "Country"
+msgstr "Fonua"
+
+#, fuzzy, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr ""
+"ʻOku ʻalu ʻa e credit ki he Palette ʻo e Top10 fakatataa ki he $"
+"{ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr ""
+"ʻOku ʻalu ʻa e credit ki he Palette ʻo e mahina ki he ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr ""
+"ʻOku ʻalu ʻa e credit ki he Palette ʻo e Top10 fakatataa ki he $"
+"{ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr ""
+
+msgid "DM"
+msgstr "DM"
+
+#, fuzzy
+msgid "Daily Pixels per Country"
+msgstr "Kau vaʻinga mo e pixel ʻi he houa"
+
+#, fuzzy
+msgid "Daily Pixels per Player"
+msgstr "Fakakatoa ʻo e pixel ʻi he ʻaho"
+
+msgid "Daily Rank"
+msgstr "Tuʻunga fakaʻaho"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+#, fuzzy
+msgid "Delete"
+msgstr "Tāmateʻi e ʻAkauní"
+
+msgid "Delete Account"
+msgstr "Tāmateʻi e ʻAkauní"
+
+msgid "Deny"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Naʻe ʻikai ke maʻu ha tali mei he pixuniverse. Mahalo te ke feinga ke "
+"fakafoʻou kapau ʻe kei hokohoko atu pe ʻa e palopalema?"
+
+msgid "Dimensions"
+msgstr "Fua"
+
+msgid "Disable Game Sounds"
+msgstr "Toʻo e ongo ʻo e vaʻinga"
+
+msgid "Disable History Pencil"
+msgstr ""
+
+msgid "Disable Overlay Pencil"
+msgstr ""
+
+#, fuzzy
+msgid "Disable Pencil"
+msgstr "Toʻo e ongo ʻo e vaʻinga"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "Fakaʻaliʻali Palette ʻi ha foomu ʻoku siʻisiʻi ange hono screen."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Fai ha ngaahi meʻa mo e IPs (taha IP ki he laine)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "ʻOua te ke fakaʻaliʻali mai kiate au ʻi he fakamāmani lahí stats"
+
+msgid "Download Template"
+msgstr "Download Template"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr "Tohoʻi ʻa e ${mouseSymbol } mausi pe ${touchSymbol } kulo ke hiki"
+
+msgid "Duration"
+msgstr "Loloa"
+
+msgid "Easter Egg OFF"
+msgstr ""
+
+msgid "Easter Egg ON"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Email"
+msgstr "ʻĪmeili"
+
+msgid "Email can't be empty."
+msgstr "He ʻikai lava ke taʻe fakafonu e ʻimeili."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "He ʻikai lava ke loloa ange ʻa e ʻimeili ʻi he mataʻitohi ʻe 40."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "ʻOku totonu ke ʻoua naʻa toe siʻi hifo he ʻimeili ha dot"
+
+msgid "Email should be at least 5 characters long."
+msgstr ""
+"ʻOku totonu ke ʻoua naʻa toe siʻi hifo he mataʻitohi ʻe 5 ʻa e ʻimeili."
+
+msgid "Email should contain a @"
+msgstr "ʻOku totonu ke kau ʻi he ʻimeili ha @"
+
+msgid "Enable Overlay"
+msgstr ""
+
+msgid "Enable Pencil"
+msgstr ""
+
+msgid "Enable chat notifications"
+msgstr "ʻAi ke lava ʻo talanoa"
+
+msgid "Enter Characters"
+msgstr "Fakahū ha Ngaahi Mataʻitohi"
+
+msgid "Enter Reason"
+msgstr "Fakahū ʻa e ʻUhingá"
+
+msgid "Enter UserName of new Mod"
+msgstr "Fakahu ʻa e hingoa ngaue ʻo e Mod foʻou"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Fakahū ho tuʻasila meilí pea te mau ʻoatu ha lea fufū foʻou kiate koe:"
+
+msgid "Error"
+msgstr "Fehalaaki"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Fehalaaki ${ retCode }"
+
+msgid "Error :("
+msgstr "Fehalaaki :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr ""
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr "Faile"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "He ko e taimi ʻoku ke vaʻinga ai ʻi ha foʻi pateta."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr ""
+
+#, fuzzy
+msgid "From Template"
+msgstr "Download Template"
+
+msgid "Get IID"
+msgstr "Maʻu IID"
+
+msgid "Get Pixels"
+msgstr "Maʻu ʻa e pixel"
+
+msgid "Get Users"
+msgstr "Maʻu e kau fakaʻaongaʻi"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Globe Viu"
+
+msgid "Go to"
+msgstr ""
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Grid mavahe mei he"
+
+msgid "Grid ON"
+msgstr "Grid ʻi he"
+
+msgid "Have fun!"
+msgstr "Fiefia!"
+
+msgid "Height"
+msgstr "Maʻolunga"
+
+msgid "Help"
+msgstr "Tokoni"
+
+#, fuzzy
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"ʻOku tau tanaki heni ʻa e ngaahi canvases ko ia ke ʻakaivi kinautolu ʻi ha "
+"founga totonu (ʻa ia ʻoku lolotonga taha pe)."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"ʻOku fie maʻu ʻe he zoomlevels maʻolunga ange ha taimi ke fakatonutonu ai, "
+"ʻoku fakatonutonu ʻa e kolope 3D ʻo ʻikai toe siʻi hifo he tuʻo taha he ʻaho."
+
+msgid "Historical View"
+msgstr "Vakai Fakahisitōliá"
+
+#, fuzzy, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"Puke ʻa e toʻohema ${bindShift } ki hono fokotuʻu lolotonga hono hiki ʻo e "
+"mausi"
+
+msgid "How pixuniverse should look like."
+msgstr "ʻOku totonu ke fotunga fefe ʻa e pixuniverse."
+
+msgid "I forgot my Password."
+msgstr "Kuo ngalo ʻeku Lea Fufuú."
+
+msgid "IID (optional)"
+msgstr "IID (fili pē)"
+
+msgid "IID Actions"
+msgstr "Ngaahi ngaue IID"
+
+msgid "IP Actions"
+msgstr "Ngaahi ngaue IP"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "ʻImisi ʻo e fakaului"
+
+msgid "Image Upload"
+msgstr "Upload e ʻĪmisí"
+
+msgid "Import templates"
+msgstr ""
+
+msgid "Interval"
+msgstr "ʻI he vahaʻa ʻo"
+
+msgid "Interval is invalid"
+msgstr "ʻIkai tonu ʻa e vahaʻa taimi"
+
+msgid "Invalid Canvas"
+msgstr "Fakatataa ʻoku ʻikai ʻaonga"
+
+msgid "Invalid Coordinates"
+msgstr "Ngaahi Fakafekauʻaki Hala"
+
+msgid "Invalid color selected"
+msgstr "ʻIkai tonu e lanu naʻe filí"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Maʻa e kau fakaʻaongaʻi pe kuo lesisita"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "ʻE lava ke fokotuʻu heni ʻa e Top10 ʻo e ʻaneafi"
+
+msgid "Keep Ratio"
+msgstr "Tauhi ʻa e fika fehangahangai"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Grid ʻo e mama"
+
+msgid "Load Captcha"
+msgstr "Load Captcha"
+
+msgid "Loading"
+msgstr "Load"
+
+msgid "Loading..."
+msgstr "Load..."
+
+msgid "Log out"
+msgstr "Hu ki tuʻa"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "LogIn"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr ""
+"Login ke maʻu ha ngaahi fotunga mo ha stats.allblacks.comaspprofile.asp lahi "
+"ange."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Login ʻaki e Hingoá pe Meilí:"
+
+msgid "Make Screenshot"
+msgstr "Faʻu ha ʻata"
+
+msgid "Manage Moderators"
+msgstr "Tokangaʻi ʻo e moderators"
+
+msgid "Map Data"
+msgstr "Fakamatala ki he mape"
+
+msgid "Maximize"
+msgstr "Fakalōloa e Taimi ʻ"
+
+msgid "Minimum Color Distance"
+msgstr "Mamaʻo siʻisiʻi taha ʻo e lanu"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Modtools"
+
+msgid "Move"
+msgstr "Hiki"
+
+msgid "Mute"
+msgstr "Fakalongo"
+
+msgid "Muted Sound"
+msgstr "Ongo ʻoku ʻikai ke ʻi ai ha me"
+
+msgid "Name"
+msgstr "Hingoa"
+
+msgid "Name can't be empty."
+msgstr "ʻIkai lava ke taʻe ʻi ai ha hingoa."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "ʻOku ʻi he hingoa ha mataʻitohi ʻoku hala hange ko @, /, \\ pe #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Kuo pau ke mataʻitohi ʻe 2 hono lōloa ʻo e hingoá"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Kuo pau ke nounou ange ʻa e hingoá ʻi he mataʻitohi ʻe 26"
+
+msgid "Name or Email"
+msgstr "Hingoa pe ʻĪmeilí"
+
+msgid "New Mail"
+msgstr "Meili Foʻoú"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Lea Fufū Foʻoú"
+
+msgid "New Username"
+msgstr "Hingoa Ngāue Foʻou ki he Polo"
+
+msgid "No"
+msgstr "ʻIkai"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "ʻIkai foaki ha captcha ID"
+
+msgid "No or invalid captcha text"
+msgstr "ʻIkai pe ʻikai tonu captcha text"
+
+msgid "No password given."
+msgstr "ʻIkai ʻoange ha lea fufū."
+
+msgid "Not allowed"
+msgstr "ʻIkai ngofua"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "SAI"
+
+msgid "Offset"
+msgstr "Seti"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Lea Fufū Motuʻá"
+
+msgid "Online Users"
+msgstr "Kau Fakaʻaongaʻi ʻi he ʻ"
+
+msgid "Online Users on Canvas"
+msgstr "Kau fakaʻaongaʻi ʻi he ʻInitaneti ʻi he fakatataa"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr ""
+
+msgid "Open Chat"
+msgstr "Fakaava ʻa e chat"
+
+msgid "Open Menu"
+msgstr "Fakaava ʻa e menu"
+
+msgid "Open Palette"
+msgstr "Fakaava Palette"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Ko ʻetau tefitoʻi fakatataa ko ha worldmap lahi, te ke lava ʻo fokotuʻu ha "
+"feituʻu pe ʻoku ke saiʻia ai, ka kuo pau ke ke tatali ki ha Cooldown pau ʻi "
+"he vahaʻa ʻo e pixel. Te ke lava ʻo vakaiʻi ʻa e cooldown mo e ngaahi fie "
+"maʻu ʻi he menu ki hono fili ʻo e fakatataa (globe button ʻi ʻolunga). ʻOku "
+"ʻi ai ha canvases ʻe niʻihi ʻoku kehe ʻenau cooldown ki hono fetongi ʻo ha "
+"liunga ʻo e tokotaha ngaue ʻi he polokalama ʻi ha pixel. i.e. 4s/7s ʻoku "
+"ʻuhinga ia ki he 4s ʻi he pixel foʻou mo e 7s ʻi he ʻosi fokotuʻu."
+
+msgid "Overlay OFF"
+msgstr ""
+
+msgid "Overlay ON"
+msgstr ""
+
+msgid "Overlay Opacity"
+msgstr ""
+
+msgid "Palette Download"
+msgstr "Palette Download"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Palette ki he ${ gimpLink }"
+
+msgid "Password"
+msgstr "Lea Fufuú"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Kuo pau ke ʻoua naʻa toe siʻi hifo he mataʻitohi ʻe 6 ʻa e lea fufuú."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Kuo pau ke nounou ange ʻa e lea fufuú ʻi he mataʻitohi ʻe 60."
+
+#, fuzzy
+msgid "Password successfully changed."
+msgstr "Lava lelei hono liliu ʻo e Lea Fufuú."
+
+msgid "Passwords do not match."
+msgstr "ʻOku ʻikai tatau ʻa e ongo lea fufuú."
+
+#, fuzzy, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Liliu ki he ${ canvasName }"
+
+msgid "Pencil picks: "
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Pixel Notify OFF"
+msgstr "Pixel Fakaha mavahe mei he"
+
+msgid "Pixel Notify ON"
+msgstr "Pixel Fakaha ʻi he"
+
+msgid "Pixel Protection"
+msgstr "Pixel maluʻi"
+
+#, fuzzy
+msgid "Pixel protected"
+msgstr "Pixel maluʻi!"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Tuku ʻa e lanu ʻo e lanu ʻi ha fakatataa lahi mo ha kau vaʻinga kehe ʻi he "
+"ʻInitaneti!"
+
+msgid "Placed Pixels"
+msgstr "Fokotuʻu ʻa e pixel"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Ta ha ongo ʻi he taimi ʻoku aʻu mai ai ha ngaahi popoaki foʻou"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "Kau vaʻinga mo e pixel ʻi he houa"
+
+msgid "Please prove that you are human"
+msgstr "Kataki ʻo fakamoʻoniʻi ko e tangata koe"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Kapasa fakapolitikale fakatataa"
+
+msgid "Potato Mode"
+msgstr "Founga pateta"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Lomiʻi ʻa e ${bindAUp }, ${bindALeft }, ${bindADown }, ${bindARight } ke hiki"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Lomiʻi ʻa e ${bindG } ke tuʻu maʻu ʻi he grid"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Lomiʻi ʻa e ${bindH } ke tuʻu maʻu ʻi he vakai fakahisitolia"
+
+#, fuzzy, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Lomiʻi ʻa e ${ bindQ } mo e ${bindE } ke puna ki ʻolunga mo lalo"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Lomiʻi ʻa e ${bindQ } pe ${bindE } ke fakaʻata"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Lomiʻi ʻa e ${bindR } ke hiki tatau e fakafekauʻaki"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Lomiʻi ʻa e ${bindW}, ${bindA }, ${bindS }, ${bindD } ke hiki"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr ""
+"Lomiʻi ʻa e ${bindX } ke tuʻu maʻu ʻi hono fakahaaʻi ʻo e ʻekitiviti pixel"
+
+msgid "Private"
+msgstr "Fakafoʻituitui"
+
+msgid "Profile"
+msgstr "Fakamatala Fakafoʻituituí"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Kehekehe Banned"
+
+msgid "Ranked"
+msgstr "Fakahokohoko"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Fakamatala fakamuimuitaha ʻi he miniti ʻe 5 kotoa pe. Muimuitaha "
+"fakahokohoko fakafoʻou fakaʻaho ʻi he tuʻuapoo UTC."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "ʻUhinga"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "Lesisita"
+
+msgid "Register new account here"
+msgstr "Lesisita heni ha ʻakauni foʻou"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Reload"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Toʻo ʻa e tokotaha ʻoku ne"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Ngaahi Fie Maʻú"
+
+msgid "Reset"
+msgstr "Fakafoʻou"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "ʻAi ke siʻisiʻi"
+
+msgid "Restore"
+msgstr "Toe Fakafoki Mai"
+
+msgid "Retired Canvases (history only)"
+msgstr ""
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+#, fuzzy
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "Rollback ha feituʻu ʻo e fakatataa ki ha ʻaho kuo fokotuʻu (00:00 UTC)"
+
+msgid "Rollback to Date"
+msgstr "Rollback ki he ʻaho"
+
+msgid "Save"
+msgstr "Seivi"
+
+msgid "Scale Image"
+msgstr "Meʻafua ʻo e ʻimisi"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Scroll ${mouseSymbol } veʻeteka ʻo e mausi pe ${touchSymbol } fefaʻuhi ke "
+"fakaʻata"
+
+msgid "Select Date above"
+msgstr "Fili ʻa e ʻAho ʻi ʻolungá"
+
+#, fuzzy
+msgid "Select File"
+msgstr "Fili ʻa e Lea Fakafonuá"
+
+msgid "Select Language"
+msgstr "Fili ʻa e Lea Fakafonuá"
+
+#, fuzzy
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Fili ʻa e fakatataa ʻoku ke fie fakaʻaongaʻi. ʻOku makehe ʻa e fakatataa "
+"kotoa pe pea ʻoku kehekehe ʻa e palettes, cooldown mo e ngaahi fie maʻu. ʻE "
+"lava ke maʻu heni ʻa e ʻakaivi ʻo e canvases kuo tapuni:"
+
+#, fuzzy
+msgid "Selected Color"
+msgstr "Fili ʻa e Lea Fakafonuá"
+
+msgid "Send"
+msgstr "ʻAve"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"Ne ʻoatu ha meili mo ha ngaahi fakahinohino ke fakafoʻou hoʻo lea fufuú."
+
+msgid "Serpentine"
+msgstr "Serpentine"
+
+msgid "Server answered with gibberish :("
+msgstr "Tali ʻa e server ʻaki e gibberish :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"Naʻe puputuʻu ʻa e server ʻi hoʻo pixel. ʻOku ke vaʻinga ʻi ha ngaahi "
+"meʻangaue kehekehe?"
+
+msgid "Set Password"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Fokotuʻu ha maluʻi ʻo e ngaahi feituʻu (Kapau ʻoku ke fie maʻu ha mapuleʻi "
+"grained lelei ange, fakaʻaongaʻi ʻa e maluʻi ʻaki ʻa e ʻimisi upload mo e "
+"ʻAlifa)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Ngaahi Feituʻú"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Fakaʻasi ʻa e grid"
+
+msgid "Show Grid in white instead of black."
+msgstr "Fakaʻaliʻali ʻa e grid ʻi he hinehina kae ʻikai ko e ʻuliʻuli."
+
+msgid "Show Pixel Activity"
+msgstr "Fakaʻasi ʻa e ʻekitiviti pixel"
+
+msgid "Show circles where pixels are placed."
+msgstr "Fakaʻaliʻali ʻa e ngaahi siakale ʻoku fokotuʻu ai ʻa e pixel."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+
+msgid "Show templates as overlays ingame."
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr ""
+
+msgid "Social Settings"
+msgstr "Ngaahi Feituʻu Fakasōsialé"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "Fokotuʻutuʻu ʻo aʻu ki he"
+
+msgid "Start chatting here"
+msgstr "Kamata talanoa heni"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Ngaahi Fakamatala Fakasitetisitiká"
+
+msgid "Status: Not running"
+msgstr "Tuʻunga: ʻikai lele"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Taʻofi e fakamaʻa"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Fakahū"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Liliu ki he ${ canvasName }"
+
+msgid "Template Name"
+msgstr ""
+
+#, fuzzy
+msgid "Templates"
+msgstr "Download Template"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"ʻE lava ke download ʻa e fakamatala ki he mape ʻoku tau fakaʻaongaʻi, "
+"fakataha mo e ului OpenStreetMap Taila ki he fakataukei, mei he mega.nz "
+"heni: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Ngaahi Kaveingá"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "ʻOku ʻikai maʻu ʻa e fakatataa ko ʻeni"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Naʻe kole ʻa e fakatataa ko ʻeni lolotonga ha taimi ʻo e ngaahi fepakipaki "
+"fakapolitikale ʻi he tefitoʻi mamani. Ko ha fakatata 1024x1024 ia ʻo e "
+"kapasa fakapolitikale mo ha 5s cooldown mo e 60 tupu. Naʻe kamata ia ʻi he "
+"ʻaho 11 ʻo Mee pea kei malohi pe ʻi ha ngaahi mahina kae ʻoua kuo tapuni ʻi "
+"he ʻaho 30 ʻo Novema."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Timeout"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Tokoni: ʻikai ke pelepelengesi; ʻOku ou tatau pe mo l"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "ʻI he ʻAho ni"
+
+#, fuzzy
+msgid "Today Placed Pixels"
+msgstr "Todays fokotuʻu ʻa e pixel"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Ngaahi fonua ʻe 10 ki ʻolunga [pxls/ʻaho]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Tuʻunga fakaʻaho ʻe 10"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Kau vaʻinga ʻe toko 10 [pxls/ʻaho]"
+
+#, fuzzy
+msgid "Top 10 Players from Yesterday"
+msgstr "Kau vaʻinga ʻe toko 10 [pxls/ʻaho]"
+
+msgid "Top-left corner"
+msgstr "Tuliki toʻohema ʻi ʻolunga"
+
+msgid "Total"
+msgstr "Fakakatoa"
+
+msgid "Total Online Users"
+msgstr "Fakakatoa ʻo e kau fakaʻaongaʻi ʻi he"
+
+#, fuzzy
+msgid "Total Pixels per Player"
+msgstr "Fakakatoa ʻo e pixel ʻi he ʻaho"
+
+msgid "Total Pixels placed per day"
+msgstr "Fakakatoa ʻo e pixel ʻi he ʻaho"
+
+msgid "Total Rank"
+msgstr "Tuʻunga fakakatoa"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Fakamoʻui ʻa e grid ke fakaʻilongaʻi pixel kauʻafonua."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Taipeʻi ʻa e ngaahi mataʻitohi mei he ʻimisi ko ʻeni:"
+
+msgid "Unblock Users"
+msgstr "Taʻofi e kau fakaʻaongaʻi"
+
+msgid "Unknown Captcha Error"
+msgstr "Fehalaaki Captcha ʻikai ʻiloʻi"
+
+msgid "Unknown Error"
+msgstr "Fehalaaki ʻOku ʻIkai ʻIloʻi"
+
+msgid "Unmuted Sound"
+msgstr "Ongo ʻoku ʻikai ke fakalongo"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Upload e ngaahi ʻata ki he fakatataa"
+
+msgid "Use our custom cursor"
+msgstr ""
+
+msgid "User"
+msgstr "Tokotaha Ngāue ki he Polo"
+
+msgid "User Account"
+msgstr "ʻAkauni ʻa e Tokotaha Ngāue"
+
+msgid "User Area"
+msgstr "ʻĒlia ʻo e Tokotaha Ngā"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Hingoa Ngāue ʻi he Polokalam"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Naʻa mau fakakaukau ke ʻakaivi ia ko ha timelapse mo lossless encoded webm. "
+"Toʻo ha ʻata mei he ngaahi ola timelapse ʻi ha fakatata haohaoa 1:1 ʻo e "
+"founga naʻe ʻi ai ʻa e fakatataa ʻi he taimi ko ia."
+
+#, fuzzy
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"ʻOku mau fakamalo lahi ki he kau ʻaati ko ia, naʻa nau foaki ʻenau palettes "
+"ki he kakai ʻi he"
+
+msgid "Weird"
+msgstr "Faikehe"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Neongo ʻoku ʻikai ke tau fakahehema ke tamateʻi canvases, ka ʻoku kamata ke "
+"fiefia ha canvases ʻe niʻihi pe ko ha kole ʻa e kau fakaʻaongaʻi ʻoku nau "
+"lolotonga hange ha meme. ʻE lava ke taʻeoli ʻa e ngaahi canvases ko ia hili "
+"ha kiʻi vahaʻa taimi pea hili ha ngaahi uike ʻo e ʻikai ha liliu lahi pea "
+"kapau ʻoku ʻikai ke nau mahuʻinga ke tauhi malohi, ʻoku tau fili ke toʻo "
+"kinautolu."
+
+msgid "Why?"
+msgstr "Ko e ha hono ʻuhinga?"
+
+msgid "Width"
+msgstr "Laulahi"
+
+msgid "Wrong Color"
+msgstr "Lanu hala"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "ʻIo"
+
+msgid "Yes, Delete My Account!"
+msgstr "ʻIo, tamateʻi ʻeku ʻakauni!"
+
+msgid "Yesterday"
+msgstr "ʻAneafi"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "ʻOku ke fakaʻaongaʻi ha fakafofonga."
+
+msgid "You are weird"
+msgstr "ʻOkú ke faikehe"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+#, fuzzy
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"He ʻikai ke ke lava ʻo hu ki he fakatataa ko ʻeni. ʻOku fie maʻu ke ke "
+"fokotuʻu ha pixel lahi ange"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr ""
+"Te ke lava he taimi ni ʻo fokotuʻu ha meʻa lahi ange ʻi he pixunivers.fun :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Naʻe ʻikai ke ke lava hoʻo captcha"
+
+msgid "You have new messages in chat"
+msgstr "ʻOku ʻi ai haʻo ngaahi popoaki foʻou ʻi he chat"
+
+msgid "You have no users blocked"
+msgstr "ʻOku ʻikai ke ʻi ai haʻo loka"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Kuo pau ke ke hu ki he polokalama ke fokotuʻu ʻi he fakatataa ko ʻeni"
+
+msgid "You made too many requests"
+msgstr "Naʻe fuʻu lahi hoʻo ngaahi kole"
+
+msgid "You must be logged in to chat"
+msgstr "Kuo pau ke ke hu ki he polokalama ke talanoa"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "Kuo pau ke ke fakahū ha taimi"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "Kuo pau ke ke fakahu ha IID"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Naʻe fuʻu fuoloa hoʻo feinga."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"ʻOku ʻikai fakangofua ʻe hoʻo browser ke tau fakaʻaongaʻi ʻa e AudioContext "
+"ke ta ʻaki e ngaahi ongo. ʻOku ʻi ai nai ha meʻa fakafoʻituitui ʻoku ne "
+"taʻofi kitautolu?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+#, fuzzy
+msgid "Your Internet Provider is banned from this game"
+msgstr "ʻOku banned hoʻo kautaha ʻInitaneti mei he vaʻinga ko ʻeni"
+
+msgid "Your ban expires at "
+msgstr "ʻOku taʻeʻaonga hoʻo taʻeʻaonga ʻi he "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Kuo maau hoʻo pixel hoko"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Fakaʻata ke ʻoua naʻa ke fokotuʻu ha pixel ʻi he taimi ʻoku ke lomiʻi ai ʻa "
+"e fakatataa pea ʻoku siʻisiʻi hoʻo fakaʻata."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "mo e ${ canvas.req } pixel"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "naʻa ke lau ki ai"
+
+msgid "or login with:"
+msgstr "pe login mo e:"
+
+msgid "or register here:"
+msgstr "pe lesisita heni:"
+
+msgid "recommended"
+msgstr "fokotuʻu atu"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "toe feinga hili ${ ti }min"
+
+msgid "x out of bounds"
+msgstr "x mei he ngaahi ngataʻanga"
+
+msgid "y out of bounds"
+msgstr "y mei he ngaahi ngataʻanga"
+
+msgid "z out of bounds"
+msgstr "z mei he ngaahi ngataʻanga"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+#, fuzzy
+msgctxt "keybinds"
+msgid "N"
+msgstr "ʻIkai"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "PopUp"
+
+#, fuzzy
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "ʻOku ke banned. ʻOku ke pehe ʻoku taʻetotonu? Vakaiʻi ʻa e "
+
+#~ msgid "Registration"
+#~ msgstr "Lesisita"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Ngalo e Lea Fufuú"
+
+#~ msgid " on how to appeal."
+#~ msgstr " ki he founga ʻo e kole. "
+
+#~ msgid "Unbanned"
+#~ msgstr "ʻIkai Toʻo"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr ""
+#~ "Ko ʻeni kuo ke mamata ki he popoaki ko ʻeni, ʻoku ʻikai ke ke toe banned."
+
+#~ msgid "Source on "
+#~ msgstr "Maʻuʻanga fakamatala ʻi he "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Kapau naʻa ke ʻiloʻi ko e fakafofonga koe, ka ʻoku ʻikai ko ha taha koe, "
+#~ "pe fakakaukau naʻa ke maʻu taʻetotonu banned, kataki ʻo ʻalu ki heʻemau $"
+#~ "{guildedLink } pe ʻomi ha ʻi-meili ki he ${ mailLink } pea fakakau ai ʻa "
+#~ "e ngaahi meʻa ko ʻeni IID:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Fakakaukau ke ke kau fakataha mo kimautolu ʻi he Guilded:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Ko ho hingoa ko e: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Liliu e Hingoa Ngāue ki he Polokala"
+
+#~ msgid "Change Mail"
+#~ msgstr "Liliu e Meilí"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Kātaki ʻo fakapapauʻi ho tuʻasila meilí pe ʻe lava ke tāmateʻi hoʻo "
+#~ "ʻakauní hili ha ngaahi ʻaho siʻi."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Lava lelei hono liliu ʻo e meili. Ne mau ʻoatu ha meili fakapapauʻi, "
+#~ "kātaki ʻo fakapapauʻi             ho tuʻasila meili foʻoú."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Taʻofi kotoa e ngaahi popoaki fakatautaha"
+
+#~ msgid "There are no mods"
+#~ msgstr "ʻOku ʻikai ke ʻi ai ha ngaahi meʻa ke fai"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "Ngaahi fonua naʻe fai ʻe pixel he ʻaho ni"
+
+#~ msgid "Pixels placed"
+#~ msgstr "Fokotuʻu ʻa e pixel"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Puke ʻa e toʻomataʻu ${ bindShift } ki hono fokotuʻu lolotonga hono ʻave "
+#~ "ʻo e mausi ʻo fakatatau ki he vakai fakahisitolia"
+
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr ""
+#~ "Naʻe ʻikai ke maʻu ha tali mei he pixuniverse. Mahalo te ke feinga ke "
+#~ "fakafoʻou?"
+
+#~ msgid "Place more :)"
+#~ msgstr "Fokotuʻu ha feituʻu lahi ange :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "ʻIkai ngofua ha kau fakafofonga :("
+
+#~ msgid "Show Hidden Canvases"
+#~ msgstr "Fakaʻasi ʻa e Canvases ʻoku fufuuʻi"
+
+#~ msgid "Hide Hidden Canvases"
+#~ msgstr "Fufuuʻi e Canvases ʻoku fufuuʻi"
+
+#~ msgid "Coordinates in X_Y format:"
+#~ msgstr "Fakafekauʻaki ʻi he founga X_Y:"
+
+#~ msgctxt "keybinds"
+#~ msgid "C"
+#~ msgstr "C"

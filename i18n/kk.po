@@ -1,0 +1,1819 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-05-01 10:07+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Kazakh <https://hosted.weblate.org/projects/pixuniverse/"
+"client/kk/>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.3-dev\n"
+
+msgid " which is in "
+msgstr " , қалған уақыт "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"Айналу үшін тінтуірдің ${ mouseSymbol } сол жақ батырмасын ұстап сүйреңіз"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"Пиксел салу үшін тінтуірдің ${ mouseSymbol } сол жақ батырмасын шертіңіз "
+"немесе ${ touchSymbol } түртіңіз"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+"Жылжу үшін тінтуірдің ${ mouseSymbol } оң жақ батырмасын ұстап сүйреңіз"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"Пиксел жою үшін тінтуірдің ${ mouseSymbol } оң жақ батырмасын шертіңіз "
+"немесе ${ touchSymbol } екі рет түртіңіз"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"Кішірейту/үлкейту үшін тінтуір ${ mouseSymbol } дөңгелегін бұраңыз немесе $"
+"{ mouseSymbol } ортаңғы батырмасын ұстап сүйреңіз"
+
+msgid "(0 = infinite)"
+msgstr "(0 = шексіз)"
+
+msgid "+last hour"
+msgstr ""
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Сізге жаңа растау хаты жіберілді."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Торды қосу (1:1 үлгі керек болса, қоспаңыз)"
+
+msgid "Add Template"
+msgstr "Үлгіні қосу"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "Барлық дыбыс эффектілері өшіріледі."
+
+msgid "Always show Movement Controls"
+msgstr "Әрқашан қозғалу түймесін көрсету"
+
+msgid "Always show movement control buttons"
+msgstr "Әрқашан қозғалуды басқару түймесін көрсету"
+
+msgid "Anti Aliasing"
+msgstr "Антиалиасинг"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Кенептің үлкен аймақтарын қоқыстан тазарту үшін сүзгі қолдану."
+
+msgid "Archive"
+msgstr "Мұрағат"
+
+msgid "Assign new Mod"
+msgstr "Модератор тағайындау"
+
+msgid "Auto Zoom In"
+msgstr "Авто-үлкейту"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Бұғатталғансыз"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Сізді бұғаттады ма? Прокси ретінде анықталғансыз ба?"
+
+msgid "Block"
+msgstr "Блоктау"
+
+msgid "Block DMs"
+msgstr "ЖХ жабу"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Төменгі оң жақ бұрыш"
+
+msgid "Build image and set it to protected."
+msgstr "Сурет құрып, оны қорғау."
+
+msgid "Build image on canvas."
+msgstr "Кенепте сурет құру."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "Сурет құрып, оның пикселдері үшін күту уақытын боялмағандай орнату."
+
+msgid "By Mod"
+msgstr "Бұғаттаған модератор"
+
+msgid "Calculate like GIMP"
+msgstr "GIMP сияқты есептеу"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "20 Дан астам үлгі қойылмайды!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "20 Дан астам үлгі жазылмайды!"
+
+msgid "Can't read? Reload:"
+msgstr "Оқи алмайсыз ба? Қайта жүктеп көріңіз:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "3D-кенепті рендерлеу мүмкін емес, сізде WebGL2 өшірулі ме?"
+
+msgid "Cancel"
+msgstr "Болдырмау"
+
+msgid "Cancel adding Template"
+msgstr "Үлгіні қосудан бас тарту"
+
+msgid "Canvas"
+msgstr "Кенеп"
+
+msgid "Canvas Archive"
+msgstr "Кенептер мұрағаты"
+
+msgid "Canvas Cleaner"
+msgstr "Кенеп тазартқыш"
+
+msgid "Canvas Error"
+msgstr "Кенеп қатесі"
+
+msgid "Canvas Selection"
+msgstr "Кеңеп таңдау"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "Қолданушы атын өзгерту"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Құпиясөзді өзгерту"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Арна баптаулары"
+
+msgid "Charts"
+msgstr "Графиктер"
+
+msgid "Chat"
+msgstr "Чат"
+
+msgid "Chat here"
+msgstr "Хат жазыңыз"
+
+msgid "Check out past versions of the canvas."
+msgstr "Кенептің алдыңғы нұсқаларын көру."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Аймақта кім салғанын тексеру"
+
+msgid "Choose Canvas"
+msgstr "Кеңеп таңдауға"
+
+msgid "Choose Color Mode"
+msgstr "Түс режімі"
+
+msgid "Choose Strategy"
+msgstr "Түрлендіру алгоритмі"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Айналасында бір түсті фоны немесе боялмаған пикселдері бар артық пикселдерді "
+"өшіру (ЕКІ КҮТУ УАҚЫТЫ БАР КЕНЕПТЕРДЕ ӨТЕ АГРЕССИВТІ!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Айналасында боялмаған пикселдері бар артық пикселдерді өшіру"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Айналасында боялмаған пикселдері немесе 1 боялған пикселі бар артық "
+"пикселдерді өшіру"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Курсор/саусақ астындағы түсті таңдау үшін тінтуірдің ${ mouseSymbol } "
+"ортаңғы батырмасын шертіңіз немесе ${ touchSymbol } түртіп ұстап тұрыңыз"
+
+msgid "Click a color in palette to select it"
+msgstr "Түсті таңдау үшін оны палитрадан басыңыз"
+
+msgid "Click here to request a new verification mail."
+msgstr "Жаңа растау хатын сұрау үшін осында басыңыз."
+
+msgid "Click to Load Captcha"
+msgstr "Captcha жүктеу үшін басыңыз"
+
+msgid "Clone"
+msgstr "Көшірмесін жасау"
+
+msgid "Close"
+msgstr "Жабу"
+
+msgid "Close Chat"
+msgstr "Чатты жабу"
+
+msgid "Close Menu"
+msgstr "Мәзірді жабу"
+
+msgid "Close Palette"
+msgstr "Палитраны жабу"
+
+msgid "Compact Palette"
+msgstr "Ықшам палитра"
+
+msgid "Confirm New Password"
+msgstr "Жаңа құпиясөзді растау"
+
+msgid "Confirm Password"
+msgstr "Құпиясөзді растау"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Байланысу қатесі ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Басқаруы"
+
+msgid "Convert an image to canvas colors"
+msgstr "Сурет кенеп түстеріне бейімдеу"
+
+msgid "Converter"
+msgstr "Конвертер"
+
+msgid "Cooldown"
+msgstr "Күту уақыты"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+msgid "Coordinates"
+msgstr "Координаттар"
+
+msgid "Coordinates:"
+msgstr "Координаттар:"
+
+msgid "Copied"
+msgstr "Көшірілді"
+
+msgid "Copy"
+msgstr "Көшіру"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Алмасу буферіне көшіру"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Серверге байланысу мүмкін емес, кейінірек қайталап көріңіз :("
+
+msgid "Could not load captcha"
+msgstr "Captcha жүктеу мүмкін емес"
+
+msgid "Couldn't set Pixel"
+msgstr "Пиксел салу мүмкін емес"
+
+msgid "Countries Today"
+msgstr "Бүгінгі елдер"
+
+msgid "Country"
+msgstr "Ел"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "Топ-10 кенебі палитрасының авторы: ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Ай палитрасының авторы: ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Топ-10 кенебі палитрасының авторы: ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr "Арнаулы курсор"
+
+msgid "DM"
+msgstr "Жекеге жазу"
+
+#, fuzzy
+msgid "Daily Pixels per Country"
+msgstr "Сағатына ойыншылар мен пикселдер"
+
+#, fuzzy
+msgid "Daily Pixels per Player"
+msgstr "Күніне барлық пиксел саны"
+
+msgid "Daily Rank"
+msgstr "Күнделікті рейтиң"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "Жою"
+
+msgid "Delete Account"
+msgstr "Тіркелгіні жою"
+
+msgid "Deny"
+msgstr ""
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"pixuniverse жауап бермейді. Мәселе шешілмесе, бәлкім бетті жаңартып көріңіз."
+
+msgid "Dimensions"
+msgstr "Өлшемі"
+
+msgid "Disable Game Sounds"
+msgstr "Дыбыс өшіру"
+
+msgid "Disable History Pencil"
+msgstr "Тарихи қарындаш ошірілді"
+
+msgid "Disable Overlay Pencil"
+msgstr "Үлгі бойынша қарындаш өшірілді"
+
+msgid "Disable Pencil"
+msgstr "Қарындаш өшірілді"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr "Палитраны экранда азырақ орын алатын ықшам түрде көрсету."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "IP-лерді басқару (әр жолға бір IP)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "Мені ғаламдық статистикада көрсетпеу"
+
+msgid "Download Template"
+msgstr "Үлгіні жүктеп алу"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"Жылжу үшін тінтуірдің ${ mouseSymbol } сол жақ батырмасын ұстап сүйреңіз "
+"немесе ${ touchSymbol } жылжытыңыз"
+
+msgid "Duration"
+msgstr "Мерзімі"
+
+msgid "Easter Egg OFF"
+msgstr "Пасха жұмыртқасы өшірілді"
+
+msgid "Easter Egg ON"
+msgstr "Пасха жұмыртқасы қосылды"
+
+msgid "Edit"
+msgstr "Өзгерту"
+
+msgid "Email"
+msgstr "Эл. пошта"
+
+msgid "Email can't be empty."
+msgstr "Эл. пошта бос бола алмайды."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Эл. пошта 40 таңбадан аспауы керек."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "Эл. поштада кемінде бір нүкте болуы керек"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Эл. пошта кемінде 5 таңбадан тұруы керек."
+
+msgid "Email should contain a @"
+msgstr "Эл. поштада @ болуы керек"
+
+msgid "Enable Overlay"
+msgstr "Оверлей қосылуы"
+
+msgid "Enable Pencil"
+msgstr "Қарындаш қосылды"
+
+msgid "Enable chat notifications"
+msgstr "Чат мәлімдемелерін қосу"
+
+msgid "Enter Characters"
+msgstr "Таңбаларды енгізіңіз"
+
+msgid "Enter Reason"
+msgstr "Себебін енгізіңіз"
+
+msgid "Enter UserName of new Mod"
+msgstr "Жаңа модератордың атын енгізіңіз"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Жаңа құпиясөз алу үшін эл. поштаңызды енгізіңіз:"
+
+msgid "Error"
+msgstr "Қате"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Қате ${ retCode }"
+
+msgid "Error :("
+msgstr "Қате :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "Қосылған үлгілерді экспорттау"
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Өнімділігі аз құрылғылар үшін ойынды оңтайландырады."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr "Тарих арқылы"
+
+msgid "From Template"
+msgstr "Үлгі арқылы"
+
+msgid "Get IID"
+msgstr "IID алу"
+
+msgid "Get Pixels"
+msgstr "Пикселдерді алу"
+
+msgid "Get Users"
+msgstr "Қолданушыларды алу"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Глобус көрінісі"
+
+msgid "Go to"
+msgstr "Бару"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Тор өшірілді"
+
+msgid "Grid ON"
+msgstr "Тор қосылды"
+
+msgid "Have fun!"
+msgstr "Уақытты жақсы өткізуіңізді тілейміз!"
+
+msgid "Height"
+msgstr "Биіктігі"
+
+msgid "Help"
+msgstr "Көмек"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Жойылған кенептерді оңтайлы түрде сақтау үшін біз оларды осында жинаймыз."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Көбірек ауданды қамтитын үлкейту деңгейлері сирегірек жаңартылады, 3D-глобус "
+"кем дегенде күніне бір рет өзгереді."
+
+msgid "Historical View"
+msgstr "Тарихи көрініс"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"Тінтуірді сүйрегенде пиксел салу үшін сол жақ ${ bindShift } ұстап тұрыңыз"
+
+msgid "How pixuniverse should look like."
+msgstr "pixuniverse қалай көрінуге тиіс."
+
+msgid "I forgot my Password."
+msgstr "Құпиясөзімді ұмыттым."
+
+msgid "IID (optional)"
+msgstr "IID (міндетті емес)"
+
+msgid "IID Actions"
+msgstr "IID әрекеттері"
+
+msgid "IP Actions"
+msgstr "IP әрекеттері"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Сурет конвертері"
+
+msgid "Image Upload"
+msgstr "Сурет жүктеу"
+
+msgid "Import templates"
+msgstr "Үлгілерді импорттау"
+
+msgid "Interval"
+msgstr "Интервал"
+
+msgid "Interval is invalid"
+msgstr "Жарамсыз интервал"
+
+msgid "Invalid Canvas"
+msgstr "Жарамсыз кенеп"
+
+msgid "Invalid Coordinates"
+msgstr "Жарамсыз координаттар"
+
+msgid "Invalid color selected"
+msgstr "Жарамсыз түс таңдалды"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Тек тіркелген қолданушылар үшін"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Кеше ең белсенді болған 10 ойыншы ғана мұнда сала алады"
+
+msgid "Keep Ratio"
+msgstr "Жақтар арақатынасын сақтау"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Ақшыл тор"
+
+msgid "Load Captcha"
+msgstr "Captcha жүктеу"
+
+msgid "Loading"
+msgstr "Жүктелуде"
+
+msgid "Loading..."
+msgstr "Жүктелуде..."
+
+msgid "Log out"
+msgstr "Шығу"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Кіру"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "Көбірек мүмкіндіктер мен статистикаға қол жеткізу үшін кіріңіз."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Атыңыз не эл. поштаңыз арқылы кіру:"
+
+msgid "Make Screenshot"
+msgstr "Скриншот түсіру"
+
+msgid "Manage Moderators"
+msgstr "Модераторларды басқару"
+
+msgid "Map Data"
+msgstr "Карта деректері"
+
+msgid "Maximize"
+msgstr "Шегіне дейін үлкейту"
+
+msgid "Minimum Color Distance"
+msgstr "Түстер арасындағы ең аз қашықтық"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Модератор құралдары"
+
+msgid "Move"
+msgstr "Жылжыту"
+
+msgid "Mute"
+msgstr "Үнсіз ету"
+
+msgid "Muted Sound"
+msgstr "Дыбыс өшірілді"
+
+msgid "Name"
+msgstr "Қолданушы аты"
+
+msgid "Name can't be empty."
+msgstr "Қолданушы аты бос бола алмайды."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Қолданушы атында @, /, \\ немесе # сияқты жарамсыз таңбалар бар"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Қолданушы аты кемінде 2 таңбадан тұруы керек"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Қолданушы аты 26 таңбадан аспауы керек"
+
+msgid "Name or Email"
+msgstr "Қолданушы аты не эл. пошта"
+
+msgid "New Mail"
+msgstr "Жаңа пошта"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Жаңа құпиясөз"
+
+msgid "New Username"
+msgstr "Жаңа қолданушы аты"
+
+msgid "No"
+msgstr "Жоқ"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Captcha ID берілмеген"
+
+msgid "No or invalid captcha text"
+msgstr "Бос немесе қате Captcha мәтіні"
+
+msgid "No password given."
+msgstr "Құпиясөз берілмеген."
+
+msgid "Not allowed"
+msgstr "Рұқсат етілмеген"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Offset"
+msgstr "Ығысуы"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Ескі құпиясөз"
+
+msgid "Online Users"
+msgstr "Желідегі қолданушылар"
+
+msgid "Online Users on Canvas"
+msgstr "Желідегі қолданушылар (кенепте)"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "Пайызбен қабаттасудың мөлдірлігі."
+
+msgid "Open Chat"
+msgstr "Чатты ашу"
+
+msgid "Open Menu"
+msgstr "Мәзірді ашу"
+
+msgid "Open Palette"
+msgstr "Палитраны ашу"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Біздің басты кенебіміз — әлемнің үлкен картасы, оның кез келген жерінде "
+"сурет сала аласыз, алайда бірнеше пиксел салғаннан кейін біраз күтуіңіз "
+"керек. Әр кенептің күту уақыты мен талаптарын Кенеп таңдау мәзірінен біліп "
+"алуға болады (жоғарыдағы ортаңғы батырма). Кейбір кенепте пикселдің қосатын "
+"уақыты оның бұрын боялғаны я боялмағанына байланысты. Мысалы, 4с/7с деген "
+"әлі боялмаған пиксел үшін 4 секунд, боялған пиксел үшін 7 секунд қосылатынын "
+"білдіреді."
+
+msgid "Overlay OFF"
+msgstr "Оверлей өшірілді"
+
+msgid "Overlay ON"
+msgstr "Оверлей қосылды"
+
+msgid "Overlay Opacity"
+msgstr "Оверлей мөлдірлігі"
+
+msgid "Palette Download"
+msgstr "Палитраны жүктеп алу"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "${ gimpLink } палитрасы"
+
+msgid "Password"
+msgstr "Құпиясөз"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Құпиясөз кемінде 6 таңбадан тұруы керек."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Құпиясөз 60 таңбадан аспауы керек."
+
+msgid "Password successfully changed."
+msgstr "Құпиясөз сәтті өзгертілді."
+
+msgid "Passwords do not match."
+msgstr "Құпиясөздер бірдей емес."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Қарындаш ${ canvasName } үшін"
+
+msgid "Pencil picks: "
+msgstr "Қарындаш таңдау "
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Атап өту"
+
+msgid "Pixel Notify OFF"
+msgstr "Пиксел белсенділігі көрсетілмейді"
+
+msgid "Pixel Notify ON"
+msgstr "Пиксел белсенділігі көрсетіледі"
+
+msgid "Pixel Protection"
+msgstr "Пиксел қорғалуы"
+
+msgid "Pixel protected"
+msgstr "Пиксел қорғалған"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Басқа желідегі ойыншылармен бірге түрлі-түсті пикселдерді үлкен кенепке "
+"салыңыз!"
+
+msgid "Placed Pixels"
+msgstr "Салған пикселдерім"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Чатқа жаңа хат келгенде дыбыспен мәлімдеу"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "Сағатына ойыншылар мен пикселдер"
+
+msgid "Please prove that you are human"
+msgstr "Адам екеніңізді дәлелдеңіз"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Саяси компас кенебі"
+
+msgid "Potato Mode"
+msgstr "Қартоп режімі"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Жылжу үшін ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } "
+"басыңыз"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Торды қосу/өшіру үшін ${ bindG } басыңыз"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Тарихи көріністі қосу/өшіру үшін ${ bindH } басыңыз"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Көтерілу үшін ${ bindQ }, төмен түсу үшін ${ bindE } басыңыз"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Кішірейту үшін ${ bindQ }, үлкейту үшін ${ bindE } басыңыз"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Координаттарды көшіру үшін ${ bindR } басыңыз"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Жылжу үшін ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } басыңыз"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "Пиксел салу белсенділігін көрсету/жасыру үшін ${ bindX } басыңыз"
+
+msgid "Private"
+msgstr "Құпия режім"
+
+msgid "Profile"
+msgstr "Бейін"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Аймақта бұғатталғансыз"
+
+msgid "Ranked"
+msgstr "Рейтиңге үлес қосады"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Рейтиң 5 минут сайын жаңартылады. Күнделікті рейтиңдер UTC бойынша түн "
+"ортасында арылтады."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Себебі"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "Тіркелу"
+
+msgid "Register new account here"
+msgstr "Жаңа тіркелгі жасау"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Қайта жүктеу"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Модератордан шығару"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Талаптар"
+
+msgid "Reset"
+msgstr "Қалпына келтіру"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Өлшемін өзгерту"
+
+msgid "Restore"
+msgstr "Қалпына келтіру"
+
+msgid "Retired Canvases (history only)"
+msgstr "Қолданыстағы кенептер (тек тарих)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+#, fuzzy
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr ""
+"Кенептегі аймақты таңдалған күн мен уақытқа дейін шегіндіру (00:00 UTC)"
+
+msgid "Rollback to Date"
+msgstr "Күнге дейін шегіндіру"
+
+msgid "Save"
+msgstr "Сақтау"
+
+msgid "Scale Image"
+msgstr "Сурет өлшемін өзгерту"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Кішірейту/үлкейту үшін тінтуір ${ mouseSymbol } дөңгелегін бұраңыз немесе $"
+"{ touchSymbol } жақындатыңыз/алшақтатыңыз"
+
+msgid "Select Date above"
+msgstr "Жоғарыдан күнді таңдаңыз"
+
+msgid "Select File"
+msgstr "Файл таңдаңыз"
+
+msgid "Select Language"
+msgstr "Тілді таңдаңыз"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Қолданғыңыз келетін кенепті таңдаңыз.\n"
+"Әр кенептің өз палитрасы, күту уақыты және талаптары бар. \n"
+"Жабылған кенептер мұрағатын мына жерден көре аласыз:"
+
+msgid "Selected Color"
+msgstr "Түс таңдау"
+
+msgid "Send"
+msgstr "Жіберу"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr "Құпиясөз арылту туралы нұсқаулықты эл. поштаңызға жібердік."
+
+msgid "Serpentine"
+msgstr "Серпантин"
+
+msgid "Server answered with gibberish :("
+msgstr "Сервер мағынасыз жауап қайтарды :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"Пикселдерді тым тез салып серверді шатастырып жібердіңіз. Бірнеше құрылғыдан "
+"ойнап отырсыз ба?"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Аймақтың қорғалуын баптау (дәлірек басқару керек болса, альфа арнасы бар "
+"суретті жүктеп, оны қорғаңыз)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Баптаулар"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Торды көрсету"
+
+msgid "Show Grid in white instead of black."
+msgstr "Қара тордың орнына ақ торды көрсету."
+
+msgid "Show Pixel Activity"
+msgstr "Пиксел салу белсенділігін көрсету"
+
+msgid "Show circles where pixels are placed."
+msgstr "Басқа ойыншы пиксел салған жерде шеңберді көрсету."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"Жоғары масштабтау деңгейлерінде шағын жеке пикселдер ретінде қабаттасуды "
+"көрсету."
+
+msgid "Show templates as overlays ingame."
+msgstr "Үлгілерді ойын ішіндегі қабаттасу ретінде көрсету."
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "Масштабтау кезінде шағын пикселдер көрсету"
+
+msgid "Social Settings"
+msgstr "Әлеуметтік баптаулар"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "Күту уақытының қоры"
+
+msgid "Start chatting here"
+msgstr "Осында әңгімелесе аласыз"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Status: Not running"
+msgstr "Күйі: өшірулі"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Тазартқышты тоқтату"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Жіберу"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "${ canvasName } кенебіне ауыстыңыз"
+
+msgid "Template Name"
+msgstr "Үлгінің аты"
+
+msgid "Templates"
+msgstr "Үлгілер"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Біз қолданатын таза карта деректерін өңделген OpenStreetMap тайлдарымен "
+"бірге mega.nz сайтынан жүктеп алуға болады: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Кейіптер"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "Мұндай кенеп жоқ"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Жер кенебінде болған саяси қақтығыстар кезінде қолданушылар бұл кенепті "
+"жасауға сұрады. Саяси компас суретінің өлшемі 1024x1024 еді, күту уақыты 5 "
+"сек., ал оның қоры 60 сек. болған. Осы кенеп 2020 ж. 11 мамырда ашылды, "
+"бірақ бірнеше белсенді айлардан кейін сол жылдың 30 қарашада жабылды."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Байланыс орнату уақыты бітті"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Кеңес: әріп регистрі маңызды емес; I мен l бірдей қабылданады"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Әрқашан бір түстпен басуға заебал болдыма ? Оның орнына сурет жасағыңыз келе "
+"ме, бірақ басқа кескіннен пикселдерді санау керек пе? Үлгілер сізге "
+"көмектесе алады! Үлгілер қабаттасу ретінде көрсетілуі мүмкін және олардың "
+"үстінен сурет салуға болады. Үлгідегі бір пиксель кенепте бір пиксель болуы "
+"керек."
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Бүгін"
+
+msgid "Today Placed Pixels"
+msgstr "Бүгін салған пикселдерім"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Ең белсенді 10 ел [пикс / күніне]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Күнделікті рейтиңнің бірінші ондығына кіру"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Ең белсенді 10 ойыншы [пикс / күніне]"
+
+#, fuzzy
+msgid "Top 10 Players from Yesterday"
+msgstr "Ең белсенді 10 ойыншы [пикс / күніне]"
+
+msgid "Top-left corner"
+msgstr "Жоғарғы сол жақ бұрыш"
+
+msgid "Total"
+msgstr "Жалпы"
+
+msgid "Total Online Users"
+msgstr "Желідегі қолданушылар (жалпы)"
+
+#, fuzzy
+msgid "Total Pixels per Player"
+msgstr "Күніне барлық пиксел саны"
+
+msgid "Total Pixels placed per day"
+msgstr "Күніне барлық пиксел саны"
+
+msgid "Total Rank"
+msgstr "Жалпы рейтиң"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"Аймақтағы әрбір пикселді 0-ге айналдырыңыз (СІЗ ШЫНЫНДА ОСЫ КЕЗ КЕЛГЕН "
+"АЙМАҚТА ОЛАРДЫ ЖАСАУ КЕРЕК)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Пиксел шекараларын ерекшелейтін торды қосу."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Мына суреттегі таңбаларды енгізіңіз:"
+
+msgid "Unblock Users"
+msgstr "Қолданушы блоктаудан шығару"
+
+msgid "Unknown Captcha Error"
+msgstr "Белгісіз Captcha қатесі"
+
+msgid "Unknown Error"
+msgstr "Белгісіз қате"
+
+msgid "Unmuted Sound"
+msgstr "Дыбыс қосылды"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Кенепке сурет жүктеп салу"
+
+msgid "Use our custom cursor"
+msgstr "Өзіңнің арнаулы курсор қолдану"
+
+msgid "User"
+msgstr "Қолданушы"
+
+msgid "User Account"
+msgstr "Тіркелгі"
+
+msgid "User Area"
+msgstr "Қолданушы аймағы"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Қолданушы аты"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Оның тарихын шығынсыз кодталған webm пішіміндегі таймлапс ретінде сақтауға "
+"ұйғардық. Видеодан скриншот түсіріп, сол кездегі кенептің 1:1 дәл көшірмесін "
+"алуға болады."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Бұл суретшілерге көп алғыс айтамыз, олар өз жасаған палитраларын осы сайтта "
+"жариялады"
+
+msgid "Weird"
+msgstr "Біртүрлі"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr "Қандай қарындаш қолдану керек."
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Әдетте біз кенептерді жоймаймыз, бірақ олардың кейбірлері көңіл көтеру үшін "
+"немесе кезекті мемді ұнататын қолданушылардың өтініші бойынша жасалады. "
+"Біраз уақыттан кейін осы кенептер ойыншыларды жалықтырып, апталар бойы "
+"өзгеріссіз дерлік қалуы мүмкін. Ондай жағдайда біз оларды белсенді күйде "
+"қалдырудың қажеті жоқ деп шешеміз."
+
+msgid "Why?"
+msgstr "Не үшін?"
+
+msgid "Width"
+msgstr "Ені"
+
+msgid "Wrong Color"
+msgstr "Қате түс"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Иә"
+
+msgid "Yes, Delete My Account!"
+msgstr "Иә, тіркелгім жойылсын!"
+
+msgid "Yesterday"
+msgstr "Кеше"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "Прокси қолданып отырсыз."
+
+msgid "You are weird"
+msgstr "Сіз біртүрлісіз"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr "Осы кенепте әзірше сала алмайсыз. Көбірек пиксел салуыңыз қажет"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Енді сіз pixunivers.fun-да көбірек сала аласыз :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Captcha-ны шешпедіңіз"
+
+msgid "You have new messages in chat"
+msgstr "Чатқа жаңа хаттар келді"
+
+msgid "You have no users blocked"
+msgstr "Ешкімді блоктаған жоқсыз"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Осы кенепте салу үшін тіркелуіңіз керек"
+
+msgid "You made too many requests"
+msgstr "Сіз тым көп сұраныс жасадыңыз"
+
+msgid "You must be logged in to chat"
+msgstr "Чатта жазу үшін тіркелуіңіз керек"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "Мерзімін енгізуіңіз қажет"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "IID енгізуіңіз қажет"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Тым көп уақыт өтті, қайта байқап көріңіз."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Браузеріңіз дыбыс ойнатуға арналған AudioContext-ті қолдануға жол бермейді. "
+"Бізді блоктайтын әлдеқандай құпиялық баптаулары қосулы ма?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Интернет провайдеріңіз бұл ойында бұғатталған"
+
+msgid "Your ban expires at "
+msgstr "Бұғатталуыңыз бітетін күн: "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Келесі пикселдеріңіз дайын тұр"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Масштаб кіші болса, кенепті басқанда пиксел салудың орнына картаны үлкейту."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "және ${ canvas.req } салынған пиксел"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "сізді атап өтті"
+
+msgid "or login with:"
+msgstr "немесе бұлардың көмегімен кіру:"
+
+msgid "or register here:"
+msgstr "немесе осында тіркелу:"
+
+msgid "recommended"
+msgstr "ұсынылады"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "${ ti } минуттан кейін қайталап көріңіз"
+
+msgid "x out of bounds"
+msgstr "x шектен тыс"
+
+msgid "y out of bounds"
+msgstr "y шектен тыс"
+
+msgid "z out of bounds"
+msgstr "z шектен тыс"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "В"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "Қалқымалы терезе"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Сіз бұғатталғансыз. Сізді әділетсіз бұғаттады деп ойласаңыз, "
+
+#~ msgid "Registration"
+#~ msgstr "Тіркелу"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Құпиясөзді ұмыту"
+
+#~ msgid " on how to appeal."
+#~ msgstr " бетінде шағым бере аласыз."
+
+#~ msgid "Unbanned"
+#~ msgstr "Сізді бұғаттаудан шығардық"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "Бұл хабарламаны көргеннен бері сіз енді бұғаттауда емессіз."
+
+#~ msgid "Source on "
+#~ msgstr "Бастапқы коды: "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Сіз прокси қолданушы ретінде қате анықталған болсаңыз не өзіңізді "
+#~ "себепсіз бұғатталған деп санасаңыз, біздің ${ guildedLink }-ке қосылыңыз "
+#~ "немесе бізге хат жіберіңіз: ${ mailLink }. Хатқа мынау IID қосу керек:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Guilded-те бізге қосылсаңыз болады:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Сіздің атыңыз: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Қолданушы атын өзгерту"
+
+#~ msgid "Change Mail"
+#~ msgstr "Поштаны өзгерту"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Тіркелгіңіз бірнеше күннен кейін жойылмас үшін эл. поштаңызды растаңыз."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Эл. пошта сәтті өзгертілді. Біз сізге растау хатын жібердік,             "
+#~ "жаңа эл. поштаңызды растаңыз."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Барлық жеке хаттарды блоктау"
+
+#~ msgid "There are no mods"
+#~ msgstr "Модераторлар жоқ"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "Пикселдері бойынша бүгінгі елдер"
+
+#~ msgid "Pixels placed"
+#~ msgstr "Сіз салған пикселдер"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Тінтуірді сүйрегенде тарихи көрініске сәйкес пиксел салу үшін оң жақ $"
+#~ "{ bindShift } ұстап тұрыңыз"
+
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr "pixuniverse жауап бермейді. Бетті жаңартсаңыз қайтеді?"
+
+#~ msgid "Place more :)"
+#~ msgstr "Көбірек салыңыз :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "Прокси қолдануға тыйым салынған :("
+
+#~ msgid "Show Hidden Canvases"
+#~ msgstr "Жасырын кенептерді көрсету"
+
+#~ msgid "Hide Hidden Canvases"
+#~ msgstr "Жасырын кенептерді жасыру"
+
+#~ msgid "Coordinates in X_Y format:"
+#~ msgstr "X_Y пішіміндегі координаттар:"
+
+#~ msgctxt "keybinds"
+#~ msgid "C"
+#~ msgstr "C"

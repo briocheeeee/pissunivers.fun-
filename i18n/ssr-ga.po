@@ -1,0 +1,697 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"PO-Revision-Date: 2025-11-04 18:40+0000\n"
+"Last-Translator: Extreme Motorsex <em@noreply.pixunivers.fun>\n"
+"Language-Team: Irish <https://translate.gs-os.com/projects/ppfun/server/ga/>"
+"\n"
+"Language: ga\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
+"(n>6 && n<11) ? 3 : 4;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid "1bit"
+msgstr "Giotán amháin"
+
+msgid "2bit"
+msgstr "Dhá Giotán"
+
+msgid "3D Canvas"
+msgstr "Canbhás 3d"
+
+msgid "A 3D globe of our whole map"
+msgstr "cruinneog 3D do n-Ár léarscáil iomlán"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Canbhás do na úsáideoirí is gníomhach ón lá faoi dheireadh. nuashonruithe "
+"rangú gach lá ar 00:00 UTC."
+
+msgid "Access modtools"
+msgstr ""
+
+msgid "Add Application"
+msgstr ""
+
+msgid "Add an Application (OIDC Client)"
+msgstr ""
+
+msgid "Add new application"
+msgstr ""
+
+msgid "An error occured. Please try again later."
+msgstr ""
+
+msgid "Application changed successfully"
+msgstr ""
+
+msgid "Application deleted"
+msgstr ""
+
+msgid "Application successfully added"
+msgstr ""
+
+msgid "Black and White canvas"
+msgstr "Canbhás dubh agus bán"
+
+msgid "Can not chat while being banned"
+msgstr ""
+
+msgid "Click here"
+msgstr "Cliceáil anseo"
+
+msgid "Click to Verify"
+msgstr "Cliceáil le cinntigh"
+
+msgid "Client Name"
+msgstr ""
+
+msgid "Confirm New Password"
+msgstr "deimhnigh n phasfhocal nua"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"Ghlac talamh are domhan níos liú le farraige sabhailte. Tá an téamh síos mar "
+"an gcéanna leis an Canbhás domhanda!"
+
+msgid "Consent"
+msgstr ""
+
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+msgid "Could not close this Session."
+msgstr ""
+
+msgid "Could not find this login method"
+msgstr ""
+
+msgid "Couldn't find this mail in our database"
+msgstr "Níorbh fhéidir teacht ar an bpost i ár mbunachar sonraí"
+
+msgid "Default"
+msgstr ""
+
+msgid "Delete Application"
+msgstr ""
+
+msgid "Display name for your OIDC client"
+msgstr ""
+
+msgid "Double click on globe to go back."
+msgstr "Cuir cliceáil dúbailte ar an cruinneog le dul árais."
+
+msgid "E-Mail already in use."
+msgstr "Tá an Ríomhphost sin in úsáid."
+
+msgid "Earth"
+msgstr "Domhan"
+
+msgid "Edit existing applications"
+msgstr ""
+
+msgid "Email can't be empty."
+msgstr "Caithfidh tú rud a cuir istigh Ríomhphost."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Ní féidir Ríomhphost a bheith níos faide ná 40 carachtair."
+
+msgid "Email should at least contain a dot"
+msgstr "Ba chóir go mbeadh ar a laghad ponc amhainn ann"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Ba chóir Ríomhphost a bheith ar a laghad 5 carachtair fada."
+
+msgid "Email should contain a @"
+msgstr "Ba chóir go mbeadh @ i do Ríomhphost"
+
+msgid "Error"
+msgstr "Earráid"
+
+msgid "Failed to create a new user :("
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Bainn sult agus na bíodh leisce ort le teagmháil a cuir orainn má fheiceann "
+"tú fadhb ar bith :)"
+
+msgid "Hello"
+msgstr "Heileo"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr ""
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Heileo ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Múna rinne tú iarratas don phost seo, neamhaird é le do chul (rinne an ip $"
+"{ ip } an iarratas don phost seo)."
+
+msgid "Incorrect password!"
+msgstr "Phasfhocal mícheart!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "URL neamhbhailí :( cuir seic ar do phost arís."
+
+msgid "Just admins can do that"
+msgstr "Ní féidir ach Riarthóirí sin a dhéanamh"
+
+msgid "Know that an account exists"
+msgstr ""
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr ""
+
+msgid "Loading..."
+msgstr "Ag Loadail..."
+
+msgid "Login from new location on pixuniverse"
+msgstr ""
+
+msgid "Login is required"
+msgstr ""
+
+msgid "Mail is already in use!"
+msgstr ""
+
+msgid "Mail is not configured on the server"
+msgstr "Níl an phost cumraithe ar an freastalaí"
+
+msgid "Mail verification"
+msgstr "Fíorú phost"
+
+msgid "Minimap"
+msgstr "léarscáil Beag"
+
+msgid "Mirror of PixelCanvas"
+msgstr "Scáthán de Canbhás picteilíní"
+
+msgid "Mirror of PixelZone"
+msgstr "Scáthán Don Zón Picteilíní"
+
+msgid "Moon"
+msgstr "gealach"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Canbhás gealach. Ait sabhailte do ealaíne. Na cuir bhratach no teics mór(ach "
+"amháin meas páirteach le ealaíne é) nó ealaíne níos mó ná 1.5k X 1.5 "
+"picteilíní."
+
+msgid "Name already in use."
+msgstr ""
+
+msgid "Name can't be empty."
+msgstr "Ní féidir ainm a bheith folamh."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Tá charachtair neamhbhailí Ann mar shampla @,/,\\ nó #"
+
+msgid "Name is too long"
+msgstr ""
+
+msgid "Name must be at least 2 characters long"
+msgstr "Ní mór ainm a bheith ar a laghad 2 carachtair fada"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Ní mór ainm a bheith níos giorra ná 26 carachtair"
+
+msgid "Name or Email does not exist!"
+msgstr ""
+
+msgid "New Password"
+msgstr "Phasfhocal Nua"
+
+msgid "No Captcha given"
+msgstr "Níl Captcha ar fail"
+
+msgid "No or invalid fish id."
+msgstr ""
+
+msgid "No password given."
+msgstr "Níor thabhar tu phasfhocal."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr ""
+
+msgid "No such badge found"
+msgstr ""
+
+msgid "No such fish found"
+msgstr ""
+
+msgid "One redirect URIs per line"
+msgstr ""
+
+msgid "One redirect_uri per line"
+msgstr ""
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr ""
+
+msgid "Only four colors. Same rules as moon!"
+msgstr "Ní ach ceithre dath. Rialacha mar an gcéanna leis an gealach!"
+
+msgid "OpenID Connect specs"
+msgstr ""
+
+msgid "Or by copying following url:"
+msgstr "Nó má gcuireann to Cóip ar an URL:"
+
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"Ár priomh Canbhás, Léarscáil mór don domhan. Cuir áit ar bith a ba mhaith "
+"leat!"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Caithfidh an phasfhocal beidh ar a laghad 6 charachtair."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Caithfidh an phasfhocal beidh ar a mhéad 60 charachtair."
+
+msgid "Password successfully changed."
+msgstr "Phasfhocal athraithe go rathúil."
+
+msgid "Permission"
+msgstr ""
+
+msgid "PixelCanvas"
+msgstr "Canbhás picteilíní"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun Cruinneog3D"
+
+msgid "PixelZone"
+msgstr "Zón Picteilíní"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Cuir 'Voxels' ar canbhás 3D leis na cuid eile."
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Cuir picteilíní dathuil ar canbháis cosúil le léarscáil le daoine eile ar "
+"líne"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid "Please try again."
+msgstr ""
+
+msgid "Please use int channel"
+msgstr "Baint úsáid as cainéal Idirnáisiúnta le do chul"
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Redirect URIs"
+msgstr ""
+
+msgid "Regularly update this data"
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "Athshocraigh Pasfhocal"
+
+msgid "Reset your password here"
+msgstr "Athshocraigh do phasfhocal anseo"
+
+msgid "Server error when deleting user."
+msgstr ""
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr ""
+
+msgid "Space-separated list of available scopes"
+msgstr ""
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+
+msgid "Space-separated list of scopes that should be available"
+msgstr ""
+
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr ""
+"Canbhás speisialta le scéal a scaipeadh faoi SARS-CoV2 (ghlac an vacsaín)."
+
+msgid "Stop flooding."
+msgstr "Stad ag Tuileadh."
+
+msgid "Submit"
+msgstr "Cuir isteach"
+
+msgid "Thanks"
+msgstr "Go raibh maith agat"
+
+msgid "The user owning this badge is private"
+msgstr ""
+
+msgid "The user owning this fish is private"
+msgstr ""
+
+msgid "This application is not allowed to login"
+msgstr ""
+
+msgid "This application redirects to an unallowed page"
+msgstr ""
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+
+msgid "This application uses a PKCE method we do not support"
+msgstr ""
+
+msgid "This application uses a login method we do not support"
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+
+msgid "This email provider is not allowed"
+msgstr "Níl cead tugtha ar an Soláthraí Ríomhphost sin"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Níl an pasfhocal-nasc a athshocrú bailí níos mó:("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr ""
+
+msgid "Top10"
+msgstr "Barr Deich"
+
+msgid "Unknown Captcha Error"
+msgstr "Earráid Captcha Nach bhfuil are eolas"
+
+msgid "Update Application"
+msgstr ""
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User doesn't exist in our database :("
+msgstr "Níl an úsáideoir I n-ár bunachar sonraí :("
+
+msgid "Username already in use."
+msgstr "Ta an Ainm úsáideora sin in úsáid cheana féin."
+
+msgid "Username can not start with pp_"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Chuir muid ríomhphost chugat cheana féin le treoracha. Fan sula n-iarrtar "
+"post eile."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Cuir muid an phost cinntigh thugat chéanna féin, is féidir leat cean eile a "
+"fáil is gceann ${ minLeft } Bomaite."
+
+#, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr "Fáilte ${ name } go pixuniverse Cintigh do phost le do chul"
+
+msgid "You already chose your username"
+msgstr ""
+
+msgid "You already have that name."
+msgstr ""
+
+msgid "You are already verified."
+msgstr ""
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Cuirtear balbh ort do ${ timeMin } Bomaite"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Cuirtear balbh ort do ${ ttl } soicind eile"
+
+msgid "You are not allowed to access this page"
+msgstr "Níl cead agat teacht ar an leathanach seo"
+
+msgid "You are not banned"
+msgstr "Níl cosc ort"
+
+msgid "You are not logged in"
+msgstr "Níl tú logáilte isteach"
+
+msgid "You are now verified :)"
+msgstr "Tá tú a fhíorú anois:)"
+
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Cuirtear balbh buan ort, dul istigh i n-ár guilded le cuir achomharc are an "
+"balbh"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr ""
+"sheolann tú teachtaireachtaí raibh giste, caithfidh tú fanacht do $"
+"{ waitTime } :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+
+msgid "You can not register an account while you are banned"
+msgstr ""
+
+msgid "You can not register an account with a proxy"
+msgstr ""
+
+msgid "You can not send chat messages while using a proxy"
+msgstr "Níl tú ábalta teachtaireacht a cuir amach ag úsáid seachfhreastalaí"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+
+msgid "You can't send a message this long :("
+msgstr "Ní chúig leat teachtaireacht comh fhada le seo a cuir amach :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+
+msgid "You don't have access to this channel"
+msgstr "Níl Cead agat sa cainéal seo"
+
+msgid "You failed your captcha"
+msgstr "Theip ort don Captcha"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr ""
+"Rinne tú dearmad ar do phasfhocal do pixuniverse? Faigh ceann nua anseo"
+
+msgid "You have to fill out all fields"
+msgstr ""
+
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr ""
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Cuir to iarratas chun phasfhocal nua a fháil. Is féidir leat é a athrú sa "
+"cead 30 bomaite eile anseo: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "sheol tú pasfhocal folamh nó sonraí Neamhbhailí :("
+
+msgid "You took too long, try again"
+msgstr ""
+
+msgid "You will be automatically redirected after 15s"
+msgstr "Beidh tú a atreorú go huathoibríoch tar éis 15s"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your account needs to be verified to access this page"
+msgstr ""
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Cuirtear balbh sealadach ar do Tír Ón comhrá seo"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "Caithfidh tú do phost a shocraigh le caint"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Tá do chód fíoraithe poist neamhbhailí nó imithe in éag cheana féin:(, iarr "
+"ceann nua."
+
+msgid "Your passwords do not match :("
+msgstr "Ní mheaitseáileann do phasfhocail :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr ""
+
+msgid "to go back to pixuniverse"
+msgstr "dul ar ais go dtí pixuniverse"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"Fáilte go dtí Ár Pobal de daoine picteilíní, the baint úsáid as do cuntas, "
+"caithfidh tú do phost a cinntigh, is féidir leat sin a dhéanamh anseo: "
+
+#~ msgid "You are banned"
+#~ msgstr "Cuirtear cosc ort"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr "Cuirtear cosc ar do soláthraí idirlín"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun PopUp"
+
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "pixunivers.fun athshocrú pasfhocal"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr "Heileo ${ name }, Is féidir leat phasfhocal nua a cuir anseo:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "Ghlac to raibh fhada, Tráil Arís."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "Theip le úsáideoir nua a cruthú:("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "Theip chun seisiún a bhunú I ndiaidh an cláraigh :("
+
+#~ msgid "You are not even logged in."
+#~ msgstr "Níl tú fiú logáilte isteach."
+
+#~ msgid "Server error when logging out."
+#~ msgstr "Earráid Freastalaí ag logáil amach."
+
+#~ msgid "You are not authenticated."
+#~ msgstr "Níl tù Fíordheimhnithe."
+
+#~ msgid "Muted Users can not delete their account."
+#~ msgstr ""
+#~ "Ní féidir le Úsáideoirí le balbh orthu scrios a chuir ar cuntas sacadh."
+
+#~ msgid "Muted Users can not do this."
+#~ msgstr "Ní féidir le úsáideoirí le balbh orthu seo a dhéanamh."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "pixunivers.fun accounts"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "Nó ${ clickHere } chun dul ar ais go pixuniverse"

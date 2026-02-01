@@ -1,0 +1,707 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-10-28 09:41+0000\n"
+"Last-Translator: \"(CH) xm\" <xm@noreply.pixunivers.fun>\n"
+"Language-Team: Turkish <https://translate.gs-os.com/projects/ppfun/server/tr/"
+">\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr "2bit"
+
+msgid "3D Canvas"
+msgstr "3B Tuval"
+
+msgid "A 3D globe of our whole map"
+msgstr "Tüm haritamızın 3 boyutlu küresi"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Geçen günün en etkin oyuncuları için yapılmış bir tuval. Sıralama her gün "
+"UTC 00.00'da güncellenir."
+
+msgid "Access modtools"
+msgstr "Moderatör araçlarına erişim sağla"
+
+msgid "Add Application"
+msgstr "Aplikasyon ekle"
+
+msgid "Add an Application (OIDC Client)"
+msgstr "Aplikasyon Ekle (OIDC Client)"
+
+msgid "Add new application"
+msgstr "Yeni bir aplikasyon ekle"
+
+msgid "An error occured. Please try again later."
+msgstr "Bİr hata oluştu. Lütfen başka bir zaman deneyin."
+
+msgid "Application changed successfully"
+msgstr "Aplikasyon başarıyla değiştirildi"
+
+msgid "Application deleted"
+msgstr "Aplikasyon silindi"
+
+msgid "Application successfully added"
+msgstr "Aplikasyon başarıyla eklendi"
+
+msgid "Black and White canvas"
+msgstr "Siyah beyaz tuval"
+
+msgid "Can not chat while being banned"
+msgstr "Banın varken konuşamazsın"
+
+msgid "Click here"
+msgstr "Buraya tıklayarak"
+
+msgid "Click to Verify"
+msgstr "Doğrulamak için Tıkla"
+
+msgid "Client Name"
+msgstr "Client Adı"
+
+msgid "Confirm New Password"
+msgstr "Yeni Parolayı Onayla"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"Okyanusun korunduğu bu küçük dünyada fetihler yapın. Bu tuval Dünya tuvali "
+"ile bekleme süresini paylaşır!"
+
+msgid "Consent"
+msgstr "Onay"
+
+msgid "Coronavirus"
+msgstr "Koronavirüs"
+
+msgid "Could not close this Session."
+msgstr ""
+
+msgid "Could not find this login method"
+msgstr ""
+
+msgid "Couldn't find this mail in our database"
+msgstr "Bu e-posta adresini veritabanımızda bulamadık"
+
+msgid "Default"
+msgstr ""
+
+msgid "Delete Application"
+msgstr ""
+
+msgid "Display name for your OIDC client"
+msgstr ""
+
+msgid "Double click on globe to go back."
+msgstr "Küreye çift tıklayarak geri dönün."
+
+msgid "E-Mail already in use."
+msgstr "Bu e-posta adresi kullanılıyor."
+
+msgid "Earth"
+msgstr "Dünya"
+
+msgid "Edit existing applications"
+msgstr ""
+
+msgid "Email can't be empty."
+msgstr "E-posta adresi boş olamaz."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "E-postanız 40 karakterden uzun olamaz."
+
+msgid "Email should at least contain a dot"
+msgstr "E-postanız en az bir nokta içermelidir"
+
+msgid "Email should be at least 5 characters long."
+msgstr "E-postanız en az 5 karakterden oluşmalıdır."
+
+msgid "Email should contain a @"
+msgstr "E-postanız @ içermelidir"
+
+msgid "Error"
+msgstr ""
+
+msgid "Failed to create a new user :("
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Eğlenmene bak ve herhangi bir sıkıntı yaşarsan bize ulaşmaktan çekinme :)"
+
+msgid "Hello"
+msgstr "Esenlikler"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr ""
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Esenlikler ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Eğer bu e-postayı siz istemediyseniz lütfen görmezden gelin (bunu isteyen "
+"ip: ${ ip })."
+
+msgid "Incorrect password!"
+msgstr "Yanlış parola!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "Geçersiz bağlantı :( Lütfen e-postanızı yeniden kontrol ediniz."
+
+msgid "Just admins can do that"
+msgstr "Bunu yalnızca yöneticiler yapabilir"
+
+msgid "Know that an account exists"
+msgstr ""
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr ""
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "Login from new location on pixuniverse"
+msgstr ""
+
+msgid "Login is required"
+msgstr ""
+
+msgid "Mail is already in use!"
+msgstr ""
+
+msgid "Mail is not configured on the server"
+msgstr "E-posta sunucuda yapılandırılmamış"
+
+msgid "Mail verification"
+msgstr "E-posta adresi doğrulaması"
+
+msgid "Minimap"
+msgstr "Küçük Harita"
+
+msgid "Mirror of PixelCanvas"
+msgstr "PixelCanvas'ın aynası"
+
+msgid "Mirror of PixelZone"
+msgstr "PixelZone'un aynası"
+
+msgid "Moon"
+msgstr "Ay"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Ay tuvali. Eserler için güvenilir bir yer. Bayraklar, büyük yazılar veya "
+"1500x1500'den büyük eserler yasaktır."
+
+msgid "Name already in use."
+msgstr ""
+
+msgid "Name can't be empty."
+msgstr "Kullanıcı adınız boş olamaz."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr ""
+"Kullanıcı adınız @, /, \\ veya # gibi geçersiz karakterler bulunduruyor"
+
+msgid "Name is too long"
+msgstr ""
+
+msgid "Name must be at least 2 characters long"
+msgstr "Kullanıcı adınız en az 2 karakterden oluşmalıdır"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Kullanıcı adınız 26 karakterden az olmalıdır"
+
+msgid "Name or Email does not exist!"
+msgstr ""
+
+msgid "New Password"
+msgstr "Yeni Parola"
+
+msgid "No Captcha given"
+msgstr "Captcha girilmedi"
+
+msgid "No or invalid fish id."
+msgstr ""
+
+msgid "No password given."
+msgstr "Bir parola girilmedi."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr ""
+
+msgid "No such badge found"
+msgstr ""
+
+msgid "No such fish found"
+msgstr ""
+
+msgid "One redirect URIs per line"
+msgstr ""
+
+msgid "One redirect_uri per line"
+msgstr ""
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr ""
+
+msgid "Only four colors. Same rules as moon!"
+msgstr "Yalnızca dört renk. Ay ile aynı kurallar!"
+
+msgid "OpenID Connect specs"
+msgstr ""
+
+msgid "Or by copying following url:"
+msgstr "Veya bağlantıyı kopyalayarak:"
+
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"Ana tuvalimiz, devasa bir dünya haritası. İstediğin yere piksel atabilirsin!"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Parolanız en az 6 karakterden oluşmalıdır."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Parolanız 60 karakterden kısa olmalıdır."
+
+msgid "Password successfully changed."
+msgstr "Parolanız başarıyla değiştirildi."
+
+msgid "Permission"
+msgstr ""
+
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun 3BKüre"
+
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "3B bir tuvalde diğer oyuncularla küpler yerleştirin."
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Diğer oyuncularla beraber harita tarzı tuvallerde renkli pikseller atın"
+
+msgid "Please refresh the website"
+msgstr "Lütfen sayfayı yenileyin. Sorun düzelecektir."
+
+msgid "Please try again."
+msgstr ""
+
+msgid "Please use int channel"
+msgstr "Lütfen int kanalını kullanın"
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Redirect URIs"
+msgstr ""
+
+msgid "Regularly update this data"
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "Parolayı Sıfırla"
+
+msgid "Reset your password here"
+msgstr "Parolanızı buradan sıfırlayabilirsiniz"
+
+msgid "Server error when deleting user."
+msgstr ""
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr ""
+
+msgid "Space-separated list of available scopes"
+msgstr ""
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+
+msgid "Space-separated list of scopes that should be available"
+msgstr ""
+
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "Koronavirüs farkındalığını yaymak için özel olarak yapılan tuval."
+
+msgid "Stop flooding."
+msgstr "Flood yapmayı bırak."
+
+msgid "Submit"
+msgstr "Onayla"
+
+msgid "Thanks"
+msgstr "Sağ olun"
+
+msgid "The user owning this badge is private"
+msgstr ""
+
+msgid "The user owning this fish is private"
+msgstr ""
+
+msgid "This application is not allowed to login"
+msgstr ""
+
+msgid "This application redirects to an unallowed page"
+msgstr ""
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+
+msgid "This application uses a PKCE method we do not support"
+msgstr ""
+
+msgid "This application uses a login method we do not support"
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+
+msgid "This email provider is not allowed"
+msgstr "Bu e-posta sağlayıcısına izin verilmiyor"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr "Bu parola değiştirme bağlantısı artık geçerli değil :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr ""
+
+msgid "Top10"
+msgstr "Top10"
+
+msgid "Unknown Captcha Error"
+msgstr "Bilinmeyen Captcha Hatası"
+
+msgid "Update Application"
+msgstr ""
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User doesn't exist in our database :("
+msgstr "Kullanıcı, veritabanımızda bulunamadı :("
+
+msgid "Username already in use."
+msgstr "Bu kullanıcı adı kullanılıyor."
+
+msgid "Username can not start with pp_"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Halihazırda talimatlar içeren bir posta gönderildi. Lütfen başka bir posta "
+"talep etmeden önce bekle."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Size önceden bir doğrulama e-postası yolladık, ${ minLeft } dakika sonra "
+"yenisini isteyebilirsiniz."
+
+#, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr ""
+"pixuniverse'e hoş geldiniz ${ name }, lütfen e-posta adresinizi doğrulayın"
+
+msgid "You already chose your username"
+msgstr ""
+
+msgid "You already have that name."
+msgstr ""
+
+msgid "You are already verified."
+msgstr ""
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "${ timeMin } dakikalığına susturuldunuz"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "${ ttl } saniyeliğine susturuldunuz"
+
+msgid "You are not allowed to access this page"
+msgstr "Bu sayfaya erişiminiz yok"
+
+msgid "You are not banned"
+msgstr "Yasaklı değilsiniz"
+
+msgid "You are not logged in"
+msgstr "Giriş yapmadınız"
+
+msgid "You are now verified :)"
+msgstr "Artık hesabın doğrulandı :)"
+
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Kalıcı olarak susturuldunuz, kaldırtılması için Guilded sunucumuza katılın"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr "Çok hızlı ileti yolluyorsunuz, ${ waitTime }s beklemeniz gerekiyor :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+
+msgid "You can not register an account while you are banned"
+msgstr ""
+
+msgid "You can not register an account with a proxy"
+msgstr ""
+
+msgid "You can not send chat messages while using a proxy"
+msgstr "Proxy kullanırken sohbete ileti yollayamazsın"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+
+msgid "You can't send a message this long :("
+msgstr "Bunca uzun bir ileti yollayamazsın :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+
+msgid "You don't have access to this channel"
+msgstr "Bu kanala erişiminiz yok"
+
+msgid "You failed your captcha"
+msgstr "Doğrulamayı yanlış çözdünüz"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr "pixuniverse parolanı unuttun mu? Buradan yenisini al"
+
+msgid "You have to fill out all fields"
+msgstr ""
+
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr ""
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Yeni parola isteğinde bulundunuz. Parolanızı 30 dakika içinde buradan "
+"değiştirebilirsiniz: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "Boş parola ya da geçersiz veri yolladınız :("
+
+msgid "You took too long, try again"
+msgstr ""
+
+msgid "You will be automatically redirected after 15s"
+msgstr "15 saniye içerisinde otomatik olarak yönlendirileceksin"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your account needs to be verified to access this page"
+msgstr ""
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr "Ülkeniz geçici olarak susturuldu"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "Sohbet edebilmek için e-posta adresinizi onaylamanız gerekiyor"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Doğrulama kodunuz geçersiz ya da kodunuzun süresi geçmiş :(, lütfen yeniden "
+"istekte bulunun."
+
+msgid "Your passwords do not match :("
+msgstr "Parolalarınız uyuşmuyor :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr ""
+
+msgid "to go back to pixuniverse"
+msgstr "pixuniverse'e dönün"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"piksel atanlardan oluşan bu küçük topluluğumuza hoş geldiniz, hesabınızı "
+"kullanabilmek için e-posta adresini doğrulayın. Bunu buradan yapabilirsiniz: "
+
+#~ msgid "You are banned"
+#~ msgstr "Yasaklısınız"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr "İnternet sağlayıcınız yasaklı"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun PopUp"
+
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "pixunivers.fun Parola Sıfırlama"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr "Esenlikler ${ name }, parolanızı buradan ayarlayabilirsiniz:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "Çözmeniz çok sürdü, tekrar deneyiniz."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "Yeni kullanıcı oluşturulamadı :("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "Kayıttan sonra oturum oluşturulamadı :("
+
+#~ msgid "You are not even logged in."
+#~ msgstr "Daha oturum bile açmadınız."
+
+#~ msgid "Server error when logging out."
+#~ msgstr "Oturum kapatılırken sunucu hatası oluştu."
+
+#~ msgid "You are not authenticated."
+#~ msgstr "Kimliğiniz doğrulanamadı."
+
+#~ msgid "Muted Users can not delete their account."
+#~ msgstr "Susturulan kullanıcılar hesaplarını silemez."
+
+#~ msgid "Muted Users can not do this."
+#~ msgstr "Susturulan kullanıcılar bunu yapamaz."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "pixunivers.fun Hesapları"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "Veya ${ clickHere } pixuniverse'e dönebilirsin"
+
+#~ msgid "Ow no! Spam protection decided to mute you"
+#~ msgstr "Olamaz! Spam koruması seni susturdu"
+
+#~ msgid ""
+#~ "This passwort reset link is wrong or already expired, please request a "
+#~ "new one (Note: you can use those links just once)"
+#~ msgstr ""
+#~ "Bu parola değiştirme bağlantısı yanlış veya çoktan sona erdi, lütfen yeni "
+#~ "bir talepte bulun (Not: bu bağlantıları tek seferlik kullanabilirsin)"
+
+#~ msgid "No captcha text given"
+#~ msgstr "Captcha metni girilmedi"
+
+#~ msgid "No captcha id given"
+#~ msgstr "Captcha id'si girilmedi"

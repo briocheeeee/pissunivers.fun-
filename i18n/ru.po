@@ -1,0 +1,1945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-10-26 15:53+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Russian <https://translate.gs-os.com/projects/ppfun/client/ru/"
+">\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid " which is in "
+msgstr " , через "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } Удерживая левую кнопку мыши, перемещайте мышь, чтобы "
+"поворачивать камеру"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Нажмите левую кнопку мыши или ${ touchSymbol } нажмите "
+"пальцем, чтобы поставить пиксель"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+"${ mouseSymbol } Удерживая правую кнопку мыши, перемещайте мышь, чтобы "
+"передвигаться"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } Нажимайте правую кнопку мыши или ${ touchSymbol } дважды "
+"коснитесь пальцем, чтобы убрать пиксель"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Прокручивайте колесо мыши или, удерживая ${ mouseSymbol } "
+"среднюю копку мыши, перемещайте мышь, чтобы изменять масштаб"
+
+msgid "(0 = infinite)"
+msgstr "(0 = бесконечно)"
+
+msgid "+last hour"
+msgstr "+последний час"
+
+msgid "...loading Login methods and sessions..."
+msgstr "...загрузка способов входа и сессий..."
+
+msgid "A Phish!"
+msgstr "Рыба!"
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Вам будет отправлено новое письмо с подтверждением."
+
+msgid "ACCESS MODTOOLS"
+msgstr "ДОСТУП К ИНСТРУМЕНТАМ МОДЕРАТОРА"
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Добавить сетку (снимите флажок, если вам нужен шаблон 1:1)"
+
+msgid "Add Template"
+msgstr "Добавить шаблон"
+
+msgid "Admintools"
+msgstr "Инструменты администратора"
+
+msgid "All sound effects will be disabled."
+msgstr "Все звуковые эффекты будут отключены."
+
+msgid "Always show Movement Controls"
+msgstr "Всегда показывать управление движением"
+
+msgid "Always show movement control buttons"
+msgstr "Всегда показывать кнопки управления движением"
+
+msgid "Anti Aliasing"
+msgstr "Сглаживание"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Примените фильтр, чтобы очистить мусор на больших областях полотна."
+
+msgid "Archive"
+msgstr "Архив"
+
+msgid "Assign new Mod"
+msgstr "Назначить нового модератора"
+
+msgid "Auto Zoom In"
+msgstr "Автомасштабирование"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Badge Display"
+msgstr "Отображение значков"
+
+msgid "Badges"
+msgstr "Значки"
+
+msgid "Banned"
+msgstr "Забанен"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Вы в бане? Определяетесь как прокси?"
+
+msgid "Block"
+msgstr "Заблокировать"
+
+msgid "Block DMs"
+msgstr "Заблокировать ЛС"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+"Заблокировать все личные сообщения (ЛС). Включение этого удалит все ваши "
+"существующие ЛС. Вы сможете начинать новые ЛС с другими пользователями, но "
+"другие пользователи не смогут создать ЛС с вами."
+
+msgid "Blocked"
+msgstr "Заблокирован"
+
+msgid "Bottom-right corner"
+msgstr "Нижний правый угол"
+
+msgid "Build image and set it to protected."
+msgstr "Построить изображение на холсте и поставить защиту."
+
+msgid "Build image on canvas."
+msgstr "Построить изображение на холсте."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr ""
+"Построить изображение, но сбросить перезарядку до перезарядки нетронутого "
+"пикселя."
+
+msgid "By Mod"
+msgstr "Модератором"
+
+msgid "Calculate like GIMP"
+msgstr "Вычислять как GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Нельзя экспортировать более 20 шаблонов или ни одного!"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Нельзя импортировать более 20 шаблонов или ни одного!"
+
+msgid "Can't read? Reload:"
+msgstr "Не можете прочитать? Обновить:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "Не получается отобразить 3D полотно, у вас выключен WebGL2?"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cancel adding Template"
+msgstr "Отменить добавление шаблона"
+
+msgid "Canvas"
+msgstr "Полотно"
+
+msgid "Canvas Archive"
+msgstr "Архив полотен"
+
+msgid "Canvas Cleaner"
+msgstr "Очиститель полотна"
+
+msgid "Canvas Error"
+msgstr "Ошибка полотна"
+
+msgid "Canvas Selection"
+msgstr "Выбор полотна"
+
+msgid "Captcha"
+msgstr "Капча"
+
+msgid "Caught by"
+msgstr "Поймано"
+
+msgid "Change Happened"
+msgstr "Произошли изменения"
+
+msgid "Change Name"
+msgstr "Изменить ник"
+
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+msgid "Change your Mail Adress here:"
+msgstr "Измените ваш адрес почты здесь:"
+
+msgid "Channel settings"
+msgstr "Настройки канала"
+
+msgid "Charts"
+msgstr "Графики"
+
+msgid "Chat"
+msgstr "Чат"
+
+msgid "Chat here"
+msgstr "Общайтесь здесь"
+
+msgid "Check out past versions of the canvas."
+msgstr "Посмотрите прошлые версии полотна."
+
+msgid "Check to allow"
+msgstr "Отметьте, чтобы разрешить"
+
+msgid "Check who placed in an area"
+msgstr "Проверить, кто ставил пиксели в области"
+
+msgid "Choose Canvas"
+msgstr "Выбрать полотно"
+
+msgid "Choose Color Mode"
+msgstr "Выберите цветовой режим"
+
+msgid "Choose Strategy"
+msgstr "Выберите стратегию"
+
+msgid "Choose Username"
+msgstr "Выберите имя пользователя"
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Очистка лишних пикселей, окруженных одним другим цветом или нетронутыми "
+"пикселями (ОЧЕНЬ АГРЕССИВНО НА ПОЛОТНАХ, КОТОРЫЕ ДОПУСКАЮТ НЕТРОНУТЫЕ "
+"ПИКСЕЛИ (где есть две перезарядки)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Очистка лишних пикселей, окруженных нетронутыми пикселями"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Очистка лишних пикселей, окруженных нетронутыми пикселями и до 1 другого "
+"перекрашенного пикселя"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr "Уборщики могут использовать цвета фона без перезарядки."
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Нажмите ${ mouseSymbol } среднюю кнопку мыши или ${ touchSymbol } "
+"удерживайте палец на пикселе, чтобы выбрать цвет пикселя, над которым вы "
+"удерживаете курсор/палец"
+
+msgid "Click a color in palette to select it"
+msgstr "Нажмите на цвет в палитре, чтобы выбрать его"
+
+msgid "Click here to request a new verification mail."
+msgstr "Нажмите здесь, чтобы запросить новое письмо с подтверждением."
+
+msgid "Click to Load Captcha"
+msgstr "Нажмите, чтобы загрузить капчу"
+
+msgid "Clone"
+msgstr "Дублировать"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close Chat"
+msgstr "Закрыть чат"
+
+msgid "Close Menu"
+msgstr "Закрыть меню"
+
+msgid "Close Palette"
+msgstr "Закрыть палитру"
+
+msgid "Compact Palette"
+msgstr "Компактная палитра"
+
+msgid "Confirm New Password"
+msgstr "Подтвердите новый пароль"
+
+msgid "Confirm Password"
+msgstr "Повторите пароль"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Ошибка соединения ${ code } :("
+
+msgid "Consent"
+msgstr "Согласие"
+
+msgid "Consider joining us on Matrix:"
+msgstr "Присоединяйтесь к нам в Matrix:"
+
+msgid "Controls"
+msgstr "Управление"
+
+msgid "Convert an image to canvas colors"
+msgstr "Преобразует изображение в цвета холста"
+
+msgid "Converter"
+msgstr "Пикселизатор"
+
+msgid "Cooldown"
+msgstr "Перезарядка"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+"Перезарядка обычно автоматически изменяется для страны, которая доминирует. "
+"Например, когда идёт рейд стримера."
+
+msgid "Coordinates"
+msgstr "Координаты"
+
+msgid "Coordinates:"
+msgstr "Координаты:"
+
+msgid "Copied"
+msgstr "Скопировано"
+
+msgid "Copy"
+msgstr "Скопировать"
+
+msgid "Copy Link"
+msgstr "Скопировать ссылку"
+
+msgid "Copy Selected to Clipboard"
+msgstr "Скопировать выбранное в буфер обмена"
+
+msgid "Copy URL"
+msgstr "Скопировать URL"
+
+msgid "Copy UserId to Clipboard"
+msgstr "Скопировать ID пользователей в буфер обмена"
+
+msgid "Copy to Clipboard"
+msgstr "Скопировать в буфер обмена"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Не удается подключиться к серверу, пожалуйста, попробуйте позже :("
+
+msgid "Could not load captcha"
+msgstr "Не удалось загрузить капчу"
+
+msgid "Couldn't set Pixel"
+msgstr "Невозможно поставить пиксель"
+
+msgid "Countries Today"
+msgstr "Страны сегодня"
+
+msgid "Country"
+msgstr "Страна"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "Авторство палитры 2бит принадлежит ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Авторство палитры луны принадлежит ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Авторство палитры Топ-10 принадлежит ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr "Текущий кулдаун изменений на страну"
+
+msgid "Custom Cursor"
+msgstr "Встроенный курсор"
+
+msgid "DM"
+msgstr "ЛС"
+
+msgid "Daily Pixels per Country"
+msgstr "Пиксели поставленные странами за день"
+
+msgid "Daily Pixels per Player"
+msgstr "Пикселей размещенных за день игроками"
+
+msgid "Daily Rank"
+msgstr "Ежедневный рейтинг"
+
+msgid "Date of Award"
+msgstr "Дата награждения"
+
+msgid "Date of catch"
+msgstr "Когда поймана"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete Account"
+msgstr "Удалить аккаунт"
+
+msgid "Deny"
+msgstr "Отклонить"
+
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Нет ответа от pixuniverse. Попробуйте обновить страницу, если проблема не "
+"исчезнет."
+
+msgid "Dimensions"
+msgstr "Размеры"
+
+msgid "Disable Game Sounds"
+msgstr "Отключение звуков игры"
+
+msgid "Disable History Pencil"
+msgstr "Отключить рисование по истории"
+
+msgid "Disable Overlay Pencil"
+msgstr "Отключить рисование по оверлею"
+
+msgid "Disable Pencil"
+msgstr "Отключить непрерывное рисование"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr ""
+"Отображение палитры в компактной форме, занимающей меньше места на экране."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Сделать что-то с IP (один IP на строку)"
+
+msgid "Don't remember"
+msgstr "Не запоминать"
+
+msgid "Don't show me in global stats"
+msgstr "Не отображать меня в глобальной статистике"
+
+msgid "Download Template"
+msgstr "Скачать шаблон"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"Перемещайте ${ mouseSymbol } мышь или ${ touchSymbol } проводите пальцем, "
+"чтобы перемещаться"
+
+msgid "Duration"
+msgstr "Длительность"
+
+msgid "Easter Egg OFF"
+msgstr "Пасхалки выключены"
+
+msgid "Easter Egg ON"
+msgstr "Пасхалки включены"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Email"
+msgstr "Электронный адрес"
+
+msgid "Email can't be empty."
+msgstr "Необходимо указать адрес электронной почты."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Электронная почта не может быть длиннее 40 символов."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+"Почта используется для подтверждения аккаунта. Вы можете получить письмо с "
+"подтверждением после регистрации."
+
+msgid "Email should at least contain a dot"
+msgstr "Электронная почта должна содержать точку"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Электронная почта должна состоять не менее чем из 5 символов."
+
+msgid "Email should contain a @"
+msgstr "Электронная почта должна содержать @"
+
+msgid "Enable Overlay"
+msgstr "Включить оверлей"
+
+msgid "Enable Pencil"
+msgstr "Включить непрерывное рисование"
+
+msgid "Enable chat notifications"
+msgstr "Включить уведомления чата"
+
+msgid "Enter Characters"
+msgstr "Введите символы"
+
+msgid "Enter Reason"
+msgstr "Введите причину"
+
+msgid "Enter UserName of new Mod"
+msgstr "Введите имя пользователя нового модератора"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Введите свой адрес электронной почты, и мы вышлем вам новый пароль:"
+
+msgid "Error"
+msgstr "Ошибка"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Ошибка ${ retCode }"
+
+msgid "Error :("
+msgstr "Ошибка :("
+
+msgid "Expand"
+msgstr "Развернуть"
+
+msgid "Export enabled templates"
+msgstr "Экспортировать включенные шаблоны"
+
+msgid "Factor"
+msgstr "Фактор"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Fish Display"
+msgstr "Галерея рыб"
+
+msgid "For"
+msgstr "За"
+
+msgid "For Developers"
+msgstr "Для разработчиков"
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+"В случае возникновения юридических вопросов, пожалуйста, свяжитесь с $"
+"{ mailLink }. Если вы хотите удалить свои данные, просто удалите свой "
+"аккаунт – это фактически приведет к удалению всех данных, касающихся вашей "
+"конфиденциальности. Ваши размещенные пиксели, конечно же, не будут удалены."
+
+msgid "For one day"
+msgstr "На один день"
+
+msgid "For one month"
+msgstr "На один месяц"
+
+msgid "For one week"
+msgstr "На одну неделю"
+
+msgid "For one year"
+msgstr "На один год"
+
+msgid "For when you are playing on a potato."
+msgstr "Когда вы играете на калькуляторе."
+
+msgid "Forever"
+msgstr "Навсегда"
+
+msgid "From History"
+msgstr "истории"
+
+msgid "From Template"
+msgstr "шаблону"
+
+msgid "Get IID"
+msgstr "Получить IID"
+
+msgid "Get Pixels"
+msgstr "Получить пиксели"
+
+msgid "Get Users"
+msgstr "Получить пользователей"
+
+msgid "Get email address"
+msgstr "Получить адрес электронной почты"
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr "Получить количество размещенных пикселей и рейтинг"
+
+msgid "Globe View"
+msgstr "Просмотр глобуса"
+
+msgid "Go to"
+msgstr "Перейти"
+
+msgid "Grant"
+msgstr "Предоставить"
+
+msgid "Grid OFF"
+msgstr "Сетка выключена"
+
+msgid "Grid ON"
+msgstr "Сетка включена"
+
+msgid "Have fun!"
+msgstr "Развлекайтесь!"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Здесь мы храним эти полотна, чтобы заархивировать их должным образом, "
+"которых на данный момент только одно."
+
+msgid "Hide Embed"
+msgstr "Спрятать вставленное"
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Более высокие уровни увеличения масштаба карты требуют некоторое время для "
+"обновления, 3D глобус обновляется как минимум один раз в день."
+
+msgid "Historical View"
+msgstr "Режим истории"
+
+#, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"Удерживайте левый ${ bindShift } для установки пикселей во время движения "
+"мыши"
+
+msgid "How pixuniverse should look like."
+msgstr "Внешний вид pixuniverse."
+
+msgid "I forgot my Password."
+msgstr "Я забыл мой пароль."
+
+msgid "IID (optional)"
+msgstr "IID (необязательно)"
+
+msgid "IID Actions"
+msgstr "Действия с IID"
+
+msgid "IP Actions"
+msgstr "Действия с IP"
+
+msgid "Identifiers"
+msgstr "Идентификаторы"
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+"Если вас определили как прокси, но вы не используете прокси или вы считаете, "
+"что вас незаслуженно забанили, пожалуйста, перейдите в наш ${ guildedLink } "
+"или отправите нам письмо на ${ mailLink } и, в случае бана, укажите ваш BID, "
+"который вы получили в сообщение о бане."
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+"При общении с модераторами или администраторами вас могут попросить "
+"предоставить один из следующих идентификаторов:"
+
+msgid "Image Converter"
+msgstr "Преобразователь изображений"
+
+msgid "Image Upload"
+msgstr "Загрузить изображение"
+
+msgid "Import templates"
+msgstr "Импортировать шаблоны"
+
+msgid "Interval"
+msgstr "Интервал"
+
+msgid "Interval is invalid"
+msgstr "Недопустимый интервал"
+
+msgid "Invalid Canvas"
+msgstr "Некорректное полотно"
+
+msgid "Invalid Coordinates"
+msgstr "Некорректные координаты"
+
+msgid "Invalid color selected"
+msgstr "Выбран недопустимый цвет"
+
+msgid "Invited to Chat"
+msgstr "Приглашение в чат"
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+"Оно запрашивает следующие разрешения. Снимите галочку с пунктов, которые вы "
+"не хотите предоставлять:"
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+"Мини-модераторы могут откатывать и защищать пиксели, но не просматривать, "
+"кто ставил пиксели или банить игроков."
+
+msgid "Just for registered Users"
+msgstr "Только для зарегистрированных пользователей"
+
+msgid "Just for verified Users"
+msgstr "Только для подтвержденных пользователей"
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Только игроки, попавшие в Топ-10 вчерашнего дня могут рисовать здесь"
+
+msgid "Keep Ratio"
+msgstr "Сохранять пропорции"
+
+msgid "Know that an account exists"
+msgstr "Знать, что аккаунт существует"
+
+msgid "Legal Requests"
+msgstr "Юридические запросы"
+
+msgid "Light Grid"
+msgstr "Светлая сетка"
+
+msgid "Load Captcha"
+msgstr "Загрузить капчу"
+
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Log out"
+msgstr "Выйти"
+
+msgid "Log out a Session:"
+msgstr "Завершить сессию:"
+
+msgid "LogIn"
+msgstr "Войти в аккаунт"
+
+msgid "Login Methods"
+msgstr "Способы входа"
+
+msgid "Login to access more features and stats."
+msgstr "Войдите, чтобы получить доступ к дополнительным функциям и статистике."
+
+msgid "Login to grant access to other application."
+msgstr "Войдите, чтобы дать доступ другому приложению."
+
+msgid "Login to other application"
+msgstr "Вход в другое приложение"
+
+msgid "Login with Name or Mail:"
+msgstr "Войти с помощью ника или почты:"
+
+msgid "Make Screenshot"
+msgstr "Сделать снимок экрана"
+
+msgid "Manage Moderators"
+msgstr "Управление модераторами"
+
+msgid "Map Data"
+msgstr "Картографические данные"
+
+msgid "Maximize"
+msgstr "Увеличить"
+
+msgid "Minimum Color Distance"
+msgstr "Минимальное цветовое расстояние"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+"Модераторы могут использовать все инструменты полотна, смотреть, кто ставил "
+"пиксели и инструменты работы с IID."
+
+msgid "Modtools"
+msgstr "Инструменты модератора"
+
+msgid "Move"
+msgstr "Двигать"
+
+msgid "Mute"
+msgstr "Замьютить"
+
+msgid "Muted Sound"
+msgstr "Звук выключен"
+
+msgid "Name"
+msgstr "Ник"
+
+msgid "Name can't be empty."
+msgstr "Ник не может быть пустым."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Ник содержит недопустимые символы, такие как @, /, \\ или #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Ник должен состоять не менее чем из 2 символов"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Ник должен быть короче 26 символов"
+
+msgid "Name or Email"
+msgstr "Имя или адрес электронной почты"
+
+msgid "New Mail"
+msgstr "Новая почта"
+
+msgid "New Name"
+msgstr "Новый ник"
+
+msgid "New Password"
+msgstr "Новый пароль"
+
+msgid "New Username"
+msgstr "Новое имя пользователя"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No Phish!"
+msgstr "Рыба сорвалась!"
+
+msgid "No captcha id given"
+msgstr "Не указан идентификатор капчи"
+
+msgid "No or invalid captcha text"
+msgstr "Текст капчи отсутствует или неверный"
+
+msgid "No password given."
+msgstr "Пароль не указан."
+
+msgid "Not allowed"
+msgstr "Не разрешено"
+
+msgid "OIDC LogIn"
+msgstr "Вход через OIDC"
+
+msgid "OK"
+msgstr "Ок"
+
+msgid "Offset"
+msgstr "Смещение"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr "О нет, рыба сорвалась. Удачи в следующий раз!"
+
+msgid "Old Password"
+msgstr "Старый пароль"
+
+msgid "Online Users"
+msgstr "Пользователей онлайн"
+
+msgid "Online Users on Canvas"
+msgstr "Пользователей онлайн на полотне"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr "Только подверженные пользователи могут играть сейчас."
+
+msgid "Opacity of Overlay in percent."
+msgstr "Прозрачность оверлея в процентах."
+
+msgid "Open Chat"
+msgstr "Открыть чат"
+
+msgid "Open Menu"
+msgstr "Открыть меню"
+
+msgid "Open Palette"
+msgstr "Открыть палитру"
+
+msgid "Open in PopUp"
+msgstr "Открыть во всплывающем окне"
+
+msgid "OpenID Connect Client registration"
+msgstr "Регистрация клиента OpenID Connect"
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Наше основное полотно - огромная карта мира, вы можете ставить пиксели где "
+"хотите, но вам нужно ждать перезарядку между поставленными пикселями. Вы "
+"можете узнать перезарядку и требования в меню выбора полотен (кнопка с "
+"глобусом сверху). Некоторые полотна имеют разную перезарядку для перекраски "
+"уже поставленных пользователями пикселей и для нетронутых пикселей, "
+"например, 4с/7с значит что 4с для нетронутых пикселей и 7с для уже "
+"поставленных ранее."
+
+msgid "Overlay OFF"
+msgstr "Оверлей выключен"
+
+msgid "Overlay ON"
+msgstr "Оверлей включен"
+
+msgid "Overlay Opacity"
+msgstr "Прозрачность оверлея"
+
+msgid "Palette Download"
+msgstr "Скачать палитру"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Палитра для ${ gimpLink }"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Пароль должен содержать как минимум 6 символов."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Пароль должен быть короче 60 символов."
+
+msgid "Password successfully changed."
+msgstr "Пароль успешно изменен."
+
+msgid "Passwords do not match."
+msgstr "Пароли не совпадают."
+
+#, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Режим непрерывного рисования для полотна: ${ canvasName }"
+
+msgid "Pencil picks: "
+msgstr "Рисование по: "
+
+msgid "Permission"
+msgstr "Разрешение"
+
+msgid "Phish!"
+msgstr "Рыба поймана!"
+
+msgid "Phishes"
+msgstr "Рыбы"
+
+msgid "Ping"
+msgstr "Упомянуть"
+
+msgid "Pixel Notify OFF"
+msgstr "Активность пикселей выключена"
+
+msgid "Pixel Notify ON"
+msgstr "Активность пикселей включена"
+
+msgid "Pixel Protection"
+msgstr "Защита пикселей"
+
+msgid "Pixel protected"
+msgstr "Пиксель защищён"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr "Ставьте цветные пиксели на огромном полотне с другими людьми по сети!"
+
+msgid "Placed Pixels"
+msgstr "Поставленных пикселей"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Воспроизводить звук при поступлении новых сообщений чата"
+
+msgid "Player"
+msgstr "Игрок"
+
+msgid "Players and Pixels per hour"
+msgstr "Игроки и пиксели в час"
+
+msgid "Please prove that you are human"
+msgstr "Подтвердите, что вы человек"
+
+msgid "Please refresh the website"
+msgstr "Пожалуйста, обновите страницу"
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+"Пожалуйста, подтвердите ваш адрес электронной почты или добавьте новый, "
+"иначе ваш аккаунт может быть удален в будущем."
+
+msgid "Political Compass Canvas"
+msgstr "Полотно политического компаса"
+
+msgid "Potato Mode"
+msgstr "Режим калькулятора"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Нажмайте ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight }, "
+"чтобы перемещаться"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Нажмите ${ bindG }, чтобы переключить сетку"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Нажмите ${ bindH }, чтобы переключить режим истории"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Нажимайте ${ bindQ } и ${ bindE }, чтобы перемещаться вверх и вниз"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Нажимайте ${ bindQ } или ${ bindE }, чтобы изменять масштаб"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Нажмите ${ bindR }, чтобы скопировать координаты"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr ""
+"Нажимайте ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD }, чтобы перемещаться"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "Нажмите ${ bindX }, чтобы переключить активность пикселей"
+
+msgid "Private"
+msgstr "Закрытый профиль"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Quick Actions"
+msgstr "Быстрые действия"
+
+msgid "Range Banned"
+msgstr "Область адресов забанена"
+
+msgid "Ranked"
+msgstr "Учитывается в рейтинге"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Рейтинг обновляется каждые 5 минут. Ежедневный рейтинг обновляется в полночь "
+"UTC."
+
+msgid "Read Badges and fishes"
+msgstr "Просматривать значки и рыб"
+
+msgid "Read name, username and account age"
+msgstr "Просматривать ник, имя пользователя и время создания аккаунта"
+
+msgid "Reason"
+msgstr "Причина"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+msgid "Register new account here"
+msgstr "Зарегистрируйте новый аккаунт здесь"
+
+msgid "Regularly update this data"
+msgstr "Регулярно обновлять эти данные"
+
+msgid "Reload"
+msgstr "Обновить"
+
+msgid "Remember this decision: "
+msgstr "Запомнить это решение: "
+
+msgid "Remove"
+msgstr "Убрать"
+
+msgid "Remove Cleaner"
+msgstr "Убрать уборщика"
+
+msgid "Remove Janny"
+msgstr "Убрать мини-модератора"
+
+msgid "Remove Moderator"
+msgstr "Убрать модератора"
+
+msgid "Remove a Login method:"
+msgstr "Убрать способ входа:"
+
+msgid "Require Verification to Place"
+msgstr "Требовать подтвержденный аккаунт для размещения пикселей"
+
+msgid "Requirements"
+msgstr "Требования"
+
+msgid "Reset"
+msgstr "Сброс"
+
+msgid "Reset Captchas of ALL Users"
+msgstr "Сбросить капчу ВСЕХ пользователей"
+
+msgid "Reset your password"
+msgstr "Сбросить ваш пароль"
+
+msgid "Resize"
+msgstr "Изменить размер"
+
+msgid "Restore"
+msgstr "Восстановить"
+
+msgid "Retired Canvases (history only)"
+msgstr "Списанные полотна (только история)"
+
+msgid "Retract"
+msgstr "Свернуть"
+
+msgid "Revoke consent of third party applications:"
+msgstr "Отозвать разрешения у сторонних приложений:"
+
+msgid "Roll different Captcha Fonts"
+msgstr "Выбрать другие шрифты капчи"
+
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "Откатить область полотна до установленной даты и времени"
+
+msgid "Rollback to Date"
+msgstr "Откатить до даты"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Scale Image"
+msgstr "Масштабировать изображение"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Вращайте ${ mouseSymbol } колесо мыши или ${ touchSymbol } сводите пальцы, "
+"чтобы изменять масштаб"
+
+msgid "Select Date above"
+msgstr "Выберите дату выше"
+
+msgid "Select File"
+msgstr "Выбрать файл"
+
+msgid "Select Language"
+msgstr "Выбрать язык"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Выберите полотно, которое хотите использовать.\n"
+"Каждое полотно уникально и имеет разные палитры, время восстановления и "
+"требования.\n"
+"Архивированные полотна доступны здесь:"
+
+msgid "Selected Color"
+msgstr "выбранному цвету"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr "Вам отправлено письмо с инструкциями по сбросу пароля."
+
+msgid "Serpentine"
+msgstr "Серпантин"
+
+msgid "Server answered with gibberish :("
+msgstr "Сервер ответил тарабарщиной :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"Сервер сбит с толку вашими пикселями. Вы играете на нескольких устройствах?"
+
+msgid "Set Password"
+msgstr "Установить пароль"
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Поставить защиту на область (если вам нужен более точный контроль, "
+"используйте защиту вместе с загрузкой изображения и альфа слоями)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+"Установка пароля позволит вам входить по нику или почте, а не только с "
+"помощью сторонних сервисов."
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Show Embedded"
+msgstr "Показать вставленное"
+
+msgid "Show Grid"
+msgstr "Отображение сетки"
+
+msgid "Show Grid in white instead of black."
+msgstr "Отображать сетку белым цветом вместо черного."
+
+msgid "Show Pixel Activity"
+msgstr "Отображение активности пикселей"
+
+msgid "Show circles where pixels are placed."
+msgstr "Показывает круги, где был размещён пиксель."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"Показывать оверлей в виде маленьких отдельных пикселей при высоком уровне "
+"масштабирования."
+
+msgid "Show templates as overlays ingame."
+msgstr "Показывать шаблоны в виде оверлея в игре."
+
+msgid "Size"
+msgstr "Вес"
+
+msgid "Small Pixels When Zoomed"
+msgstr "Оверлей в виде мелких пикселей"
+
+msgid "Social Settings"
+msgstr "Настройки приватности"
+
+msgid "Source for pixuniverse on "
+msgstr "Исходный код pixuniverse на "
+
+msgid "Stacking till"
+msgstr "Запас перезарядки"
+
+msgid "Start chatting here"
+msgstr "Начать общение здесь"
+
+msgid "Start checking for Malware"
+msgstr "Начать проверять на вредоносное ПО"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Status: Not running"
+msgstr "Статус: Не запущено"
+
+msgid "Stay logged in: "
+msgstr "Оставаться в системе: "
+
+msgid "Stop Cleaner"
+msgstr "Остановить очиститель"
+
+msgid "Stop checking for Malware"
+msgstr "Прекратить проверять на вредоносное ПО"
+
+msgid "Stop requiring Verification to Place"
+msgstr "Прекратить требовать подтвержденный аккаунт для размещения пикселей"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "Switch Account"
+msgstr "Сменить аккаунт"
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Переключено на полотно: ${ canvasName }"
+
+msgid "Template Name"
+msgstr "Имя шаблона"
+
+msgid "Templates"
+msgstr "Шаблоны"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+"Приложение ${ appName } по адресу ${ appUrl } хочет войти с помощью вашего "
+"аккаунта pixuniverse ${ accountName }"
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Исходные данные которые мы используем, вместе с преобразованными фрагментами "
+"OpenStreetMap для ориентации, их можно скачать с mega.nz здесь: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+"Имя вашего аккаунта, только символы a-z, A-Z, -, ., и - разрешены. Изменить "
+"его позже будет невозможно."
+
+msgid "Themes"
+msgstr "Темы"
+
+msgid "This URL is not supported by our Media Player"
+msgstr "Этот URL не поддерживается нашим проигрывателем"
+
+msgid "This canvas doesn't exist"
+msgstr "Этого полотна не существует"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Это полотно попросили создать во время политических конфликтов на основном "
+"полотне Земли. Это был политический компас в разрешении 1024x1024 с 5-"
+"секундным временем восстановления и 60-секундным запасом перезарядки. Он был "
+"запущен 11 мая 2020 и оставался активным в течение нескольких месяцев, пока "
+"не был закрыт 30 ноября 2020."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+"Это имя, которое другие пользователи будут видеть, например, в чате. Вы "
+"можете изменить его в любое время. Доступны все символы, кроме @, /, , >, < "
+"и #."
+
+msgid "This permission is required"
+msgstr "Это разрешение необходимо"
+
+msgid "Timeout"
+msgstr "Тайм-аут"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Примечание: I и l являются одинаковыми; регистр символов неважен"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Устали постоянно спамить один единственный цвет? Хотите вместо этого "
+"создавать рисунки, но вам нужно считать пиксели по какому-то другому "
+"изображению? Шаблоны могут помочь вам в этом! Шаблоны могут отображаться как "
+"оверлей и вы можете рисовать поверх него. Один пиксель в шаблоне должен "
+"соответствовать одному пикселю на полотне."
+
+msgid "To use this page, enter your Password:"
+msgstr "Чтобы использовать эту страницу, введите ваш пароль:"
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "Today Placed Pixels"
+msgstr "Поставленных пикселей сегодня"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Топ-10 стран [пикселей/день]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Быть в Топ-10 ежедневного рейтинга"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Топ-10 игроков [пикселей/день]"
+
+msgid "Top 10 Players from Yesterday"
+msgstr "Топ-10 игроков за вчера"
+
+msgid "Top-left corner"
+msgstr "Верхний левый угол"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Total Online Users"
+msgstr "Всего пользователей онлайн"
+
+msgid "Total Pixels per Player"
+msgstr "Всего пикселей размещенных игроками"
+
+msgid "Total Pixels placed per day"
+msgstr "Всего пикселей, размещенных за день"
+
+msgid "Total Rank"
+msgstr "Общий рейтинг"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"Стирает пиксели в области в ноль (НЕ СТОИТ ИСПОЛЬЗОВАТЬ В ОБЛАСТИ, КОТОРАЯ "
+"УЖЕ НЕ ОБНУЛЕНА)"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Включите сетку, чтобы выделить границы пикселей."
+
+msgid "Type of Mod"
+msgstr "Тип модератора"
+
+msgid "Type the characters from the following image:"
+msgstr "Введите символы с изображения:"
+
+msgid "Unblock Users"
+msgstr "Разблокировать пользователей"
+
+msgid "Unknown Captcha Error"
+msgstr "Неизвестная ошибка капчи"
+
+msgid "Unknown Error"
+msgstr "Неизвестная ошибка"
+
+msgid "Unmuted Sound"
+msgstr "Звук включен"
+
+msgid "Until the browser closes"
+msgstr "До закрытия браузера"
+
+msgid "Upload images to canvas"
+msgstr "Загружает изображения на полотно"
+
+msgid "Use our custom cursor"
+msgstr "Используйте наш встроенный курсор"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "User Account"
+msgstr "Аккаунт пользователя"
+
+msgid "User Area"
+msgstr "Зона пользователя"
+
+msgid "User ID and verification level"
+msgstr "ID пользователя и уровень подтверждения"
+
+msgid "User Name"
+msgstr "Имя пользователя"
+
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr "Имя пользователя может содержать только a-z . _ и -"
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr "Имя пользователя может содержать только a-z A-z . _ и -"
+
+msgid "Username can't be empty."
+msgstr "Имя пользователя не может быть пустым."
+
+msgid "Username must be at least 2 characters long"
+msgstr "Имя пользователя должно быть не менее двух символов"
+
+msgid "Username must be shorter than 26 characters"
+msgstr "Имя пользователя должно быть короче 26 символов"
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr "Мы свободное программное обеспечение под лицензией ${ agplLink }, "
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Мы решили заархивировать его в виде таймлапса с кодировкой webm без потерь. "
+"Снимок экрана из таймлапса дает идеальное изображение 1:1 того, каким был "
+"холст в то время."
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Мы очень благодарны художникам, которые предложили свои палитры публике на"
+
+msgid "Weird"
+msgstr "Странно"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr "Как будет идти непрерывное рисование на текущем полотне."
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Хотя мы обычно не удаляем холсты, некоторые из них создаются просто так или "
+"по просьбе пользователей, которым нравится популярный мем. Со временем такие "
+"холсты могут стать скучными и неактивными, и тогда нет причин их хранить – "
+"мы можем принять решение об их удалении."
+
+msgid "Why?"
+msgstr "Почему?"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Wrong Color"
+msgstr "Некорректный цвет"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr "ВЫ МОЖЕТЕ ВЫБРАТЬ ВАШЕ ИМЯ ПОЛЬЗОВАТЕЛЯ ТОЛЬКО ОДИН РАЗ!"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yes, Delete My Account!"
+msgstr "Да, удалить мой аккаунт!"
+
+msgid "Yesterday"
+msgstr "Вчера"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+"Если вы – учитель, и ученик играет в эту игру, хотя она ему не подходит, "
+"пожалуйста, отправьте нам электронное письмо."
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+"Вы забанены. Вы считаете это несправедливым? Ознакомьтесь с ${ helpButton }, "
+"чтобы узнать, как подать апелляцию. И не забудьте указать BID, который вы "
+"можете найти ниже."
+
+msgid "You are currently not allowed to access this game."
+msgstr "В настоящее время вам запрещено иметь доступ к этой игре."
+
+msgid "You are not allowed to play this game right now :("
+msgstr "Сейчас вам нельзя играть в эту игру :("
+
+msgid "You are using a Proxy."
+msgstr "Вы используете прокси."
+
+msgid "You are weird"
+msgstr "Вы странный"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+"Вы можете подключить pixuniverse и использовать аккаунты pixuniverse для "
+"входа через OAuth/OIDC. Подробнее здесь:"
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"Вы пока не можете получить доступ к этому полотну. Вам нужно поставить "
+"больше пикселей"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Вы можете рисовать дальше на pixunivers.fun :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+"Вы поймали рыбу! Это ${ FISH_TYPES[type].name } весом ${ size }кг! В "
+"качестве бонуса, время перезарядки уменьшено."
+
+msgid "You did not consent"
+msgstr "Вы не дали согласие"
+
+msgid "You failed your captcha"
+msgstr "Вы неправильно решили капчу"
+
+msgid "You have new messages in chat"
+msgstr "У вас есть новые сообщения в чате"
+
+msgid "You have no users blocked"
+msgstr "У вас нет заблокированных пользователей"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Вы должны войти в аккаунт, чтобы ставить на этом полотне"
+
+msgid "You made too many requests"
+msgstr "Вы сделали слишком много запросов"
+
+msgid "You must be logged in to chat"
+msgstr "Вы должны быть авторизованы, чтобы общаться в чате"
+
+msgid "You must enter a UserId"
+msgstr "Необходимо указать ID пользователя"
+
+msgid "You must enter a duration"
+msgstr "Необходимо указать продолжительность"
+
+msgid "You must enter a reason"
+msgstr "Необходимо указать причину"
+
+msgid "You must enter a username"
+msgstr "Необходимо указать имя пользователя"
+
+msgid "You must enter an BID"
+msgstr "Необходимо указать BID"
+
+msgid "You must enter an IID"
+msgstr "Необходимо указать IID"
+
+msgid "You must enter an IID or UserId"
+msgstr "Необходимо указать IID или ID пользователя"
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr "Необходимо ввести хотя бы один IID, ID пользователя или BID"
+
+msgid "You took too long, try again."
+msgstr "Слишком долго, попробуйте еще раз."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Ваш браузер не позволяет нам использовать AudioContext для воспроизведения "
+"звуков. У вас есть какая-то функция конфиденциальности, блокирующая "
+"AudioContext?"
+
+msgid "Your Browser looks shady"
+msgstr "Ваш браузер выглядит подозрительно"
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Вашему интернет-провайдеру запрещено играть в эту игру"
+
+msgid "Your ban expires at "
+msgstr "Ваш бан истечет "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+"Вы ещё не указали свое имя пользователя. Имя пользователя требуется для "
+"входа в другие приложения. Вы можете указать его сейчас:"
+
+msgid "Your name is:"
+msgstr "Ваш ник:"
+
+msgid "Your next pixels are ready"
+msgstr "Ваши новые пиксели готовы"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Увеличение масштаба вместо размещения пикселя, когда вы пытаетесь поставить "
+"пиксель и масштаб невелик."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "и ${ canvas.req } поставленных пикселей"
+
+msgid "check compliance here"
+msgstr "проверьте соответствие здесь"
+
+msgid "mentioned you"
+msgstr "упомянул Вас"
+
+msgid "or login with:"
+msgstr "или войдите с помощью:"
+
+msgid "or register here:"
+msgstr "или зарегистрируйтесь здесь:"
+
+msgid "recommended"
+msgstr "рекомендовано"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "попробуйте снова через ${ ti }мин"
+
+msgid "x out of bounds"
+msgstr "х вне границ"
+
+msgid "y out of bounds"
+msgstr "у вне границ"
+
+msgid "z out of bounds"
+msgstr "z вне границ"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr "B"
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "Всплывающее окно"
+
+#~ msgid ""
+#~ " on how to appeal. And don't forget to include the BID you can get below."
+#~ msgstr ""
+#~ " как обжаловать. И не забудьте приложить BID, который можно получить ниже."
+
+#~ msgid "BID"
+#~ msgstr "BID"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Вы в бане. Считаете что это неоправданным? Посмотрите в "
+
+#~ msgid "Registration"
+#~ msgstr "Регистрация"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Я забыл пароль"
+
+#~ msgid " on how to appeal."
+#~ msgstr " как обжаловать бан."
+
+#~ msgid "Unbanned"
+#~ msgstr "Вы больше не в бане"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr ""
+#~ "Теперь, после того как вы увидели это сообщение, вы больше не в бане."
+
+#~ msgid "Source on "
+#~ msgstr "Исходный код на "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Если вы определяетесь как прокси, но это не так, или вы считаете что "
+#~ "попали в бан по ошибке, пожалуйста перейдите в наш ${ guildedLink } или "
+#~ "отправьте нам электронное письмо на ${ mailLink } и добавьте в него "
+#~ "следующий IID:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Присоединяйтесь к нам в Guilded:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Ваше имя: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Изменить имя пользователя"
+
+#~ msgid "Change Mail"
+#~ msgstr "Изменить почту"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Подтвердите свой адрес электронной почты, иначе через несколько дней ваша "
+#~ "учетная запись может быть удалена."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Почта успешно изменена. Мы отправили вам письмо с "
+#~ "подтверждением,             пожалуйста, подтвердите свой новый адрес "
+#~ "электронной почты."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Блокировать все личные сообщения"
+
+#~ msgid "There are no mods"
+#~ msgstr "Модераторов нет"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "Страны по пикселям сегодня"
+
+#~ msgid "Pencil Mode"
+#~ msgstr "Режим непрерывного рисования"
+
+#~ msgid "Pixels placed"
+#~ msgstr "Поставлено пикселей"
+
+#~ msgid "History Pencil ON"
+#~ msgstr "Рисование по истории включено"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "Рисование по оверлею включено"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Удерживайте правый ${ bindShift } для установки пикселей во время "
+#~ "движения мыши в соответствии с историческим видом"
+
+#~ msgid "Right-Shift Auto-Color"
+#~ msgstr "Автовыбор цвета на правый шифт"
+
+#~ msgid "Place pixels from overlay on right-shift, instead of history."
+#~ msgstr ""
+#~ "При нажатии правого шифта ставит пиксели по шаблону, а не по истории."
+
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr "Нет ответа от pixuniverse. Может попробовать обновить страницу?"
+
+#~ msgid "Place more :)"
+#~ msgstr "Ставьте больше :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "Прокси не разрешены :("
+
+#~ msgctxt "keybinds"
+#~ msgid "C"
+#~ msgstr "C"
+
+#~ msgid "Show Hidden Canvases"
+#~ msgstr "Показать скрытые полотна"
+
+#~ msgid "Hide Hidden Canvases"
+#~ msgstr "Спрятать скрытые полотна"
+
+#~ msgid "Coordinates in X_Y format:"
+#~ msgstr "Координаты в формате Х_Y:"
+
+#~ msgid "User online"
+#~ msgstr "Пользователей в сети"
+
+#~ msgid "your IP"
+#~ msgstr "ваш IP"
+
+#~ msgid "Partners:"
+#~ msgstr "Партнёры:"
+
+#~ msgid "You successfully linked your mc account."
+#~ msgstr "Вы успешно связали ваш mc аккаунт."
+
+#~ msgid "You denied."
+#~ msgstr "Вам отказано."
+
+#, javascript-format
+#~ msgid "You requested to link your mc account ${ minecraftname }."
+#~ msgstr "Вы запросили привязать ваш mc аккаунт ${ minecraftname }."
+
+#~ msgid "Accept"
+#~ msgstr "Принять"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Политика конфиденциальности"
+
+#~ msgid "Terms of Service"
+#~ msgstr "Условия использования"
+
+#, javascript-format
+#~ msgid ""
+#~ "This site is protected by reCAPTCHA and the Google ${ reCaptchaPP } and $"
+#~ "{ reCaptchaTOS } apply."
+#~ msgstr ""
+#~ "Этот сайт защищён reCAPTCHA и применяются eё Google ${ reCaptchaPP } и $"
+#~ "{ reCaptchaTOS } ."
+
+#~ msgid ""
+#~ "This site is protected by hCAPTCHA and its ${ hCaptchaPP } and $"
+#~ "{ hCaptchaTOS } apply."
+#~ msgstr ""
+#~ "Этот сайт защищён hCAPTCHA и используется её ${ hCaptchaPP } и $"
+#~ "{ hCaptchaTOS } ."
+
+#~ msgid "I think we experienced some error :("
+#~ msgstr "Я думаю у нас вышла ошибка :("

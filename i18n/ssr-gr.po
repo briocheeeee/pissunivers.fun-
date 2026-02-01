@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: admin@pixunivers.fun\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-11-05 20:44+0000\n"
+"Last-Translator: Extreme Motorsex <em@noreply.pixunivers.fun>\n"
+"Language-Team: Greek <https://translate.gs-os.com/projects/ppfun/server/el/>"
+"\n"
+"Language: gr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14\n"
+
+msgid "1bit"
+msgstr "1bit"
+
+msgid "2bit"
+msgstr "2bit"
+
+msgid "3D Canvas"
+msgstr "3D Canvas"
+
+msgid "A 3D globe of our whole map"
+msgstr "Μια τρισδιάστατη σφαίρα ολόκληρου του χάρτη μας"
+
+msgid ""
+"A canvas for the most active players from the the previous day. Daily "
+"ranking updates at 00:00 UTC."
+msgstr ""
+"Ένας καμβάς για τους πιο δραστήριους παίκτες από την προηγούμενη μέρα. "
+"Καθημερινές ενημερώσεις κατάταξης στις 00:00 UTC."
+
+msgid "Access modtools"
+msgstr "Πρόσβαση σε εργαλεία του χειριστή"
+
+msgid "Add Application"
+msgstr "Βάλε εφαρμογές"
+
+msgid "Add an Application (OIDC Client)"
+msgstr "Βάλε εφαρμογές (OIDC Client)"
+
+msgid "Add new application"
+msgstr "Βάλε μια νέες εφαρμογές"
+
+msgid "An error occured. Please try again later."
+msgstr "Ένα πρόβλημα προέκυψε.παρακαλώ προσπαθήστε ξανά αργότερα."
+
+msgid "Application changed successfully"
+msgstr "Η εφαρμογή αλλάχτηκε με επιτυχία"
+
+msgid "Application deleted"
+msgstr "Η εφαρμογή διαγράφτηκε"
+
+msgid "Application successfully added"
+msgstr "Η εφαρμογή προστέθηκε επιτυχώς"
+
+msgid "Black and White canvas"
+msgstr "Ασπρόμαυρος καμβάς"
+
+msgid "Can not chat while being banned"
+msgstr "Δεν μπορείς να συνομιλήσεις ενώ είσαι αποκλεισμένος"
+
+msgid "Click here"
+msgstr "Κάντε κλικ εδώ"
+
+msgid "Click to Verify"
+msgstr "Κάντε κλικ για επαλήθευση"
+
+msgid "Client Name"
+msgstr "Όνομα πελάτη"
+
+msgid "Confirm New Password"
+msgstr "Επιβεβαιώστε τον καινούριο σας κωδικό"
+
+msgid ""
+"Conquer land on a smaller earth with protected ocean. Shares cooldown with "
+"earth canvas!"
+msgstr ""
+"Κατάκτησε εδάφη σε μια μικρότερη γη με προστατευμένη θάλασσα. Μοιράζετε το "
+"ίδιο cooldown με το earth canvas"
+
+msgid "Consent"
+msgstr "Συγκατάθεση"
+
+msgid "Coronavirus"
+msgstr "Coronavirus"
+
+msgid "Could not close this Session."
+msgstr "Δεν γίνεται να κλειστεί αυτή η συνεδρία."
+
+msgid "Could not find this login method"
+msgstr "Δεν μπορεί να βρεθεί αυτός ο τρόπος εγγραφής"
+
+msgid "Couldn't find this mail in our database"
+msgstr "Δεν ήταν δυνατή η εύρεση αυτού του μηνύματος στη βάση δεδομένων μας"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Delete Application"
+msgstr "Σβήσε εφαρμογή"
+
+msgid "Display name for your OIDC client"
+msgstr "Έκθεσε του όνομα σου για το OIDC Client"
+
+msgid "Double click on globe to go back."
+msgstr "Κάντε διπλό κλικ στο globe για να επιστρέψετε."
+
+msgid "E-Mail already in use."
+msgstr "Email είναι ήδη σε χρήση."
+
+msgid "Earth"
+msgstr "Gh"
+
+msgid "Edit existing applications"
+msgstr "Επεξεργασία υπάρχοντας εφαρμογής"
+
+msgid "Email can't be empty."
+msgstr "Το email δεν μπορεί να είναι κενό."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Το email δεν μπορεί να είναι μεγαλύτερο από 40 χαρακτήρες."
+
+msgid "Email should at least contain a dot"
+msgstr "Το email πρέπει να περιέχει τουλάχιστον μια τελεία"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Το email πρέπει να αποτελείται από τουλάχιστον 5 χαρακτήρες."
+
+msgid "Email should contain a @"
+msgstr "Το email πρέπει να περιέχει ένα @"
+
+msgid "Error"
+msgstr "Πρόβλημα"
+
+msgid "Failed to create a new user :("
+msgstr "Αποτυχία να φτιαχτεί νέος χρήστης :("
+
+#. 'client_secret' is a technical term and should not be translated
+msgid ""
+"Generate a new client_secret. The old secret will become invalid immediately."
+msgstr ""
+
+msgid "Get email address"
+msgstr "Πάρε την διεύθυνση email"
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr "Πάρε το ποσό από pixels που τοποθετήθηκαν και βαθμολογία"
+
+#, fuzzy
+msgid ""
+"Have fun and don't hesitate to contact us if you encounter any problems :)"
+msgstr ""
+"Διασκεδάστε και μη διστάσετε να επικοινωνήσετε μαζί μας αν αντιμετωπίσετε "
+"οποιοδήποτε πρόβλημα :)"
+
+msgid "Hello"
+msgstr "Γεια"
+
+#, javascript-format
+msgid "Hello ${ email }, you can set your new password here:"
+msgstr ""
+
+#, javascript-format
+msgid "Hello ${ name }"
+msgstr "Γεια σας ${ name }"
+
+msgid ""
+"If this was you, please ignore this email. If it wasn't you, please go to <a "
+"href=\"https://pixunivers.fun\">pixunivers.fun</a> and log-out any session "
+"that you are unaware of under \"Login Methods\" in the User Area and change "
+"your password."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you did not request this mail, please just ignore it (the ip that "
+"requested this mail was ${ ip })."
+msgstr ""
+"Εάν δεν ζητήσατε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου, απλώς αγνοήστε το "
+"(η διεύθυνση IP που ζήτησε αυτό το μήνυμα ήταν ${ ip })."
+
+msgid "Incorrect password!"
+msgstr "Λάθος κωδικός!"
+
+msgid "Invalid url :( Please check your mail again."
+msgstr "Μη έγκυρη διεύθυνση url :( Ελέγξτε ξανά το mail σας."
+
+msgid "Just admins can do that"
+msgstr "Μόνο οι διαχειριστές μπορούν να το κάνουν αυτό"
+
+msgid "Know that an account exists"
+msgstr "Ξέροντας αυτός ο λογαριασμός υπάρχει"
+
+#. "scopes" is a technical term and should not be translated
+msgid "List of available scopes"
+msgstr ""
+
+msgid "Loading..."
+msgstr "Φόρτωση.."
+
+msgid "Login from new location on pixuniverse"
+msgstr ""
+
+msgid "Login is required"
+msgstr ""
+
+msgid "Mail is already in use!"
+msgstr ""
+
+msgid "Mail is not configured on the server"
+msgstr "Το mail δεν έχει ρυθμιστεί στον διακομιστή"
+
+msgid "Mail verification"
+msgstr "Επαλήθευση mail"
+
+msgid "Minimap"
+msgstr ""
+
+msgid "Mirror of PixelCanvas"
+msgstr "Καθρέφτης του PixelCanvas"
+
+msgid "Mirror of PixelZone"
+msgstr "Καθρέφτης του PixelZone"
+
+msgid "Moon"
+msgstr "Φεγγάρι"
+
+msgid ""
+"Moon canvas. Safe space for art. No flags or large text (unless part of art) "
+"or art larger than 1.5k x 1.5k pixels."
+msgstr ""
+"Καμβάς φεγγαριού. Ασφαλής χώρος για τέχνη. Χωρίς σημαίες ή μεγάλο κείμενο "
+"(εκτός αν είναι μέρος της τέχνης) ή τέχνη μεγαλύτερη από 1,5k x 1,5k pixel."
+
+msgid "Name already in use."
+msgstr ""
+
+msgid "Name can't be empty."
+msgstr "Το όνομα δεν μπορεί να είναι κενό."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Το όνομα περιέχει μη έγκυρο χαρακτήρα όπως @, /, \\ ή #"
+
+msgid "Name is too long"
+msgstr ""
+
+msgid "Name must be at least 2 characters long"
+msgstr "Το όνομα πρέπει να αποτελείται από τουλάχιστον 2 χαρακτήρες"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Το όνομα πρέπει να είναι μικρότερο από 26 χαρακτήρες"
+
+msgid "Name or Email does not exist!"
+msgstr ""
+
+msgid "New Password"
+msgstr "Νέος Κωδικός"
+
+msgid "No Captcha given"
+msgstr "Δεν δόθηκε αναγνωριστικό captcha"
+
+msgid "No or invalid fish id."
+msgstr ""
+
+msgid "No password given."
+msgstr "Δεν δόθηκε κωδικός πρόσβασης."
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "No redirect_uris given."
+msgstr ""
+
+msgid "No such badge found"
+msgstr ""
+
+msgid "No such fish found"
+msgstr ""
+
+msgid "One redirect URIs per line"
+msgstr ""
+
+msgid "One redirect_uri per line"
+msgstr ""
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Only five redirect_uris are allowed per client"
+msgstr ""
+
+msgid "Only four colors. Same rules as moon!"
+msgstr ""
+
+msgid "OpenID Connect specs"
+msgstr ""
+
+msgid "Or by copying following url:"
+msgstr "Ή αντιγράφοντας την παρακάτω διεύθυνση url:"
+
+msgid "Our main canvas, a huge map of the world. Place anywhere you like!"
+msgstr ""
+"Ο κύριος καμβάς μας, ένας τεράστιος χάρτης του κόσμου. Τοποθετήστε όπου "
+"θέλετε!"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Ο κωδικός θα πρέπει να είναι τουλάχιστον 6 χαρακτήρες."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Ο κωδικός πρόσβασης πρέπει να είναι μικρότερος από 60 χαρακτήρες."
+
+#, fuzzy
+msgid "Password successfully changed."
+msgstr "Ο κωδικός πρόσβασης άλλαξε με επιτυχία."
+
+msgid "Permission"
+msgstr ""
+
+msgid "PixelCanvas"
+msgstr "PixelCanvas"
+
+msgid "pixunivers.fun 3DGlobe"
+msgstr "pixunivers.fun 3DGlobe"
+
+msgid "PixelZone"
+msgstr "PixelZone"
+
+#, javascript-format
+msgid ""
+"pixuniverse fulfills the OpenID Connect (OIDC) specifications. So an "
+"application that supports OIDC could ask for consent and login using "
+"pixuniverse accounts. The required endpoints can be auto-discovered via the $"
+"{ wellKnownUrl } URL."
+msgstr ""
+
+msgid "Place Voxels on a 3D canvas with others."
+msgstr "Τοποθετήστε Voxel σε έναν τρισδιάστατο καμβά μαζί με άλλους."
+
+msgid "Place color pixels on an map styled canvas with other players online"
+msgstr ""
+"Τοποθετήστε έγχρωμα pixel σε έναν μεγάλο καμβά με άλλους παίκτες στο "
+"διαδίκτυο"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid "Please try again."
+msgstr ""
+
+msgid "Please use int channel"
+msgstr "Χρησιμοποιήστε το κανάλι int"
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Redirect URIs"
+msgstr ""
+
+msgid "Regularly update this data"
+msgstr ""
+
+#. 'client_secret' is a technical term and should not be translated
+msgid "Reroll client_secret"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "Επαναφέρετε τον κωδικό πρόσβασης"
+
+msgid "Reset your password here"
+msgstr "Επαναφέρετε τον κωδικό πρόσβασής σας εδώ"
+
+msgid "Server error when deleting user."
+msgstr ""
+
+msgid "Someone logged into your account from a new location, with the IP:"
+msgstr ""
+
+msgid "Space-separated list of available scopes"
+msgstr ""
+
+msgid ""
+"Space-separated list of default scopes, they will be used on requests if no "
+"other scope is given."
+msgstr ""
+
+#. 'scope' is used as a technical term here, do not translate that word
+msgid ""
+"Space-separated list of default scopes, they will be used on requests where "
+"no other scope is given."
+msgstr ""
+
+msgid "Space-separated list of scopes that should be available"
+msgstr ""
+
+#, fuzzy
+msgid "Special canvas to spread awareness of SARS-CoV2 (take the vax)."
+msgstr "Ειδικός καμβάς για τη διάδοση της ευαισθητοποίησης του SARS-CoV2"
+
+msgid "Stop flooding."
+msgstr "Σταματήστε το σπαμ."
+
+msgid "Submit"
+msgstr "Yπέβαλλε"
+
+msgid "Thanks"
+msgstr "Ευχαριστούμε"
+
+msgid "The user owning this badge is private"
+msgstr ""
+
+msgid "The user owning this fish is private"
+msgstr ""
+
+msgid "This application is not allowed to login"
+msgstr ""
+
+msgid "This application redirects to an unallowed page"
+msgstr ""
+
+msgid "This application sent a faulty login request with no redirection"
+msgstr ""
+
+msgid "This application uses a PKCE method we do not support"
+msgstr ""
+
+msgid "This application uses a login method we do not support"
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function below to set a new password. In the future, consider not installing "
+"malware, Thank You."
+msgstr ""
+
+msgid ""
+"This email / password combination got hacked and leaked. To protect this "
+"account, the password has been reset. Please use the \"Forgot my password\" "
+"function on the LogIn page to set a new password. In the future, consider "
+"not installing malware, Thank You."
+msgstr ""
+
+msgid "This email provider is not allowed"
+msgstr "Αυτός ο πάροχος email δεν επιτρέπεται"
+
+msgid "This password-reset link isn't valid anymore :("
+msgstr ""
+"Αυτός ο σύνδεσμος επαναφοράς κωδικού πρόσβασης δεν είναι πλέον έγκυρος :("
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "Too many or too long redirect_uris"
+msgstr ""
+
+msgid "Top10"
+msgstr "Top 10"
+
+msgid "Unknown Captcha Error"
+msgstr "Άγνωστο σφάλμα Captcha"
+
+msgid "Update Application"
+msgstr ""
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User doesn't exist in our database :("
+msgstr "Ο χρήστης δεν υπάρχει στη βάση δεδομένων μας :("
+
+msgid "Username already in use."
+msgstr "Το όνομα χρήστη χρησιμοποιείται ήδη."
+
+msgid "Username can not start with pp_"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+msgid ""
+"We already sent you a mail with instructions. Please wait before requesting "
+"another mail."
+msgstr ""
+"Σας έχουμε ήδη στείλει ένα mail με οδηγίες. Περιμένετε πριν ζητήσετε άλλo "
+"mail."
+
+#, javascript-format
+msgid ""
+"We already sent you a verification mail, you can request another one in $"
+"{ minLeft } minutes."
+msgstr ""
+"Σας έχουμε ήδη στείλει ένα μήνυμα επαλήθευσης, μπορείτε να ζητήσετε ένα άλλο "
+"σε ${ minLeft } λεπτά."
+
+#, fuzzy, javascript-format
+msgid "Welcome ${ name } to pixuniverse, please verify your mail"
+msgstr "Καλώς ορίσατε το ${ name } στο pixuniverse, επαληθεύστε τo mail σας"
+
+msgid "You already chose your username"
+msgstr ""
+
+msgid "You already have that name."
+msgstr ""
+
+msgid "You are already verified."
+msgstr ""
+
+#, javascript-format
+msgid "You are muted for another ${ timeMin } minutes"
+msgstr "Έχετε τεθεί σε σίγαση για άλλα ${ timeMin } λεπτά"
+
+#, javascript-format
+msgid "You are muted for another ${ ttl } seconds"
+msgstr "Βρίσκεστε σε σίγαση για άλλα ${ ttl } δευτερόλεπτα"
+
+msgid "You are not allowed to access this page"
+msgstr "Δεν επιτρέπεται η πρόσβαση σε αυτή τη σελίδα"
+
+msgid "You are not banned"
+msgstr "Δεν είσαι απαγορευμένος"
+
+msgid "You are not logged in"
+msgstr "Δεν είσται συνδεμένοι"
+
+msgid "You are now verified :)"
+msgstr "Είσαι πλέον επαληθευμένος :)"
+
+#, fuzzy
+msgid "You are permanently muted, join our guilded to appeal the mute"
+msgstr ""
+"Βρίσκεστε σε μόνιμη σίγαση, εγγραφείτε στο guilded μας για να υποβάλετε "
+"έκκληση για τη σίγαση"
+
+#, javascript-format
+msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
+msgstr "Στέλνετε μηνύματα πολύ γρήγορα, πρέπει να περιμένετε ${ waitTime }s :("
+
+msgid ""
+"You can not delete this login method, because you have nothing else left."
+msgstr ""
+
+msgid "You can not register an account while you are banned"
+msgstr ""
+
+msgid "You can not register an account with a proxy"
+msgstr ""
+
+#, fuzzy
+msgid "You can not send chat messages while using a proxy"
+msgstr "Δεν μπορείτε να στείλετε μηνύματα συνομιλίας με proxy"
+
+msgid ""
+"You can register your own application here to get the client_id and "
+"client_secret needed to make use of this."
+msgstr ""
+
+msgid "You can't send a message this long :("
+msgstr "Δεν μπορείς να στείλεις τόσο μεγάλο μήνυμα :("
+
+msgid ""
+"You do not have any email adress set. Please add one under \"Login Methods\"."
+msgstr ""
+
+msgid "You don't have access to this channel"
+msgstr "Δεν έχετε πρόσβαση σε αυτό το κανάλι"
+
+msgid "You failed your captcha"
+msgstr "Απέτυχες το captcha σου"
+
+msgid "You forgot your password for pixuniverse? Get a new one here"
+msgstr ""
+"Ξεχάσατε τον κωδικό πρόσβασής σας για το pixuniverse; Αποκτήστε ένα νέο εδώ"
+
+msgid "You have to fill out all fields"
+msgstr ""
+
+msgid "You must be logged in to access this page"
+msgstr ""
+
+#. "scope" is a technical term and should not be translated
+msgid "You need to define a valid scope"
+msgstr ""
+
+msgid "You need to directly access this page in the browser :("
+msgstr ""
+
+msgid ""
+"You requested to get a new password. You can change your password within the "
+"next 30min here: "
+msgstr ""
+"Ζητήσατε να λάβετε νέο κωδικό πρόσβασης. Μπορείτε να αλλάξετε τον κωδικό "
+"πρόσβασής σας μέσα στα επόμενα 30 λεπτά εδώ: "
+
+msgid "You sent an empty password or invalid data :("
+msgstr "Στείλατε έναν κενό κωδικό πρόσβασης ή μη έγκυρα δεδομένα :("
+
+msgid "You took too long, try again"
+msgstr ""
+
+msgid "You will be automatically redirected after 15s"
+msgstr "Θα ανακατευθυνθείτε αυτόματα μετά από 15 δευτερόλεπτα"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your account needs to be verified to access this page"
+msgstr ""
+
+msgid "Your country is temporary muted from this chat channel"
+msgstr ""
+"Η χώρα σας έχει τεθεί προσωρινά σε σίγαση από αυτό το κανάλι συνομιλίας"
+
+msgid "Your mail has to be verified in order to chat"
+msgstr "Το mail σας πρέπει να επαληθευτεί για να συνομιλήσετε"
+
+msgid ""
+"Your mail verification code is invalid or already expired :(, please request "
+"a new one."
+msgstr ""
+"Ο κωδικός επαλήθευσης της αλληλογραφίας σας δεν είναι έγκυρος ή έχει ήδη "
+"λήξει :(, ζητήστε νέο."
+
+msgid "Your passwords do not match :("
+msgstr "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
+
+#. "redirect_uris" is a technical term and should not be translated
+msgid "redirect_uris does not look legit"
+msgstr ""
+
+msgid "to go back to pixuniverse"
+msgstr "για να επιστρέψετε στο pixuniverse"
+
+msgid ""
+"welcome to our little community of pixelplacers, to use your account, you "
+"have to verify your mail. You can do that here: "
+msgstr ""
+"καλώς ήρθατε στη μικρή μας κοινότητα των pixelplacers, για να "
+"χρησιμοποιήσετε τον λογαριασμό σας, πρέπει να επαληθεύσετε την αλληλογραφία "
+"σας. Μπορείτε να το κάνετε εδώ: "
+
+#~ msgid ""
+#~ "Generate a new client secret. The old secret will become invalid "
+#~ "immediately."
+#~ msgstr "Κάνε νέο πελάτη σε μυστικό. Ο παλιός θα γίνει άκυρος αμέσως."
+
+#~ msgid "You are banned"
+#~ msgstr "Είστε απαγορευμένοι"
+
+#~ msgid "Your Internet Provider is banned"
+#~ msgstr "Ο πάροχος Διαδικτύου σας έχει απαγορευτεί"
+
+#~ msgid "ppfun"
+#~ msgstr "ppfun"
+
+#~ msgid "pixunivers.fun PopUp"
+#~ msgstr "pixunivers.fun PopUp"
+
+#~ msgid "pixunivers.fun"
+#~ msgstr "pixunivers.fun"
+
+#~ msgid "pixunivers.fun Password Reset"
+#~ msgstr "pixunivers.fun Επαναφορά κωδικού πρόσβασης"
+
+#, javascript-format
+#~ msgid "Hello ${ name }, you can set your new password here:"
+#~ msgstr ""
+#~ "Γεια σας ${ name }, μπορείτε να ορίσετε τον νέο σας κωδικό πρόσβασης εδώ:"
+
+#~ msgid "You took too long, try again."
+#~ msgstr "Χρειάστηκε πολύς χρόνος, δοκιμάστε ξανά."
+
+#~ msgid "Failed to create new user :("
+#~ msgstr "Αποτυχία δημιουργίας νέου χρήστη :("
+
+#~ msgid "Failed to establish session after register :("
+#~ msgstr "Απέτυχε η δημιουργία συνεδρίας μετά την εγγραφή :("
+
+#~ msgid "You are not even logged in."
+#~ msgstr "Δεν είστε καν συνδεδεμένος."
+
+#~ msgid "Server error when logging out."
+#~ msgstr "Σφάλμα διακομιστή κατά την αποσύνδεση."
+
+#~ msgid "You are not authenticated."
+#~ msgstr "Δεν έχετε πιστοποιηθεί."
+
+#~ msgid "pixunivers.fun Accounts"
+#~ msgstr "Λογαριασμοί pixunivers.fun"
+
+#, javascript-format
+#~ msgid "Or ${ clickHere } to go back to pixuniverse"
+#~ msgstr "Ή ${ clickHere } για να επιστρέψετε στο pixuniverse"

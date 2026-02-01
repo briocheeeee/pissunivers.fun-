@@ -1,0 +1,1844 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid " which is in "
+msgstr " welke is in "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } Houd de linkermuisknop ingedrukt en sleep de muis om te "
+"draaien"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Klik met de linkermuisknop of ${ touchSymbol } tik om een "
+"pixel te plaatsen"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr ""
+"${ mouseSymbol } Klik met de rechtermuisknop en sleep de muis om te bewegen"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } Klik met de rechtermuisknop of ${ touchSymbol } dubbeltik "
+"om een pixel te verwijderen"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Scrol muiswiel of houd ${ mouseSymbol } middelste muisknop "
+"ingedrukt en sleep om te zoomen"
+
+msgid "(0 = infinite)"
+msgstr "(0 = onbeperkt)"
+
+msgid "+last hour"
+msgstr ""
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Er wordt een nieuwe verificatiemail naar u verzonden."
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Raster toevoegen (uitvinken als u een 1:1-sjabloon nodig heeft)"
+
+#, fuzzy
+msgid "Add Template"
+msgstr "Sjabloon downloaden"
+
+msgid "Admintools"
+msgstr ""
+
+msgid "All sound effects will be disabled."
+msgstr "Alle geluidseffecten worden uitgeschakeld."
+
+msgid "Always show Movement Controls"
+msgstr ""
+
+msgid "Always show movement control buttons"
+msgstr ""
+
+msgid "Anti Aliasing"
+msgstr "Anti-aliasing"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Pas een filter toe om afval in grote canvasgebieden op te ruimen."
+
+msgid "Archive"
+msgstr "Archief"
+
+msgid "Assign new Mod"
+msgstr "Wijs nieuwe mod"
+
+msgid "Auto Zoom In"
+msgstr "Automatisch inzoomen"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Gebanned"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Gebanned? Gedetecteerd als proxy?"
+
+msgid "Block"
+msgstr "Blokkeren"
+
+msgid "Block DMs"
+msgstr "DM’s blokkeren"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Hoek rechtsonder"
+
+msgid "Build image and set it to protected."
+msgstr "Maak een afbeelding en stel deze in op beschermd."
+
+msgid "Build image on canvas."
+msgstr "Afbeelding op canvas bouwen."
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr "Afbeelding bouwen, maar cooldown resetten naar unset-pixel cd."
+
+msgid "By Mod"
+msgstr "Door moderatie"
+
+msgid "Calculate like GIMP"
+msgstr "Bereken zoals GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr ""
+
+msgid "Can not import more than 20 or no template!"
+msgstr ""
+
+msgid "Can't read? Reload:"
+msgstr "Kan je niet lezen? Opnieuw laden:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "Kan 3D-canvas niet weergeven, heeft u WebGL2 uitgeschakeld?"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+#, fuzzy
+msgid "Cancel adding Template"
+msgstr "Sjabloon downloaden"
+
+msgid "Canvas"
+msgstr "Canvas"
+
+msgid "Canvas Archive"
+msgstr "Canvas archief"
+
+msgid "Canvas Cleaner"
+msgstr "Canvasreiniger"
+
+msgid "Canvas Error"
+msgstr "Canvas-fout"
+
+msgid "Canvas Selection"
+msgstr "Canvas Selectie"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "Gebruikersnaam wijzigen"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Verander wachtwoord"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Kanaal instellingen"
+
+msgid "Charts"
+msgstr "Grafieken"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "Chat here"
+msgstr "Chat hier"
+
+msgid "Check out past versions of the canvas."
+msgstr "Bekijk eerdere versies van het canvas."
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Controleer wie in een gebied heeft geplaatst"
+
+msgid "Choose Canvas"
+msgstr "Kies Canvas"
+
+msgid "Choose Color Mode"
+msgstr "Kies Kleurmodus"
+
+msgid "Choose Strategy"
+msgstr "Kies strategie"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Maak reservepixels schoon die zijn omgeven door een enkele andere kleur of "
+"niet-ingestelde pixels (ZEER AGRESSIEF OP CANVASSEN DIE ONGESETTE PIXELS "
+"TOESTAAN (waar er twee cooldowns zijn)!)"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Reinig reservepixels die worden omgeven door niet-ingestelde pixels"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Reinig reservepixels die worden omringd door niet-ingestelde pixels en "
+"maximaal 1 andere ingestelde pixels"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Klik met de middelste muisknop op ${ mouseSymbol } of tik lang op $"
+"{ touchSymbol } om de huidige zwevende kleur te selecteren"
+
+msgid "Click a color in palette to select it"
+msgstr "Klik op een kleur in het palet om deze te selecteren"
+
+msgid "Click here to request a new verification mail."
+msgstr "Klik hier om een nieuwe verificatiemail aan te vragen."
+
+msgid "Click to Load Captcha"
+msgstr "Klik om Captcha te laden"
+
+msgid "Clone"
+msgstr "Kloon"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Close Chat"
+msgstr "Chat sluiten"
+
+msgid "Close Menu"
+msgstr "Menu sluiten"
+
+msgid "Close Palette"
+msgstr "Palet sluiten"
+
+msgid "Compact Palette"
+msgstr "Compact palet"
+
+msgid "Confirm New Password"
+msgstr "Bevestig nieuw wachtwoord"
+
+msgid "Confirm Password"
+msgstr "Bevestig wachtwoord"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Verbindingsfout ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Bedieningen"
+
+msgid "Convert an image to canvas colors"
+msgstr "Convert an image to canvas colors"
+
+msgid "Converter"
+msgstr "Converter"
+
+msgid "Cooldown"
+msgstr "Cooldown"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+#, fuzzy
+msgid "Coordinates"
+msgstr "Ongeldige coördinaten"
+
+#, fuzzy
+msgid "Coordinates:"
+msgstr "Ongeldige coördinaten"
+
+#, fuzzy
+msgid "Copied"
+msgstr "Gekopiëerd!"
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Kopieer naar klembord"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Kan geen verbinding maken met de server, probeer het later opnieuw :("
+
+msgid "Could not load captcha"
+msgstr "Kan captcha niet laden"
+
+msgid "Couldn't set Pixel"
+msgstr "Kan Pixel niet instellen"
+
+msgid "Countries Today"
+msgstr "Landen vandaag"
+
+msgid "Country"
+msgstr "Land"
+
+#, fuzzy, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "Credit voor het palet van het Top10-canvas gaat naar ${ donendoLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Credit voor het palet van de maan gaat naar ${ starhouseLink }."
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Credit voor het palet van het Top10-canvas gaat naar ${ vinikLink }."
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr ""
+
+msgid "DM"
+msgstr "DM"
+
+#, fuzzy
+msgid "Daily Pixels per Country"
+msgstr "Spelers en pixels per uur"
+
+#, fuzzy
+msgid "Daily Pixels per Player"
+msgstr "Totaal aantal geplaatste pixels per dag"
+
+msgid "Daily Rank"
+msgstr "Dagelijkse rangorde"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+#, fuzzy
+msgid "Delete"
+msgstr "Account verwijderen"
+
+msgid "Delete Account"
+msgstr "Account verwijderen"
+
+msgid "Deny"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"Geen antwoord gekregen van pixuniverse. Misschien proberen te vernieuwen als "
+"het probleem zich blijft voordoen?"
+
+msgid "Dimensions"
+msgstr "Dimensies"
+
+msgid "Disable Game Sounds"
+msgstr "Schakel spelgeluiden uit"
+
+msgid "Disable History Pencil"
+msgstr ""
+
+msgid "Disable Overlay Pencil"
+msgstr ""
+
+#, fuzzy
+msgid "Disable Pencil"
+msgstr "Schakel spelgeluiden uit"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr ""
+"Geef Palette weer in een compacte vorm die minder schermruimte in beslag "
+"neemt."
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Dingen doen met IP’s (één IP per lijn)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "Laat me niet zien in wereldwijde statistieken"
+
+msgid "Download Template"
+msgstr "Sjabloon downloaden"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr "Sleep ${ mouseSymbol } muis of ${ touchSymbol } pan om te verplaatsen"
+
+msgid "Duration"
+msgstr "Duur"
+
+msgid "Easter Egg OFF"
+msgstr ""
+
+msgid "Easter Egg ON"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email can't be empty."
+msgstr "E-mail mag niet leeg zijn."
+
+msgid "Email can't be longer than 40 characters."
+msgstr "E-mail mag niet langer zijn dan 40 tekens."
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "E-mail moet op zijn minst een punt bevatten"
+
+msgid "Email should be at least 5 characters long."
+msgstr "E-mail moet minimaal 5 tekens lang zijn."
+
+msgid "Email should contain a @"
+msgstr "E-mail moet een @ bevatten"
+
+msgid "Enable Overlay"
+msgstr ""
+
+msgid "Enable Pencil"
+msgstr ""
+
+msgid "Enable chat notifications"
+msgstr "Schakel chatmeldingen in"
+
+msgid "Enter Characters"
+msgstr "Voer tekens in"
+
+msgid "Enter Reason"
+msgstr "Voer reden in"
+
+msgid "Enter UserName of new Mod"
+msgstr "Voer de gebruikersnaam van de nieuwe mod in"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr "Vul je e-mailadres in en we sturen je een nieuw wachtwoord:"
+
+msgid "Error"
+msgstr "Fout"
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Fout ${ retCode }"
+
+msgid "Error :("
+msgstr "Fout :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr ""
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Voor als je op een aardappel speelt."
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr ""
+
+#, fuzzy
+msgid "From Template"
+msgstr "Sjabloon downloaden"
+
+msgid "Get IID"
+msgstr "Krijg IID"
+
+msgid "Get Pixels"
+msgstr "Krijg Pixels"
+
+msgid "Get Users"
+msgstr "Krijg gebruikers"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Wereldbol bekijken"
+
+msgid "Go to"
+msgstr ""
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Raster UIT"
+
+msgid "Grid ON"
+msgstr "Raster AAN"
+
+msgid "Have fun!"
+msgstr "Veel plezier!"
+
+msgid "Height"
+msgstr "Hoogte"
+
+msgid "Help"
+msgstr "Hulp"
+
+#, fuzzy
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Hier verzamelen we die doeken om ze op de juiste manier te archiveren "
+"(momenteel slechts één)."
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Hogere zoomniveaus hebben enige tijd nodig om te updaten, de 3D-wereldbol "
+"wordt minstens één keer per dag bijgewerkt."
+
+msgid "Historical View"
+msgstr "Geschiedenis weergeven"
+
+#, fuzzy, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"Houd de linker ${ bindShift } ingedrukt om te plaatsen terwijl je de muis "
+"beweegt"
+
+msgid "How pixuniverse should look like."
+msgstr "Hoe pixuniverse eruit zou moeten zien."
+
+msgid "I forgot my Password."
+msgstr "Ik ben mijn wachtwoord vergeten."
+
+msgid "IID (optional)"
+msgstr "IID (optioneel)"
+
+msgid "IID Actions"
+msgstr "IID-acties"
+
+msgid "IP Actions"
+msgstr "IP-acties"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Beeldconverter"
+
+msgid "Image Upload"
+msgstr "Afbeelding uploaden"
+
+msgid "Import templates"
+msgstr ""
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Interval is invalid"
+msgstr "Interval is ongeldig"
+
+msgid "Invalid Canvas"
+msgstr "Ongeldig canvas"
+
+msgid "Invalid Coordinates"
+msgstr "Ongeldige coördinaten"
+
+msgid "Invalid color selected"
+msgstr "Ongeldige kleur geselecteerd"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Alleen voor geregistreerde gebruikers"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Alleen de Top10 van gisteren kan hier geplaatst worden"
+
+msgid "Keep Ratio"
+msgstr "Verhouding behouden"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Lichte raster"
+
+msgid "Load Captcha"
+msgstr "Captcha laden"
+
+msgid "Loading"
+msgstr "Laden"
+
+msgid "Loading..."
+msgstr "Laden…"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Log in"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr "Log in om toegang te krijgen tot meer functies en statistieken."
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Inloggen met naam of mail:"
+
+msgid "Make Screenshot"
+msgstr "Screenshot maken"
+
+msgid "Manage Moderators"
+msgstr "Beheer moderatoren"
+
+msgid "Map Data"
+msgstr "Kaartgegevens"
+
+msgid "Maximize"
+msgstr "Maximaliseren"
+
+msgid "Minimum Color Distance"
+msgstr "Minimale kleurafstand"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Modtools"
+
+msgid "Move"
+msgstr "Verplaatsen"
+
+msgid "Mute"
+msgstr "Dempen"
+
+msgid "Muted Sound"
+msgstr "Gedempt geluid"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Name can't be empty."
+msgstr "Naam mag niet leeg zijn."
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Naam bevat ongeldige tekens zoals @, /, \\ of #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "De naam moet minimaal 2 tekens lang zijn"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "De naam moet korter zijn dan 26 tekens"
+
+msgid "Name or Email"
+msgstr "Naam of e-mail"
+
+msgid "New Mail"
+msgstr "Nieuwe post"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Nieuw wachtwoord"
+
+msgid "New Username"
+msgstr "Nieuwe gebruikersnaam"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Geen captcha-ID opgegeven"
+
+msgid "No or invalid captcha text"
+msgstr "Geen of ongeldige captcha-tekst"
+
+msgid "No password given."
+msgstr "Geen wachtwoord gegeven."
+
+msgid "Not allowed"
+msgstr "Niet toegestaan"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "Oké"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Oud wachtwoord"
+
+msgid "Online Users"
+msgstr "Online gebruikers"
+
+msgid "Online Users on Canvas"
+msgstr "Online gebruikers op Canvas"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr ""
+
+msgid "Open Chat"
+msgstr "Chat openen"
+
+msgid "Open Menu"
+msgstr "Menu openen"
+
+msgid "Open Palette"
+msgstr "Palet openen"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Onze hoofdcanvas is een enorme wereldkaart, die je kunt plaatsen waar je "
+"maar wilt, maar je zult een specifieke cooldown tussen pixels moeten "
+"wachten. Je kunt de afkoelperiode en vereisten bekijken in het menu "
+"Canvasselectie (wereldbolknop bovenaan). Sommige canvassen hebben een andere "
+"cooldown voor het vervangen van door de gebruiker ingestelde pixels dan voor "
+"het plaatsen op een niet-ingestelde pixel. d.w.z. 4s/7s betekent 4s op verse "
+"pixels en 7s op reeds ingestelde pixels."
+
+msgid "Overlay OFF"
+msgstr ""
+
+msgid "Overlay ON"
+msgstr ""
+
+msgid "Overlay Opacity"
+msgstr ""
+
+msgid "Palette Download"
+msgstr "Palet downloaden"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Palet voor ${ gimpLink }"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Het wachtwoord moet op zijn minst 6 tekens lang zijn."
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Wachtwoord moet korter zijn dan 60 tekens."
+
+#, fuzzy
+msgid "Password successfully changed."
+msgstr "Wachtwoord succesvol gewijzigd."
+
+msgid "Passwords do not match."
+msgstr "Wachtwoorden komen niet overeen."
+
+#, fuzzy, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Overgeschakeld naar ${ canvasName }"
+
+msgid "Pencil picks: "
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Ping"
+
+msgid "Pixel Notify OFF"
+msgstr "Pixelmelding UIT"
+
+msgid "Pixel Notify ON"
+msgstr "Pixelmelding AAN"
+
+msgid "Pixel Protection"
+msgstr "Pixelbescherming"
+
+#, fuzzy
+msgid "Pixel protected"
+msgstr "Pixel beschermd!"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr ""
+"Plaats kleurpixels op een groot canvas samen met andere spelers online!"
+
+msgid "Placed Pixels"
+msgstr "Geplaatste pixels"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr "Speel een geluid af wanneer er nieuwe chatberichten binnenkomen"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "Spelers en pixels per uur"
+
+msgid "Please prove that you are human"
+msgstr "Bewijs alsjeblieft dat je een mens bent"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Politiek kompas canvas"
+
+msgid "Potato Mode"
+msgstr "Aardappel modus"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Druk op ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } om te "
+"bewegen"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Druk op ${ bindG } om van raster te wisselen"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Druk op ${ bindH } om de geschiedenis weergave te wisselen"
+
+#, fuzzy, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Druk op ${ bindQ } en ${ bindE } om op en neer te vliegen"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Druk op ${ bindQ } of ${ bindE } om in te zoomen"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Druk op ${ bindR } om coördinaten te kopiëren"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr "Druk op ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } om te bewegen"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr ""
+"Druk op ${ bindX } om de weergave van pixelactiviteit in of uit te schakelen"
+
+msgid "Private"
+msgstr "Privé"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Range gebaande"
+
+msgid "Ranked"
+msgstr "Geclassificeerd"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Rangschikking wordt elke 5 minuten bijgewerkt. Dagelijkse ranglijsten worden "
+"gereset om middernacht UTC."
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Reden"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "Registreer"
+
+msgid "Register new account here"
+msgstr "Registreer hier een nieuw account"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Opnieuw laden"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Moderator verwijderen"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Vereisten"
+
+msgid "Reset"
+msgstr "Resetten"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Schalen"
+
+msgid "Restore"
+msgstr "Herstellen"
+
+msgid "Retired Canvases (history only)"
+msgstr ""
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+#, fuzzy
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr ""
+"Een gebied van het canvas terugdraaien naar een ingestelde datum (00:00 UTC)"
+
+msgid "Rollback to Date"
+msgstr "Terugdraaien naar datum"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Scale Image"
+msgstr "Afbeelding schalen"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Scroll ${ mouseSymbol } muiswiel of ${ touchSymbol } knijp om te zoomen"
+
+msgid "Select Date above"
+msgstr "Datum selecteren hierboven"
+
+#, fuzzy
+msgid "Select File"
+msgstr "Selecteer Taal"
+
+msgid "Select Language"
+msgstr "Selecteer Taal"
+
+#, fuzzy
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Selecteer het canvas dat je wilt gebruiken. Elk canvas is uniek en heeft "
+"verschillende paletten, cooldowns en vereisten. Archief van gesloten doeken "
+"is hier toegankelijk:"
+
+#, fuzzy
+msgid "Selected Color"
+msgstr "Selecteer Taal"
+
+msgid "Send"
+msgstr "Versturen"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"Ik heb je een mail gestuurd met instructies om je wachtwoord opnieuw in te "
+"stellen."
+
+msgid "Serpentine"
+msgstr "Serpentijn"
+
+msgid "Server answered with gibberish :("
+msgstr "Server antwoordde met gebrabbel :("
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr ""
+"Server raakte in de war door je pixels. Speel je op meerdere apparaten?"
+
+msgid "Set Password"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Bescherming van gebieden instellen (als u een fijnmazigere controle nodig "
+"heeft, gebruik dan beveiligen met uploaden van afbeeldingen en alfalagen)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Raster tonen"
+
+msgid "Show Grid in white instead of black."
+msgstr "Toon raster in wit in plaats van zwart."
+
+msgid "Show Pixel Activity"
+msgstr "Pixelactiviteit weergeven"
+
+msgid "Show circles where pixels are placed."
+msgstr "Toon cirkels waar pixels zijn geplaatst."
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+
+msgid "Show templates as overlays ingame."
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr ""
+
+msgid "Social Settings"
+msgstr "Sociale instellingen"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "Stapelen tot"
+
+msgid "Start chatting here"
+msgstr "Begin hier met chatten"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Statistieken"
+
+msgid "Status: Not running"
+msgstr "Status: niet actief"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Stoppen met reiniger"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Indienen"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Overgeschakeld naar ${ canvasName }"
+
+msgid "Template Name"
+msgstr ""
+
+#, fuzzy
+msgid "Templates"
+msgstr "Sjabloon downloaden"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"De kale kaartgegevens die we gebruiken, samen met geconverteerde "
+"OpenStreetMap-tegels voor oriëntatie, kunnen hier van mega.nz worden "
+"gedownload: "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Thema’s"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "Dit canvas bestaat niet"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Dit canvas werd aangevraagd tijdens een tijd van politieke conflicten op het "
+"belangrijkste Earth-canvas. Het was een weergave van 1024 x 1024 van het "
+"politieke kompas met een cooldown van 5 seconden en stapelen van 60 "
+"seconden. Het werd gelanceerd op 11 mei en bleef maandenlang actief totdat "
+"het op 30 november werd stopgezet."
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Time-out"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Tip: niet hoofdlettergevoelig; I en l hetzelfde"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Vandaag"
+
+#, fuzzy
+msgid "Today Placed Pixels"
+msgstr "Vandaag geplaatste pixels"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Top 10 landen [pixels / dag]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Top 10 Daily Ranking"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Top 10 spelers [pixels / dag]"
+
+#, fuzzy
+msgid "Top 10 Players from Yesterday"
+msgstr "Top 10 spelers [pixels / dag]"
+
+msgid "Top-left corner"
+msgstr "Hoek linksboven"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Total Online Users"
+msgstr "Totaal aantal online gebruikers"
+
+#, fuzzy
+msgid "Total Pixels per Player"
+msgstr "Totaal aantal geplaatste pixels per dag"
+
+msgid "Total Pixels placed per day"
+msgstr "Totaal aantal geplaatste pixels per dag"
+
+msgid "Total Rank"
+msgstr "Totale rang"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Schakel raster in om pixelraster te markeren."
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Typ de tekens uit de volgende afbeelding:"
+
+msgid "Unblock Users"
+msgstr "Deblokkeer gebruikers"
+
+msgid "Unknown Captcha Error"
+msgstr "Onbekende Captcha-fout"
+
+msgid "Unknown Error"
+msgstr "Onbekende fout"
+
+msgid "Unmuted Sound"
+msgstr "Ongedempt geluid"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Upload afbeeldingen naar canvas"
+
+msgid "Use our custom cursor"
+msgstr ""
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "User Account"
+msgstr "Gebruikers account"
+
+msgid "User Area"
+msgstr "Gebruikersgebied"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"We hebben besloten om het te archiveren als een timelapse met lossless "
+"gecodeerd webm. Het maken van een screenshot van de timelapse resulteert in "
+"een perfecte 1:1 weergave van hoe het canvas op dat moment was."
+
+#, fuzzy
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Wij danken die kunstenaars hartelijk, zij boden hun paletten aan het publiek "
+"aan"
+
+msgid "Weird"
+msgstr "Vreemd"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Hoewel we de neiging hebben canvassen niet te verwijderen, worden sommige "
+"canvassen voor de fun gestart of op verzoek van gebruikers die momenteel van "
+"een meme houden. Die doeken kunnen na een tijdje en na weken zonder grote "
+"verandering gaan vervelen en als ze het echt niet waard zijn om actief te "
+"blijven, besluiten we ze te verwijderen."
+
+msgid "Why?"
+msgstr "Waarom?"
+
+msgid "Width"
+msgstr "Breedte"
+
+msgid "Wrong Color"
+msgstr "Verkeerde kleur"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes, Delete My Account!"
+msgstr "Ja, verwijder mijn account!"
+
+msgid "Yesterday"
+msgstr "Gisteren"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "U gebruikt een proxy."
+
+msgid "You are weird"
+msgstr "Jij bent raar"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+#, fuzzy
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr "Je hebt nog geen toegang tot dit canvas. Je moet meer pixels plaatsen"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Je kunt nu meer plaatsen op pixunivers.fun :)"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Je captcha is mislukt"
+
+msgid "You have new messages in chat"
+msgstr "Je hebt nieuwe berichten in de chat"
+
+msgid "You have no users blocked"
+msgstr "U heeft geen geblokkeerde gebruikers"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Je moet ingelogd zijn om op dit canvas te kunnen plaatsen"
+
+msgid "You made too many requests"
+msgstr "Je hebt te veel verzoeken gedaan"
+
+msgid "You must be logged in to chat"
+msgstr "Je moet ingelogd zijn om te chatten"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "U moet een duur invoeren"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "U moet een IID invoeren"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Het duurde te lang, probeer het opnieuw."
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Uw browser staat ons niet toe om AudioContext te gebruiken om geluiden af te "
+"spelen. Heeft u een privacyfunctie die ons blokkeert?"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+#, fuzzy
+msgid "Your Internet Provider is banned from this game"
+msgstr "Je internetprovider mag dit spel niet spelen"
+
+msgid "Your ban expires at "
+msgstr "Je ban loopt af om "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Je volgende pixels zijn klaar"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Inzoomen in plaats van een pixel te plaatsen wanneer u op het canvas tikt en "
+"uw zoomlens klein is."
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "en ${ canvas.req } Pixels ingesteld"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "heeft je naam genoemd"
+
+msgid "or login with:"
+msgstr "of log in met:"
+
+msgid "or register here:"
+msgstr "of registreer hier:"
+
+msgid "recommended"
+msgstr "aanbevolen"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "probeer het na ${ ti }minuten nog eens"
+
+msgid "x out of bounds"
+msgstr "x buiten de baan"
+
+msgid "y out of bounds"
+msgstr "y buiten de baan"
+
+msgid "z out of bounds"
+msgstr "z buiten de baan"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+#, fuzzy
+msgctxt "keybinds"
+msgid "N"
+msgstr "Nee"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "Pop-up"
+
+#, fuzzy
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Je bent gebanned. Vind je het onterecht? Bekijk de "
+
+#~ msgid "Registration"
+#~ msgstr "Registreer"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Wachtwoord vergeten"
+
+#~ msgid " on how to appeal."
+#~ msgstr " over hoe je bezwaar kunt maken."
+
+#~ msgid "Unbanned"
+#~ msgstr "Ontbanned"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr "Nu je dit bericht hebt gezien, ben je niet langer gebanned."
+
+#~ msgid "Source on "
+#~ msgstr "Bron op "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Als je bent gedetecteerd als proxy, maar je bent er niet, of denkt dat je "
+#~ "onterecht bent verbannen, ga dan naar onze ${ guildedLink } of stuur ons "
+#~ "een e-mail naar ${ mailLink } en voeg de volgende IID toe:"
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Overweeg om met ons mee te doen op Guilded:"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Uw naam is: ${ name }"
+
+#~ msgid "Change Username"
+#~ msgstr "Gebruikersnaam wijzigen"
+
+#~ msgid "Change Mail"
+#~ msgstr "E-mail wijzigen"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Controleer uw e-mailadres, anders kan uw account na een paar dagen worden "
+#~ "verwijderd."
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "E-mail succesvol gewijzigd. We hebben je een verificatiemail gestuurd, "
+#~ "controleer je nieuwe e-mailadres."
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Blokkeer alle privéberichten"
+
+#~ msgid "There are no mods"
+#~ msgstr "Er zijn geen mods"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "Landen door Pixels Vandaag"
+
+#~ msgid "Pixels placed"
+#~ msgstr "Pixels geplaatst"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Houd rechts ${ bindShift } ingedrukt om te plaatsen terwijl u de muis "
+#~ "beweegt volgens de geschiedenis weergave"
+
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr ""
+#~ "Geen antwoord gekregen van pixuniverse. Misschien eens proberen te "
+#~ "vernieuwen?"
+
+#~ msgid "Place more :)"
+#~ msgstr "Plaats meer :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "Geen proxy’s toegestaan :("
+
+#~ msgid "Show Hidden Canvases"
+#~ msgstr "Toon verborgen canvassen"
+
+#~ msgid "Hide Hidden Canvases"
+#~ msgstr "Verberg verborgen canvassen"
+
+#~ msgid "Coordinates in X_Y format:"
+#~ msgstr "Coördinaten in X_Y-formaat:"
+
+#~ msgctxt "keybinds"
+#~ msgid "C"
+#~ msgstr "C"

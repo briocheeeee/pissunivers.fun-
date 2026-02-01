@@ -1,0 +1,1900 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-03-18 19:50+0000\n"
+"Last-Translator: weblate <weblate@noreply.pixunivers.fun>\n"
+"Language-Team: Armenian <https://hosted.weblate.org/projects/pixuniverse/"
+"client/hy/>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
+
+msgid " which is in "
+msgstr " , որը "
+
+#, javascript-format
+msgid "${ mouseSymbol } Hold left mouse button and drag mouse to rotate"
+msgstr ""
+"${ mouseSymbol } Մկնիկի ձախ կոճակը պահեք և մկնիկը քաշեք ՝ պտտվելու համար"
+
+#, javascript-format
+msgid "${ mouseSymbol } Left click or ${ touchSymbol } tap to place a pixel"
+msgstr ""
+"${ mouseSymbol } Ձախ կտտոց կամ ${ touchSymbol } թակեq պիքսել տեղադրելու համար"
+
+#, javascript-format
+msgid "${ mouseSymbol } Right click and drag mouse to pan"
+msgstr "${ mouseSymbol } Աջ կտտացրեք և քաշեք մկնիկը տեղափոխելու համար"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Right click or ${ touchSymbol } double-tap to remove a pixel"
+msgstr ""
+"${ mouseSymbol } աջ կտտացրեք կամ ${ touchSymbol } կրկնակի հպեք ՝ պիքսել "
+"հեռացնելու համար"
+
+#, javascript-format
+msgid ""
+"${ mouseSymbol } Scroll mouse wheel or hold ${ mouseSymbol } middle mouse "
+"button and drag to zoom"
+msgstr ""
+"${ mouseSymbol } Ոլորեք մկնիկի անիվը կամ պահեք ${ mouseSymbol } մկնիկի միջին "
+"կոճակը և քաշեք մեծացնելու համար"
+
+msgid "(0 = infinite)"
+msgstr "(0 = անվերջություն)"
+
+msgid "+last hour"
+msgstr ""
+
+msgid "...loading Login methods and sessions..."
+msgstr ""
+
+msgid "A Phish!"
+msgstr ""
+
+msgid "A new verification mail is getting sent to you."
+msgstr "Ձեզ ուղարկվել է ստուգման նոր նամակ:"
+
+msgid "ACCESS MODTOOLS"
+msgstr ""
+
+msgid "Add Grid (uncheck if you need a 1:1 template)"
+msgstr "Ավելացնել ցանց (ապանշեք, եթե ձեզ հարկավոր է 1: 1 ձևանմուշը)"
+
+msgid "Add Template"
+msgstr "Ավելացնել Կաղապար"
+
+msgid "Admintools"
+msgstr "Ադմինիստրատորի գործիքներ"
+
+msgid "All sound effects will be disabled."
+msgstr "Բոլոր ձայնային էֆեկտները անջատված կլինեն։"
+
+msgid "Always show Movement Controls"
+msgstr "Միշտ ցույց տալ տեղաշարժման կառավարման վահանակը"
+
+msgid "Always show movement control buttons"
+msgstr "Միշտ ցույց տալ տեղաշարժման կառավարման կոճակները"
+
+msgid "Anti Aliasing"
+msgstr "Հակասել"
+
+msgid "Apply a filter to clean trash in large canvas areas."
+msgstr "Դնել ֆիլտր մեծ տարածքներից աղբը մաքրելու համար:"
+
+msgid "Archive"
+msgstr "Արխիվ"
+
+msgid "Assign new Mod"
+msgstr "Նոր մոդերատոր նշանակեք"
+
+msgid "Auto Zoom In"
+msgstr "Ավտոմատ խոշորացում"
+
+msgid "Back"
+msgstr ""
+
+msgid "Badge Display"
+msgstr ""
+
+msgid "Badges"
+msgstr ""
+
+msgid "Banned"
+msgstr "Դուք արգելափակված եք"
+
+msgid "Banned? Detected as Proxy?"
+msgstr "Արգելափակվա՞ծ եք: Հայտնաբերվե՞լ եք Proxy օգտագործելու՞ց:"
+
+msgid "Block"
+msgstr "Արգելափակել"
+
+msgid "Block DMs"
+msgstr "Արգելափակել անձնական նամակները"
+
+msgid ""
+"Block all Private Messages. Enabling this will delete all your current DMs. "
+"You can still start new DMs with other users, but other users won't be able "
+"to start DMs with you."
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Bottom-right corner"
+msgstr "Ներքևի աջ անկյուն"
+
+msgid "Build image and set it to protected."
+msgstr "Կառուցեք պատկեր և դրեք նրա վրա պաշտպանություն:"
+
+msgid "Build image on canvas."
+msgstr "Կառուցեք նկարը կտավի վրա:"
+
+msgid "Build image, but reset cooldown to unset-pixel cd."
+msgstr ""
+"Ստեղծեք պատկերը, բայց վերակայեք վերականգնման ժամանակը չդրված պիքսելների "
+"վերականգնման ժամանակին:"
+
+msgid "By Mod"
+msgstr "Մոդերատոր"
+
+msgid "Calculate like GIMP"
+msgstr "Հաշվել որպես GIMP"
+
+msgid "Can not export more than 20 or no template!"
+msgstr "Չեք կարող արտահանել 20-ից ավել կամ 0 շաբլոն:"
+
+msgid "Can not import more than 20 or no template!"
+msgstr "Չեք կարող ներմուծել 20-ից ավել կամ 0 շաբլոն"
+
+msgid "Can't read? Reload:"
+msgstr "Չե՞ք կարողանում կարդալ. Թարմացրե՛ք:"
+
+msgid "Can't render 3D canvas, do you have WebGL2 disabled?"
+msgstr "Չեք կարողանում 3D կտավը ներկայացնել, WebGL2-ն անջատված ունե՞ք:"
+
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgid "Cancel adding Template"
+msgstr "Չեղարկել Կաղապարի ավելացումը"
+
+msgid "Canvas"
+msgstr "Կտավ"
+
+msgid "Canvas Archive"
+msgstr "Կտավի արխիվ"
+
+msgid "Canvas Cleaner"
+msgstr "Կտավ մաքրիչ"
+
+msgid "Canvas Error"
+msgstr "Կտավի Սխալ"
+
+msgid "Canvas Selection"
+msgstr "Կտավի ընտրություն"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Caught by"
+msgstr ""
+
+#, fuzzy
+msgid "Change Happened"
+msgstr "Փոխել Օգտանունը"
+
+msgid "Change Name"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Փոխել գաղտնաբառը"
+
+msgid "Change your Mail Adress here:"
+msgstr ""
+
+msgid "Channel settings"
+msgstr "Ալիքի կարգավորումներ"
+
+msgid "Charts"
+msgstr "Ստատիստիկաների գծապատկերներ"
+
+msgid "Chat"
+msgstr "Չատ"
+
+msgid "Chat here"
+msgstr "Զրուցեք այստեղ"
+
+msgid "Check out past versions of the canvas."
+msgstr "Նայեք կտավի տեսքին անցյալ ժամանակի որևէ կետում:"
+
+msgid "Check to allow"
+msgstr ""
+
+msgid "Check who placed in an area"
+msgstr "Ստուգել, թե ով է տեղադրել տվյալ վայրում"
+
+msgid "Choose Canvas"
+msgstr "Ընտրեք կտավ"
+
+msgid "Choose Color Mode"
+msgstr "Ընտրեք գունային ռեժիմ"
+
+msgid "Choose Strategy"
+msgstr "Ընտրեք ռազմավարությունը"
+
+msgid "Choose Username"
+msgstr ""
+
+msgid ""
+"Clean spare pixels that are surrounded by a single other color or unset "
+"pixels (VERY AGGRESSIVE ON CANVASES THAT ALLOW UNSET PIXELS (where there are "
+"two cooldowns)!)"
+msgstr ""
+"Մաքրել ավելորդ պիքսելները, որոնք շրջապատված են մեկ այլ գունային պիքսելով կամ "
+"չտեղադրված պիքսելով (ՇԱՏ ԱԳՐԵՍԻՎ Է ԿՏԱՎՆԵՐԻ ՎՐԱ, ՈՐՈՆՔ ԹՈՒՅԼՈՒՄ ԵՆ ՉՏԵՂԱԴՐԱԾ "
+"ՊԻՔՍԵԼՆԵՐ (որտեղ կան երկու ժամանակային կառավարում)):"
+
+msgid "Clean spare pixels that are surrounded by unset pixels"
+msgstr "Մաքրել ավելորդ պիքսելները, որոնք շրջապատված են չտեղադրված պիքսելներով"
+
+msgid ""
+"Clean spare pixels that are surrounded by unset pixels and up to 1 other set "
+"pixels"
+msgstr ""
+"Մաքրել ավելորդ պիքսելները, որոնք շրջապատված են չտեղադրված պիքսելներով մինչև "
+"նույնիսկ 1 այլ տեղադրված պիքսել"
+
+msgid "Cleaners can use 0cd blank colors."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"Click ${ mouseSymbol } middle mouse button or ${ touchSymbol } long-tap to "
+"select current hovering color"
+msgstr ""
+"Սեղմեք ${ mouseSymbol } մկնիկի միջին կոճակին կամ երկար սեղմած պահեք $"
+"{ touchSymbol } -ը՝ ընթացիկ գույնը ընտրելու համար"
+
+msgid "Click a color in palette to select it"
+msgstr "Կտտացրեք մի գույնի ներկապնակի վրա, այն ընտրելու համար"
+
+msgid "Click here to request a new verification mail."
+msgstr "Սեղմեք այստեղ նոր հաստատման նամակ պահանջելու համար:"
+
+msgid "Click to Load Captcha"
+msgstr "Սեղմե՛ք Captcha-ն բեռնելու համար"
+
+msgid "Clone"
+msgstr "Կրկնօրինակ"
+
+msgid "Close"
+msgstr "Փակել"
+
+msgid "Close Chat"
+msgstr "Փակել չատը"
+
+msgid "Close Menu"
+msgstr "Փակել ընտրացանկը"
+
+msgid "Close Palette"
+msgstr "Փակել ներկապնակը"
+
+msgid "Compact Palette"
+msgstr "Կոմպակտ ներկապնակ"
+
+msgid "Confirm New Password"
+msgstr "Հաստատեք նոր գաղտնաբառը"
+
+msgid "Confirm Password"
+msgstr "Հաստատել գաղտնաբառը"
+
+#, javascript-format
+msgid "Connection error ${ code } :("
+msgstr "Միացման սխալ ${ code } :("
+
+msgid "Consent"
+msgstr ""
+
+msgid "Consider joining us on Matrix:"
+msgstr ""
+
+msgid "Controls"
+msgstr "Վերահսկում"
+
+msgid "Convert an image to canvas colors"
+msgstr "Պատկերը փոխեք կտավի գույներով"
+
+msgid "Converter"
+msgstr "Փոխարկիչ"
+
+msgid "Cooldown"
+msgstr "Վերալիցքավորում"
+
+msgid ""
+"Cooldown is usually automatically changed for a country that is dominating. "
+"In example in the case of a streamer raid."
+msgstr ""
+
+msgid "Coordinates"
+msgstr "Կոորդինատներ"
+
+msgid "Coordinates:"
+msgstr "Կոորդինատներ."
+
+msgid "Copied"
+msgstr "Պատճենվա՛ծ է"
+
+msgid "Copy"
+msgstr "Պատճենել"
+
+msgid "Copy Link"
+msgstr ""
+
+msgid "Copy Selected to Clipboard"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy UserId to Clipboard"
+msgstr ""
+
+msgid "Copy to Clipboard"
+msgstr "Պատճենեք սեղմատախտակին"
+
+msgid "Could not connect to server, please try again later :("
+msgstr "Հնարավոր չէ միանալ սերվերին, փորձեք մի փոքր ուշ :("
+
+msgid "Could not load captcha"
+msgstr "Չհաջողվեց բեռնել captcha-ն"
+
+msgid "Couldn't set Pixel"
+msgstr "Չհաջողվեց տեղադրել պիքսելը"
+
+msgid "Countries Today"
+msgstr "Երկրները այսօր"
+
+msgid "Country"
+msgstr "Երկիր"
+
+#, javascript-format
+msgid "Credit for the Palette of the 2bit canvas goes to ${ donendoLink }."
+msgstr "2բիտի ներկապնակը տրամադրվում է ${ donendoLink } կողմից:"
+
+#, javascript-format
+msgid "Credit for the Palette of the Moon goes to ${ starhouseLink }."
+msgstr "Լուսնի ներկապնակի տրամադրում է ${ starhouseLink }:"
+
+#, javascript-format
+msgid "Credit for the Palette of the Top10 canvas goes to ${ vinikLink }."
+msgstr "Թոփ10-ի ներկապնակի վարկը տրամադրվում է ${ vinikLink }:"
+
+msgid "Current Cooldown Changes per Country"
+msgstr ""
+
+msgid "Custom Cursor"
+msgstr ""
+
+msgid "DM"
+msgstr "Անձնական հաղորդակցություն"
+
+#, fuzzy
+msgid "Daily Pixels per Country"
+msgstr "Խաղացողներ և Պիքսելներ ժամում"
+
+#, fuzzy
+msgid "Daily Pixels per Player"
+msgstr "Օրական տեղադրված պիքսելների ընդհանուր քանակը"
+
+msgid "Daily Rank"
+msgstr "Օրվա դասակարգ"
+
+msgid "Date of Award"
+msgstr ""
+
+msgid "Date of catch"
+msgstr ""
+
+msgid "Delete"
+msgstr "Ջնջել"
+
+msgid "Delete Account"
+msgstr "Ջնջել օգտահաշիվը"
+
+msgid "Deny"
+msgstr "Հերքել"
+
+# Թարքմանել է Նարեկ Ադամյանը ։)
+msgid ""
+"Didn't get an answer from pixuniverse. Try to refresh if this problem "
+"persists."
+msgstr ""
+"pixuniverse-ը չի արձագանքում։ Փորձեք թարմացնել էջը, եթե խնդիրը չվերանա:"
+
+msgid "Dimensions"
+msgstr "Չափերը"
+
+msgid "Disable Game Sounds"
+msgstr "Անջատել խաղի հնչյունները"
+
+msgid "Disable History Pencil"
+msgstr "Անջատել պատմական տեսակետի մատիտը"
+
+msgid "Disable Overlay Pencil"
+msgstr "Անջատել Overlay-ի մատիտը"
+
+msgid "Disable Pencil"
+msgstr "Անջատել Մատիտը"
+
+msgid "Display Palette in a compact form that takes less screen space."
+msgstr ""
+"Ցուցադրել ներկապնակը կոմպակտ ձևով, որը էկրանի ավելի քիչ տարածք է զբաղեցնում:"
+
+msgid "Do stuff with IPs (one IP per line)"
+msgstr "Իրականացրեք IP- ներով (մեկ IP մեկ տողում)"
+
+msgid "Don't remember"
+msgstr ""
+
+msgid "Don't show me in global stats"
+msgstr "Ցույց չտալ ինձ դասակարգման մեջ"
+
+msgid "Download Template"
+msgstr "Ներբեռնել ձևանմուշը"
+
+#, javascript-format
+msgid "Drag ${ mouseSymbol } mouse or ${ touchSymbol } pan to move"
+msgstr ""
+"Քաշեք ${ mouseSymbol } մկնիկը կամ ${ touchSymbol } տախտակը տեղափոխելու համար"
+
+msgid "Duration"
+msgstr "Տևողություն"
+
+msgid "Easter Egg OFF"
+msgstr "Հուշումները անջատված են"
+
+msgid "Easter Egg ON"
+msgstr "Հուշումները միացված են"
+
+msgid "Edit"
+msgstr "Խմբագրել"
+
+msgid "Email"
+msgstr "Փոստ"
+
+msgid "Email can't be empty."
+msgstr "Էլ. փոստը չի կարող դատարկ լինել:"
+
+msgid "Email can't be longer than 40 characters."
+msgstr "Էլ. փոստը չի կարող 40 նիշից ավելի լինել:"
+
+msgid ""
+"Email is used to verify your account. You might get a cofirmation mail after "
+"registering."
+msgstr ""
+
+msgid "Email should at least contain a dot"
+msgstr "Էլ. փոստը պետք է առնվազն պարունակի կետ"
+
+msgid "Email should be at least 5 characters long."
+msgstr "Էլ. փոստը պետք է կազմված լինի առնվազն 5 նիշից:"
+
+msgid "Email should contain a @"
+msgstr "Էլ. փոստը պետք է պարունակի @"
+
+msgid "Enable Overlay"
+msgstr "Միացնել Overlay-ը"
+
+msgid "Enable Pencil"
+msgstr "Միացնել մատիտը"
+
+msgid "Enable chat notifications"
+msgstr "Միացնել զրույցի(չատի) ծանուցումները"
+
+msgid "Enter Characters"
+msgstr "Մուտքագրեք նշանները"
+
+msgid "Enter Reason"
+msgstr "Գրեք պատճառը"
+
+msgid "Enter UserName of new Mod"
+msgstr "Մուտքագրեք նոր մոդերատորի օգտատիրոջ անունը"
+
+msgid "Enter your mail address and we will send you a new password:"
+msgstr ""
+"Մուտքագրեք ձեր էլեկտրոնային փոստի հասցեն, և մենք ձեզ նոր գաղտնաբառ "
+"կուղարկենք:"
+
+msgid "Error"
+msgstr "Սխալ :("
+
+#, javascript-format
+msgid "Error ${ retCode }"
+msgstr "Սխալ ${ retCode }"
+
+msgid "Error :("
+msgstr "Սխալ :("
+
+msgid "Expand"
+msgstr ""
+
+msgid "Export enabled templates"
+msgstr "Արտահանել միացված կաղապարները"
+
+msgid "Factor"
+msgstr ""
+
+msgid "File"
+msgstr "Ֆայլ"
+
+msgid "Fish Display"
+msgstr ""
+
+msgid "For"
+msgstr ""
+
+msgid "For Developers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"For any legal issues, please contact ${ mailLink }. If you want to delete "
+"your data, simply delete your account, this in fact wipes all privacy "
+"relevant traces. Your placed pixels will of course not be deleted."
+msgstr ""
+
+msgid "For one day"
+msgstr ""
+
+msgid "For one month"
+msgstr ""
+
+msgid "For one week"
+msgstr ""
+
+msgid "For one year"
+msgstr ""
+
+msgid "For when you are playing on a potato."
+msgstr "Նրա համար, երբ թույլ համակարգչով եք խաղում:"
+
+msgid "Forever"
+msgstr ""
+
+msgid "From History"
+msgstr ""
+
+#, fuzzy
+msgid "From Template"
+msgstr "Կաղապարներ"
+
+msgid "Get IID"
+msgstr "Ստանալ IID-ն"
+
+msgid "Get Pixels"
+msgstr "Ստանալ պիքսելներ"
+
+msgid "Get Users"
+msgstr "Ստանալ օգտատերեր"
+
+msgid "Get email address"
+msgstr ""
+
+msgid "Get the amount of Pixels placed and ranking"
+msgstr ""
+
+msgid "Globe View"
+msgstr "Մոլորակային տեսանկյուն"
+
+msgid "Go to"
+msgstr "Գնալ"
+
+msgid "Grant"
+msgstr ""
+
+msgid "Grid OFF"
+msgstr "Ցանցը անջատված է"
+
+msgid "Grid ON"
+msgstr "Ցանցը միացված է"
+
+msgid "Have fun!"
+msgstr "Զվարճացեք!"
+
+msgid "Height"
+msgstr "Բարձրություն"
+
+msgid "Help"
+msgstr "Օգնություն"
+
+msgid ""
+"Here we collect removed canvases to archive them properly. Which is "
+"currently only one."
+msgstr ""
+"Այստեղ մենք հավաքում ենք հեռացված կտավները՝ պատշաճ կերպով արխիվացնելու համար "
+"(որը ներկայումս ընդամենը մեկն է):"
+
+msgid "Hide Embed"
+msgstr ""
+
+msgid ""
+"Higher zoomlevels take some time to update, the 3D globe gets updated at "
+"least once per day."
+msgstr ""
+"Ավելի շատ մեծացնելու մակարդակի թարմացումը որոշ ժամանակ է պահանջում, 3D "
+"գլոբուսը թարմացվում է օրական առնվազն մեկ անգամ:"
+
+msgid "Historical View"
+msgstr "Պատմական տեսակետ"
+
+#, fuzzy, javascript-format
+msgid "Hold left ${ bindShift } for pencil (to place while moving mouse)"
+msgstr ""
+"Սեղմեք ձախ ${ bindShift } - ը որպիսի դնեք պիքսելեր մկնիկը շարժելու ժամանակ"
+
+msgid "How pixuniverse should look like."
+msgstr "Ինչպես պետք է լինի pixuniverse-ը:"
+
+msgid "I forgot my Password."
+msgstr "Ես մոռացել եմ իմ գաղտնաբառը։"
+
+msgid "IID (optional)"
+msgstr "IID (ըստ ցանկության)"
+
+msgid "IID Actions"
+msgstr "IID գործողություններ"
+
+msgid "IP Actions"
+msgstr "IP գործողություններ"
+
+msgid "Identifiers"
+msgstr ""
+
+#, javascript-format
+msgid ""
+"If you got detected as proxy, but you aren't using one, or think that you "
+"got wrongfully banned, please go to our ${ guildedLink } or send us an e-"
+"mail to ${ mailLink } and, in case of a ban, include the BID you got in the "
+"ban message."
+msgstr ""
+
+msgid ""
+"If you talk to moderators or administrators, you might get asked for one of "
+"the following identifiers:"
+msgstr ""
+
+msgid "Image Converter"
+msgstr "Պատկերի փոխարկիչ"
+
+msgid "Image Upload"
+msgstr "Պատկերի վերբեռնում"
+
+msgid "Import templates"
+msgstr "Ներմուծել կաղապարներ"
+
+msgid "Interval"
+msgstr "Ընդիջում"
+
+msgid "Interval is invalid"
+msgstr "Անվավեր ընդմիջում"
+
+msgid "Invalid Canvas"
+msgstr "Սխալ կտավ"
+
+msgid "Invalid Coordinates"
+msgstr "Անվավեր կոորդինատներ"
+
+msgid "Invalid color selected"
+msgstr "Ընտրված է անվավեր գույն"
+
+msgid "Invited to Chat"
+msgstr ""
+
+msgid ""
+"It requests the following permissions. Uncheck what you don't want to grant:"
+msgstr ""
+
+msgid "Jannies can rollback and protect, but not watch or ban."
+msgstr ""
+
+msgid "Just for registered Users"
+msgstr "Միայն գրանցված օգտատերերի համար"
+
+msgid "Just for verified Users"
+msgstr ""
+
+msgid "Just the Top10 of yesterday can place here"
+msgstr "Միայն երեկվա թոփ 10-ը կարող են այստեղ պիքսել դնել"
+
+msgid "Keep Ratio"
+msgstr "Պահպանել հարաբերակցությունը"
+
+msgid "Know that an account exists"
+msgstr ""
+
+msgid "Legal Requests"
+msgstr ""
+
+msgid "Light Grid"
+msgstr "Լուսավոր ցանց"
+
+msgid "Load Captcha"
+msgstr "Բեռնել Captcha-ն"
+
+msgid "Loading"
+msgstr "Բեռնում"
+
+msgid "Loading..."
+msgstr "Բեռնում..."
+
+msgid "Log out"
+msgstr "Դուրս գալ"
+
+msgid "Log out a Session:"
+msgstr ""
+
+msgid "LogIn"
+msgstr "Մուտք"
+
+msgid "Login Methods"
+msgstr ""
+
+msgid "Login to access more features and stats."
+msgstr ""
+"Մուտք գործեք ձեր հաշիվ ՝ վիճակագրության և այլ հնարավորություններ ստանալու "
+"համար։"
+
+msgid "Login to grant access to other application."
+msgstr ""
+
+msgid "Login to other application"
+msgstr ""
+
+msgid "Login with Name or Mail:"
+msgstr "Մուտք գործեք անունով կամ էլ. փոստով."
+
+msgid "Make Screenshot"
+msgstr "Անել սքրինշոթ"
+
+msgid "Manage Moderators"
+msgstr "Կառավարել մոդերատորներին"
+
+msgid "Map Data"
+msgstr "Քարտեզի տվյալներ"
+
+msgid "Maximize"
+msgstr "Առավելագույնի մեծացնել"
+
+msgid "Minimum Color Distance"
+msgstr "Նվազագույն գույների հեռավորություն"
+
+msgid "Moderators can access all Canvas, Watch and IID tools."
+msgstr ""
+
+msgid "Modtools"
+msgstr "Մոդերատորի գործիքներ"
+
+msgid "Move"
+msgstr "Տեղափոխել"
+
+msgid "Mute"
+msgstr "Լռեցնել"
+
+msgid "Muted Sound"
+msgstr "Ձայնը անջատված է"
+
+msgid "Name"
+msgstr "Անուն"
+
+msgid "Name can't be empty."
+msgstr "Անունը չի կարող դատարկ լինել:"
+
+msgid "Name contains invalid character like @, /, \\ or #"
+msgstr "Անունը պարունակում է անվավեր նիշ, ինչպիսիք են @, /, \\ կամ #"
+
+msgid "Name must be at least 2 characters long"
+msgstr "Անունը պետք է կազմի առնվազն 2 նիշ"
+
+msgid "Name must be shorter than 26 characters"
+msgstr "Անունը պետք է պակաս լինի 26 նիշից"
+
+msgid "Name or Email"
+msgstr "Անուն կամ էլ. փոստ"
+
+msgid "New Mail"
+msgstr "Նոր էլ. փոստ"
+
+msgid "New Name"
+msgstr ""
+
+msgid "New Password"
+msgstr "Նոր գաղտնաբառ"
+
+msgid "New Username"
+msgstr "Նոր օգտանուն"
+
+msgid "No"
+msgstr "Ոչ"
+
+msgid "No Phish!"
+msgstr ""
+
+msgid "No captcha id given"
+msgstr "Captcha ID-ն տրված չէ"
+
+msgid "No or invalid captcha text"
+msgstr "Սխալ կամ բացակայող captcha-ի տեքստ"
+
+msgid "No password given."
+msgstr "Գաղտնաբառ չի տրվել:"
+
+msgid "Not allowed"
+msgstr "Թույլատրված չէ"
+
+msgid "OIDC LogIn"
+msgstr ""
+
+msgid "OK"
+msgstr "Լավ"
+
+msgid "Offset"
+msgstr "Փոխհատուցել"
+
+msgid "Oh no, the phish escaped. Better luck next time!"
+msgstr ""
+
+msgid "Old Password"
+msgstr "Հին Գաղտնաբառ"
+
+msgid "Online Users"
+msgstr "Առցանց Օգտատերեր"
+
+msgid "Online Users on Canvas"
+msgstr "Օնլայն օգտատերեր կտավում"
+
+msgid "Only verified Users are currently allowed to play."
+msgstr ""
+
+msgid "Opacity of Overlay in percent."
+msgstr "Overlay-ի թափանցիկությունը տոկոսներով"
+
+msgid "Open Chat"
+msgstr "Բացել չատը"
+
+msgid "Open Menu"
+msgstr "Բացել ընտրացանկը"
+
+msgid "Open Palette"
+msgstr "Բացել ներկապնակը"
+
+msgid "Open in PopUp"
+msgstr ""
+
+msgid "OpenID Connect Client registration"
+msgstr ""
+
+msgid ""
+"Our main canvas is a huge worldmap, you can place wherever you like, but you "
+"will have to wait a specific Cooldown between pixels. You can check out the "
+"cooldown and requirements on the Canvas Selection menu (globe button on "
+"top). Some canvases have a different cooldown for replacing a user-set "
+"pixels than placing on a unset pixel. i.e. 4s/7s means 4s on fresh pixels "
+"and 7s on already set pixels."
+msgstr ""
+"Մեր հիմնական կտավը հսկայական աշխարհի քարտեզ է, որտեղ կարող եք տեղադրել "
+"ցանկացած վայրում, բայց դուք պետք է սպասեք միչև պիքսելների որոշակի "
+"վերականգնման ժամանակի: Վերականգնման ժամանակը և պահանջները կարող եք ստուգել "
+"կտավի ընտրության ընտրացանկում (վերևում գտնվող գլոբուսի կոճակը): Որոշ կտավներ "
+"ունեն տարբեր վերականգնման ժամանակ արդեն ներկած և չներկաց հատվածների համար: "
+"Այսինքն օրինակ՝ 4s / 7s նշանակում է 4s ազատ(չտեղադրված/չզբաղեցրած) "
+"պիքսելների վրա և 7s արդեն տեղադրված պիքսելների վրա:"
+
+msgid "Overlay OFF"
+msgstr "Overlay-ը անջատված է"
+
+msgid "Overlay ON"
+msgstr "Overlay-ը միացված է"
+
+msgid "Overlay Opacity"
+msgstr "Overlay-ի թափանցիկությունը"
+
+msgid "Palette Download"
+msgstr "Ներկապնակի ներբեռնում"
+
+#, javascript-format
+msgid "Palette for ${ gimpLink }"
+msgstr "Ներկապնակ ${ gimpLink } - ի համար"
+
+msgid "Password"
+msgstr "Գաղտնաբառ"
+
+msgid "Password must be at least 6 characters long."
+msgstr "Գաղտնաբառը պետք է ունենա առնվազն 6 նիշ:"
+
+msgid "Password must be shorter than 60 characters."
+msgstr "Գաղտնաբառը պետք է լինի 60 նիշից կարճ:"
+
+msgid "Password successfully changed."
+msgstr "Գաղտնաբառը հաջողությամբ փոխվեց:"
+
+msgid "Passwords do not match."
+msgstr "Գաղտնաբառերը չեն համապատասխանում."
+
+#, fuzzy, javascript-format
+msgid "Pencil Mode for ${ canvasName } canvas"
+msgstr "Տեղափոխվեց ${ canvasName } կտավին"
+
+msgid "Pencil picks: "
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Phish!"
+msgstr ""
+
+msgid "Phishes"
+msgstr ""
+
+msgid "Ping"
+msgstr "Պինգ"
+
+msgid "Pixel Notify OFF"
+msgstr "Պիքսելի ակտիվությունը անջատված է"
+
+msgid "Pixel Notify ON"
+msgstr "Պիքսելի ակտիվությունը միացված է"
+
+msgid "Pixel Protection"
+msgstr "Պիքսելի պաշտպանություն"
+
+msgid "Pixel protected"
+msgstr "Պիքսելը պաշտպանվա՜ծ է"
+
+msgid "Place color pixels on a large canvas with other players online!"
+msgstr "Տեղադրեք գունավոր պիքսելներ մեծ կտավի վրա այլ խաղացողների հետ:"
+
+msgid "Placed Pixels"
+msgstr "Տեղադրված պիքսելներ"
+
+msgid "Play a sound when new chat messages arrive"
+msgstr ""
+"Հնչեցնել ձայն, երբ զրույցում(չատում) ուղարկվում են նոր հաղորդագրություններ"
+
+msgid "Player"
+msgstr ""
+
+msgid "Players and Pixels per hour"
+msgstr "Խաղացողներ և Պիքսելներ ժամում"
+
+msgid "Please prove that you are human"
+msgstr "Հաստատեք, որ մարդ եք"
+
+msgid "Please refresh the website"
+msgstr ""
+
+msgid ""
+"Please verify your mail address or add a new one, otherwise your account "
+"could get deleted in the future."
+msgstr ""
+
+msgid "Political Compass Canvas"
+msgstr "Քաղաքական կողմնացույցի կտավ"
+
+msgid "Potato Mode"
+msgstr "Թույլ համակարգչի ռեժիմ"
+
+#, javascript-format
+msgid ""
+"Press ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } to move"
+msgstr ""
+"Սեղմեք ${ bindAUp }, ${ bindALeft }, ${ bindADown }, ${ bindARight } ՝ "
+"տեղափոխվելու համար"
+
+#, javascript-format
+msgid "Press ${ bindG } to toggle grid"
+msgstr "Սեղմեք ${ bindG } - ը ցանցի օգտագործումը փոխելու համար"
+
+#, javascript-format
+msgid "Press ${ bindH } to toggle historical view"
+msgstr "Սեղմեք ${ bindH } ՝ պատմական տեսակետը փոխելու համար"
+
+#, javascript-format
+msgid "Press ${ bindQ } and ${ bindE } to fly up and down"
+msgstr "Սեղմեք ${ bindQ } և ${ bindE } ՝ վեր ու վար թռչելու համար"
+
+#, javascript-format
+msgid "Press ${ bindQ } or ${ bindE } to zoom"
+msgstr "Մեծացնելու համար սեղմեք ${ bindQ } կամ ${ bindE }"
+
+#, javascript-format
+msgid "Press ${ bindR } to copy coordinates"
+msgstr "Կոորդինատները պատճենելու համար սեղմեք ${ bindR }"
+
+#, javascript-format
+msgid "Press ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } to move"
+msgstr ""
+"Սեղմեք ${ bindW }, ${ bindA }, ${ bindS }, ${ bindD } ՝ տեղափոխվելու համար"
+
+#, javascript-format
+msgid "Press ${ bindX } to toggle showing of pixel activity"
+msgstr "Սեղմեք ${ bindX } ՝ պիքսելային ակտիվության ցուցադրումը փոխելու համար"
+
+msgid "Private"
+msgstr "Անձնական"
+
+msgid "Profile"
+msgstr "Պրոֆիլ"
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Range Banned"
+msgstr "Ձեր տարածքն արգելված է"
+
+msgid "Ranked"
+msgstr "Դասակարգված"
+
+msgid "Ranking updates every 5 min. Daily rankings get reset at midnight UTC."
+msgstr ""
+"Դասակարգումը թարմացվում է ամեն 5 րոպեն մեկ: Ամենօրյա վարկանիշները "
+"վերակայվում են UTC- ի կեսգիշերին:"
+
+msgid "Read Badges and fishes"
+msgstr ""
+
+msgid "Read name, username and account age"
+msgstr ""
+
+msgid "Reason"
+msgstr "Պատճառ"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register"
+msgstr "Գրանցվել"
+
+msgid "Register new account here"
+msgstr "Գրանցեք նոր հաշիվ այստեղ"
+
+msgid "Regularly update this data"
+msgstr ""
+
+msgid "Reload"
+msgstr "Թարմացնել"
+
+msgid "Remember this decision: "
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Cleaner"
+msgstr ""
+
+msgid "Remove Janny"
+msgstr ""
+
+msgid "Remove Moderator"
+msgstr "Հեռացնել մոդերատորին"
+
+msgid "Remove a Login method:"
+msgstr ""
+
+msgid "Require Verification to Place"
+msgstr ""
+
+msgid "Requirements"
+msgstr "Պահանջներ"
+
+msgid "Reset"
+msgstr "Վերակայել"
+
+msgid "Reset Captchas of ALL Users"
+msgstr ""
+
+msgid "Reset your password"
+msgstr ""
+
+msgid "Resize"
+msgstr "Փոխել չափը"
+
+msgid "Restore"
+msgstr "Վերականգնել"
+
+msgid "Retired Canvases (history only)"
+msgstr "Չօգտագործվող կտավներ (Միայն պատմական տեսակետ)"
+
+msgid "Retract"
+msgstr ""
+
+msgid "Revoke consent of third party applications:"
+msgstr ""
+
+msgid "Roll different Captcha Fonts"
+msgstr ""
+
+#, fuzzy
+msgid "Rollback an area of the canvas to a set date and time"
+msgstr "Կտավի տարածքը հետ բերել սահմանված ամսաթվով (00:00 UTC)"
+
+msgid "Rollback to Date"
+msgstr "Վերադարձ դեպի ամսաթիվ"
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Scale Image"
+msgstr "Փոխել պատկերի չափը"
+
+#, javascript-format
+msgid "Scroll ${ mouseSymbol } mouse wheel or ${ touchSymbol } pinch to zoom"
+msgstr ""
+"Մեծացնելու համար պտտեք ${ mouseSymbol } մկնիկի անիվը կամ ${ touchSymbol }"
+
+msgid "Select Date above"
+msgstr "Ընտրեք ամսաթիվ վերևում"
+
+msgid "Select File"
+msgstr "Ընտրել ֆայլ"
+
+msgid "Select Language"
+msgstr "Ընտրեք լեզուն"
+
+msgid ""
+"Select the canvas you want to use.\n"
+"Every canvas is unique and has different palettes, cooldown and "
+"requirements.\n"
+"Archived canvases can be accessed here:"
+msgstr ""
+"Ընտրեք կտավը, որը ցանկանում եք օգտագործել:\n"
+"Յուրաքանչյուր կտավ եզակի է և ունի տարբեր գունապնակներ, վերականգնման ժամանակ "
+"և պահանջներ:\n"
+"Հեռացված կտավների արխիվ կարելի է մուտք գործել այստեղ."
+
+#, fuzzy
+msgid "Selected Color"
+msgstr "Ընտրել ֆայլ"
+
+msgid "Send"
+msgstr "Ուղարկել"
+
+msgid "Sent you a mail with instructions to reset your password."
+msgstr ""
+"Ձեր mail-ին գաղտնաբառի վերակայման համար հրահանգներով նամակ է ուղարկվել:"
+
+msgid "Serpentine"
+msgstr "Օձային"
+
+msgid "Server answered with gibberish :("
+msgstr "Սերվերը պատասխանեց խաբեությամբ"
+
+msgid ""
+"Server got confused by your pixels. Are you playing on multiple devices?"
+msgstr "Սերվերը ձեր պիքսելներից շփոթվել: է Դուք մի քանի սարքով ե՞ք խաղում:"
+
+msgid "Set Password"
+msgstr ""
+
+msgid ""
+"Set protection of areas (if you need finer grained control, use protect with "
+"image upload and alpha layers)"
+msgstr ""
+"Սահմանել տարածքների պաշտպանություն (եթե ձեզ ավելի մանրակրկիտ հսկողություն է "
+"պետք, օգտագործեք պատկերի պաշտպանումը վերբեռնումով և ալֆա շերտերով)"
+
+msgid ""
+"Setting a password allows you to login by username or email, rather than "
+"only relying on 3rd party login."
+msgstr ""
+
+msgid "Settings"
+msgstr "Կարգավորումներ"
+
+msgid "Show Embedded"
+msgstr ""
+
+msgid "Show Grid"
+msgstr "Ցույց տալ ցանցը"
+
+msgid "Show Grid in white instead of black."
+msgstr "Ցույց տալ սպիտակ ցանց սևի փոխարեն:"
+
+msgid "Show Pixel Activity"
+msgstr "Ցույց տալ պիքսելների ակտիվությունը"
+
+msgid "Show circles where pixels are placed."
+msgstr "Ցույց տալ կարմիր օղակներ այնտեղ, որտեղ տեղադրվեց պիքսել:"
+
+msgid "Show overlay as small individual pixels on high zoomlevels."
+msgstr ""
+"Ցույց տալ overlay-ը որպես փոքր առանձին պիքսելներ բարձր խոշորացման ժամանակ:"
+
+msgid "Show templates as overlays ingame."
+msgstr "Ցույց տալ կաղապարը ինչպես Overlay խաղի մեջ:"
+
+msgid "Size"
+msgstr ""
+
+msgid "Small Pixels When Zoomed"
+msgstr "Փոքր պիքսելների խոշորացում"
+
+msgid "Social Settings"
+msgstr "Սոցիալական կարգավորումներ"
+
+msgid "Source for pixuniverse on "
+msgstr ""
+
+msgid "Stacking till"
+msgstr "Վերալիցքավորման պահուստ"
+
+msgid "Start chatting here"
+msgstr "Սկսեք զրուցել այստեղ"
+
+msgid "Start checking for Malware"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Ստատիստիկա"
+
+msgid "Status: Not running"
+msgstr "Կարգավիճակը. Չի աշխատում"
+
+msgid "Stay logged in: "
+msgstr ""
+
+msgid "Stop Cleaner"
+msgstr "Դադարեցնել մաքրիչը"
+
+msgid "Stop checking for Malware"
+msgstr ""
+
+msgid "Stop requiring Verification to Place"
+msgstr ""
+
+msgid "Submit"
+msgstr "Հաստատել"
+
+msgid "Switch Account"
+msgstr ""
+
+#, javascript-format
+msgid "Switched to ${ canvasName }"
+msgstr "Տեղափոխվեց ${ canvasName } կտավին"
+
+msgid "Template Name"
+msgstr "Կաղապարի անուն"
+
+msgid "Templates"
+msgstr "Կաղապարներ"
+
+#, javascript-format
+msgid ""
+"The application ${ appName } at ${ appUrl } wants to login with your "
+"pixuniverse account ${ accountName }"
+msgstr ""
+
+msgid ""
+"The bare map data that we use, together with converted OpenStreetMap tiles "
+"for orientation, can be downloaded from mega.nz here: "
+msgstr ""
+"Սկզբնական քարտեզագրման տվյալները, որոնք մենք օգտագործում ենք, ինչպես նաև "
+"OpenStreetMap-ի վերափոխված հատվածները կողմնորոշման համար, կարելի է ներբեռնել "
+"mega.nz այստեղ` "
+
+msgid ""
+"The name of your account, only a-z, A-Z, -, ., and - characters are allowed. "
+"It is permanent, you can not change it later."
+msgstr ""
+
+msgid "Themes"
+msgstr "Թեմաներ"
+
+msgid "This URL is not supported by our Media Player"
+msgstr ""
+
+msgid "This canvas doesn't exist"
+msgstr "Այս կտավը գոյություն չունի"
+
+msgid ""
+"This canvas got requested during a time of political conflicts on the main "
+"Earth canvas. It was a 1024x1024 representation of the political compass "
+"with a 5s cooldown and 60s stacking. It got launched on May 11th and "
+"remained active for months till it got shut down on November 30th."
+msgstr ""
+"Այս կտավը պահանջվել է Երկրի գլխավոր կտավի վրա քաղաքական բախումների ժամանակ: "
+"Դա քաղաքական կողմնացույցի 1024x1024 ներկայացում էր` 5 վրկ վերալիցքավորմամբ և "
+"60-ականների դասախցիկներով: Այն մեկնարկվեց մայիսի 11-ին և ամիսներ շարունակ "
+"ակտիվ մնաց, մինչև այն դադարեցվեց նոյեմբերի 30-ին:"
+
+msgid ""
+"This is the name that other people see, e.g. in Chat. You can change it at "
+"any time. All characters except @, /, , >, < and # are allowed."
+msgstr ""
+
+msgid "This permission is required"
+msgstr ""
+
+msgid "Timeout"
+msgstr "Ընդմիջում"
+
+msgid "Tip: Not case-sensitive; I and l are the same"
+msgstr "Հուշում. մեծատառ կամ փոքրատառ կապ չունի; I և l նույնն են"
+
+msgid ""
+"Tired of always spaming one single color? Want to create art instead, but "
+"you have to count pixels from some other image? Templates can help you with "
+"that! Templates can show as overlay and you can draw over them. One pixel on "
+"the template, should be one pixel on the canvas."
+msgstr ""
+"Հոգնե՞լ եք անընդհատ ինչ-որ գույն սպամ անելուց: Ցանկանում եք ստեղծել "
+"պատկերներ, բայց ստիպված եք հաշվել պիքսելները մեկ այլ նկարի՞ց: Կաղապարները "
+"ձեզ կօգնեն այդ հարցում: Կաղապարները կարող են ցույց տալ պատկերը ձեր նշած "
+"վայրում, որոնց վրայով դուք կարող եք նկարել ձեր ցանկացած պատկերը(դրանք "
+"կոչվում են overlay): Կաղապարի 1 պիքսելը պետք է հավասար լինի կտավի 1 պիքսելին:"
+
+msgid "To use this page, enter your Password:"
+msgstr ""
+
+msgid "Today"
+msgstr "Այսօր"
+
+msgid "Today Placed Pixels"
+msgstr "Այսօր տեղադրված պիքսելները"
+
+msgid "Top 10 Countries [pxls / day]"
+msgstr "Թոփ 10 երկրներ [պիքսել / օր]"
+
+msgid "Top 10 Daily Ranking"
+msgstr "Թոփ 10 օրական վարկանիշ"
+
+msgid "Top 10 Players [pxls / day]"
+msgstr "Թոփ 10 խաղացողներ [պիքսել/օր]"
+
+#, fuzzy
+msgid "Top 10 Players from Yesterday"
+msgstr "Թոփ 10 խաղացողներ [պիքսել/օր]"
+
+msgid "Top-left corner"
+msgstr "Վերևի ձախ անկյուն"
+
+msgid "Total"
+msgstr "Ընդհանուր"
+
+msgid "Total Online Users"
+msgstr "Ընդհանուր օնլայն օգտատերեր"
+
+#, fuzzy
+msgid "Total Pixels per Player"
+msgstr "Օրական տեղադրված պիքսելների ընդհանուր քանակը"
+
+msgid "Total Pixels placed per day"
+msgstr "Օրական տեղադրված պիքսելների ընդհանուր քանակը"
+
+msgid "Total Rank"
+msgstr "Ընդհանուր դասակարգ"
+
+msgid ""
+"Turn every pixel in area to 0 (YOU REALLY SHOULDN'T DO THAT ON ANY AREA THAT "
+"ISN'T ALREADY MOSTLY 0)"
+msgstr ""
+"Զրոյացնել տարածքի պիքսելները (ԴՈՒ ԻՍԿԱՊԵՍ ԴԱ ՉՊԵՏՔ Է ԱՆԵՍ ԱՅՆ ՏԱՐԱԾՔԵՐՈՒՄ, "
+"ՈՐՏԵՂ ՄԵԾԱՄԱՍՆՈՒԹՅՈՒՆԸ ԱՐԴԵՆ 0 ՉԷ):"
+
+msgid "Turn on grid to highlight pixel borders."
+msgstr "Միացրեք ցանցը ՝ պիքսելների սահմանները ընդգծելու համար:"
+
+msgid "Type of Mod"
+msgstr ""
+
+msgid "Type the characters from the following image:"
+msgstr "Գրեք այն նշանները, որը տեսնում եք տվյալ նկարի մեջ."
+
+msgid "Unblock Users"
+msgstr "Արգելափակումից հանել օգտատիրոջը"
+
+msgid "Unknown Captcha Error"
+msgstr "Captcha-ի Անհայտ Սխալ"
+
+msgid "Unknown Error"
+msgstr "Անհայտ սխալ"
+
+msgid "Unmuted Sound"
+msgstr "Ձայնը միացված է"
+
+msgid "Until the browser closes"
+msgstr ""
+
+msgid "Upload images to canvas"
+msgstr "Պատկերները վերբեռնեք կտավին"
+
+msgid "Use our custom cursor"
+msgstr ""
+
+msgid "User"
+msgstr "Օգտատեր"
+
+msgid "User Account"
+msgstr "Օգտագործողի հաշիվ"
+
+msgid "User Area"
+msgstr "Օգտագործողի տարածք"
+
+msgid "User ID and verification level"
+msgstr ""
+
+msgid "User Name"
+msgstr "Օգտագործողի անունը"
+
+msgid "Username"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z . _ and -"
+msgstr ""
+
+msgid "Username can only contain the characters: a-z A-z . _ and -"
+msgstr ""
+
+msgid "Username can't be empty."
+msgstr ""
+
+msgid "Username must be at least 2 characters long"
+msgstr ""
+
+msgid "Username must be shorter than 26 characters"
+msgstr ""
+
+#, javascript-format
+msgid "We are Libre Software under the ${ agplLink }, "
+msgstr ""
+
+msgid ""
+"We decided to archive it as a timelapse with lossless encoded webm. Taking a "
+"screenshot from the timelapse results in a perfect 1:1 representation of how "
+"the canvas was at that time."
+msgstr ""
+"Մենք որոշեցինք արխիվացնել այն որպես պատմական տեսանյութ ՝ առանց կորուստների "
+"կոդավորված վեբ-կայքերի: Ժամանակահատվածից սքրինշոթ վերցնելը բերում է կատարյալ "
+"1:1 ներկայացման այն մասին, թե ինչպես էր այդ ժամանակ կտավը:"
+
+msgid ""
+"We thank the following artists, who made their palettes available to the "
+"public on"
+msgstr ""
+"Մենք շնորհակալություն ենք հայտնում այն արտիստներին, որոնք առաջարկեցին իրենց "
+"գունապնակը բացահայտ միացված լինել"
+
+msgid "Weird"
+msgstr "Տարօրինակ է"
+
+msgid "What the pencil should draw on the current canvas."
+msgstr ""
+
+msgid ""
+"While we tend to not delete canvases, some canvases are started for fun or "
+"as a request by users who like a currently popular meme. Those canvases can "
+"become dull and inactive after a while, at which point there is no reason to "
+"keep them and we may decide to remove them."
+msgstr ""
+"Չնայած մենք հակված ենք կտավները չջնջելուն, որոշ կտավներ սկսվում են զվարճանքի "
+"համար կամ որպես խնդրանք այն օգտվողների կողմից, ովքեր ներկայումս սիրում են "
+"մեմեր: Այդ կտավները կարող են ձանձրալի լինել որոշ ժամանակ անց և իմաստ չի "
+"լինում դրանք պահելու, այդ պատճառով մենք որոշում ենք հեռացնել դրանց:"
+
+msgid "Why?"
+msgstr "Ինչու՞"
+
+msgid "Width"
+msgstr "Լայնություն"
+
+msgid "Wrong Color"
+msgstr "Սխալ գույն"
+
+msgid "YOU CAN ONLY CHOOSE YOUR USERNAME ONCE!"
+msgstr ""
+
+msgid "Yes"
+msgstr "Այո"
+
+msgid "Yes, Delete My Account!"
+msgstr "Այո, ջնջե՛ք իմ հաշիվը:"
+
+msgid "Yesterday"
+msgstr "Երեկ"
+
+msgid ""
+"You are a teacher and a pupil is playing this game, despite it not being "
+"suitable for them? Send us an email."
+msgstr ""
+
+#, javascript-format
+msgid ""
+"You are banned. You think it is unjustified? Check out the ${ helpButton } "
+"on how to appeal. And don't forget to include the BID you can get below."
+msgstr ""
+
+msgid "You are currently not allowed to access this game."
+msgstr ""
+
+msgid "You are not allowed to play this game right now :("
+msgstr ""
+
+msgid "You are using a Proxy."
+msgstr "Դուք օգտագործում եք Proxy:"
+
+msgid "You are weird"
+msgstr "Դուք տարօրինակ եք"
+
+msgid ""
+"You can connect to pixuniverse and use pixuniverse accounts for oauth / oidc "
+"login. See here:"
+msgstr ""
+
+msgid "You can not access this canvas yet, because your pixel score is too low"
+msgstr ""
+"Դուք դեռ չեք կարող մուտք գործել այս կտավ: Դուք պետք է ավելի շատ պիքսել "
+"տեղադրեք"
+
+msgid "You can now place more on pixunivers.fun :)"
+msgstr "Դուք արդեն կարող եք տեղադրել ավելին pixunivers.fun-ում"
+
+#, javascript-format
+msgid ""
+"You caught a Phish! It is a ${ FISH_TYPES[type].name } with ${ size }kg! As "
+"a bonus, your cooldown is reduced."
+msgstr ""
+
+msgid "You did not consent"
+msgstr ""
+
+msgid "You failed your captcha"
+msgstr "Դուք ձեր captcha-ն ձախողեցիք"
+
+msgid "You have new messages in chat"
+msgstr "Դուք ունեք նոր նամակներ չատում"
+
+msgid "You have no users blocked"
+msgstr "Դուք արգելափակված օգտատերեր չունեք"
+
+msgid "You have to be logged in to place on this canvas"
+msgstr "Այս կտավի վրա պիքսել տեղադրելու համար հարկավոր է մուտք գործել համակարգ"
+
+msgid "You made too many requests"
+msgstr "Դուք շա՜տ փորձեր եք իրականացրել"
+
+msgid "You must be logged in to chat"
+msgstr "Դուք պետք է մուտք գործեք զրուցելու համար"
+
+msgid "You must enter a UserId"
+msgstr ""
+
+msgid "You must enter a duration"
+msgstr "Դուք պետք է մուտքագրեք տևողություն"
+
+msgid "You must enter a reason"
+msgstr ""
+
+msgid "You must enter a username"
+msgstr ""
+
+msgid "You must enter an BID"
+msgstr ""
+
+msgid "You must enter an IID"
+msgstr "Դուք պետք է մուտքագրեք IID"
+
+msgid "You must enter an IID or UserId"
+msgstr ""
+
+msgid "You must enter at least one IID, User Id or BID"
+msgstr ""
+
+msgid "You took too long, try again."
+msgstr "Շատ երկար էր, նորից փորձեք:"
+
+msgid ""
+"Your Browser doesn't allow us to use AudioContext to play sounds. Do you "
+"have some privacy feature blocking us?"
+msgstr ""
+"Ձեր բրաուզերը չի թույլատրում օգտագործել AudioContext ձայներ արտահանելու "
+"համար: Դուք ոնե՞ք մեզ արգելափակող գաղտնիության որևէ գործառույթ:"
+
+msgid "Your Browser looks shady"
+msgstr ""
+
+msgid "Your Internet Provider is banned from this game"
+msgstr "Ձեր ինտերնետ պրովայդեռը խաղում արգելափակված է"
+
+msgid "Your ban expires at "
+msgstr "Ձեր արգելափակումը լռանում է "
+
+msgid ""
+"Your did not set your username yet. A username is required to login to other "
+"applications. You can set it now:"
+msgstr ""
+
+msgid "Your name is:"
+msgstr ""
+
+msgid "Your next pixels are ready"
+msgstr "Ձեր հաջորդ պիքսելները պատրաստ են"
+
+msgid ""
+"Zoom in instead of placing a pixel when you tap the canvas and your zoom is "
+"small."
+msgstr ""
+"Կտավին սեղմելիս ավտոմատ խոշորացնել այն, պիքսել դրվելու փոխարեն այն դեպքում, "
+"երբ կտավը նայում եք հեռվից, որպեսզի լինի բավականաչափ հեռավորություն պիքսել "
+"դնելու համար:"
+
+#, javascript-format
+msgid "and ${ canvas.req } Pixels set"
+msgstr "և առնվազն ${ canvas.req } պիքսել"
+
+msgid "check compliance here"
+msgstr ""
+
+msgid "mentioned you"
+msgstr "Դուք հիշատակված եք"
+
+msgid "or login with:"
+msgstr "կամ մուտք գործեք հետևյալով ."
+
+msgid "or register here:"
+msgstr "կամ գրանցվեք այստեղ."
+
+msgid "recommended"
+msgstr "Առաջարկվում է"
+
+#, javascript-format
+msgid "try again after ${ ti }min"
+msgstr "Փորձեք կրկին ${ ti } րոպեից"
+
+msgid "x out of bounds"
+msgstr "x սահմաններից դուրս է"
+
+msgid "y out of bounds"
+msgstr "y սահմաններից դուրս է"
+
+msgid "z out of bounds"
+msgstr "z սահմաններից դուրս է"
+
+msgctxt "keybinds"
+msgid "A"
+msgstr "A"
+
+msgctxt "keybinds"
+msgid "B"
+msgstr ""
+
+msgctxt "keybinds"
+msgid "D"
+msgstr "D"
+
+msgctxt "keybinds"
+msgid "E"
+msgstr "E"
+
+msgctxt "keybinds"
+msgid "G"
+msgstr "G"
+
+msgctxt "keybinds"
+msgid "H"
+msgstr "H"
+
+msgctxt "keybinds"
+msgid "M"
+msgstr "M"
+
+msgctxt "keybinds"
+msgid "N"
+msgstr "N"
+
+msgctxt "keybinds"
+msgid "Q"
+msgstr "Q"
+
+msgctxt "keybinds"
+msgid "R"
+msgstr "R"
+
+msgctxt "keybinds"
+msgid "S"
+msgstr "S"
+
+msgctxt "keybinds"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keybinds"
+msgid "T"
+msgstr "T"
+
+msgctxt "keybinds"
+msgid "W"
+msgstr "W"
+
+msgctxt "keybinds"
+msgid "X"
+msgstr "X"
+
+#~ msgid "PopUp"
+#~ msgstr "PopUp"
+
+#~ msgid "You are banned. You think it is unjustified? Check out the "
+#~ msgstr "Դուք արգելափակված եք: Կարծում եք անարռա՞ռ է, ստուգեք "
+
+#~ msgid "Registration"
+#~ msgstr "Գրանցում"
+
+#~ msgid "Forgot Password"
+#~ msgstr "Մոռացել եմ գաղտնաբառը"
+
+#~ msgid " on how to appeal."
+#~ msgstr " ինչպես բողոքարկել արդելափակումը."
+
+#~ msgid "Unbanned"
+#~ msgstr "Արգելափակումից հանած"
+
+#~ msgid "Now that you have seen this message, you are no longer banned."
+#~ msgstr ""
+#~ "Հիմա, երբ արդեն դու տեսար այս նամակը, դու այլևս արգելափակման տակ չես:"
+
+#~ msgid "Source on "
+#~ msgstr "Աղբյուր կոդ -ի վրա "
+
+#, javascript-format
+#~ msgid ""
+#~ "If you got detected as proxy, but you are none, or think that you got "
+#~ "wrongfully banned, please go to our ${ guildedLink } or send us an e-mail "
+#~ "to ${ mailLink } and include the following IID:"
+#~ msgstr ""
+#~ "Եթե դուք հայնաբերվել եք proxy օգտագործելուց, սակայն դուք այն չեք "
+#~ "օգտագորխել, և կարծում եք որ դուք անհիմն եք արգելափակվել, կխնդրենք գնալ "
+#~ "մեր ${ guildedLink } կամ մեզ ուղարկել էլեկտորնային հաղորդագրություն $"
+#~ "{ mailLink } էլ. փոստին, ներառելով ձեր IID-ն."
+
+#~ msgid "Consider joining us on Guilded:"
+#~ msgstr "Միացեք մեզ Guilded-ում`"
+
+#, javascript-format
+#~ msgid "Your name is: ${ name }"
+#~ msgstr "Ձեր անունը ${ name } է"
+
+#~ msgid "Change Username"
+#~ msgstr "Փոխել Օգտանունը"
+
+#~ msgid "Change Mail"
+#~ msgstr "Փոխել էլ. փոստը"
+
+#~ msgid ""
+#~ "Please verify your mail address or your account could get deleted after a "
+#~ "few days."
+#~ msgstr ""
+#~ "Խնդրում ենք հաստատել ձեր փոստի հասցեն, այլապես ձեր հաշիվը կարող է ջնջվել "
+#~ "մի քանի օր անց:"
+
+#~ msgid ""
+#~ "Changed Mail successfully. We sent you a verification mail,             "
+#~ "please verify your new mail address."
+#~ msgstr ""
+#~ "Փոստը հաջողությամբ փոխվեց: Մենք ձեզ հաստատման նամակ ուղարկել ենք, խնդրում "
+#~ "ենք հաստատել Ձեր նոր փոստի հասցեն:"
+
+#~ msgid "Block all Private Messages"
+#~ msgstr "Արգելափակել բոլոր անձնական հաղորդագրությունները"
+
+#~ msgid "There are no mods"
+#~ msgstr "Չկա մոդերատոր"
+
+#~ msgid "Countries by Pixels Today"
+#~ msgstr "Երկրները, իրենց այսօրվա տեղադրած պիքսելներով"
+
+#~ msgid "Pixels placed"
+#~ msgstr "Պիքսելը պաշտպանվա՛ծ է"
+
+#~ msgid "History Pencil ON"
+#~ msgstr "Պատմական տեսակետի մատիտը ՄԻԱՑՎԱԾ"
+
+#~ msgid "Overlay Pencil ON"
+#~ msgstr "Overlay-ի մատիտը ՄԻԱՑՎԱԾ"
+
+#, javascript-format
+#~ msgid ""
+#~ "Hold right ${ bindShift } for placing while moving mouse according to "
+#~ "historical view"
+#~ msgstr ""
+#~ "Սեղմեք աջ ${ bindShift } որպիսի դնեք պատմական տեսակետի ժամանակվա պիքսել"
+
+#~ msgid "Right-Shift Auto-Color"
+#~ msgstr "Աջ Shift սեղմելու դեպքում տեղի կունենա պատկերի ավտոմատ նկարում"
+
+#~ msgid "Place pixels from overlay on right-shift, instead of history."
+#~ msgstr ""
+#~ "Տեղադրեք պիքսելներ overlay-ից աջ shift-ով, պատմական տեսակետի փոխարեն:"
+
+# Թարքմանել է Նարեկ Ադամյանը ։)
+#~ msgid "Didn't get an answer from pixuniverse. Maybe try to refresh?"
+#~ msgstr "pixuniverse-ը չի արձագանքում: Գուցե փորձեք թարմացնել էջը:"
+
+#~ msgid "Place more :)"
+#~ msgstr "Տեղադրեք ավելին :)"
+
+#~ msgid "No Proxies Allowed :("
+#~ msgstr "Proxy թույլատրված չէ :("
+
+#~ msgid "User online"
+#~ msgstr "Օգտագործողը առցանց"
+
+#~ msgid "Restore my Password"
+#~ msgstr "Վերականգնել իմ գաղտնաբառը"
+
+#~ msgid "Register New Account"
+#~ msgstr "Գրանցել նոր հաշիվ"
+
+#~ msgid "Ranking"
+#~ msgstr "Դասակարգում"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Գաղտնիության քաղաքականություն"
+
+#~ msgid "Terms of Service"
+#~ msgstr "Ծառայությունների մատուցման պայմաններ"
+
+#~ msgid "your IP"
+#~ msgstr "Ձեր IP-ն"
+
+#~ msgid "Partners:"
+#~ msgstr "Գործընկերներ "
+
+#, javascript-format
+#~ msgid ""
+#~ "This site is protected by reCAPTCHA and the Google ${ reCaptchaPP } and $"
+#~ "{ reCaptchaTOS } apply."
+#~ msgstr ""
+#~ "Այս կայքը պաշտպանված է reCAPTCHA- ի կողմից, և կիրառվում են Google $"
+#~ "{ reCaptchaPP } և ${ reCaptchaTOS }"
+
+#~ msgid ""
+#~ "This site is protected by hCAPTCHA and its ${ hCaptchaPP } and $"
+#~ "{ hCaptchaTOS } apply."
+#~ msgstr ""
+#~ "Այս կայքը պաշտպանված է hCAPTCHA- ի կողմից և կիրառվում են նրա $"
+#~ "{ hCaptchaPP } և ${ hCaptchaTOS }:"
+
+#~ msgid "Welcome to pixunivers.fun"
+#~ msgstr "Բարի գալուստ pixunivers.fun"
+
+#~ msgid "Daily"
+#~ msgstr "Ամեն օր"
+
+#~ msgid "Coordinates in X_Y format:"
+#~ msgstr "Կոորդինատները X_Y ձևաչափով."
+
+#~ msgid "I think we experienced some error :("
+#~ msgstr "Կարծում եմ, որ մենք որոշ սխալ ենք ունեցել .("
+
+#~ msgid "You successfully linked your mc account."
+#~ msgstr "Դուք հաջողությամբ կապեցիք ձեր ՄՔ հաշիվը:"
+
+#~ msgid "You denied."
+#~ msgstr "Դուք հերքեցիք:"
+
+#, javascript-format
+#~ msgid "You requested to link your mc account ${ minecraftname }."
+#~ msgstr "Դուք խնդրել եք կապել ձեր ՄՔ հաշիվը ${ minecraftname }:"
+
+#~ msgid "Accept"
+#~ msgstr "Ընդունել"
+
+#~ msgctxt "keybinds"
+#~ msgid "C"
+#~ msgstr "C"
