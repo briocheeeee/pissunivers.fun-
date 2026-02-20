@@ -268,56 +268,6 @@ h3, h4 {
   border-radius: 15px;
 }
 
-.donation-tier-card {
-  background-color: #262626;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
-  border-radius: 8px;
-}
-
-.donation-tier-card.vip.current {
-  box-shadow: 0 0 0 3px #f59e0b;
-}
-
-.donation-tier-card.premium.current {
-  box-shadow: 0 0 0 3px #8b5cf6;
-}
-
-.tier-body {
-  background-color: #353535;
-}
-
-.donations-info {
-  background-color: rgba(255, 255, 255, 0.05);
-}
-
-.donation-modal {
-  background-color: #262626;
-  color: #ff8c22;
-  border-radius: 8px;
-}
-
-.modal-close {
-  color: #ff8c22;
-}
-
-.modal-tier-info {
-  background-color: rgba(255, 255, 255, 0.1);
-}
-
-.provider-btn {
-  background-color: #353535;
-  color: #ffd4ae;
-}
-
-.provider-btn.selected {
-  border-color: #ff8c22;
-}
-
-.donation-error {
-  background-color: #5c2a2a;
-  color: #f8d7da;
-}
-
 .template-estimate {
   background: #262626;
   border-top-color: #444;
@@ -388,22 +338,33 @@ h3, h4 {
 
 .message-reactions {
   display: inline-flex;
+  align-items: center;
+  gap: 3px;
   margin-left: 4px;
 }
 
 .reaction-badge {
-  background: #434648;
-  border-color: transparent;
-  border-radius: 10px;
-  padding: 1px 4px;
+  display: inline-flex;
+  align-items: center;
   gap: 2px;
-  font-size: 10px;
-  line-height: 1;
+  padding: 1px 5px 1px 3px;
+  background: #434648;
+  border: 1px solid #555;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 11px;
+  line-height: 1.4;
+  transition: background-color 0.1s ease, border-color 0.1s ease;
 }
 
-.reaction-badge:hover {
+.reaction-badge:hover:not(:disabled) {
   background: #5a5a5a;
-  transform: scale(1.05);
+  border-color: #ff8c22;
+}
+
+.reaction-badge:focus-visible {
+  outline: 2px solid #ff8c22;
+  outline-offset: 1px;
 }
 
 .reaction-badge.reacted {
@@ -411,24 +372,48 @@ h3, h4 {
   background: #4a3520;
 }
 
+.reaction-badge:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 .reaction-emoji {
   width: 14px;
   height: 14px;
+  object-fit: contain;
+  display: block;
 }
 
 .reaction-count {
   color: #aaa;
-  font-size: 10px;
+  font-weight: 500;
+  font-size: 11px;
+  min-width: 8px;
+  text-align: center;
 }
 
 .reaction-add-btn {
-  border-color: #555;
-  color: #888;
-  border-radius: 9px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 18px;
   height: 18px;
-  font-size: 12px;
-  opacity: 0.5;
+  padding: 0;
+  background: #3a3d40;
+  border: 1px solid #555;
+  border-radius: 0;
+  cursor: pointer;
+  color: #aaa;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1;
+  transition: background-color 0.1s ease, border-color 0.1s ease, color 0.1s ease;
+  opacity: 0;
+}
+
+.chatmsg:hover .reaction-add-btn,
+.reaction-add-btn:focus-visible {
+  opacity: 1;
 }
 
 .reaction-add-btn:hover {
@@ -436,6 +421,19 @@ h3, h4 {
   color: #ff8c22;
   background: #4a3520;
   opacity: 1;
+}
+
+.reaction-add-btn:focus-visible {
+  outline: 2px solid #ff8c22;
+  outline-offset: 1px;
+}
+
+.reaction-picker-portal .emoji-picker {
+  position: static;
+  background: #2a2d30;
+  border: 1px solid #555;
+  border-radius: 0;
+  box-shadow: 3px 3px 0 rgba(0,0,0,0.4);
 }
 
 .md-timestamp {

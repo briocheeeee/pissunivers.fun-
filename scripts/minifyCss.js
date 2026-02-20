@@ -28,7 +28,8 @@ function resolveImports(content, folder) {
     const importedPath = path.resolve(folder, importedFile);
     if (fs.existsSync(importedPath)) {
       const importedContent = fs.readFileSync(importedPath, 'utf8');
-      const resolvedContent = resolveImports(importedContent, folder);
+      const importedFolder = path.dirname(importedPath);
+      const resolvedContent = resolveImports(importedContent, importedFolder);
       result = result.replace(match[0], resolvedContent);
     }
   }
@@ -41,7 +42,7 @@ async function minifyCss() {
   const cssFiles = fs.readdirSync(FOLDER).filter((e) => e.endsWith('.css'));
   const cleanCss = new CleanCSS({});
 
-  await Promise.all(cssFiles.map(async (file) => {
+  for (const file of cssFiles) {
     let input = fs.readFileSync(path.resolve(FOLDER, file), 'utf8');
     input = resolveImports(input, FOLDER);
     const output = cleanCss.minify(input);
@@ -49,15 +50,16 @@ async function minifyCss() {
       output.warnings.forEach((w) => console.log('\x1b[33m%s\x1b[0m', w));
     }
     if (output.errors && output.errors.length > 0) {
+      console.log(`\x1b[31mError in file: ${file}\x1b[0m`);
       output.errors.forEach((e) => console.log('\x1b[31m%s\x1b[0m', e));
-      throw new Error('Minify CSS Error Occured');
+      throw new Error(`Minify CSS Error in ${file}`);
     }
     console.log(`${file} by ${Math.round(output.stats.efficiency * 100)}%`);
     const hash = crypto.createHash('md5').update(output.styles).digest('hex');
     const key = file.substr(0, file.indexOf('.'));
     const filename = `${key}.${hash.substr(0, 8)}.css`;
     fs.writeFileSync(path.resolve(assetdir, filename), output.styles, 'utf8');
-  }));
+  }
   process.stdout.write(`\x1b[33mMinifying took ${Math.round((Date.now() - ts) / 1000)}s\x1b[0m\n`);
 }
 

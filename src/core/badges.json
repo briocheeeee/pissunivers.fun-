@@ -7,18 +7,6 @@
       "thumb": "bughunter.webp"
     },
     {
-      "name": "Premium",
-      "description": "Premium Member",
-      "file": "premium.gif",
-      "thumb": "premium.webp"
-    },
-    {
-      "name": "VIP",
-      "description": "VIP Member",
-      "file": "vip.gif",
-      "thumb": "vip.webp"
-    },
-    {
       "name": "First Pixel",
       "description": "Placed your first pixel",
       "file": "firstpixel.gif",

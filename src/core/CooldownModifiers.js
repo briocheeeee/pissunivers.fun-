@@ -4,7 +4,6 @@
  * Country modifiers are permanent.
  */
 import socketEvents from '../socket/socketEvents.js';
-import { getMaxPixelStackMultiplier, DONATION_TIER } from './donations/index.js';
 
 /*
  * {country: factor, ...}
@@ -14,10 +13,6 @@ const countries = {};
  * { ip: factor, ...}
  */
 const ips = {};
-/*
- * { odId: donationTier, ...}
- */
-const userDonationTiers = {};
 /*
  * [[ip, timeoutEnd, factor], ...]
  */
@@ -104,29 +99,6 @@ export function getAmountOfIPCooldownModifications() {
 
 export function getCooldownFactor(country, ip) {
   return (countries[country] || 1.0) * (ips[ip] || 1.0);
-}
-
-export function setUserDonationTier(odId, donationTier) {
-  if (donationTier && donationTier !== DONATION_TIER.USER) {
-    userDonationTiers[odId] = donationTier;
-  } else {
-    delete userDonationTiers[odId];
-  }
-}
-
-export function getUserDonationTier(odId) {
-  return userDonationTiers[odId] || DONATION_TIER.USER;
-}
-
-export function getDonationStackMultiplier(odId) {
-  const tier = userDonationTiers[odId] || DONATION_TIER.USER;
-  return getMaxPixelStackMultiplier(tier);
-}
-
-export function getFullCooldownFactor(country, ip, odId) {
-  const baseFactor = (countries[country] || 1.0) * (ips[ip] || 1.0);
-  const donationMultiplier = getDonationStackMultiplier(odId);
-  return baseFactor / donationMultiplier;
 }
 
 socketEvents.on('ipCooldownModifier', setIPCooldownFactor);

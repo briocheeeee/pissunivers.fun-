@@ -16,6 +16,7 @@ import ChatMessage from '../ChatMessage.jsx';
 import ChannelDropDown from '../contextmenus/ChannelDropDown.jsx';
 import TypingIndicator from '../TypingIndicator.jsx';
 import EmojiPicker from '../EmojiPicker.jsx';
+import { openWindow } from '../../store/actions/windows.js';
 
 import { CHANNEL_TYPES } from '../../core/constants.js';
 
@@ -85,6 +86,21 @@ const Chat = () => {
     setCmArgs({});
   }, []);
 
+  const openProfile = useCallback((uid, name) => {
+    dispatch(openWindow(
+      'USER_PROFILE',
+      false,
+      name,
+      { uid },
+      false,
+      false,
+      null,
+      null,
+      560,
+      null,
+    ));
+  }, [dispatch]);
+
   const openUserCm = useCallback((x, y, name, uid) => {
     setCmArgs({
       type: 'USER',
@@ -95,9 +111,10 @@ const Chat = () => {
         uid,
         setChannel,
         addToInput,
+        openProfile,
       },
     });
-  }, [setChannel, addToInput]);
+  }, [setChannel, addToInput, openProfile]);
 
   const { stayScrolled, isScrolled } = useStayScrolled(listRef, {
     initialScroll: Infinity,
@@ -261,7 +278,7 @@ const Chat = () => {
                 uid={message[3]}
                 ts={message[4]}
                 key={message[5]}
-                msgId={message[5]}
+                msgId={message[9]}
                 channelId={chatChannel}
                 faction={message[6]}
                 avatar={message[7]}

@@ -52,46 +52,51 @@ const FactionCreateForm = ({ onCreated }) => {
   };
 
   return (
-    <div className="content">
-      <h3 style={{ marginBottom: 16 }}>{t`Create a Faction`}</h3>
-      <form onSubmit={handleSubmit}>
-        <div style={{ marginBottom: 12 }}>
-          <label style={{ display: 'block', marginBottom: 4 }}>{t`Faction Name`}</label>
-          <input
-            type="text"
-            value={name}
-            onChange={(e) => setName(e.target.value)}
-            placeholder={t`3-32 characters`}
-            maxLength={32}
-            style={{ width: '100%', maxWidth: 250 }}
-          />
-        </div>
-        <div style={{ marginBottom: 12 }}>
-          <label style={{ display: 'block', marginBottom: 4 }}>{t`Tag`}</label>
-          <input
-            type="text"
-            value={tag}
-            onChange={(e) => setTag(e.target.value.toUpperCase())}
-            placeholder={t`2-8 characters`}
-            maxLength={8}
-            style={{ width: '100%', maxWidth: 100 }}
-          />
-        </div>
-        <div style={{ marginBottom: 12 }}>
-          <label style={{ display: 'block', marginBottom: 4 }}>{t`Access Mode`}</label>
-          <select
-            value={access}
-            onChange={(e) => setAccess(Number(e.target.value))}
-          >
-            <option value={FACTION_ACCESS.OPEN}>{ACCESS_LABELS[FACTION_ACCESS.OPEN]}</option>
-            <option value={FACTION_ACCESS.REQUEST}>{ACCESS_LABELS[FACTION_ACCESS.REQUEST]}</option>
-            <option value={FACTION_ACCESS.CLOSED}>{ACCESS_LABELS[FACTION_ACCESS.CLOSED]}</option>
-          </select>
-        </div>
-        <button type="submit" disabled={submitting}>
-          {submitting ? t`Creating...` : t`Create Faction`}
-        </button>
-      </form>
+    <div className="fa-manage">
+      <div className="fa-subsection-title">{t`Create a Faction`}</div>
+      <div className="fa-form-panel">
+        <form onSubmit={handleSubmit}>
+          <div className="fa-form-row">
+            <label className="fa-form-label">{t`Name`}</label>
+            <input
+              type="text"
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+              placeholder={t`3-32 characters`}
+              maxLength={32}
+              className="fa-form-input"
+            />
+          </div>
+          <div className="fa-form-row">
+            <label className="fa-form-label">{t`Tag`}</label>
+            <input
+              type="text"
+              value={tag}
+              onChange={(e) => setTag(e.target.value.toUpperCase())}
+              placeholder={t`2-8 characters`}
+              maxLength={8}
+              className="fa-form-input fa-form-input--short"
+            />
+          </div>
+          <div className="fa-form-row">
+            <label className="fa-form-label">{t`Access`}</label>
+            <select
+              value={access}
+              onChange={(e) => setAccess(Number(e.target.value))}
+              className="fa-form-select"
+            >
+              <option value={FACTION_ACCESS.OPEN}>{ACCESS_LABELS[FACTION_ACCESS.OPEN]}</option>
+              <option value={FACTION_ACCESS.REQUEST}>{ACCESS_LABELS[FACTION_ACCESS.REQUEST]}</option>
+              <option value={FACTION_ACCESS.CLOSED}>{ACCESS_LABELS[FACTION_ACCESS.CLOSED]}</option>
+            </select>
+          </div>
+          <div className="fa-form-actions">
+            <button type="submit" className="fa-btn fa-btn--primary" disabled={submitting}>
+              {submitting ? t`Creating...` : t`Create Faction`}
+            </button>
+          </div>
+        </form>
+      </div>
     </div>
   );
 };
@@ -258,201 +263,191 @@ const FactionManage = ({ faction, onUpdate, onDeleted }) => {
   }, [faction.id]);
 
   return (
-    <div className="content">
-      <div style={{ marginBottom: 16, display: 'flex', alignItems: 'flex-start', gap: 16 }}>
-        <div style={{ position: 'relative' }}>
-          {faction.avatar ? (
-            <img
-              src={faction.avatar}
-              alt={faction.name}
-              style={{ width: 80, height: 80, objectFit: 'cover', borderRadius: 8 }}
-            />
-          ) : (
-            <div style={{
-              width: 80,
-              height: 80,
-              backgroundColor: '#ccc',
-              borderRadius: 8,
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              fontSize: 24,
-              fontWeight: 'bold',
-            }}
-            >
-              {faction.tag.substring(0, 2)}
-            </div>
-          )}
-          {isOwner && (
-            <>
-              <input
-                type="file"
-                ref={fileInputRef}
-                onChange={handleAvatarChange}
-                accept="image/*"
-                style={{ display: 'none' }}
+    <div className="fa-manage">
+      <div className="fa-info-card">
+        <div className="fa-info-avatar-col">
+          <div className="fa-avatar-wrap">
+            {faction.avatar ? (
+              <img
+                src={faction.avatar}
+                alt={faction.name}
+                className="fa-avatar-img"
               />
-              <button
-                type="button"
-                onClick={() => fileInputRef.current?.click()}
-                disabled={uploadingAvatar}
-                style={{
-                  position: 'absolute',
-                  bottom: -8,
-                  right: -8,
-                  fontSize: 10,
-                  padding: '2px 6px',
-                }}
-              >
-                {uploadingAvatar ? '...' : t`Edit`}
-              </button>
-            </>
-          )}
+            ) : (
+              <div className="fa-avatar-placeholder">
+                {faction.tag.substring(0, 2)}
+              </div>
+            )}
+            {isOwner && (
+              <>
+                <input
+                  type="file"
+                  ref={fileInputRef}
+                  onChange={handleAvatarChange}
+                  accept="image/*"
+                  style={{ display: 'none' }}
+                />
+                <button
+                  type="button"
+                  className="fa-avatar-edit-btn"
+                  onClick={() => fileInputRef.current?.click()}
+                  disabled={uploadingAvatar}
+                >
+                  {uploadingAvatar ? '…' : t`Edit`}
+                </button>
+              </>
+            )}
+          </div>
         </div>
-        <div style={{ flex: 1 }}>
-          <h3 style={{ margin: '0 0 8px 0' }}>
+
+        <div className="fa-info-main">
+          <div className="fa-info-header">
             <span
               role="button"
               tabIndex={0}
+              className="fa-faction-name"
               onClick={openPublicPage}
-              style={{ cursor: 'pointer', textDecoration: 'underline' }}
+              onKeyDown={(e) => (e.key === 'Enter' || e.key === ' ') && openPublicPage()}
             >
               [{faction.tag}] {faction.name}
             </span>
-          </h3>
-          <p style={{ margin: '4px 0' }}>
-            <span className="stattext">{t`Members`}:</span>
-            &nbsp;
-            <span className="statvalue">{faction.memberCount}</span>
-          </p>
-          <p style={{ margin: '4px 0' }}>
-            <span className="stattext">{t`Total Pixels`}:</span>
-            &nbsp;
-            <span className="statvalue">{numberToString(faction.totalPixels)}</span>
-          </p>
-          <p style={{ margin: '4px 0' }}>
-            <span className="stattext">{t`Pixels Today`}:</span>
-            &nbsp;
-            <span className="statvalue">{numberToString(faction.dailyPixels)}</span>
-          </p>
-          <p style={{ margin: '4px 0' }}>
-            <span className="stattext">{t`Rank`}:</span>
-            &nbsp;
-            <span className="statvalue">#{faction.rank || '-'}</span>
-          </p>
-          <p style={{ margin: '4px 0' }}>
-            <span className="stattext">{t`Access`}:</span>
-            &nbsp;
-            <span className="statvalue">{ACCESS_LABELS[faction.access]}</span>
-          </p>
-          <p style={{ margin: '4px 0' }}>
-            <span className="stattext">{t`Your Role`}:</span>
-            &nbsp;
-            <span className="statvalue">{isOwner ? t`Owner` : t`Member`}</span>
-          </p>
+            <span className="fa-role-badge">
+              {isOwner ? t`Owner` : t`Member`}
+            </span>
+          </div>
+
+          <div className="fa-info-stats">
+            <div className="fa-info-stat">
+              <span className="fa-info-stat-value">{faction.memberCount}</span>
+              <span className="fa-info-stat-label">{t`Members`}</span>
+            </div>
+            <div className="fa-info-stat">
+              <span className="fa-info-stat-value">{numberToString(faction.totalPixels)}</span>
+              <span className="fa-info-stat-label">{t`Total Pixels`}</span>
+            </div>
+            <div className="fa-info-stat">
+              <span className="fa-info-stat-value">{numberToString(faction.dailyPixels)}</span>
+              <span className="fa-info-stat-label">{t`Today`}</span>
+            </div>
+            <div className="fa-info-stat">
+              <span className="fa-info-stat-value">#{faction.rank || '-'}</span>
+              <span className="fa-info-stat-label">{t`Rank`}</span>
+            </div>
+          </div>
+
+          <div className="fa-info-meta">
+            <span className="fa-access-tag">{ACCESS_LABELS[faction.access]}</span>
+          </div>
         </div>
       </div>
 
+      <div className="fa-actions-row">
+        {isOwner && !editMode && (
+          <>
+            <button type="button" className="fa-btn" onClick={() => setEditMode(true)}>{t`Edit`}</button>
+            <button type="button" className="fa-btn" onClick={() => setShowTransfer(!showTransfer)}>
+              {t`Transfer`}
+            </button>
+            <button type="button" className="fa-btn fa-btn--danger" onClick={() => setShowDeleteConfirm(!showDeleteConfirm)}>
+              {t`Delete`}
+            </button>
+          </>
+        )}
+        {!isOwner && (
+          <button type="button" className="fa-btn fa-btn--danger" onClick={handleLeave}>{t`Leave Faction`}</button>
+        )}
+      </div>
 
       {isOwner && editMode && (
-        <div style={{ marginBottom: 16, padding: 8, border: '1px solid #ccc' }}>
-          <h4>{t`Edit Faction`}</h4>
-          <div style={{ marginBottom: 8 }}>
-            <label>{t`Name`}:</label>
+        <div className="fa-form-panel">
+          <div className="fa-form-title">{t`Edit Faction`}</div>
+          <div className="fa-form-row">
+            <label className="fa-form-label">{t`Name`}</label>
             <input
               type="text"
               value={editName}
               onChange={(e) => setEditName(e.target.value)}
-              style={{ marginLeft: 8, width: 200 }}
+              className="fa-form-input"
             />
           </div>
-          <div style={{ marginBottom: 8 }}>
-            <label>{t`Tag`}:</label>
+          <div className="fa-form-row">
+            <label className="fa-form-label">{t`Tag`}</label>
             <input
               type="text"
               value={editTag}
               onChange={(e) => setEditTag(e.target.value)}
-              style={{ marginLeft: 8, width: 100 }}
+              className="fa-form-input fa-form-input--short"
               maxLength={8}
             />
           </div>
-          <div style={{ marginBottom: 8 }}>
-            <label>{t`Access`}:</label>
+          <div className="fa-form-row">
+            <label className="fa-form-label">{t`Access`}</label>
             <select
               value={editAccess}
               onChange={(e) => setEditAccess(Number(e.target.value))}
-              style={{ marginLeft: 8 }}
+              className="fa-form-select"
             >
               <option value={FACTION_ACCESS.OPEN}>{ACCESS_LABELS[FACTION_ACCESS.OPEN]}</option>
               <option value={FACTION_ACCESS.REQUEST}>{ACCESS_LABELS[FACTION_ACCESS.REQUEST]}</option>
               <option value={FACTION_ACCESS.CLOSED}>{ACCESS_LABELS[FACTION_ACCESS.CLOSED]}</option>
             </select>
           </div>
-          <button type="button" onClick={handleUpdate}>{t`Save`}</button>
-          <button type="button" onClick={() => setEditMode(false)} style={{ marginLeft: 8 }}>{t`Cancel`}</button>
+          <div className="fa-form-actions">
+            <button type="button" className="fa-btn fa-btn--primary" onClick={handleUpdate}>{t`Save`}</button>
+            <button type="button" className="fa-btn" onClick={() => setEditMode(false)}>{t`Cancel`}</button>
+          </div>
         </div>
       )}
 
-      <div style={{ marginBottom: 16 }}>
-        {isOwner && !editMode && (
-          <>
-            <button type="button" onClick={() => setEditMode(true)}>{t`Edit Faction`}</button>
-            <button type="button" onClick={() => setShowTransfer(!showTransfer)} style={{ marginLeft: 8 }}>
-              {t`Transfer Ownership`}
-            </button>
-            <button type="button" onClick={() => setShowDeleteConfirm(!showDeleteConfirm)} style={{ marginLeft: 8 }}>
-              {t`Delete Faction`}
-            </button>
-          </>
-        )}
-        {!isOwner && (
-          <button type="button" onClick={handleLeave}>{t`Leave Faction`}</button>
-        )}
-      </div>
-
       {showTransfer && (
-        <div style={{ marginBottom: 16, padding: 8, border: '1px solid #ccc' }}>
-          <h4>{t`Transfer Ownership`}</h4>
-          <p>{t`Select a member from the list below to transfer ownership.`}</p>
-          <div style={{ marginBottom: 8 }}>
+        <div className="fa-form-panel">
+          <div className="fa-form-title">{t`Transfer Ownership`}</div>
+          <p className="fa-form-desc">{t`Select a member to transfer ownership to.`}</p>
+          <div className="fa-form-row">
             <select
               value={transferId}
               onChange={(e) => setTransferId(e.target.value)}
+              className="fa-form-select"
             >
               <option value="">{t`Select member...`}</option>
               {faction.members && faction.members
                 .filter((m) => m.id !== userId)
                 .map((m) => (
-                  <option key={m.id} value={m.id}>{m.name} (ID: {m.id})</option>
+                  <option key={m.id} value={m.id}>{m.name} (#{m.id})</option>
                 ))}
             </select>
           </div>
-          <button type="button" onClick={handleTransfer} disabled={!transferId}>{t`Transfer`}</button>
-          <button type="button" onClick={() => setShowTransfer(false)} style={{ marginLeft: 8 }}>{t`Cancel`}</button>
+          <div className="fa-form-actions">
+            <button type="button" className="fa-btn fa-btn--primary" onClick={handleTransfer} disabled={!transferId}>{t`Transfer`}</button>
+            <button type="button" className="fa-btn" onClick={() => setShowTransfer(false)}>{t`Cancel`}</button>
+          </div>
         </div>
       )}
 
       {showDeleteConfirm && (
-        <div style={{ marginBottom: 16, padding: 8, border: '1px solid #c00' }}>
-          <h4>{t`Delete Faction`}</h4>
-          <p>{t`This action cannot be undone. Enter your password to confirm.`}</p>
-          <div style={{ marginBottom: 8 }}>
+        <div className="fa-form-panel fa-form-panel--danger">
+          <div className="fa-form-title">{t`Delete Faction`}</div>
+          <p className="fa-form-desc">{t`This action cannot be undone. Enter your password to confirm.`}</p>
+          <div className="fa-form-row">
             <input
               type="password"
               value={deletePassword}
               onChange={(e) => setDeletePassword(e.target.value)}
               placeholder={t`Password`}
+              className="fa-form-input"
             />
           </div>
-          <button type="button" onClick={handleDelete}>{t`Confirm Delete`}</button>
-          <button type="button" onClick={() => setShowDeleteConfirm(false)} style={{ marginLeft: 8 }}>{t`Cancel`}</button>
+          <div className="fa-form-actions">
+            <button type="button" className="fa-btn fa-btn--danger" onClick={handleDelete}>{t`Confirm Delete`}</button>
+            <button type="button" className="fa-btn" onClick={() => setShowDeleteConfirm(false)}>{t`Cancel`}</button>
+          </div>
         </div>
       )}
 
       {isOwner && faction.requests && faction.requests.length > 0 && (
-        <div style={{ marginBottom: 16 }}>
-          <h4>{t`Join Requests`} ({faction.requestCount})</h4>
-          <table style={{ width: '100%' }}>
+        <div className="fa-subsection">
+          <div className="fa-subsection-title">{t`Join Requests`} <span className="fa-count">({faction.requestCount})</span></div>
+          <table className="fa-table">
             <thead>
               <tr>
                 <th>{t`User`}</th>
@@ -465,9 +460,9 @@ const FactionManage = ({ faction, onUpdate, onDeleted }) => {
                 <tr key={req.id}>
                   <td>{req.name}</td>
                   <td>{new Date(req.createdAt).toLocaleDateString()}</td>
-                  <td>
-                    <button type="button" onClick={() => handleAcceptRequest(req.id)}>{t`Accept`}</button>
-                    <button type="button" onClick={() => handleRejectRequest(req.id)} style={{ marginLeft: 4 }}>{t`Reject`}</button>
+                  <td className="fa-table-actions">
+                    <button type="button" className="fa-btn fa-btn--sm fa-btn--primary" onClick={() => handleAcceptRequest(req.id)}>{t`Accept`}</button>
+                    <button type="button" className="fa-btn fa-btn--sm fa-btn--danger" onClick={() => handleRejectRequest(req.id)}>{t`Reject`}</button>
                   </td>
                 </tr>
               ))}
@@ -476,9 +471,9 @@ const FactionManage = ({ faction, onUpdate, onDeleted }) => {
         </div>
       )}
 
-      <div>
-        <h4>{t`Members`}</h4>
-        <table style={{ width: '100%' }}>
+      <div className="fa-subsection">
+        <div className="fa-subsection-title">{t`Members`} <span className="fa-count">({faction.memberCount})</span></div>
+        <table className="fa-table">
           <thead>
             <tr>
               <th>{t`User`}</th>
@@ -491,12 +486,16 @@ const FactionManage = ({ faction, onUpdate, onDeleted }) => {
             {faction.members && faction.members.map((member) => (
               <tr key={member.id}>
                 <td>{member.name}</td>
-                <td>{member.role === FACTION_ROLE.OWNER ? t`Owner` : t`Member`}</td>
+                <td>
+                  <span className={`fa-role-pill ${member.role === FACTION_ROLE.OWNER ? 'fa-role-pill--owner' : ''}`}>
+                    {member.role === FACTION_ROLE.OWNER ? t`Owner` : t`Member`}
+                  </span>
+                </td>
                 <td>{new Date(member.joinedAt).toLocaleDateString()}</td>
                 {isOwner && (
-                  <td>
+                  <td className="fa-table-actions">
                     {member.id !== userId && member.role !== FACTION_ROLE.OWNER && (
-                      <button type="button" onClick={() => handleKick(member.id)}>{t`Kick`}</button>
+                      <button type="button" className="fa-btn fa-btn--sm fa-btn--danger" onClick={() => handleKick(member.id)}>{t`Kick`}</button>
                     )}
                   </td>
                 )}
@@ -506,15 +505,13 @@ const FactionManage = ({ faction, onUpdate, onDeleted }) => {
         </table>
       </div>
 
-      <div className="modaldivider" />
-
-      <div>
-        <h4>{t`Member Statistics`}</h4>
+      <div className="fa-subsection">
+        <div className="fa-subsection-title">{t`Member Statistics`}</div>
         {statsLoading ? (
-          <p>{t`Loading...`}</p>
+          <p className="fa-loading">{t`Loading...`}</p>
         ) : stats && stats.memberStats && stats.memberStats.length > 0 ? (
           <>
-            <table style={{ width: '100%' }}>
+            <table className="fa-table">
               <thead>
                 <tr>
                   <th>#</th>
@@ -537,19 +534,21 @@ const FactionManage = ({ faction, onUpdate, onDeleted }) => {
               </tbody>
             </table>
             {stats.memberStats.length > STATS_PER_PAGE && (
-              <div style={{ display: 'flex', justifyContent: 'center', gap: 8, marginTop: 12 }}>
+              <div className="fa-pagination">
                 <button
                   type="button"
+                  className="fa-btn fa-btn--sm"
                   disabled={statsPage <= 1}
                   onClick={() => setStatsPage((p) => p - 1)}
                 >
                   {t`Previous`}
                 </button>
-                <span style={{ alignSelf: 'center' }}>
+                <span className="fa-page-info">
                   {statsPage} / {Math.ceil(stats.memberStats.length / STATS_PER_PAGE)}
                 </span>
                 <button
                   type="button"
+                  className="fa-btn fa-btn--sm"
                   disabled={statsPage >= Math.ceil(stats.memberStats.length / STATS_PER_PAGE)}
                   onClick={() => setStatsPage((p) => p + 1)}
                 >
@@ -559,7 +558,7 @@ const FactionManage = ({ faction, onUpdate, onDeleted }) => {
             )}
           </>
         ) : (
-          <p>{t`No stats available`}</p>
+          <p className="fa-empty">{t`No stats available`}</p>
         )}
       </div>
     </div>
@@ -593,32 +592,29 @@ const FactionRankingsTab = () => {
   };
 
   return (
-    <div className="content">
-      <div style={{ marginBottom: 12 }}>
-        <span
-          role="button"
-          tabIndex={-1}
-          className={!daily ? 'modallink selected' : 'modallink'}
+    <div className="fa-manage">
+      <div className="fa-actions-row">
+        <button
+          type="button"
+          className={!daily ? 'fa-btn fa-btn--primary' : 'fa-btn'}
           onClick={() => { setDaily(false); setPage(1); }}
         >
           {t`Total`}
-        </span>
-        <span className="hdivider" />
-        <span
-          role="button"
-          tabIndex={-1}
-          className={daily ? 'modallink selected' : 'modallink'}
+        </button>
+        <button
+          type="button"
+          className={daily ? 'fa-btn fa-btn--primary' : 'fa-btn'}
           onClick={() => { setDaily(true); setPage(1); }}
         >
           {t`Today`}
-        </span>
+        </button>
       </div>
 
       {loading ? (
-        <p>{t`Loading...`}</p>
+        <p className="fa-loading">{t`Loading...`}</p>
       ) : (
         <>
-          <table style={{ width: '100%' }}>
+          <table className="fa-table">
             <thead>
               <tr>
                 <th>#</th>
@@ -635,15 +631,14 @@ const FactionRankingsTab = () => {
                     <span
                       role="button"
                       tabIndex={-1}
-                      className="modallink"
+                      className="fa-faction-name"
                       onClick={() => handleFactionClick(faction.id)}
-                      style={{ cursor: 'pointer' }}
                     >
                       {faction.avatar && (
                         <img
                           src={faction.avatar}
                           alt=""
-                          style={{ width: 20, height: 20, marginRight: 4, verticalAlign: 'middle', borderRadius: 2 }}
+                          style={{ width: 18, height: 18, marginRight: 4, verticalAlign: 'middle', borderRadius: 2 }}
                         />
                       )}
                       [{faction.tag}] {faction.name}
@@ -659,22 +654,24 @@ const FactionRankingsTab = () => {
           </table>
 
           {rankings.length === 0 && (
-            <p>{t`No factions found.`}</p>
+            <p className="fa-empty">{t`No factions found.`}</p>
           )}
 
-          <div style={{ marginTop: 16, textAlign: 'center' }}>
+          <div className="fa-pagination">
             <button
               type="button"
+              className="fa-btn fa-btn--sm"
               disabled={page <= 1}
               onClick={() => setPage((p) => Math.max(1, p - 1))}
             >
               {t`Previous`}
             </button>
-            <span style={{ margin: '0 12px' }}>
+            <span className="fa-page-info">
               {page} / {totalPages}
             </span>
             <button
               type="button"
+              className="fa-btn fa-btn--sm"
               disabled={page >= totalPages}
               onClick={() => setPage((p) => p + 1)}
             >
@@ -684,9 +681,7 @@ const FactionRankingsTab = () => {
         </>
       )}
 
-      <p style={{ marginTop: 16, fontSize: '0.9em', color: '#666' }}>
-        {t`Ranking updates every 5 minutes.`}
-      </p>
+      <p className="fa-empty">{t`Ranking updates every 5 minutes.`}</p>
     </div>
   );
 };
@@ -722,69 +717,62 @@ const FactionArea = () => {
   }, [userId, loadFaction]);
 
   const renderTabs = () => (
-    <div style={{ marginBottom: 16 }}>
-      <span
-        role="button"
-        tabIndex={-1}
-        className={activeTab === 'my' ? 'modallink selected' : 'modallink'}
+    <div className="fa-actions-row">
+      <button
+        type="button"
+        className={activeTab === 'my' ? 'fa-btn fa-btn--primary' : 'fa-btn'}
         onClick={() => setActiveTab('my')}
       >
         {t`My Faction`}
-      </span>
-      <span className="hdivider" />
-      <span
-        role="button"
-        tabIndex={-1}
-        className={activeTab === 'rankings' ? 'modallink selected' : 'modallink'}
+      </button>
+      <button
+        type="button"
+        className={activeTab === 'rankings' ? 'fa-btn fa-btn--primary' : 'fa-btn'}
         onClick={() => setActiveTab('rankings')}
       >
         {t`Rankings`}
-      </span>
+      </button>
     </div>
   );
 
   if (activeTab === 'rankings') {
     return (
-      <>
+      <div className="fa-manage">
         {renderTabs()}
         <FactionRankingsTab />
-      </>
+      </div>
     );
   }
 
   if (!userId) {
     return (
-      <>
+      <div className="fa-manage">
         {renderTabs()}
-        <div className="content">
-          <p>{t`You must be logged in to manage factions.`}</p>
-        </div>
-      </>
+        <p className="fa-empty">{t`You must be logged in to manage factions.`}</p>
+      </div>
     );
   }
 
   if (loading) {
     return (
-      <>
+      <div className="fa-manage">
         {renderTabs()}
-        <div className="content">
-          <p>{t`Loading...`}</p>
-        </div>
-      </>
+        <p className="fa-loading">{t`Loading...`}</p>
+      </div>
     );
   }
 
   if (!hasFaction) {
     return (
-      <>
+      <div className="fa-manage">
         {renderTabs()}
         <FactionCreateForm onCreated={loadFaction} />
-      </>
+      </div>
     );
   }
 
   return (
-    <>
+    <div className="fa-manage">
       {renderTabs()}
       <FactionManage
         faction={faction}
@@ -794,7 +782,7 @@ const FactionArea = () => {
           setHasFaction(false);
         }}
       />
-    </>
+    </div>
   );
 };
 

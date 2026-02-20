@@ -18,6 +18,7 @@ import { escapeMd } from '../../core/utils.js';
  *   uid,
  *   setChannel,
  *   addToInput,
+ *   openProfile,
  * }
  */
 const UserContextMenu = ({ args, close }) => {
@@ -31,10 +32,23 @@ const UserContextMenu = ({ args, close }) => {
     uid,
     setChannel,
     addToInput,
+    openProfile,
   } = args;
 
   return (
     <>
+      <div
+        role="button"
+        key="profile"
+        tabIndex={0}
+        onClick={() => {
+          if (openProfile) openProfile(uid, name);
+          close();
+        }}
+        style={{ borderTop: 'none' }}
+      >
+        {t`View Profile`}
+      </div>
       <div
         role="button"
         key="ping"
@@ -44,7 +58,6 @@ const UserContextMenu = ({ args, close }) => {
           addToInput(ping);
           close();
         }}
-        style={{ borderTop: 'none' }}
       >
         {t`Ping`}
       </div>
@@ -53,10 +66,6 @@ const UserContextMenu = ({ args, close }) => {
         key="dm"
         tabIndex={0}
         onClick={() => {
-          /*
-           * if dm channel already exists,
-           * just switch
-           */
           const cids = Object.keys(channels);
           for (let i = 0; i < cids.length; i += 1) {
             const cid = cids[i];

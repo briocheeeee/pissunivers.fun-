@@ -6,6 +6,7 @@ const EmojiPicker = ({ onSelect, onClose }) => {
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState('');
   const pickerRef = useRef(null);
+  const searchRef = useRef(null);
 
   useEffect(() => {
     const fetchEmojis = async () => {
@@ -22,6 +23,12 @@ const EmojiPicker = ({ onSelect, onClose }) => {
       }
     };
     fetchEmojis();
+  }, []);
+
+  useEffect(() => {
+    if (searchRef.current) {
+      searchRef.current.focus();
+    }
   }, []);
 
   useEffect(() => {
@@ -53,19 +60,32 @@ const EmojiPicker = ({ onSelect, onClose }) => {
     : emojis;
 
   return (
-    <div className="emoji-picker" ref={pickerRef}>
+    <div
+      className="emoji-picker"
+      ref={pickerRef}
+      role="dialog"
+      aria-label={t`Emoji picker`}
+      aria-modal="true"
+    >
       <input
+        ref={searchRef}
         type="text"
         className="emoji-picker-search"
         placeholder={t`Search emojis...`}
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
-        autoFocus
+        aria-label={t`Search emojis`}
       />
-      <div className="emoji-picker-grid">
-        {loading && <div className="emoji-picker-loading">{t`Loading...`}</div>}
+      <div className="emoji-picker-grid" role="listbox" aria-label={t`Emojis`}>
+        {loading && (
+          <div className="emoji-picker-loading" role="status">
+            {t`Loading...`}
+          </div>
+        )}
         {!loading && filteredEmojis.length === 0 && (
-          <div className="emoji-picker-empty">{t`No emojis found`}</div>
+          <div className="emoji-picker-empty" role="status">
+            {t`No emojis found`}
+          </div>
         )}
         {!loading && filteredEmojis.map((emoji) => (
           <button
@@ -74,6 +94,8 @@ const EmojiPicker = ({ onSelect, onClose }) => {
             className="emoji-picker-item"
             onClick={() => handleEmojiClick(emoji)}
             title={`:${emoji.name}:`}
+            aria-label={`:${emoji.name}:`}
+            role="option"
           >
             <img
               src={`/emojis/${emoji.filename}`}

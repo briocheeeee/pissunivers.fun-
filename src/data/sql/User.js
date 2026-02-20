@@ -83,74 +83,16 @@ const User = sequelize.define('User', {
     defaultValue: null,
   },
 
-  donationTier: {
-    type: DataTypes.STRING(16),
-    allowNull: false,
-    defaultValue: 'user',
-  },
-
-  donationHistory: {
-    type: DataTypes.TEXT,
-    allowNull: true,
-    defaultValue: null,
-    get() {
-      const value = this.getDataValue('donationHistory');
-      return value ? JSON.parse(value) : [];
-    },
-    set(value) {
-      this.setDataValue('donationHistory', value ? JSON.stringify(value) : null);
-    },
-  },
-
-  providerCustomerIds: {
-    type: DataTypes.TEXT,
-    allowNull: true,
-    defaultValue: null,
-    get() {
-      const value = this.getDataValue('providerCustomerIds');
-      return value ? JSON.parse(value) : {};
-    },
-    set(value) {
-      this.setDataValue('providerCustomerIds', value ? JSON.stringify(value) : null);
-    },
-  },
-
-  discordUserId: {
-    type: DataTypes.STRING(32),
+  banner: {
+    type: DataTypes.STRING(512),
     allowNull: true,
     defaultValue: null,
   },
 
-  lastGlobalAlert: {
-    type: DataTypes.DATE,
+  description: {
+    type: DataTypes.STRING(200),
     allowNull: true,
     defaultValue: null,
-  },
-
-  nicknameStyle: {
-    type: DataTypes.TEXT,
-    allowNull: true,
-    defaultValue: null,
-    get() {
-      const value = this.getDataValue('nicknameStyle');
-      return value ? JSON.parse(value) : { type: 'default', value: null };
-    },
-    set(value) {
-      this.setDataValue('nicknameStyle', value ? JSON.stringify(value) : null);
-    },
-  },
-
-  profileCustomization: {
-    type: DataTypes.TEXT,
-    allowNull: true,
-    defaultValue: null,
-    get() {
-      const value = this.getDataValue('profileCustomization');
-      return value ? JSON.parse(value) : { background: 'default', frame: 'none', bio: '' };
-    },
-    set(value) {
-      this.setDataValue('profileCustomization', value ? JSON.stringify(value) : null);
-    },
   },
 
   chatBadges: {
@@ -887,6 +829,59 @@ export async function setAvatar(id, avatar) {
     return false;
   }
   return true;
+}
+
+export async function setBanner(id, banner) {
+  try {
+    await User.update({ banner }, { where: { id }, returning: false });
+  } catch (error) {
+    console.error(`SQL Error on setBanner: ${error.message}`);
+    return false;
+  }
+  return true;
+}
+
+export async function setDescription(id, description) {
+  try {
+    await User.update({ description }, { where: { id }, returning: false });
+  } catch (error) {
+    console.error(`SQL Error on setDescription: ${error.message}`);
+    return false;
+  }
+  return true;
+}
+
+export async function getPublicProfile(uid) {
+  try {
+    const result = await sequelize.query(
+      `SELECT
+        u.id,
+        u.name,
+        u.username,
+        u.userlvl,
+        u.avatar,
+        u.banner,
+        u.description,
+        u.createdAt,
+        u.lastSeen,
+        u.flags,
+        EXISTS(
+          SELECT 1 FROM Sessions s
+          WHERE s.uid = u.id AND s.expires > NOW()
+        ) AS isOnline
+      FROM Users u
+      WHERE u.id = ?`,
+      {
+        replacements: [uid],
+        plain: true,
+        type: QueryTypes.SELECT,
+      },
+    );
+    return result;
+  } catch (error) {
+    console.error(`SQL Error on getPublicProfile: ${error.message}`);
+    return null;
+  }
 }
 
 export async function getAvatar(id) {

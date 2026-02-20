@@ -38,14 +38,18 @@
     "not IE_Mob 11"
   ],
   "dependencies": {
+    "@discordjs/builders": "^0.16.0",
+    "@discordjs/rest": "^0.5.0",
     "@mapbox/node-pre-gyp": "^2.0.3",
     "arctic": "^3.7.0",
     "bcrypt": "^6.0.0",
     "busboy": "^1.6.0",
+    "canvas": "^3.2.1",
     "chart.js": "^4.4.4",
     "compression": "^1.7.3",
     "cookie": "^1.0.2",
     "core-js": "^3.34.0",
+    "discord-api-types": "^0.33.5",
     "discord.js": "^13.17.1",
     "etag": "^1.8.1",
     "express": "^5.1.0",

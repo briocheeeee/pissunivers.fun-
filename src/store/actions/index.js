@@ -142,6 +142,20 @@ export function setAvatar(avatar) {
   };
 }
 
+export function setBanner(banner) {
+  return {
+    type: 's/SET_BANNER',
+    banner,
+  };
+}
+
+export function setDescription(description) {
+  return {
+    type: 's/SET_DESCRIPTION',
+    description,
+  };
+}
+
 export function setHoldPaint(value, immediate) {
   return {
     type: 's/SET_HOLD_PAINT',

@@ -25,8 +25,9 @@ class ChatMessageBuffer {
       faction,
       avatar,
       badges,
+      sqlId,
     ) => {
-      this.addMessage(name, message, channelId, uid, country, faction, avatar, badges);
+      this.addMessage(name, message, channelId, uid, country, faction, avatar, badges, sqlId);
     });
   }
 
@@ -72,7 +73,7 @@ class ChatMessageBuffer {
     if (message.length > 200) {
       return;
     }
-    storeMessage(flag, message, cid, uid);
+    const sqlId = await storeMessage(flag, message, cid, uid);
     /*
      * goes through socket events and then comes
      * back at addMessage
@@ -87,6 +88,7 @@ class ChatMessageBuffer {
       faction,
       avatar,
       badges,
+      sqlId,
     );
   }
 
@@ -99,6 +101,7 @@ class ChatMessageBuffer {
     faction,
     avatar,
     badges,
+    sqlId = null,
   ) {
     const messages = this.buffer.get(cid);
     if (messages) {
@@ -111,6 +114,7 @@ class ChatMessageBuffer {
         faction,
         avatar,
         badges,
+        sqlId,
       ]);
     }
   }

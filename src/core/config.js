@@ -76,13 +76,8 @@ let config = {};
     ['IMGBB_KEY', 'string', null],
     ['DISCORD_BOT_TOKEN', 'string', null],
     ['DISCORD_GUILD_ID', 'string', null],
-    ['DISCORD_VIP_ROLE_ID', 'string', null],
-    ['DISCORD_PREMIUM_ROLE_ID', 'string', null],
-    ['PATREON_CLIENT_ID', 'string', null],
-    ['PATREON_CLIENT_SECRET', 'string', null],
-    ['PATREON_WEBHOOK_SECRET', 'string', null],
-    ['PATREON_VIP_PRODUCT_ID', 'string', null],
-    ['PATREON_PREMIUM_PRODUCT_ID', 'string', null],
+    ['STATUS_CHECK_URL', 'string', null],
+    ['STATUS_CHECK_INTERVAL_MINUTES', 'int', 10],
   ];
 
   /*
@@ -258,8 +253,6 @@ let config = {};
     ['USE_PROXYCHECK', 'PROXYCHECK_KEY'],
     ['IMGBB_KEY', 'IMGBB_KEY'],
     ['DISCORD_BOT_TOKEN', 'DISCORD_BOT_TOKEN'],
-    ['PATREON_CLIENT_ID', 'PATREON_CLIENT_SECRET'],
-    ['PATREON_CLIENT_ID', 'PATREON_WEBHOOK_SECRET'],
   ];
 
   const errors = [];
@@ -369,13 +362,8 @@ export const {
   IMGBB_KEY,
   DISCORD_BOT_TOKEN,
   DISCORD_GUILD_ID,
-  DISCORD_VIP_ROLE_ID,
-  DISCORD_PREMIUM_ROLE_ID,
-  PATREON_CLIENT_ID,
-  PATREON_CLIENT_SECRET,
-  PATREON_WEBHOOK_SECRET,
-  PATREON_VIP_PRODUCT_ID,
-  PATREON_PREMIUM_PRODUCT_ID,
+  STATUS_CHECK_URL,
+  STATUS_CHECK_INTERVAL_MINUTES,
 } = config;
 
 config = null;

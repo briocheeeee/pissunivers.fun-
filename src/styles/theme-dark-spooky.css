@@ -99,65 +99,6 @@ tr:nth-child(odd) {
   background: rgba(0,0,0,0.2); 
 }
 
-.donation-tier-card {
-  background-color: #1a0a0c;
-  box-shadow: 0 4px 20px rgba(165, 0, 41, 0.3);
-  border: 2px solid #a50029;
-}
-
-.donation-tier-card.vip.current {
-  box-shadow: 0 0 0 3px #f59e0b, 0 0 15px rgba(245, 158, 11, 0.5);
-}
-
-.donation-tier-card.premium.current {
-  box-shadow: 0 0 0 3px #8b5cf6, 0 0 15px rgba(139, 92, 246, 0.5);
-}
-
-.tier-header {
-  border-bottom: 2px solid #a50029;
-}
-
-.tier-body {
-  background-color: #380a0c;
-}
-
-.donations-info {
-  background-color: rgba(165, 0, 41, 0.2);
-  border: 1px solid #a50029;
-}
-
-.donation-modal {
-  background-color: #1a0a0c;
-  color: #ffc2c2;
-  border: 2px solid #a50029;
-}
-
-.modal-close {
-  color: #ffc2c2;
-}
-
-.modal-tier-info {
-  background-color: rgba(165, 0, 41, 0.3);
-  border: 1px solid #a50029;
-}
-
-.provider-btn {
-  background-color: #380a0c;
-  color: #ffc2c2;
-  border: 1px solid #a50029;
-}
-
-.provider-btn.selected {
-  border-color: #b20707;
-  background-color: #b20707;
-}
-
-.donation-error {
-  background-color: #5c0a0a;
-  color: #ffc2c2;
-  border: 1px solid #a50029;
-}
-
 .channeldd {
   background-color: #4b0a0a;
 }
@@ -515,22 +456,33 @@ tr:nth-child(odd) {
 
 .message-reactions {
   display: inline-flex;
+  align-items: center;
+  gap: 3px;
   margin-left: 4px;
 }
 
 .reaction-badge {
-  background: #2a1a1a;
-  border-color: transparent;
-  border-radius: 10px;
-  padding: 1px 4px;
+  display: inline-flex;
+  align-items: center;
   gap: 2px;
-  font-size: 10px;
-  line-height: 1;
+  padding: 1px 5px 1px 3px;
+  background: #2a1a1a;
+  border: 1px solid #cb4646;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 11px;
+  line-height: 1.4;
+  transition: background-color 0.1s ease, border-color 0.1s ease;
 }
 
-.reaction-badge:hover {
+.reaction-badge:hover:not(:disabled) {
   background: #3a2020;
-  transform: scale(1.05);
+  border-color: #ff6b6b;
+}
+
+.reaction-badge:focus-visible {
+  outline: 2px solid #ff6b6b;
+  outline-offset: 1px;
 }
 
 .reaction-badge.reacted {
@@ -538,24 +490,48 @@ tr:nth-child(odd) {
   background: #3a1515;
 }
 
+.reaction-badge:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 .reaction-emoji {
   width: 14px;
   height: 14px;
+  object-fit: contain;
+  display: block;
 }
 
 .reaction-count {
   color: #cb4646;
-  font-size: 10px;
+  font-weight: 500;
+  font-size: 11px;
+  min-width: 8px;
+  text-align: center;
 }
 
 .reaction-add-btn {
-  border-color: #cb4646;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  background: #1a0a0a;
+  border: 1px solid #cb4646;
+  border-radius: 3px;
+  cursor: pointer;
   color: #cb4646;
-  border-radius: 9px;
-  width: 18px;
-  height: 18px;
-  font-size: 12px;
-  opacity: 0.5;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1;
+  transition: background-color 0.1s ease, border-color 0.1s ease, color 0.1s ease;
+  opacity: 0;
+}
+
+.chatmsg:hover .reaction-add-btn,
+.reaction-add-btn:focus-visible {
+  opacity: 1;
 }
 
 .reaction-add-btn:hover {
@@ -563,6 +539,19 @@ tr:nth-child(odd) {
   color: #fffacd;
   background: #3a1515;
   opacity: 1;
+}
+
+.reaction-add-btn:focus-visible {
+  outline: 2px solid #ff6b6b;
+  outline-offset: 1px;
+}
+
+.reaction-picker-portal .emoji-picker {
+  position: static;
+  background: #1a0a0a;
+  border: 1px solid #cb4646;
+  border-radius: 3px;
+  box-shadow: 0 4px 20px rgba(200,0,0,0.3);
 }
 
 .md-timestamp {

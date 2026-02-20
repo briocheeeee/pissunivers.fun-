@@ -22,6 +22,10 @@ const initialState = {
   priv: false,
   // user avatar URL
   avatar: null,
+  // user profile banner URL
+  banner: null,
+  // user profile description
+  description: null,
   // if user is using touchscreen
   isOnMobile: false,
   // small notifications for received cooldown
@@ -33,19 +37,6 @@ const initialState = {
    * }
    */
   fish: {},
-  donationTier: 'user',
-  donationPermissions: {
-    maxPixelStackMultiplier: 1.0,
-    colorfulNickname: false,
-    profileCustomization: false,
-    canUseGlobalAlert: false,
-    globalAlertCooldown: null,
-  },
-  isVip: false,
-  isPremium: false,
-  globalAlertCooldownRemaining: 0,
-  nicknameStyle: { type: 'default', value: null },
-  profileCustomization: { background: 'default', frame: 'none', bio: '' },
 };
 
 export default function user(
@@ -119,13 +110,8 @@ export default function user(
         priv,
         userlvl,
         avatar,
-        donationTier,
-        donationPermissions,
-        isVip,
-        isPremium,
-        globalAlertCooldownRemaining,
-        nicknameStyle,
-        profileCustomization,
+        banner,
+        description,
       } = action;
       const messages = (action.messages) ? action.messages : [];
       return {
@@ -139,13 +125,8 @@ export default function user(
         priv,
         userlvl,
         avatar,
-        donationTier: donationTier || state.donationTier,
-        donationPermissions: donationPermissions || state.donationPermissions,
-        isVip: isVip ?? state.isVip,
-        isPremium: isPremium ?? state.isPremium,
-        globalAlertCooldownRemaining: globalAlertCooldownRemaining ?? state.globalAlertCooldownRemaining,
-        nicknameStyle: nicknameStyle || state.nicknameStyle,
-        profileCustomization: profileCustomization || state.profileCustomization,
+        banner: banner || null,
+        description: description || null,
       };
     }
 
@@ -160,20 +141,9 @@ export default function user(
         blockDm: false,
         priv: false,
         avatar: null,
+        banner: null,
+        description: null,
         userlvl: USERLVL.ANONYM,
-        donationTier: 'user',
-        donationPermissions: {
-          maxPixelStackMultiplier: 1.0,
-          colorfulNickname: false,
-          profileCustomization: false,
-          canUseGlobalAlert: false,
-          globalAlertCooldown: null,
-        },
-        isVip: false,
-        isPremium: false,
-        globalAlertCooldownRemaining: 0,
-        nicknameStyle: { type: 'default', value: null },
-        profileCustomization: { background: 'default', frame: 'none', bio: '' },
       };
     }
 
@@ -182,6 +152,22 @@ export default function user(
       return {
         ...state,
         avatar,
+      };
+    }
+
+    case 's/SET_BANNER': {
+      const { banner } = action;
+      return {
+        ...state,
+        banner,
+      };
+    }
+
+    case 's/SET_DESCRIPTION': {
+      const { description } = action;
+      return {
+        ...state,
+        description,
       };
     }
 

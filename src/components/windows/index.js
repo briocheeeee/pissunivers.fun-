@@ -13,7 +13,7 @@ import OIDCConsent from './OIDCConsent.jsx';
 import Faction from './Faction.jsx';
 import FactionPublic from './FactionPublic.jsx';
 import FactionCreate from './FactionCreate.jsx';
-import Donations from './Donations.jsx';
+import PublicProfile from '../PublicProfile.jsx';
 
 export default {
   HELP: [Help, t`Help`],
@@ -28,7 +28,7 @@ export default {
   FACTION: [Faction, t`My Faction`],
   FACTION_PUBLIC: [FactionPublic, t`Faction`],
   FACTION_CREATE: [FactionCreate, t`Create Faction`],
-  DONATIONS: [Donations, t`Support Us`],
+  USER_PROFILE: [PublicProfile, t`User`],
   /*
    * OIDC Consent is a very special case, because it is only available as
    * seperate popup, hoever, this is a single-page-applications, so we include

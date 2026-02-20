@@ -42,7 +42,7 @@ export async function addReaction(messageId, oderId, emoji) {
     return { success: true };
   } catch (error) {
     if (error.name === 'SequelizeUniqueConstraintError') {
-      return { error: 'Already reacted' };
+      return { alreadyExists: true };
     }
     throw error;
   }

@@ -27,25 +27,22 @@ import totw from './totw/index.js';
 import emojis from './emojis.js';
 import { addReactionHandler, removeReactionHandler } from './reactions.js';
 import avatar from './avatar.js';
+import banner from './banner.js';
 import botdetection from './botdetection.js';
 import templates from './templates.js';
 import badgeDisplay from './badgeDisplay.js';
 import templateProgress from './templateProgress.js';
 import objectives from './objectives.js';
 import adminBadges from './adminBadges.js';
-import donations from './donations.js';
-import donationsWebhook from './donations/webhook.js';
+import publicProfile from './publicProfile.js';
+import description from './description.js';
 import { markMessageAsRead } from '../../data/sql/AdminMessage.js';
 
 const router = express.Router();
 
 router.use('/canvases', canvases);
 
-router.use('/donations/webhook', donationsWebhook);
-
 router.use(express.json({ limit: '2mb' }));
-
-router.use('/donations', donations);
 
 router.post('/fish', fish);
 
@@ -136,6 +133,12 @@ router.post('/blockdm', blockdm);
 router.post('/privatize', privatize);
 
 router.post('/avatar', avatar);
+
+router.post('/banner', banner);
+
+router.post('/description', description);
+
+router.get('/public-profile/:uid', publicProfile);
 
 router.post('/reactions/add', addReactionHandler);
 router.post('/reactions/remove', removeReactionHandler);

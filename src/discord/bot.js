@@ -2,7 +2,11 @@ import {
   DISCORD_BOT_TOKEN,
   DISCORD_GUILD_ID,
   PORT,
+  BACKUP_URL,
 } from '../core/config.js';
+import { startStatusCheck } from './statusCheck.js';
+import { startVoidPing } from './voidPing.js';
+import { generateTimelapse } from './timelapse.js';
 import {
   getUserByDiscordId,
   linkDiscordAccount,
@@ -273,6 +277,34 @@ async function registerCommands() {
     new SlashCommandBuilder()
       .setName('template-list')
       .setDescription('List all your templates'),
+
+    new SlashCommandBuilder()
+      .setName('timelapse')
+      .setDescription('Generate a timelapse MP4 of a canvas area between two dates')
+      .addStringOption((option) => option
+        .setName('start_date')
+        .setDescription('Start date (YYYY-MM-DD)')
+        .setRequired(true))
+      .addStringOption((option) => option
+        .setName('end_date')
+        .setDescription('End date (YYYY-MM-DD)')
+        .setRequired(true))
+      .addIntegerOption((option) => option
+        .setName('x1')
+        .setDescription('Top-left X coordinate')
+        .setRequired(true))
+      .addIntegerOption((option) => option
+        .setName('y1')
+        .setDescription('Top-left Y coordinate')
+        .setRequired(true))
+      .addIntegerOption((option) => option
+        .setName('x2')
+        .setDescription('Bottom-right X coordinate')
+        .setRequired(true))
+      .addIntegerOption((option) => option
+        .setName('y2')
+        .setDescription('Bottom-right Y coordinate')
+        .setRequired(true)),
   ];
 
   const rest = new REST({ version: '9' }).setToken(DISCORD_BOT_TOKEN);
@@ -496,6 +528,91 @@ async function handleTemplateList(interaction) {
   });
 }
 
+async function handleTimelapse(interaction) {
+  if (!BACKUP_URL) {
+    await interaction.reply({
+      content: 'Timelapse is not available: BACKUP_URL is not configured.',
+      ephemeral: true,
+    });
+    return;
+  }
+
+  const startDateStr = interaction.options.getString('start_date');
+  const endDateStr = interaction.options.getString('end_date');
+  const x1 = interaction.options.getInteger('x1');
+  const y1 = interaction.options.getInteger('y1');
+  const x2 = interaction.options.getInteger('x2');
+  const y2 = interaction.options.getInteger('y2');
+
+  const startDate = new Date(startDateStr);
+  const endDate = new Date(endDateStr);
+
+  if (Number.isNaN(startDate.getTime()) || Number.isNaN(endDate.getTime())) {
+    await interaction.reply({ content: 'Invalid date format. Use YYYY-MM-DD.', ephemeral: true });
+    return;
+  }
+  if (startDate > endDate) {
+    await interaction.reply({ content: 'start_date must be before or equal to end_date.', ephemeral: true });
+    return;
+  }
+  if (x1 >= x2 || y1 >= y2) {
+    await interaction.reply({
+      content: 'Invalid coordinates: x1 must be < x2 and y1 must be < y2.',
+      ephemeral: true,
+    });
+    return;
+  }
+
+  const maxDays = 365;
+  const dayDiff = Math.round((endDate - startDate) / (1000 * 60 * 60 * 24)) + 1;
+  if (dayDiff > maxDays) {
+    await interaction.reply({
+      content: `Range too large: maximum ${maxDays} days, got ${dayDiff}.`,
+      ephemeral: true,
+    });
+    return;
+  }
+
+  const maxDim = 2048;
+  if ((x2 - x1 + 1) > maxDim || (y2 - y1 + 1) > maxDim) {
+    await interaction.reply({
+      content: `Area too large: maximum ${maxDim}x${maxDim} pixels.`,
+      ephemeral: true,
+    });
+    return;
+  }
+
+  await interaction.deferReply();
+
+  if (!sharpModule) {
+    await interaction.editReply({ content: 'Image processing (sharp) is not available.' });
+    return;
+  }
+
+  try {
+    const result = await generateTimelapse(sharpModule, x1, y1, x2, y2, startDateStr, endDateStr);
+
+    if (result.error) {
+      await interaction.editReply({ content: `Timelapse failed: ${result.error}` });
+      return;
+    }
+
+    const attachment = new MessageAttachment(result.mp4Buffer, 'timelapse.mp4');
+    await interaction.editReply({
+      content: [
+        `**Timelapse generated** (${result.frameCount} frames, 1 frame/sec)`,
+        `Period: ${startDateStr} → ${endDateStr}`,
+        `Area: (${x1}, ${y1}) → (${x2}, ${y2})`,
+        `Size: ${x2 - x1 + 1}×${y2 - y1 + 1} px`,
+      ].join('\n'),
+      files: [attachment],
+    });
+  } catch (error) {
+    logger.error(`Error in timelapse: ${error.message}`);
+    await interaction.editReply({ content: 'An error occurred while generating the timelapse.' });
+  }
+}
+
 export async function initDiscordBot(canvases) {
   if (!DISCORD_BOT_TOKEN) {
     logger.info('Discord bot token not configured, skipping bot initialization');
@@ -524,6 +641,8 @@ export async function initDiscordBot(canvases) {
   client.once('ready', async () => {
     logger.info(`Discord bot logged in as ${client.user.tag}`);
     await registerCommands();
+    startStatusCheck(client);
+    startVoidPing(client);
   });
 
   client.on('interactionCreate', async (interaction) => {
@@ -547,6 +666,9 @@ export async function initDiscordBot(canvases) {
           break;
         case 'template-list':
           await handleTemplateList(interaction);
+          break;
+        case 'timelapse':
+          await handleTimelapse(interaction);
           break;
         default:
           break;

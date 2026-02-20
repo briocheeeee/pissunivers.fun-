@@ -332,6 +332,7 @@ class LicenseListWebpackPlugin {
       .map((buildObj) => ({
         ...buildObj,
         scripts: [...buildObj.scripts]
+          .filter((s) => s && s.name)
           .sort(
             (a, b) => a.name.split('.').length - b.name.split('.').length 
               || a.name.localeCompare(b.name),

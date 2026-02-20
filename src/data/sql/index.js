@@ -43,7 +43,6 @@ import FactionMember from './FactionMember.js';
 import FactionRequest from './FactionRequest.js';
 import ModAction from './ModAction.js';
 import BotDetection from './BotDetection.js';
-import Donation from './Donation.js';
 import TOTWWeek from './TOTWWeek.js';
 import TOTWNominee from './TOTWNominee.js';
 import TOTWVote from './TOTWVote.js';
@@ -629,16 +628,6 @@ BotDetection.belongsTo(User, {
   onDelete: 'SET NULL',
 });
 
-Donation.belongsTo(User, {
-  as: 'user',
-  foreignKey: 'uid',
-  onDelete: 'CASCADE',
-});
-User.hasMany(Donation, {
-  as: 'donations',
-  foreignKey: 'uid',
-});
-
 TOTWNominee.belongsTo(TOTWWeek, {
   as: 'week',
   foreignKey: 'weekId',
@@ -771,5 +760,4 @@ export {
   CHANNEL_TYPES,
   FACTION_ACCESS,
   FACTION_ROLE,
-  Donation,
 };

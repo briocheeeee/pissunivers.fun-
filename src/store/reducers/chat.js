@@ -142,7 +142,7 @@ export default function chat(
 
     case 's/REC_CHAT_MESSAGE': {
       const {
-        name, text, country, channel, user, faction, avatar, badges,
+        name, text, country, channel, user, faction, avatar, badges, sqlId,
       } = action;
       if (!state.messages[channel] || !state.channels[channel]) {
         return state;
@@ -153,7 +153,7 @@ export default function chat(
         ...state.messages,
         [channel]: [
           ...state.messages[channel],
-          [name, text, country, user, ts, msgId, faction, avatar, badges],
+          [name, text, country, user, ts, msgId, faction, avatar, badges, sqlId],
         ],
       };
       if (messages[channel].length > MAX_CHAT_MESSAGES) {
@@ -177,23 +177,29 @@ export default function chat(
     }
 
     case 's/REC_CHAT_HISTORY': {
-      const { cid, history } = action;
+      const { cid, history, reactions: initialReactions } = action;
       for (let i = 0; i < history.length; i += 1) {
         msgId += 1;
         const msg = history[i];
         const faction = msg[5] || null;
         const avatar = msg[6] || null;
         const badges = msg[7] || [];
+        const sqlId = msg[8] || null;
         msg[5] = msgId;
         msg[6] = faction;
         msg[7] = avatar;
         msg[8] = badges;
+        msg[9] = sqlId;
       }
       return {
         ...state,
         messages: {
           ...state.messages,
           [cid]: history,
+        },
+        reactions: {
+          ...state.reactions,
+          ...(initialReactions || {}),
         },
       };
     }

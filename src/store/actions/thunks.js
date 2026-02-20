@@ -48,11 +48,13 @@ function setChatFetching(fetching) {
 function receiveChatHistory(
   cid,
   history,
+  reactions,
 ) {
   return {
     type: 's/REC_CHAT_HISTORY',
     cid,
     history,
+    reactions,
   };
 }
 
@@ -131,10 +133,10 @@ export function fetchMe() {
 export function fetchChatMessages(cid) {
   return async (dispatch) => {
     dispatch(setChatFetching(true));
-    const history = await requestChatMessages(cid);
-    if (history) {
+    const result = await requestChatMessages(cid);
+    if (result) {
       setTimeout(() => { dispatch(setChatFetching(false)); }, 500);
-      dispatch(receiveChatHistory(cid, history));
+      dispatch(receiveChatHistory(cid, result.history, result.reactions));
     } else {
       setTimeout(() => { dispatch(setChatFetching(false)); }, 5000);
     }

@@ -184,7 +184,6 @@ export const AVAILABLE_POPUPS = [
   'PLAYER',
   'FISH_DISPLAY',
   'BADGE_DISPLAY',
-  'DONATIONS',
 ];
 
 /*

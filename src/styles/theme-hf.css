@@ -79,55 +79,6 @@ tr:nth-child(odd) {
   border-radius: 10px;
 }
 
-.donation-tier-card {
-  background: linear-gradient(135deg, #61dcea, #ffb1e1, #ecffec);
-  box-shadow: 0 4px 20px rgba(97, 220, 234, 0.3);
-  border-radius: 10px;
-}
-
-.donation-tier-card.vip.current {
-  box-shadow: 0 0 0 3px #f59e0b;
-}
-
-.donation-tier-card.premium.current {
-  box-shadow: 0 0 0 3px #8b5cf6;
-}
-
-.tier-body {
-  background: linear-gradient(180deg, #ecffec, #ffb1e1);
-}
-
-.donations-info {
-  background: linear-gradient(0deg, #61dcea, #ffb1e1, #ecffec);
-  border-radius: 10px;
-}
-
-.donation-modal {
-  background: linear-gradient(135deg, #61dcea, #ffb1e1, #ecffec, #fff9b1);
-  border-radius: 10px;
-}
-
-.modal-tier-info {
-  background: rgba(255, 255, 255, 0.5);
-  border-radius: 8px;
-}
-
-.provider-btn {
-  background: linear-gradient(135deg, #ecffec, #ffb1e1);
-  color: #333;
-  border-radius: 8px;
-}
-
-.provider-btn.selected {
-  border: 2px solid #61dcea;
-}
-
-.donation-error {
-  background-color: rgba(255, 100, 100, 0.3);
-  color: #c44;
-  border-radius: 8px;
-}
-
 .template-estimate {
   background: linear-gradient(0deg, #61dcea, #ffb1e1, #ecffec);
   border-top-color: #ffb1e1;
@@ -198,22 +149,33 @@ tr:nth-child(odd) {
 
 .message-reactions {
   display: inline-flex;
+  align-items: center;
+  gap: 3px;
   margin-left: 4px;
 }
 
 .reaction-badge {
-  background: #f0f0f0;
-  border-color: transparent;
-  border-radius: 10px;
-  padding: 1px 4px;
+  display: inline-flex;
+  align-items: center;
   gap: 2px;
-  font-size: 10px;
-  line-height: 1;
+  padding: 1px 5px 1px 3px;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 11px;
+  line-height: 1.4;
+  transition: background-color 0.1s ease, border-color 0.1s ease;
 }
 
-.reaction-badge:hover {
+.reaction-badge:hover:not(:disabled) {
   background: #e0e0e0;
-  transform: scale(1.05);
+  border-color: #5a9eff;
+}
+
+.reaction-badge:focus-visible {
+  outline: 2px solid #5a9eff;
+  outline-offset: 1px;
 }
 
 .reaction-badge.reacted {
@@ -221,24 +183,48 @@ tr:nth-child(odd) {
   background: #d4e7ff;
 }
 
+.reaction-badge:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 .reaction-emoji {
   width: 14px;
   height: 14px;
+  object-fit: contain;
+  display: block;
 }
 
 .reaction-count {
   color: #666;
-  font-size: 10px;
+  font-weight: 500;
+  font-size: 11px;
+  min-width: 8px;
+  text-align: center;
 }
 
 .reaction-add-btn {
-  border-color: #ddd;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  background: transparent;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
   color: #999;
-  border-radius: 9px;
-  width: 18px;
-  height: 18px;
-  font-size: 12px;
-  opacity: 0.5;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1;
+  transition: background-color 0.1s ease, border-color 0.1s ease, color 0.1s ease;
+  opacity: 0;
+}
+
+.chatmsg:hover .reaction-add-btn,
+.reaction-add-btn:focus-visible {
+  opacity: 1;
 }
 
 .reaction-add-btn:hover {
@@ -246,6 +232,17 @@ tr:nth-child(odd) {
   color: #5a9eff;
   background: #d4e7ff;
   opacity: 1;
+}
+
+.reaction-add-btn:focus-visible {
+  outline: 2px solid #5a9eff;
+  outline-offset: 1px;
+}
+
+.reaction-picker-portal .emoji-picker {
+  position: static;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
 }
 
 .md-timestamp {

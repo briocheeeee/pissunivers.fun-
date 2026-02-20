@@ -105,7 +105,7 @@ function ChatMessage({
                 {name}
               </span>
               {badges && badges.length > 0 && (
-                <span className="chatbadges">
+                <span className="chatbadges" aria-label={badges.join(', ')}>
                   {badges.map((badge) => (
                     <img
                       key={badge}
@@ -113,6 +113,10 @@ function ChatMessage({
                       alt={badge}
                       title={badge}
                       src={`/badges/${badge}.gif`}
+                      onError={(e) => {
+                        e.target.onerror = null;
+                        e.target.src = `/badges/${badge}.webp`;
+                      }}
                     />
                   ))}
                 </span>

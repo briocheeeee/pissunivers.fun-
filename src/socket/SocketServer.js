@@ -61,6 +61,7 @@ class SocketServer {
     this.reloadUser = this.reloadUser.bind(this);
     this.reloadIP = this.reloadIP.bind(this);
     this.getOnlineUsers = this.getOnlineUsers.bind(this);
+    this.getUserPresence = this.getUserPresence.bind(this);
     this.checkHealth = this.checkHealth.bind(this);
   }
 
@@ -124,6 +125,8 @@ class SocketServer {
       this.broadcast(dehydrateOnlineCounter(online));
     });
 
+    socketEvents.onReq('userPresence', (uid) => this.getUserPresence(uid));
+
     socketEvents.on('announcement', (text) => {
       this.broadcast(`an,${JSON.stringify(text)}`);
     });
@@ -154,9 +157,10 @@ class SocketServer {
       faction,
       avatar,
       badges,
+      sqlId,
     ) => {
       const text = `cm,${JSON.stringify(
-        [name, message, country, channelId, id, faction, avatar, badges],
+        [name, message, country, channelId, id, faction, avatar, badges, sqlId],
       )}`;
       const clientArray = [];
       this.wss.clients.forEach((ws) => {
@@ -505,6 +509,36 @@ class SocketServer {
     } catch (err) {
       logger.error(`WebSocket online broadcast error: ${err.message}`);
     }
+  }
+
+  getUserPresence(uid) {
+    const userId = Number(uid);
+    if (!Number.isInteger(userId) || userId <= 0) {
+      return {
+        onlineConnections: 0,
+        activeConnections: 0,
+      };
+    }
+
+    const now = Date.now();
+    const idleThresholdMs = 5 * 60 * 1000;
+    let onlineConnections = 0;
+    let activeConnections = 0;
+
+    this.wss.clients.forEach((ws) => {
+      if (ws.readyState !== WebSocket.OPEN || ws.user?.id !== userId) {
+        return;
+      }
+      onlineConnections += 1;
+      if (now - ws.timeLastMsg < idleThresholdMs) {
+        activeConnections += 1;
+      }
+    });
+
+    return {
+      onlineConnections,
+      activeConnections,
+    };
   }
 
   static async onTextMessage(text, ws) {

@@ -412,42 +412,35 @@ const TeamOfTheWeek = () => {
 
   return (
     <div className="totw-container">
-      <div className="totw-tabs">
-        <span
-          role="button"
-          tabIndex={-1}
-          className={tab === 'current' ? 'modallink selected' : 'modallink'}
+      <div className="totw-tabs fa-actions-row">
+        <button
+          type="button"
+          className={tab === 'current' ? 'fa-btn fa-btn--primary' : 'fa-btn'}
           onClick={() => setTab('current')}
         >
           {t`This Week`}
-        </span>
-        <span className="hdivider" />
-        <span
-          role="button"
-          tabIndex={-1}
-          className={tab === 'hall' ? 'modallink selected' : 'modallink'}
+        </button>
+        <button
+          type="button"
+          className={tab === 'hall' ? 'fa-btn fa-btn--primary' : 'fa-btn'}
           onClick={() => setTab('hall')}
         >
           {t`Hall of Fame`}
-        </span>
-        <span className="hdivider" />
-        <span
-          role="button"
-          tabIndex={-1}
-          className={tab === 'top' ? 'modallink selected' : 'modallink'}
+        </button>
+        <button
+          type="button"
+          className={tab === 'top' ? 'fa-btn fa-btn--primary' : 'fa-btn'}
           onClick={() => setTab('top')}
         >
           {t`Most Wins`}
-        </span>
-        <span className="hdivider" />
-        <span
-          role="button"
-          tabIndex={-1}
-          className={tab === 'my' ? 'modallink selected' : 'modallink'}
+        </button>
+        <button
+          type="button"
+          className={tab === 'my' ? 'fa-btn fa-btn--primary' : 'fa-btn'}
           onClick={() => setTab('my')}
         >
           {t`My History`}
-        </span>
+        </button>
       </div>
       <div className="totw-content">
         {tab === 'current' && <CurrentWeekTab />}

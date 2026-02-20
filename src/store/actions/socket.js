@@ -22,6 +22,7 @@ export function receiveChatMessage(
   faction,
   avatar,
   badges,
+  sqlId = null,
 ) {
   return (dispatch, getState) => {
     channel = Number(channel);
@@ -51,6 +52,7 @@ export function receiveChatMessage(
       faction,
       avatar,
       badges,
+      sqlId,
       isPing: false,
       isRead,
     });

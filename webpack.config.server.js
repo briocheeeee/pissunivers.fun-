@@ -34,6 +34,11 @@ const basePackageValues = {
     mysql2: '',
     'utf-8-validate': '',
     bufferutil: '',
+    'discord.js': '',
+    '@discordjs/rest': '',
+    '@discordjs/builders': '',
+    'discord-api-types': '',
+    'canvas': '',
   },
 };
 
@@ -155,6 +160,11 @@ export default ({
         'arctic': 'commonjs arctic',
         'winston': 'commonjs winston',
         'winston-daily-rotate-file': 'commonjs winston-daily-rotate-file',
+        'discord.js': 'commonjs discord.js',
+        '@discordjs/rest': 'commonjs @discordjs/rest',
+        '@discordjs/builders': 'commonjs @discordjs/builders',
+        'discord-api-types': 'commonjs discord-api-types',
+        'canvas': 'commonjs canvas',
       },
       // the ./src/funcs folder does not get bundled, but copied
       // into dist/workers/funcs instead to allow overriding

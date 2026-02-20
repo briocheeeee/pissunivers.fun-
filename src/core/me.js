@@ -11,7 +11,6 @@ import { getUnreadMessagesForUser } from '../data/sql/AdminMessage.js';
 import { USE_MAILER, TIMEBLOCK_USERS, TIMEBLOCK_IPS } from './config.js';
 import { USER_FLAGS } from './constants.js';
 import chatProvider from './ChatProvider.js';
-import { getUserPermissions, DONATION_TIER, getRemainingCooldown, isVipOrHigher, isPremium } from './donations/index.js';
 import { checkAndAwardVeteranBadge } from '../data/sql/awardBadge.js';
 
 export default async function getMe(user, ip, lang) {
@@ -23,21 +22,17 @@ export default async function getMe(user, ip, lang) {
   let blockDm;
   let priv;
   let avatar;
+  let banner;
+  let description;
 
   /* [[id, name], ...] */
   let blocked;
   /* { id: [name, type, lastTs, dmu] } */
   let channels = { ...chatProvider.getDefaultChannels(lang) };
 
-  let donationTier;
-  let donationPermissions;
-  let globalAlertCooldownRemaining = 0;
-  let nicknameStyle = { type: 'default', value: null };
-  let profileCustomization = { background: 'default', frame: 'none', bio: '' };
-
   if (user) {
     const { data } = user;
-    ({ id, name, username, userlvl, avatar } = data);
+    ({ id, name, username, userlvl, avatar, banner, description } = data);
     blockDm = !!(data.flags & (0x01 << USER_FLAGS.BLOCK_DM));
     priv = !!(data.flags & (0x01 << USER_FLAGS.PRIV));
     havePassword = data.password !== null;
@@ -46,21 +41,6 @@ export default async function getMe(user, ip, lang) {
       ...channels,
       ...data.channels,
     };
-    donationTier = data.donationTier || DONATION_TIER.USER;
-    donationPermissions = getUserPermissions(donationTier);
-
-    const lastGlobalAlert = data.lastGlobalAlert
-      ? new Date(data.lastGlobalAlert).getTime()
-      : null;
-    globalAlertCooldownRemaining = getRemainingCooldown(lastGlobalAlert, donationTier);
-
-    nicknameStyle = data.nicknameStyle
-      ? (typeof data.nicknameStyle === 'string' ? JSON.parse(data.nicknameStyle) : data.nicknameStyle)
-      : { type: 'default', value: null };
-
-    profileCustomization = data.profileCustomization
-      ? (typeof data.profileCustomization === 'string' ? JSON.parse(data.profileCustomization) : data.profileCustomization)
-      : { background: 'default', frame: 'none', bio: '' };
   } else {
     id = 0;
     name = null;
@@ -71,9 +51,9 @@ export default async function getMe(user, ip, lang) {
     blockDm = false;
     priv = false;
     avatar = null;
+    banner = null;
+    description = null;
     blocked = [];
-    donationTier = DONATION_TIER.USER;
-    donationPermissions = getUserPermissions(DONATION_TIER.USER);
   }
 
   /*
@@ -94,14 +74,7 @@ export default async function getMe(user, ip, lang) {
   }
 
   const me = {
-    id, name, username, userlvl, havePassword, blockDm, priv, avatar, channels, blocked,
-    donationTier,
-    donationPermissions,
-    isVip: isVipOrHigher(donationTier),
-    isPremium: isPremium(donationTier),
-    globalAlertCooldownRemaining,
-    nicknameStyle,
-    profileCustomization,
+    id, name, username, userlvl, havePassword, blockDm, priv, avatar, banner, description, channels, blocked,
   };
 
   if (factionInfo) {

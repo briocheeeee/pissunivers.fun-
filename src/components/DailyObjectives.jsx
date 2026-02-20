@@ -133,8 +133,28 @@ const DailyObjectives = () => {
   const dailyCompleted = objectives.daily.filter((o) => o.completed).length;
   const weeklyCompleted = objectives.weekly.filter((o) => o.completed).length;
 
+  const totalCompleted = dailyCompleted + weeklyCompleted;
+  const totalCount = objectives.daily.length + objectives.weekly.length;
+
   return (
     <div className="objwrap">
+      <div className="obj-summary">
+        <div className="obj-summary-stat">
+          <span className="obj-summary-value">{totalCompleted}</span>
+          <span className="obj-summary-label">{t`Completed`}</span>
+        </div>
+        <div className="obj-summary-stat">
+          <span className="obj-summary-value">{totalCount - totalCompleted}</span>
+          <span className="obj-summary-label">{t`Remaining`}</span>
+        </div>
+        <div className="obj-summary-bar-wrap">
+          <div
+            className="obj-summary-bar-fill"
+            style={{ width: totalCount > 0 ? `${Math.round((totalCompleted / totalCount) * 100)}%` : '0%' }}
+          />
+        </div>
+      </div>
+
       <div className="objsec">
         <div className="objhead">
           <span>{t`Daily`}</span>

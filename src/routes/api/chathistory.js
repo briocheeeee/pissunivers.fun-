@@ -4,6 +4,7 @@
  *
  */
 import chatProvider from '../../core/ChatProvider.js';
+import { getReactionsForMessages } from '../../data/sql/MessageReaction.js';
 
 async function chatHistory(req, res) {
   req.tickRateLimiter(1000);
@@ -37,8 +38,18 @@ async function chatHistory(req, res) {
   }
 
   const history = await chatProvider.getHistory(cid, limit);
+
+  const sqlIds = history
+    .map((msg) => msg[8])
+    .filter((id) => id != null);
+
+  const reactions = sqlIds.length
+    ? await getReactionsForMessages(sqlIds)
+    : {};
+
   res.json({
     history,
+    reactions,
   });
 }
 

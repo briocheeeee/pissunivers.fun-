@@ -8,7 +8,7 @@
 #   ----%%%%%%%%****----          |__|  |__|                                   #
 #- -------%%%%%%%%--------                                                     #
 #   ----++++%%%%++++----     pixelplanet - collaborative online canvas         #
-#     ++++++++++++++++       Copyright (C) 2020, 2024 hf <hf@pixelplanet.fun>  #
+#     ++++++++++++++++       Copyright (C) 2020, 2026 hf <hf@pixelplanet.fun>  #
 #   ----++++====+++++***                                                       #
 #  ------++======++******    License: GNU Affero General Public License 3+     #
 #  ------  ======  ******                                                      #
@@ -22,9 +22,9 @@
 
 # Lines starting with # are comments and get ignored. many options are
 # commented out, to show you that exist. Uncomment them if you need them.
-# Changes in the config require a restart of pixelplanet to take effect.
+# Changes in the config require a restart of pixelroyal to take effect.
 
-# The port and host under which pixelplanet runs,
+# The port and host under which pixelroyal runs,
 # this is not neccessarily the public host (and should not be, since you should
 # use a reverse proxy like nginx)
 PORT = 5000
@@ -39,9 +39,10 @@ REDIS_URL = redis://localhost:6379
 # mysql is used for sessions, userdata, etc.
 # make sure you have such a user with password and databasecreated
 MYSQL_HOST = localhost
-MYSQL_USER = pixelplanet
+MYSQL_USER = pixelroyal
 MYSQL_PW = DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-MYSQL_DATABASE = pixelplanet
+MYSQL_DATABASE = pixelroyal
+log_bin_trust_function_creators = 1
 
 # Secret for cookie signing, replace this with a random string
 # Generate with: node -e "console.log(require('crypto').randomBytes(48).toString('base64'))"
@@ -78,18 +79,6 @@ ADMIN_IDS = 1
 # Get your key at https://api.imgbb.com/
 IMGBB_KEY = DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
 
-# Donation System - Discord
-DISCORD_BOT_TOKEN=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-DISCORD_GUILD_ID=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-DISCORD_VIP_ROLE_ID=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-DISCORD_PREMIUM_ROLE_ID=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-
-# Donation System - Patreon
-PATREON_CLIENT_ID=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-PATREON_CLIENT_SECRET=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-PATREON_WEBHOOK_SECRET=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-PATREON_VIP_PRODUCT_ID=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
-PATREON_PREMIUM_PRODUCT_ID=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
 
 # Take client IP from the X-Real-Ip header, which should be set by reverse proxy
 # like nginx.
@@ -97,7 +86,7 @@ PATREON_PREMIUM_PRODUCT_ID=DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
 # X-Forwarded-Proto
 USE_XREALIP = no
 
-# pixelplanet can run in multiple processes as a cluster,
+# pixelroyal can run in multiple processes as a cluster,
 # the different processes will then use redis to communicate with each other.
 # If you turn IS_CLUSTER on, this will be enabled (see doc/DEPLOYMENT.md).
 IS_CLUSTER = no
@@ -140,7 +129,7 @@ TRUSTED_TIME = 48
 
 # ================================ E-Mail =====================================#
 
-# pixelplanet can use the sendmail command to send verification and password
+# pixelroyal can use the sendmail command to send verification and password
 # forgotten emails.
 # If you can't be bothered to setup a mail server, you can use SSMTP to forward
 # to gmail, or wherever. https://wiki.archlinux.org/title/SSMTP
@@ -149,31 +138,31 @@ TRUSTED_TIME = 48
 USE_MAILER = no
 
 # the email adress that gets used for sending outgoing mails
-MAIL_ADDRESS = donotreply@example.com
+MAIL_ADDRESS = donotreply@pixelroyal.fun
 
 # ================================ Paths ======================================#
 
-# to run pixelplanet within a path, like http://example.com/ppfun/, set this to
-# e.g. /ppfun
+# to run pixelroyal within a path, like http://pixelroyal.fun/pxrfun/, set this to
+# e.g. /pxrfun
 # Shall NOT end with "/", but shall start with "/"
 
-#BASENAME = /ppfun
+#BASENAME = /pxrfun
 
 # to run APIs under a different URL, set API_URLs here. This can be multiple
 # comma seperated URLs, in which case the game will load balance between them
 # Shall NOT end with "/"
 
-#API_URLs = https://sca.pixelplanet.fun, https://scb.pixelplanet.fun
+#API_URLs = https://sca.pixelroyal.fun, https://scb.pixelroyal.fun
 
 # to serve assets (and only assets) via a CDN, this CDN_URL can be set,
-# pixelplanet will not allow access APIs on that URL, to protect the users
+# pixelroyal will not allow access APIs on that URL, to protect the users
 # from cloudflares MitM attack.
 # If you want to run the whole game behind a CDN, you should not set this,
 # this option is only useful if you want to serve the bandwidth intensive
 # requests on a CDN, and nothing else
 # Shall NOT end with "/"
 
-#CDN_URL = https://cdn.pixelplanet.fun
+#CDN_URL = https://cdn.pixelroyal.fun
 
 # Two letter country codes for countries that can access the game without CDN,
 # this is useful in case of blocks against a CDN.
@@ -202,21 +191,21 @@ MAIL_ADDRESS = donotreply@example.com
 
 # ============================= OpenID Connect ================================#
 
-# Pixelplanet can act as OpenID provider, so other websites can implement a
+# pixelroyal can act as OpenID provider, so other websites can implement a
 # third party oauth login against it, for this we have to know the URL under
-# which pixelplanet is available, NOT ending with /
+# which pixelroyal is available, NOT ending with /
 
-#OIDC_URL = https://example.com
+#OIDC_URL = https://pixelroyal.fun
 
 # ================================= Socials ===================================#
 
 # Contact email address for people to complain to
 
-CONTACT_ADDRESS = admin@example.com
+CONTACT_ADDRESS = admin@pixelroyal.fun
 
 # Invite to your discord / guilded / matrix server which shows in the footer of
 # windows
-CHAT_INVITE = https://discord.gg/example
+CHAT_INVITE = https://discord.gg/pixelroyal
 
 # =========================== Third Party Logins ==============================#
 
@@ -232,12 +221,12 @@ CHAT_INVITE = https://discord.gg/example
 #VK_CLIENT_SECRET = DO NOT PROVIDE IT ON A OPENSOURCE CODE  !!!!
 
 # You will have to set a redirect_uri when registering those accounts on those
-# platforms, it is the URL under which pixelplanet is running + '/tp/r/' + a
+# platforms, it is the URL under which pixelroyal is running + '/tp/r/' + a
 # letter as abbreviation.
 
-#DISCORD_R_URI = https://example.com/tp/r/d
-#GOOGLE_R_URI = https://example.com/tp/r/g
-#VK_R_URI = https://example.com/tp/r/vk
+#DISCORD_R_URI = https://pixelroyal.fun/tp/r/d
+#GOOGLE_R_URI = https://pixelroyal.fun/tp/r/g
+#VK_R_URI = https://pixelroyal.fun/tp/r/vk
 
 # ========================= Backup / Historical View ==========================#
 
@@ -269,5 +258,6 @@ BACKUP_INTERVAL = 20
 # The url, where the backup files are available. If this is set, historical view
 # will get enabled. It has to point to a URL that serves the BACKUP_DIR.
 # You have to setup nginx to serve it and need "autoindex" to be on, because
-# parsing the index is how pixelplanet finds the available times.
+# parsing the index is how pixelroyal finds the available times.
 BACKUP_URL = http://localhost:5000/backup
+

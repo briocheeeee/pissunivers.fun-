@@ -53,14 +53,17 @@
 }
 
 .chatbadges {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
   margin-left: 3px;
   vertical-align: middle;
 }
 
 .chatbadge {
   height: 14px;
-  margin-left: 2px;
-  vertical-align: middle;
+  display: block;
+  flex-shrink: 0;
 }
 
 .chatname {
@@ -249,20 +252,28 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 20px;
-  height: 20px;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
   padding: 0;
-  margin-right: 4px;
   background: transparent;
-  border: none;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
   cursor: pointer;
   font-size: 14px;
-  opacity: 0.6;
-  transition: opacity var(--transition-fast);
+  color: var(--color-text-tertiary);
+  transition: background-color var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast);
 }
 
 .emoji-btn:hover {
-  opacity: 1;
+  background-color: var(--color-surface-hover);
+  border-color: var(--color-border);
+  color: var(--color-text);
+}
+
+.emoji-btn:focus-visible {
+  outline: 2px solid var(--color-border-focus);
+  outline-offset: 1px;
 }
 
 .emoji-picker {
@@ -286,7 +297,9 @@
   border: 1px solid var(--color-border);
   border-radius: var(--radius-sm);
   font-size: var(--font-size-xs);
-  background: var(--color-background);
+  background: var(--color-bg);
+  color: var(--color-text);
+  width: calc(100% - 12px);
 }
 
 .emoji-picker-grid {
@@ -341,7 +354,8 @@
 .message-reactions {
   display: inline-flex;
   flex-wrap: wrap;
-  gap: 2px;
+  align-items: center;
+  gap: 3px;
   margin-left: 4px;
   position: relative;
   vertical-align: middle;
@@ -350,20 +364,25 @@
 .reaction-badge {
   display: inline-flex;
   align-items: center;
-  gap: 2px;
-  padding: 1px 4px;
+  gap: 3px;
+  padding: 1px 5px 1px 3px;
   background: var(--color-surface-hover);
-  border: 1px solid transparent;
-  border-radius: 10px;
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-full);
   cursor: pointer;
-  font-size: 10px;
-  line-height: 1;
-  transition: all var(--transition-fast);
+  font-size: var(--font-size-xs);
+  line-height: 1.4;
+  transition: background-color var(--transition-fast), border-color var(--transition-fast);
 }
 
-.reaction-badge:hover {
+.reaction-badge:hover:not(:disabled) {
   background: var(--color-primary-light);
-  transform: scale(1.05);
+  border-color: var(--color-primary);
+}
+
+.reaction-badge:focus-visible {
+  outline: 2px solid var(--color-border-focus);
+  outline-offset: 1px;
 }
 
 .reaction-badge.reacted {
@@ -372,7 +391,7 @@
 }
 
 .reaction-badge:disabled {
-  opacity: 0.5;
+  opacity: 0.45;
   cursor: not-allowed;
 }
 
@@ -386,25 +405,33 @@
 .reaction-count {
   color: var(--color-text-secondary);
   font-weight: var(--font-weight-medium);
-  font-size: 10px;
+  font-size: var(--font-size-xs);
+  min-width: 8px;
+  text-align: center;
 }
 
 .reaction-add-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 18px;
-  height: 18px;
+  width: 20px;
+  height: 20px;
   padding: 0;
   background: transparent;
-  border: 1px dashed var(--color-border);
-  border-radius: 9px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
   cursor: pointer;
   color: var(--color-text-tertiary);
-  font-size: 12px;
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
   line-height: 1;
-  transition: all var(--transition-fast);
-  opacity: 0.5;
+  transition: background-color var(--transition-fast), border-color var(--transition-fast), color var(--transition-fast);
+  opacity: 0;
+}
+
+.chatmsg:hover .reaction-add-btn,
+.reaction-add-btn:focus-visible {
+  opacity: 1;
 }
 
 .reaction-add-btn:hover {
@@ -414,10 +441,12 @@
   opacity: 1;
 }
 
-.reaction-picker-wrapper {
-  position: absolute;
-  bottom: 100%;
-  left: 0;
-  z-index: 100;
-  margin-bottom: 4px;
+.reaction-add-btn:focus-visible {
+  outline: 2px solid var(--color-border-focus);
+  outline-offset: 1px;
+}
+
+.reaction-picker-portal .emoji-picker {
+  position: static;
+  box-shadow: var(--shadow-lg);
 }

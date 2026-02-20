@@ -1,7 +1,7 @@
-# PixelPlanet
+# pixuniverse
 
 
-[![matrix](https://img.shields.io/badge/Discord-Support-blue.svg)](https://pixelplanet.fun/guilded)
+[![matrix](https://img.shields.io/badge/Discord-Support-blue.svg)](https://pixunivers.fun/guilded)
 
 ![videothumb](promotion/videothumb.gif)
 
@@ -26,17 +26,17 @@ A game changer in the world of browser games ✊🏿
 - [redis](https://redis.io/) or [redis-for-windows](https://github.com/redis-windows/redis-windows) in version **6.2.0 or above** as database for storìng the canvas
 - mysql or mariadb
 
-Make sure to set-up an own user with password and database for pixelplanet in SQL, i.e. in `mysql` run as `root`:
+Make sure to set-up an own user with password and database for pixuniverse in SQL, i.e. in `mysql` run as `root`:
 
 ```
-CREATE DATABASE pixelplanet;
-CREATE USER 'pixelplanet'@'localhost' IDENTIFIED BY 'sqlpassword';
-GRANT ALL PRIVILEGES ON pixelplanet.* TO 'pixelplanet'@'localhost';
+CREATE DATABASE pixuniverse;
+CREATE USER 'pixuniverse'@'localhost' IDENTIFIED BY 'sqlpassword';
+GRANT ALL PRIVILEGES ON pixuniverse.* TO 'pixuniverse'@'localhost';
 ```
 
 ### Download 📥
 
-Download the current version of pixelplanet from the [Release page](https://git.pixelplanet.fun/ppfun/pixelplanet/releases) (the **pixelplanet-x.x.x.zip** not the Source Code) and unpack the zip file.
+Download the current version of pixuniverse from the [Release page](https://git.pixunivers.fun/pxuun/pixuniverse/releases) (the **pixuniverse-x.x.x.zip** not the Source Code) and unpack the zip file.
 
 ### Configuration 🔧
 
@@ -51,9 +51,9 @@ Those are options you will most likely want to adjust:
 | HOST           | Own Host                 | "localhost"             |
 | REDIS_URL      | URL:PORT of redis server | "redis://localhost:6379"|
 | MYSQL_HOST     | MySql Host               | "localhost"             |
-| MYSQL_USER     | MySql User               | "pixelplanet"           |
+| MYSQL_USER     | MySql User               | "pixuniverse"           |
 | MYSQL_PW       | MySql Password           | "sqlpassword"           |
-| MYSQL_DATABASE | MySql Database           | "pixelplanet"           |
+| MYSQL_DATABASE | MySql Database           | "pixuniverse"           |
 
 #### Canvas Configuration
 
@@ -94,7 +94,7 @@ Notes:
 
 ### Preperation 📊
 
-Inside the pixelplanet folder, install the required packages:
+Inside the pixuniverse folder, install the required packages:
 
 ```
 npm install
@@ -109,7 +109,7 @@ npm install
 npm start
 ```
 
-Now you can access pixelplanet on `http://localhost:5000` or whatever other *HOST* and *PORT* you chose inside `config.ini`.
+Now you can access pixuniverse on `http://localhost:5000` or whatever other *HOST* and *PORT* you chose inside `config.ini`.
 
 ### Stopping 🛑
 
@@ -128,8 +128,8 @@ Read [DEPLOYMENT.md](./doc/DEPLOYMENT.md) for tips on how to run it on a server.
 Checkout repository
 
 ```
-git clone https://git.gs-os.com/ppfun/pixelplanet.git
-cd pixelplanet
+git clone https://git.gs-os.com/pxuun/pixuniverse.git
+cd pixuniverse
 ```
 
 Install packages and build
@@ -139,7 +139,7 @@ npm install
 npm run build
 ```
 
-All needed files to run it got created in `./dist`. You can copy it to wherever you want to run pixelplanet.
+All needed files to run it got created in `./dist`. You can copy it to wherever you want to run pixuniverse.
 
 ## Development
 
@@ -170,7 +170,7 @@ Hourly event is an MMORPG style event that launches once in two hours where user
 
 ## Backups and Historical View
 
-PixelPlanet includes a backup script that creates full canvas backups daily in the form of PNG tile files and incremential backups all 15min to 20min.
+pixuniverse includes a backup script that creates full canvas backups daily in the form of PNG tile files and incremential backups all 15min to 20min.
 
 It requires a [second running redis instance](https://www.digitalocean.com/community/questions/multiple-redis-instances-on-ubuntu-16-04).
 

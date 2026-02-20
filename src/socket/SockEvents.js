@@ -200,6 +200,7 @@ class SocketEvents extends EventEmitter {
     faction = null,
     avatar = null,
     badges = [],
+    sqlId = null,
   ) {
     this.emit(
       'chatMessage',
@@ -212,6 +213,7 @@ class SocketEvents extends EventEmitter {
       faction,
       avatar,
       badges,
+      sqlId,
     );
   }
 

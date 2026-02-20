@@ -58,7 +58,7 @@ export async function storeMessage(
   flag, message, cid, uid,
 ) {
   try {
-    await Promise.all([
+    const [, created] = await Promise.all([
       Channel.update({ lastMessage: Sequelize.fn('NOW') }, {
         where: { id: cid },
       }),
@@ -69,15 +69,17 @@ export async function storeMessage(
         uid,
       }),
     ]);
+    return created.id;
   } catch (error) {
     console.error(`SQL Error on storeMessage: ${error.message}`);
   }
+  return null;
 }
 
 export async function getMessagesForChannel(cid, limit) {
   try {
     const models = await sequelize.query(
-      `SELECT m.message, m.flag, m.uid, UNIX_TIMESTAMP(m.createdAt) AS 'ts',
+      `SELECT m.id, m.message, m.flag, m.uid, UNIX_TIMESTAMP(m.createdAt) AS 'ts',
         u.name, u.avatar, f.id AS factionId, f.tag AS factionTag, f.name AS factionName,
         (SELECT GROUP_CONCAT(LOWER(REPLACE(b.name, ' ', '')) SEPARATOR ',')
          FROM UserBadges ub
@@ -97,10 +99,10 @@ export async function getMessagesForChannel(cid, limit) {
     let i = models.length;
     while (i > 0) {
       i -= 1;
-      const { name, message, flag, uid, ts, factionId, factionTag, factionName, avatar, badges } = models[i];
+      const { id, name, message, flag, uid, ts, factionId, factionTag, factionName, avatar, badges } = models[i];
       const faction = factionId ? { id: factionId, tag: factionTag, name: factionName } : null;
       const badgeList = badges ? badges.split(',') : [];
-      rows.push([name, message, flag, uid, ts, faction, avatar, badgeList]);
+      rows.push([name, message, flag, uid, ts, faction, avatar, badgeList, id]);
     }
     return rows;
   } catch (error) {

@@ -42,14 +42,6 @@
   border-radius: 21px;
 }
 
-.donation-tier-card {
-  border-radius: 16px;
-}
-
-.donation-modal {
-  border-radius: 16px;
-}
-
 .emoji-picker {
   background: #ffffff;
   border-color: #ccc;
@@ -84,22 +76,33 @@
 
 .message-reactions {
   display: inline-flex;
+  align-items: center;
+  gap: 3px;
   margin-left: 4px;
 }
 
 .reaction-badge {
-  background: #e8e8e8;
-  border-color: transparent;
-  border-radius: 12px;
-  padding: 1px 4px;
+  display: inline-flex;
+  align-items: center;
   gap: 2px;
-  font-size: 10px;
-  line-height: 1;
+  padding: 1px 5px 1px 3px;
+  background: #e8e8e8;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 11px;
+  line-height: 1.4;
+  transition: background-color 0.1s ease, border-color 0.1s ease;
 }
 
-.reaction-badge:hover {
+.reaction-badge:hover:not(:disabled) {
   background: #d0d0d0;
-  transform: scale(1.05);
+  border-color: #4a9eff;
+}
+
+.reaction-badge:focus-visible {
+  outline: 2px solid #4a9eff;
+  outline-offset: 1px;
 }
 
 .reaction-badge.reacted {
@@ -107,24 +110,48 @@
   background: #d4e7ff;
 }
 
+.reaction-badge:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 .reaction-emoji {
   width: 14px;
   height: 14px;
+  object-fit: contain;
+  display: block;
 }
 
 .reaction-count {
   color: #666;
-  font-size: 10px;
+  font-weight: 500;
+  font-size: 11px;
+  min-width: 8px;
+  text-align: center;
 }
 
 .reaction-add-btn {
-  border-color: #ccc;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  background: transparent;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
   color: #999;
-  border-radius: 9px;
-  width: 18px;
-  height: 18px;
-  font-size: 12px;
-  opacity: 0.5;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1;
+  transition: background-color 0.1s ease, border-color 0.1s ease, color 0.1s ease;
+  opacity: 0;
+}
+
+.chatmsg:hover .reaction-add-btn,
+.reaction-add-btn:focus-visible {
+  opacity: 1;
 }
 
 .reaction-add-btn:hover {
@@ -132,6 +159,17 @@
   color: #4a9eff;
   background: #d4e7ff;
   opacity: 1;
+}
+
+.reaction-add-btn:focus-visible {
+  outline: 2px solid #4a9eff;
+  outline-offset: 1px;
+}
+
+.reaction-picker-portal .emoji-picker {
+  position: static;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
 }
 
 .md-timestamp {

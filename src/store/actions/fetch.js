@@ -251,8 +251,8 @@ export async function requestChatMessages(cid) {
   );
   // timeout in order to not spam api requests and get rate limited
   if (response.ok) {
-    const { history } = await response.json();
-    return history;
+    const data = await response.json();
+    return { history: data.history, reactions: data.reactions || {} };
   }
   return null;
 }
@@ -535,6 +535,26 @@ export function requestUploadAvatar(image) {
   return makeAPIPOSTRequest(
     '/api/avatar',
     { image },
+  );
+}
+
+export function requestUploadBanner(image) {
+  return makeAPIPOSTRequest(
+    '/api/banner',
+    { image },
+  );
+}
+
+export function requestPublicProfile(uid) {
+  return makeAPIGETRequest(
+    `/api/public-profile/${uid}`,
+  );
+}
+
+export function requestUpdateDescription(description) {
+  return makeAPIPOSTRequest(
+    '/api/description',
+    { description },
   );
 }
 
