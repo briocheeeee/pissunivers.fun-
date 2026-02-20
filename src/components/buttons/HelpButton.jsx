@@ -1,7 +1,3 @@
-/**
- *
- */
-
 import React, { useCallback } from 'react';
 import { FaQuestion } from 'react-icons/fa';
 import { t } from 'ttag';
@@ -20,18 +16,17 @@ const HelpButton = () => {
   }, [link]);
 
   return (
-    <div
+    <button
+      type="button"
       id="helpbutton"
       className="actionbuttons"
       onClick={handleClick}
       onKeyDown={handleKeyDown}
-      role="button"
       title={t`Help`}
       aria-label={t`Help`}
-      tabIndex={0}
     >
       <FaQuestion />
-    </div>
+    </button>
   );
 };
 

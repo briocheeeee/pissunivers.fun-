@@ -15,16 +15,16 @@ const ExpandMenuButton = () => {
   const dispatch = useDispatch();
 
   return (
-    <div
+    <button
+      type="button"
       id="menubutton"
       className={`actionbuttons${menuOpen ? ' pressed' : ''}`}
-      role="button"
       title={(menuOpen) ? t`Close Menu` : t`Open Menu`}
       tabIndex={-1}
       onClick={() => dispatch(toggleOpenMenu())}
     >
       {(menuOpen) ? <MdExpandLess /> : <MdExpandMore /> }
-    </div>
+    </button>
   );
 };
 

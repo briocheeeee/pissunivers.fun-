@@ -1,7 +1,3 @@
-/**
- *
- */
-
 import React from 'react';
 import { useSelector, shallowEqual } from 'react-redux';
 import { Md3dRotation } from 'react-icons/md';
@@ -27,8 +23,8 @@ const GlobeButton = () => {
   ], shallowEqual);
 
   return (
-    <div
-      role="button"
+    <button
+      type="button"
       tabIndex={-1}
       id="globebutton"
       title={t`Globe View`}
@@ -36,7 +32,7 @@ const GlobeButton = () => {
       onClick={() => globe(canvasId, canvasIdent, canvasSize, view)}
     >
       <Md3dRotation />
-    </div>
+    </button>
   );
 };
 

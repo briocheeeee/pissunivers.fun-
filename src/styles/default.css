@@ -12,6 +12,59 @@
   --cursor-move-color: url(/cursors/move-color-1.png), move;
   --cursor-move-template: url(/cursors/move-template-1.png), move;
   --cursor-move-history: url(/cursors/move-history-1.png), move;
+  
+  /* Primary brand colors */
+  --color-primary-50: #f0f9ff;
+  --color-primary-100: #e0f2fe;
+  --color-primary-200: #bae6fd;
+  --color-primary-300: #7dd3fc;
+  --color-primary-400: #38bdf8;
+  --color-primary-500: #0ea5e9;
+  --color-primary-600: #0284c7;
+  --color-primary-700: #0369a1;
+  --color-primary-800: #075985;
+  --color-primary-900: #0c4a6e;
+  
+  /* Semantic colors */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-error: #ef4444;
+  --color-info: #3b82f6;
+  
+  /* Neutral colors */
+  --color-gray-50: #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-300: #d1d5db;
+  --color-gray-400: #9ca3af;
+  --color-gray-500: #6b7280;
+  --color-gray-600: #4b5563;
+  --color-gray-700: #374151;
+  --color-gray-800: #1f2937;
+  --color-gray-900: #111827;
+  
+  /* Surface colors */
+  --color-surface: #ffffff;
+  --color-surface-overlay: rgba(255, 255, 255, 0.90);
+  --color-surface-hover: rgba(240, 249, 255, 0.95);
+  --color-surface-active: rgba(224, 242, 254, 0.98);
+  
+  /* Text colors */
+  --color-text-primary: #111827;
+  --color-text-secondary: #6b7280;
+  --color-text-tertiary: #9ca3af;
+  --color-text-inverse: #ffffff;
+  
+  /* Border colors */
+  --color-border: #e5e7eb;
+  --color-border-focus: var(--color-primary-500);
+  --color-border-hover: #d1d5db;
+  
+  /* Shadows */
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 /* --- fonts --- */
@@ -97,15 +150,18 @@ kbd {
 }
 
 a:link {
-  color: #428bca;
+  color: var(--color-primary-600);
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:visited {
-  color: #327bba;
+  color: var(--color-primary-700);
 }
 
 a:hover {
-  font-weight: bold;
+  color: var(--color-primary-500);
+  text-decoration: underline;
 }
 
 .warn {
@@ -114,13 +170,15 @@ a:hover {
 
 .modallink {
   text-decoration: none;
-  color: #428bca;
+  color: var(--color-primary-600);
   cursor: pointer;
+  font-weight: 500;
+  transition: color 0.2s ease;
 }
 
 .modallink:hover {
-  font-weight: bold;
-  color: #226baa;
+  color: var(--color-primary-500);
+  text-decoration: underline;
 }
 
 .modallink.selected {
@@ -451,17 +509,13 @@ tr:nth-child(even) {
 
 .actionbuttons, .coorbox, .onlinebox, .cooldownbox, #palettebox {
   position: fixed;
-  background-color: rgba(226, 226, 226, 0.80);
-  color: black;
-  text-align: center;
-  vertical-align: middle;
-  line-height: 36px;
-  height: 36px;
-  width: auto;
-  padding: 0 16px;
-  border: solid black;
-  border-width: thin;
+  background-color: var(--color-surface-overlay);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+  backdrop-filter: blur(8px);
+  transition: all 0.2s ease;
 }
+
 .coorbox {
   left: 16px;
   cursor: pointer;
@@ -1619,11 +1673,37 @@ table td span {
   vertical-align: text-bottom;
   cursor: pointer;
   width: 36px;
+  height: 36px;
   padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  font-size: 16px;
 }
 
 .actionbuttons:hover, .coorbox:hover, .menu > div:hover, .onlinebox:hover {
-  background-color: #d2d2d2cc;
+  background-color: var(--color-surface-hover);
+  border-color: var(--color-border-hover);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.actionbuttons:active {
+  background-color: var(--color-surface-active);
+  transform: translateY(0);
+  box-shadow: var(--shadow-sm);
+}
+
+.actionbuttons:focus-visible {
+  outline: 2px solid var(--color-border-focus);
+  outline-offset: 2px;
+}
+
+.actionbuttons.pressed {
+  background-color: var(--color-surface-active);
+  transform: translateY(0);
+  box-shadow: var(--shadow-sm) inset;
 }
 
 .fishlist {
@@ -2289,8 +2369,8 @@ table td span {
 }
 
 .watch-tab.active {
-  color: #428bca;
-  border-bottom-color: #428bca;
+  color: var(--color-primary-600);
+  border-bottom-color: var(--color-primary-600);
 }
 
 .chat-avatar.totw-winner {
@@ -2399,7 +2479,7 @@ table td span {
   align-items: baseline;
   gap: 12px;
   padding-bottom: 8px;
-  border-bottom: 2px solid #428bca;
+  border-bottom: 2px solid var(--color-primary-500);
   margin-bottom: 12px;
 }
 
@@ -2489,7 +2569,7 @@ table td span {
 .totw-card-name {
   font-size: 13px;
   font-weight: 600;
-  color: #428bca;
+  color: var(--color-primary-700);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -2531,8 +2611,8 @@ table td span {
 .totw-card-vote {
   width: 100%;
   padding: 8px;
-  background: #428bca;
-  color: #fff;
+  background: var(--color-primary-600);
+  color: var(--color-text-inverse);
   border: none;
   font-size: 13px;
   font-weight: 600;
@@ -2540,7 +2620,7 @@ table td span {
 }
 
 .totw-card-vote:hover {
-  background: #357abd;
+  background: var(--color-primary-700);
 }
 
 .totw-card-voted {
@@ -2605,7 +2685,7 @@ table td span {
 
 .totw-hall-name {
   font-size: 13px;
-  color: #428bca;
+  color: var(--color-primary-700);
   font-weight: 600;
 }
 
@@ -2755,7 +2835,7 @@ table td span {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #428bca;
+  color: var(--color-primary-600);
 }
 
 .totw-my-stat-label {
@@ -3169,8 +3249,8 @@ table td span {
 }
 
 .ua-stat-card--accent {
-  background: #ebf2f9;
-  border-color: #428bca;
+  background: var(--color-primary-50);
+  border-color: var(--color-primary-200);
 }
 
 .ua-stat-value {
@@ -3313,7 +3393,7 @@ table td span {
 
 .obj-summary-bar-fill {
   height: 100%;
-  background: #428bca;
+  background: var(--color-primary-500);
   transition: width 0.3s;
 }
 
@@ -3329,7 +3409,7 @@ table td span {
   font-weight: 600;
 }
 .objcnt {
-  color: #428bca;
+  color: var(--color-primary-600);
 }
 .objmsg {
   color: #666;
@@ -3463,13 +3543,13 @@ table td span {
 .fa-faction-name {
   font-size: 15px;
   font-weight: bold;
-  color: #428bca;
+  color: var(--color-primary-700);
   cursor: pointer;
   text-decoration: underline;
 }
 
 .fa-faction-name:hover {
-  color: #226baa;
+  color: var(--color-primary-600);
 }
 
 .fa-role-badge {
@@ -3521,11 +3601,11 @@ table td span {
 
 .fa-access-tag {
   font-size: 11px;
-  background: #ebf2f9;
-  border: solid #428bca;
+  background: var(--color-primary-50);
+  border: solid var(--color-primary-300);
   border-width: thin;
   padding: 1px 6px;
-  color: #428bca;
+  color: var(--color-primary-700);
 }
 
 .fa-actions-row {
@@ -3552,13 +3632,13 @@ table td span {
 }
 
 .fa-btn--primary {
-  background: #428bca;
-  color: #fff;
-  border-color: #3071a9;
+  background: var(--color-primary-600);
+  color: var(--color-text-inverse);
+  border-color: var(--color-primary-700);
 }
 
 .fa-btn--primary:hover {
-  background: #3071a9;
+  background: var(--color-primary-700);
 }
 
 .fa-btn--danger {
@@ -3861,7 +3941,7 @@ table td span {
 }
 
 .emoji-btn:focus-visible {
-  outline: 2px solid #428bca;
+  outline: 2px solid var(--color-primary-500);
   outline-offset: 1px;
 }
 
@@ -3960,18 +4040,18 @@ table td span {
 }
 
 .reaction-badge:hover:not(:disabled) {
-  background: #d0d0d0;
-  border-color: #428bca;
+  background: var(--color-gray-100);
+  border-color: var(--color-primary-500);
 }
 
 .reaction-badge:focus-visible {
-  outline: 2px solid #428bca;
+  outline: 2px solid var(--color-primary-500);
   outline-offset: 1px;
 }
 
 .reaction-badge.reacted {
-  border-color: #428bca;
-  background: #d4e7ff;
+  border-color: var(--color-primary-500);
+  background: var(--color-primary-100);
 }
 
 .reaction-badge:disabled {
@@ -4026,7 +4106,7 @@ table td span {
 }
 
 .reaction-add-btn:focus-visible {
-  outline: 2px solid #428bca;
+  outline: 2px solid var(--color-primary-500);
   outline-offset: 1px;
 }
 

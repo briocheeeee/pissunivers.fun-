@@ -63,7 +63,8 @@ const ChatButton = () => {
   }, [chatNotify, chatOpen, channels, unread, mute]);
 
   return (
-    <div
+    <button
+      type="button"
       id="chatbutton"
       className="actionbuttons"
       onClick={() => {
@@ -75,9 +76,7 @@ const ChatButton = () => {
           dispatch(openChatWindow());
         }
       }}
-      role="button"
       title={(chatOpen) ? t`Close Chat` : t`Open Chat`}
-      tabIndex={0}
     >
       {(unreadAny) && (
         <div
@@ -91,7 +90,7 @@ const ChatButton = () => {
         >⦿</div>
       )}
       <MdForum />
-    </div>
+    </button>
   );
 };
 

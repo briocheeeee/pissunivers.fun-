@@ -1,7 +1,3 @@
-/**
- *
- */
-
 import React, { useCallback } from 'react';
 import { useSelector, useDispatch, shallowEqual } from 'react-redux';
 import { TbPencil, TbPencilMinus } from 'react-icons/tb';
@@ -58,19 +54,19 @@ const PencilButton = () => {
   }
 
   return (
-    <div
+    <button
+      type="button"
       id="pencilbutton"
       className={className}
       style={{
         bottom: (holdPaint || showMvmCtrls) ? 180 : 98,
       }}
-      role="button"
       title={title}
       tabIndex={-1}
       ref={refCallback}
     >
       {(holdPaint) ? <TbPencilMinus /> : <TbPencil />}
-    </div>
+    </button>
   );
 };
 

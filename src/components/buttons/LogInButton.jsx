@@ -1,7 +1,3 @@
-/**
- *
- */
-
 import React from 'react';
 import { MdPerson } from 'react-icons/md';
 import { t } from 'ttag';
@@ -12,17 +8,16 @@ const LogInButton = () => {
   const link = useLink();
 
   return (
-    <div
+    <button
+      type="button"
       id="loginbutton"
       className="actionbuttons"
       onClick={() => link('USERAREA', { target: 'parent' })}
-      role="button"
       title={t`User Area`}
-      tabIndex={0}
       aria-label={t`User Area`}
     >
       <MdPerson />
-    </div>
+    </button>
   );
 };
 

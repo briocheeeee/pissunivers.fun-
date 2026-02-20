@@ -1,7 +1,3 @@
-/**
- *
- */
-
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { MdFileDownload } from 'react-icons/md';
@@ -29,16 +25,15 @@ const DownloadButton = () => {
   const view = useSelector((state) => state.canvas.view);
 
   return (
-    <div
+    <button
+      type="button"
       id="downloadbutton"
       className="actionbuttons"
-      role="button"
       title={t`Make Screenshot`}
-      tabIndex={0}
       onClick={() => download(view)}
     >
       <MdFileDownload />
-    </div>
+    </button>
   );
 };
 

@@ -3,53 +3,10 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#: src\core\ChatProvider.js:336
-msgid "Can not chat while being banned"
+#: src\routes\api\publicProfile.js:11
+msgid "Invalid user id"
 msgstr ""
 
-#: src\core\ChatProvider.js:379
-msgid "Please use int channel"
-msgstr ""
-
-#: src\core\ChatProvider.js:387
-msgid "Stop flooding."
-msgstr ""
-
-#: src\core\ChatProvider.js:346
-#, javascript-format
-msgid "You are muted for another ${ timeMin } minutes"
-msgstr ""
-
-#: src\core\ChatProvider.js:348
-#, javascript-format
-msgid "You are muted for another ${ ttl } seconds"
-msgstr ""
-
-#: src\core\ChatProvider.js:341
-msgid "You are permanently muted, join our guilded to appeal the mute"
-msgstr ""
-
-#: src\core\ChatProvider.js:311
-#, javascript-format
-msgid "You are sending messages too fast, you have to wait ${ waitTime }s :("
-msgstr ""
-
-#: src\core\ChatProvider.js:333
-msgid "You can not send chat messages while using a proxy"
-msgstr ""
-
-#: src\core\ChatProvider.js:375
-msgid "You can't send a message this long :("
-msgstr ""
-
-#: src\core\ChatProvider.js:315
-msgid "You don't have access to this channel"
-msgstr ""
-
-#: src\core\ChatProvider.js:320
-msgid "Your country is temporary muted from this chat channel"
-msgstr ""
-
-#: src\core\ChatProvider.js:365
-msgid "Your mail has to be verified in order to chat"
+#: src\routes\api\publicProfile.js:18
+msgid "User not found"
 msgstr ""

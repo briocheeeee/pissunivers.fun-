@@ -19,20 +19,19 @@ const PalselButton = () => {
   const dispatch = useDispatch();
 
   return (
-    <div
+    <button
+      type="button"
       id="palselbutton"
       className={`actionbuttons${(paletteOpen) ? ' pressed' : ''}`}
       style={{
         color: palette.isDark(selectedColor) ? 'white' : 'black',
         backgroundColor: palette.colors[selectedColor],
       }}
-      role="button"
       title={(paletteOpen) ? t`Close Palette` : t`Open Palette`}
-      tabIndex={0}
       onClick={() => dispatch(toggleOpenPalette())}
     >
       <MdPalette />
-    </div>
+    </button>
   );
 };
 

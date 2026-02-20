@@ -1,7 +1,3 @@
-/**
- *
- */
-
 import React, { useCallback } from 'react';
 import { FaCog } from 'react-icons/fa';
 import { t } from 'ttag';
@@ -21,18 +17,17 @@ const SettingsButton = () => {
   }, [link]);
 
   return (
-    <div
+    <button
+      type="button"
       id="settingsbutton"
       className="actionbuttons"
       onClick={handleClick}
       onKeyDown={handleKeyDown}
-      role="button"
       title={t`Settings`}
       aria-label={t`Settings`}
-      tabIndex={0}
     >
       <FaCog />
-    </div>
+    </button>
   );
 };
 

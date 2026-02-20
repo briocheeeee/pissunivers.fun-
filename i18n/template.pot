@@ -3,82 +3,69 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#: src\components\PerkManagement.jsx:151
-msgid "Chat Badges"
+#: src\components\buttons\CanvasSwitchButton.jsx:16
+msgid "Canvas Selection"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:208
-msgid "Default"
+#: src\components\buttons\ChatButton.jsx:79
+msgid "Close Chat"
 msgstr ""
 
-#: src\routes\api\factions\create.js:92
-msgid "Faction name is already taken"
+#: src\components\buttons\ExpandMenuButton.jsx:22
+msgid "Close Menu"
 msgstr ""
 
-#: src\routes\api\factions\create.js:97
-msgid "Faction tag is already taken"
+#: src\components\buttons\PalselButton.jsx:30
+msgid "Close Palette"
 msgstr ""
 
-#: src\routes\api\factions\create.js:124
-msgid "Failed to create faction"
+#: src\components\buttons\PencilButton.jsx:46
+msgid "Disable History Pencil"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:112
-msgid "Failed to save some settings"
+#: src\components\buttons\PencilButton.jsx:50
+msgid "Disable Overlay Pencil"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:118
-msgid "Network error"
+#: src\components\buttons\PencilButton.jsx:42
+msgid "Disable Pencil"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:195
-msgid "Nickname Color"
+#: src\components\buttons\PencilButton.jsx:37
+msgid "Enable Pencil"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:154
-msgid "No badges available yet. Earn badges by completing achievements!"
+#: src\components\buttons\GlobeButton.jsx:30
+msgid "Globe View"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:267
-msgid "Profile Background"
+#: src\components\buttons\HelpButton.jsx:25
+#: src\components\buttons\HelpButton.jsx:26
+msgid "Help"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:312
-msgid "Profile Bio"
+#: src\components\buttons\DownloadButton.jsx:32
+msgid "Make Screenshot"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:290
-msgid "Profile Frame"
+#: src\components\buttons\ChatButton.jsx:79
+msgid "Open Chat"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:343
-msgid "Save All Perks"
+#: src\components\buttons\ExpandMenuButton.jsx:22
+msgid "Open Menu"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:335
-msgid "Saved successfully!"
+#: src\components\buttons\PalselButton.jsx:30
+msgid "Open Palette"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:343
-msgid "Saving..."
+#: src\components\buttons\SettingsButton.jsx:26
+#: src\components\buttons\SettingsButton.jsx:27
+msgid "Settings"
 msgstr ""
 
-#: src\components\PerkManagement.jsx:190
-msgid "Select badges to display next to your name in chat"
-msgstr ""
-
-#: src\components\PerkManagement.jsx:326
-msgid "Tell others about yourself..."
-msgstr ""
-
-#: src\components\PerkManagement.jsx:147
-msgid "VIP/Premium Perks"
-msgstr ""
-
-#: src\routes\api\factions\create.js:73
-msgid "You are already a member of a faction"
-msgstr ""
-
-#: src\routes\api\factions\create.js:79
-msgid "You have a pending join request. Cancel it first."
+#: src\components\buttons\LogInButton.jsx:16
+#: src\components\buttons\LogInButton.jsx:17
+msgid "User Area"
 msgstr ""
